@@ -1,29 +1,35 @@
 # Lugor OG Community Server
 
-This server is a community hosted Lugormod server, allowing additional plugins and server configuration through github.  It is updated upon submissions.
-
-No one is an admin on this version due to concerns with saving entities (/n is broken within mapentities for target_print, etc, when saved or loaded).
-
-If you would like to become an admin, the highest level is level 2.  You may submit changes to cmdleveldefs.cfg to control the commands.  Administration is not open yet, until I can setup payment.  Payment would be a dollar a month to help with hosting.
+The aim is to provide a good environment for users to play in, while experimenting with modifications.
+This server is a community hosted Lugormod server, allowing additional plugins and server configuration through github.  It is updated upon submissions. No one is an admin on this version due to concerns with saving entities (/n is broken within mapentities for target_print, etc, when saved or loaded). If you would like to become an admin, the highest level is level 2.  You may submit changes to cmdleveldefs.cfg to control the commands.  Administration is open pending pushes.  If your pushes are good you'll be an admin.
 
 ## Server Guides
 
 The server is running on: 
+```
 linuxjampded
 JASS 3.2.0
 lugormod 1.2.2
+```
 
 Additonal PK3s:
+```
 ext_data.pk3 - Contains NPC changes - flying swoop and x-wing modifications
 Lugormod.pk3 - Original .pk3 from Lugor
 maps.pk3 - Maps, currently in rotation, that have removed trigger_hurt among other removed entities.
+```
 
 ### Settings location:
+```
 jass.ini
 	JASS (Jedi Academy Server Security) configuration for loading plugins
 
 jka_*
 	Restart scripts for the server.
+
+lugormod/
+	Not included:
+		lugormod/reggednicks/ - Holds account information
 
 lugormod/ban.sh
 	Ban Shell script, unused currently, for JASS
@@ -54,16 +60,17 @@ lugormod/server_cvars.cfg
                 rconpassword
                 sv_privatepassword  ""
                 sv_privateClients  "0"
-
+```
 
 ### This repository
 
 You're welcome to clone this repository to work on maps, work on plugins and make changes before submitting them. There are files ignored by git that are only to protect administrator access.
 
-Building should not take place on the server due to issues with saving (rconpassword required)
+Building is available on maps through pushes.
 
-Submitting a plugin for JASS requires you to include the source in the /plugin-src directory of lugormod.  Please discuss with me beforehand if you would like to not have the source made public.
+Submitting a plugin for JASS requires you to include the source in the /plugin-src directory of lugormod. This is for two cases, to enhance the community and for security sake.  Please discuss with me beforehand if you would like to not have the source made public.
 
+map-rotation.cfg is editable for customization of maps (gametypes, motds, plugin loading).
 
 ### Installing
 
