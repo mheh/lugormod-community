@@ -1,6 +1,7 @@
 # Lugor OG Community Server
 
 Server address: jkja.milo-h.com:29760
+
 <a href="https://www.gametracker.com/server_info/136.49.69.233:29760/" target="_blank"><img src="https://cache.gametracker.com/server_info/136.49.69.233:29760/b_560_95_1.png" border="0" width="560" height="95" alt=""/></a>
 
 The aim is to provide a good environment for users to play in, while experimenting with modifications.
