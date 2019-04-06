@@ -1,11 +1,18 @@
 # Lugor OG Community Server
 
+Server address: jkja.milo-h.com:29760
+
 The aim is to provide a good environment for users to play in, while experimenting with modifications.
-This server is a community hosted Lugormod server, allowing additional plugins and server configuration through github.  It is updated upon submissions. No one is an admin on this version due to concerns with saving entities (/n is broken within mapentities for target_print, etc, when saved or loaded). If you would like to become an admin, the highest level is level 2.  You may submit changes to cmdleveldefs.cfg to control the commands.  Administration is open pending pushes.  If your pushes are good you'll be an admin.
+
+This server is a community hosted Lugormod server, allowing additional plugins and server configuration through github. It is updated upon submissions. 
+
+No one is an admin on this version due to concerns with saving entities (/n is broken within mapentities for target_print, etc, when saved or loaded). Rcon is required to save.
+
+ If you would like to become an admin, the highest level is level 2.  You may submit changes to cmdleveldefs.cfg to control the commands.  Administration is open pending pushes.  If your pushes are good you'll be an admin.
 
 ## Server Guides
 
-The server is running on: 
+The server is running with: 
 ```
 linuxjampded
 JASS 3.2.0
