@@ -1,0 +1,89 @@
+{
+"classname" "info_player_deathmatch"
+"angle" "180"
+"origin" "-1464 -1596 730"
+}
+{
+"classname" "info_player_deathmatch"
+"angle" "-86"
+"origin" "-4422 198 638"
+}
+{
+"classname" "LMD_spawner"
+"targetname" "NPC_Vehicle"
+"count" "2"
+"NPC_type" "swoop_cin"
+"angle" "-92"
+"origin" "670 -4892 788"
+}
+{
+"classname" "info_player_deathmatch"
+"angle" "87"
+"origin" "-4326 -2740 618"
+}
+{
+"classname" "emplaced_gun"
+"angle" "-72"
+"spawnflags" "5"
+"count" "60000"
+"origin" "3742 2074 1033"
+}
+{
+"classname" "emplaced_gun"
+"angle" "122"
+"spawnflags" "5"
+"count" "60000"
+"origin" "3732 3062 1033"
+}
+{
+"classname" "weapon_blaster"
+"angle" "270"
+"origin" "766 -3694 1025"
+}
+{
+"classname" "LMD_spawner"
+"targetname" "NPC_Vehicle"
+"count" "2"
+"NPC_type" "swoop_cin"
+"angle" "-92"
+"origin" "144 -4670 788"
+}
+{
+"classname" "emplaced_gun"
+"angle" "-157"
+"spawnflags" "5"
+"count" "60000"
+"origin" "4558 1520 1033"
+}
+{
+"angle" "90"
+"classname" "money_dispenser"
+"origin" "-6602 -1780 706"
+}
+{
+"classname" "LMD_spawner"
+"angle" "-179"
+"count" "1"
+"NPC_type" "atst_vehicle"
+"origin" "7952 7142 826"
+}
+{
+"classname" "item_seeker"
+"angle" "0"
+"origin" "-1032 -1682 1281"
+}
+{
+"classname" "item_binoculars"
+"angle" "0"
+"origin" "3906 6178 1057"
+}
+{
+"classname" "random_spot"
+"angle" "-143"
+"origin" "562 -1630 1050"
+}
+{
+"classname" "weapon_repeater"
+"angle" "0"
+"origin" "412 -1756 1505"
+}

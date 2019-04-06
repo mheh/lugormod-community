@@ -1,0 +1,230 @@
+{
+"classname" "info_player_deathmatch"
+"origin" "3390 2514 -2528"
+"angle" "91"
+}
+{
+"classname" "item_binoculars"
+"angle" "0"
+"origin" "13148 3418 -2959"
+}
+{
+"classname" "info_player_deathmatch"
+"origin" "3383 3567 -2528"
+"angle" "-89"
+}
+{
+"classname" "weapon_blaster"
+"angle" "179"
+"origin" "4704 3660 -2727"
+}
+{
+"classname" "ammo_thermal"
+"angle" "176"
+"origin" "15082 -846 -3023"
+}
+{
+"classname" "item_seeker"
+"angle" "35"
+"origin" "9386 2232 -2665"
+}
+{
+"classname" "weapon_blaster_pistol"
+"angle" "359"
+"origin" "8606 7752 -3295"
+}
+{
+"classname" "weapon_rocket_launcher"
+"angle" "181"
+"origin" "7914 6112 -2543"
+}
+{
+"classname" "info_player_deathmatch"
+"angle" "-0"
+"origin" "7368 5634 -3206"
+}
+{
+"classname" "item_ammodisp"
+"angle" "134"
+"origin" "8714 4202 -3697"
+}
+{
+"classname" "weapon_disruptor"
+"angle" "4"
+"origin" "11598 6918 -2239"
+}
+{
+"classname" "weapon_bowcaster"
+"angle" "10"
+"origin" "6218 486 -3823"
+}
+{
+"classname" "weapon_flechette"
+"angle" "91"
+"origin" "7368 4352 -2751"
+}
+{
+"classname" "item_cloak"
+"angle" "130"
+"origin" "10718 6774 -3791"
+}
+{
+"classname" "weapon_stun_baton"
+"angle" "182"
+"origin" "5270 2216 -3423"
+}
+{
+"classname" "info_player_deathmatch"
+"angle" "-178"
+"origin" "14476 -998 -3254"
+}
+{
+"classname" "info_player_deathmatch"
+"angle" "1"
+"origin" "13752 -992 -3254"
+}
+{
+"classname" "info_player_deathmatch"
+"angle" "-1"
+"origin" "13764 -624 -3254"
+}
+{
+"classname" "info_player_deathmatch"
+"angle" "1"
+"origin" "2880 2798 -2526"
+}
+{
+"classname" "info_player_deathmatch"
+"angle" "91"
+"origin" "3562 2566 -2526"
+}
+{
+"classname" "info_player_deathmatch"
+"angle" "5"
+"origin" "2842 3312 -2526"
+}
+{
+"classname" "info_player_deathmatch"
+"angle" "179"
+"origin" "14482 -632 -3254"
+}
+{
+"classname" "info_player_deathmatch"
+"angle" "-93"
+"origin" "3602 3448 -2528"
+}
+{
+"classname" "item_sentry_gun"
+"angle" "180"
+"origin" "12964 -1694 -3279"
+}
+{
+"classname" "ammo_tripmine"
+"angle" "9"
+"origin" "6542 2614 -4441"
+}
+{
+"classname" "info_player_deathmatch"
+"angle" "1"
+"origin" "7414 6282 -3206"
+}
+{
+"classname" "ammo_all"
+"angle" "348"
+"origin" "8338 10866 -3671"
+}
+{
+"classname" "weapon_bryar_pistol"
+"angle" "4"
+"origin" "5536 7188 -2815"
+}
+{
+"classname" "ammo_detpack"
+"angle" "129"
+"origin" "10664 5696 -3791"
+}
+{
+"classname" "info_player_deathmatch"
+"angle" "90"
+"origin" "13252 3436 -2936"
+}
+{
+"classname" "info_player_deathmatch"
+"angle" "0"
+"origin" "13402 3632 -3064"
+}
+{
+"classname" "info_player_jail"
+"angle" "-2"
+"origin" "12332 1516 -3096"
+}
+{
+"classname" "info_player_deathmatch"
+"angle" "91"
+"origin" "13250 3938 -3064"
+}
+{
+"classname" "info_player_deathmatch"
+"angle" "179"
+"origin" "13100 3630 -3064"
+}
+{
+"classname" "info_player_jail"
+"angle" "178"
+"origin" "13022 1494 -3096"
+}
+{
+"classname" "misc_model_breakable"
+"model" "map_objects/factory/f_con1"
+"maxs" "8 8 40"
+"mins" "-8 -8 0"
+"target" "teleporter"
+"wait" "2"
+"spawnflags" "64"
+"origin" "13512 3432 -3086"
+}
+{
+"classname" "target_teleporter"
+"target" "teleto"
+"targetname" "teleporter"
+"origin" "13502 3430 -2968"
+}
+{
+"classname" "trigger_visible"
+"target" "wallbreak2"
+"origin" "13086 -732 -3052"
+}
+{
+"angle" "180"
+"classname" "money_dispenser"
+"origin" "8634 5640 -3230"
+}
+{
+"angle" "89"
+"classname" "money_dispenser"
+"origin" "13338 3392 -2958"
+}
+{
+"classname" "trigger_visible"
+"target" "wallbreak1"
+"origin" "13068 -774 -3052"
+}
+{
+"classname" "trigger_teleport"
+"maxs" "100 100 400"
+"mins" "-100 -100 0"
+"target" "gotoship"
+"origin" "12706 -742 -3166"
+}
+{
+"classname" "misc_teleporter_dest"
+"targetname" "gotoship"
+"angle" "90"
+"origin" "13248 4020 -2924"
+}
+{
+"classname" "misc_teleporter_dest"
+"targetname" "teleto"
+"angle" "90"
+"origin" "7296 160 -3296"
+}
