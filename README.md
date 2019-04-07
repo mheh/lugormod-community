@@ -2,6 +2,8 @@
 
 Server address: 34.227.1.33:29070
 
+<a href="https://www.gametracker.com/server_info/34.227.1.33:29070/" target="_blank"><img src="https://cache.gametracker.com/server_info/34.227.1.33:29070/b_560_95_1.png" border="0" width="560" height="95" alt=""/></a>
+
 The aim is to provide a good environment for users to play in, while experimenting with modifications.
 
 This server is a community hosted Lugormod server, allowing additional plugins and server configuration through github. It is updated upon submissions. 
