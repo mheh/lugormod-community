@@ -1534,3 +1534,14 @@
 "spawnflags" "128"
 "origin" "-1869 -27384 332"
 }
+{
+"classname" "target_print"
+"targetname" "spawn3"
+"spawnflags" "4"
+"message" "First Dibs"
+}
+{
+"classname" "target_credits"
+"targetname" "spawn3"
+"count" "320"
+}
