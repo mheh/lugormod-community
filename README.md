@@ -1,16 +1,14 @@
 # Lugor OG Community Server
 
-Server address: jkja.milo-h.com:29760
-
-<a href="https://www.gametracker.com/server_info/136.49.69.233:29760/" target="_blank"><img src="https://cache.gametracker.com/server_info/136.49.69.233:29760/b_560_95_1.png" border="0" width="560" height="95" alt=""/></a>
+Server address: 34.227.1.33:29070
 
 The aim is to provide a good environment for users to play in, while experimenting with modifications.
 
 This server is a community hosted Lugormod server, allowing additional plugins and server configuration through github. It is updated upon submissions. 
 
-No one is an admin on this version due to concerns with saving entities (/n is broken within mapentities for target_print, etc, when saved or loaded). Rcon is required to save.
+No one is eligible to build on this server due to requiring rcon for changes to be saved.
 
- If you would like to become an admin, the highest level is level 2.  You may submit changes to cmdleveldefs.cfg to control the commands.  Administration is open pending pushes.  If your pushes are good you'll be an admin.
+If you would like to become an admin, the highest level is level 2.  You may submit changes to cmdleveldefs.cfg to control the commands.  Administration is open pending pushes.  If your pushes are good you'll be an admin.
 
 ## Server Guides
 
@@ -34,7 +32,7 @@ jass.ini
 	JASS (Jedi Academy Server Security) configuration for loading plugins
 
 jka_*
-	Restart scripts for the server.
+	Not included - They exist but aren't pushed yet
 
 lugormod/
 	Not included:
