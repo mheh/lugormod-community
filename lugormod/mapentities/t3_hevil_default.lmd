@@ -1047,7 +1047,7 @@
 "model" "*78"
 "color" "1 1 1"
 "light" "300"
-"origin" "506 1885 801"
+"origin" "426 2997 700"
 }
 {
 "classname" "target_powerup"
@@ -1418,7 +1418,7 @@
 "target" "path1_1"
 "spawnflags" "17"
 "dmg" "999"
-"origin" "-1308 -1748 3314"
+"origin" "-1308 -1742 3289"
 }
 {
 "classname" "func_static"
@@ -1475,4 +1475,116 @@
 "targetname" "big_jump1"
 "target" "big_jump1_pos"
 "origin" "2164 -2773 3520"
+}
+{
+"classname" "weapon_flechette"
+"targetname" "spawn_flechette"
+"wait" "-1"
+"origin" "416 -293 -128"
+}
+{
+"classname" "misc_model_breakable"
+"model" "models/map_objects/hoth/console_on"
+"spawnflags" "8193"
+"angle" "270"
+"message" "Flechette"
+"target" "spawn_flechette"
+"count" "20"
+"origin" "415 -264 -128"
+}
+{
+"classname" "misc_model_breakable"
+"origin" "478 -264 -128"
+"model" "models/map_objects/hoth/console_on"
+"spawnflags" "8193"
+"message" "Repeater"
+"count" "20"
+"target" "spawn_repeater"
+"angle" "270"
+}
+{
+"classname" "item_ysalimari"
+"wait" "-1"
+"targetname" "spawn_ysal"
+"origin" "608 -295 -128"
+}
+{
+"classname" "weapon_repeater"
+"wait" "-1"
+"targetname" "spawn_repeater"
+"origin" "479 -294 -128"
+}
+{
+"classname" "weapon_demp2"
+"wait" "-1"
+"targetname" "spawn_demp2"
+"origin" "544 -292 -128"
+}
+{
+"classname" "misc_model_breakable"
+"origin" "545 -264 -128"
+"model" "models/map_objects/hoth/console_on"
+"spawnflags" "8193"
+"message" "Demp2"
+"count" "20"
+"target" "spawn_demp2"
+"angle" "270"
+}
+{
+"classname" "misc_model_breakable"
+"origin" "610 -264 -128"
+"model" "models/map_objects/hoth/console_on"
+"spawnflags" "8193"
+"message" "Ysalimari"
+"count" "30"
+"target" "spawn_ysal"
+"angle" "270"
+}
+{
+"classname" "misc_model_breakable"
+"origin" "-1664 130 -1405"
+"model" "models/map_objects/imperial/cell_door_frame_all"
+"spawnflags" "0"
+"angle" "90"
+}
+{
+"classname" "fx_runner"
+"fxfile" "scepter/invincibility"
+"origin" "-1663 132 -1408"
+}
+{
+"classname" "func_static"
+"origin" "-639 -192 -128"
+"model" "*78"
+}
+{
+"classname" "trigger_teleport"
+"maxs" "40 40 40"
+"mins" "-40 -40 0"
+"target" "duel_area"
+"origin" "-1665 132 -1408"
+}
+{
+"classname" "fx_runner"
+"fxfile" "scepter/invincibility"
+"origin" "-635 -186 -128"
+}
+{
+"classname" "target_position"
+"angle" "270"
+"targetname" "duel_area"
+"origin" "-960 -195 18"
+}
+{
+"classname" "target_position"
+"angle" "90"
+"targetname" "duel_area_entry"
+"origin" "-1663 184 -1308"
+}
+{
+"classname" "trigger_teleport"
+"maxs" "40 40 40"
+"mins" "-40 -40 0"
+"target" "duel_area_entry"
+"origin" "-636 -184 -128"
 }

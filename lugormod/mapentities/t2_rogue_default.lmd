@@ -1278,10 +1278,11 @@
 }
 {
 "classname" "misc_model_breakable"
-"maxs" "50 20 5"
-"mins" "-50 -20 0"
+"model" "models/map_objects/nar_shaddar/reelosdesk"
 "spawnflags" "1"
-"origin" "1919 1194 734"
+"angle" "90"
+"modelscale" "1.2"
+"origin" "1918 1192 687"
 }
 {
 "classname" "target_powerup"
@@ -1492,4 +1493,427 @@
 "wait" "-1"
 "targetname" "flechette"
 "origin" "9055 -3245 -512"
+}
+{
+"classname" "misc_model_breakable"
+"model" "models/map_objects/hoth/bacta_tank"
+"modelscale" "2"
+"origin" "2411 954 -682"
+}
+{
+"classname" "trigger_teleport"
+"maxs" "40 40 200"
+"mins" "-40 -40 0"
+"target" "whereubuystuff"
+"origin" "2407 955 -592"
+}
+{
+"classname" "misc_model_breakable"
+"model" "models/map_objects/hoth/console_on"
+"spawnflags" "8193"
+"count" "20"
+"target" "weapon_blasterspawn"
+"message" "Blaster"
+"origin" "7170 -5889 0"
+}
+{
+"classname" "weapon_blaster"
+"wait" "-1"
+"targetname" "weapon_blasterspawn"
+"origin" "7198 -5888 0"
+}
+{
+"classname" "target_position"
+"targetname" "whereubuystuff"
+"angle" "235"
+"origin" "7548 -5709 90"
+}
+{
+"classname" "misc_model_breakable"
+"model" "models/map_objects/hoth/console_on"
+"spawnflags" "8193"
+"count" "20"
+"message" "Disruptor"
+"target" "weapon_disruptorspawn"
+"origin" "7170 -5939 0"
+}
+{
+"classname" "weapon_disruptor"
+"wait" "-1"
+"targetname" "weapon_disruptorspawn"
+"origin" "7203 -5940 0"
+}
+{
+"classname" "misc_model_breakable"
+"model" "models/map_objects/hoth/console_on"
+"spawnflags" "8193"
+"count" "20"
+"message" "Bowcaster"
+"target" "weapon_bowcasterspawn"
+"origin" "7170 -5989 0"
+}
+{
+"classname" "weapon_bowcaster"
+"wait" "-1"
+"targetname" "weapon_bowcasterspawn"
+"origin" "7199 -5990 0"
+}
+{
+"classname" "misc_model_breakable"
+"model" "models/map_objects/hoth/console_on"
+"spawnflags" "8193"
+"count" "20"
+"message" "Repeater"
+"target" "weapon_repeaterspawn"
+"origin" "7170 -6039 0"
+}
+{
+"classname" "weapon_repeater"
+"wait" "-1"
+"targetname" "weapon_repeaterspawn"
+"origin" "7198 -6040 0"
+}
+{
+"classname" "misc_model_breakable"
+"model" "models/map_objects/hoth/console_on"
+"spawnflags" "8193"
+"count" "20"
+"message" "Demp2"
+"target" "weapon_demp2spawn"
+"origin" "7170 -6089 0"
+}
+{
+"classname" "weapon_demp2"
+"wait" "-1"
+"targetname" "weapon_demp2spawn"
+"origin" "7194 -6092 0"
+}
+{
+"classname" "misc_model_breakable"
+"model" "models/map_objects/hoth/console_on"
+"spawnflags" "8193"
+"count" "20"
+"message" "Flechette"
+"target" "weapon_flechettespawn"
+"origin" "7170 -6139 0"
+}
+{
+"classname" "weapon_flechette"
+"wait" "-1"
+"targetname" "weapon_flechettespawn"
+"origin" "7198 -6145 0"
+}
+{
+"classname" "misc_model_breakable"
+"model" "models/map_objects/hoth/console_on"
+"spawnflags" "8193"
+"count" "30"
+"message" "Concussion"
+"target" "weapon_concussionspawn"
+"origin" "7170 -6189 0"
+}
+{
+"classname" "weapon_concussion_rifle"
+"wait" "-1"
+"targetname" "weapon_concussionspawn"
+"origin" "7198 -6193 0"
+}
+{
+"classname" "misc_model_breakable"
+"model" "models/map_objects/hoth/console_on"
+"spawnflags" "8193"
+"count" "50"
+"message" "Merr-Sonn"
+"target" "weapon_missilespawn"
+"origin" "7170 -6239 0"
+}
+{
+"classname" "weapon_rocket_launcher"
+"wait" "-1"
+"targetname" "weapon_missilespawn"
+"origin" "7198 -6246 0"
+}
+{
+"classname" "misc_model_breakable"
+"model" "models/map_objects/hoth/console_on"
+"spawnflags" "8193"
+"count" "50"
+"message" "Thermal Detonators"
+"target" "weapon_thermalspawn"
+"origin" "7170 -6289 0"
+}
+{
+"classname" "weapon_thermal"
+"wait" "-1"
+"targetname" "weapon_thermalspawn"
+"origin" "7198 -6289 0"
+}
+{
+"classname" "misc_model_breakable"
+"model" "models/map_objects/hoth/console_on"
+"spawnflags" "8193"
+"count" "50"
+"message" "Trip Mines"
+"target" "weapon_tripminespawn"
+"origin" "7170 -6339 0"
+}
+{
+"classname" "weapon_trip_mine"
+"wait" "-1"
+"targetname" "weapon_tripminespawn"
+"origin" "7198 -6340 0"
+}
+{
+"classname" "misc_model_breakable"
+"model" "models/map_objects/hoth/console_on"
+"spawnflags" "8193"
+"count" "50"
+"message" "Detpack"
+"target" "weapon_detpackspawn"
+"origin" "7170 -6389 0"
+}
+{
+"classname" "weapon_det_pack"
+"wait" "-1"
+"targetname" "weapon_detpackspawn"
+"origin" "7198 -6390 0"
+}
+{
+"classname" "func_rotating"
+"model" "*1"
+"speed" "10"
+"spawnflags" "16"
+"spinangles" "0 90 0"
+"model2" "models/map_objects/vjun/globe.md3"
+"model2scale" "800"
+"origin" "1960 -4122 361"
+}
+{
+"classname" "func_rotating"
+"model" "*1"
+"speed" "10"
+"spawnflags" "16"
+"spinangles" "0 -90 0"
+"model2" "models/map_objects/mp/sphere_1.md3"
+"model2scale" "900"
+"origin" "1960 -4122 -70"
+}
+{
+"classname" "misc_model_breakable"
+"model" "models/map_objects/factory/catw2_b"
+"spawnflags" "1"
+"origin" "1960 -4122 0"
+}
+{
+"classname" "misc_model_breakable"
+"model" "models/map_objects/med_console"
+"spawnflags" "1"
+"origin" "1958 -4067 -8"
+}
+{
+"classname" "misc_model_breakable"
+"model" "models/map_objects/hoth/med_console"
+"spawnflags" "8193"
+"count" "1000"
+"targetname" "oncepermap"
+"target" "destruction"
+"message" "^3Deathstar ^1DESTRUCTION"
+"angles" "0 90 0"
+"origin" "1960 -4065 8"
+}
+{
+"classname" "target_position"
+"targetname" "pushaway"
+"origin" "-173 -2178 100"
+}
+{
+"classname" "target_push"
+"targetname" "pushaway_totarg"
+"target" "pushaway"
+}
+{
+"classname" "trigger_multiple"
+"maxs" "5 100 1000"
+"mins" "-50 -100 0"
+"target" "pushaway_totarg"
+"origin" "1900 -4122 0"
+}
+{
+"classname" "target_position"
+"targetname" "pushaway1"
+"origin" "2959 -1773 414"
+}
+{
+"classname" "target_push"
+"targetname" "pushaway1_totarg"
+"target" "pushaway1"
+}
+{
+"classname" "trigger_multiple"
+"maxs" "5 100 1000"
+"mins" "-5 -100 0"
+"target" "pushaway1_totarg"
+"origin" "2020 -4122 0"
+}
+{
+"classname" "trigger_multiple"
+"maxs" "100 5 1000"
+"mins" "-100 -5 0"
+"target" "pushaway2_totarg"
+"origin" "1960 -4060 0"
+}
+{
+"classname" "target_position"
+"targetname" "pushaway2"
+"origin" "1908 -1373 100"
+}
+{
+"classname" "target_push"
+"targetname" "pushaway2_totarg"
+"target" "pushaway2"
+}
+{
+"classname" "target_deactivate"
+"targetname" "destruction"
+"target" "oncepermap"
+}
+{
+"classname" "misc_model_breakable"
+"model" "models/map_objects/hoth/turret_top_new"
+"spawnflags" "1"
+"angle" "90"
+"modelscale" "2"
+"origin" "1960 -4122 800"
+}
+{
+"classname" "fx_runner"
+"fxfile" "effects/env/btend"
+"origin" "8314 -5887 -255"
+}
+{
+"classname" "target_position"
+"targetname" "imstuckhelp"
+"origin" "7534 -5999 100"
+}
+{
+"classname" "trigger_push"
+"maxs" "40 40 40"
+"mins" "-40 -40 0"
+"target" "imstuckhelp"
+"origin" "8317 -5886 -256"
+}
+{
+"classname" "trigger_once"
+"maxs" "1000 1000 1000"
+"mins" "-1000 -1000 0"
+"target" "start_music"
+"origin" "1962 -2513 -576"
+}
+{
+"classname" "target_play_music"
+"targetname" "start_music"
+"music" "music/t2_rogue/narshaada_explore"
+}
+{
+"classname" "trigger_multiple"
+"maxs" "20 20 30"
+"mins" "-20 -20 0"
+"target" "to_thedeathstar"
+"spawnflags" "4"
+"usetime" "30000"
+"targetname" "oncepermap"
+"origin" "1919 1135 722"
+}
+{
+"classname" "target_position"
+"targetname" "to_thedeathstar_pos"
+"angle" "90"
+"origin" "1957 -4170 28"
+}
+{
+"classname" "target_teleporter"
+"targetname" "to_thedeathstar"
+"target" "to_thedeathstar_pos"
+}
+{
+"classname" "target_position"
+"targetname" "death_fxspot"
+"origin" "1919 448 -260"
+}
+{
+"classname" "fx_runner"
+"fxfile" "effects/env/hevil_bolt"
+"target" "death_fxspot"
+"spawnflags" "1"
+"targetname" "start_death_stop"
+"origin" "1961 -3858 824"
+}
+{
+"classname" "target_delay"
+"targetname" "destruction"
+"wait" "15"
+"target" "start_death_stop"
+}
+{
+"classname" "target_relay"
+"targetname" "destruction"
+"target" "start_death_stop"
+"target2" "death_fx_delay"
+"target3" "print_delay"
+"target4" "death_sounds"
+}
+{
+"classname" "target_delay"
+"targetname" "death_fx_delay"
+"wait" "1"
+"target" "explosion1"
+}
+{
+"classname" "fx_runner"
+"fxfile" "effects/ships/ls_explosion"
+"spawnflags" "3"
+"targetname" "explosion1"
+"origin" "1199 -288 91"
+}
+{
+"classname" "fx_runner"
+"fxfile" "effects/ships/ls_explosion"
+"spawnflags" "3"
+"targetname" "explosion2"
+"angle" "90"
+"origin" "2853 1088 616"
+}
+{
+"classname" "target_delay"
+"targetname" "explosion1"
+"wait" "2"
+"target" "explosion2"
+}
+{
+"classname" "fx_runner"
+"fxfile" "detpack/explosion"
+"spawnflags" "3"
+"targetname" "explosion1"
+"origin" "1279 873 704"
+}
+{
+"classname" "fx_runner"
+"fxfile" "detpack/explosion"
+"spawnflags" "3"
+"targetname" "explosion1"
+"origin" "1430 752 966"
+}
+{
+"classname" "fx_runner"
+"fxfile" "detpack/explosion"
+"spawnflags" "3"
+"targetname" "explosion2"
+"origin" "2651 1016 704"
+}
+{
+"classname" "fx_runner"
+"fxfile" "detpack/explosion"
+"spawnflags" "3"
+"targetname" "explosion2"
+"origin" "2461 1473 1216"
 }
