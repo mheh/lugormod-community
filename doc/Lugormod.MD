@@ -2,7 +2,7 @@
 
 David Sjöstrand
 
-An introduction to the Lugormod v1.2
+# An introduction to the Lugormod v1.2
 
 Last update 4/7/19 by Milo Hehmsoth
 
@@ -79,9 +79,9 @@ C:\Program Files\Lucas Arts\Star Wars Jedi Knight Jedi Academy).
 
 In the game folder you will find a folder called ’GameData’. Unzip the Lugormod zip archive in this folder. This will create a folder called ’lugormod’. In the ’lugormod’ folder, locate and remove the following files:
 ```
-jampgamex86.dll - Mac .dll
-jampgamei386.so - Linux .so
-jampgame_mac.ziz - Mac .dylibs
+jampgamex86.dll
+jampgamei386.so
+jampgame_mac.zip
 ```
 
 In the ’lugormod’ folder, locate the file server.cfg. This file contains all the settings for the server. Edit this to your liking (more details on this later). You can use notepad for this. To start the server, go to the ’GameData’ folder and double click the Start dedicated.bat. This will start a dedicated internet server on the default port (29070). It is recommended that you run a dedicated server.
@@ -97,9 +97,9 @@ Unzip the Lugormod zip archive in this folder when using JKJA Launch
 This will create a folder called ’lugormod’. In the ’lugormod’ folder locate and rename the file jampgame_mac.zip jampgame_mac.pk3. In the ’lugormod’ folder, locate and remove the following
 files:
 ```
-jampgame.dll - Mac .dll
-jampgamei386.so - Linux .so
-jampgamex86.dll - Windows .dll
+jampgame.dll
+jampgamei386.so
+jampgamex86.dll
 ```
 
 Start the game. Select the Lugormod from within the game. 1
@@ -109,9 +109,9 @@ Unzip the Lugormod zip archive in the same folder as you find the
 JKJA Dedicated Server executable. Rename the file jampgame.dll in the ’base’ folder to something else. Then move the files jampgame.dll and Lugormod.pk3 from the ’lugormod’ folder to the ’base’ folder. In the ’lugormod’ folder, locate
 and remove the following files:
 ```
-jampgamei386.so - linux .so
-jampgamex86.dll - windows .dll
-jampgame_mac.zip - contains Mac dylib files (untested on 10.9 and newer)
+jampgamei386.so
+jampgamex86.dll
+jampgame_mac.zip
 ```
 
 Edit the server.cfg file in the ’lugormod’ folder to your liking using a text editor. Change the command line options for JKJA Dedicated Server to: 
@@ -122,9 +122,9 @@ Edit the server.cfg file in the ’lugormod’ folder to your liking using a tex
 ### 1.3 Linux
 Unzip the Lugormod zip archive in the same folder as you find the linuxjampded executable. Use your favorite text editor to edit the server.cfg file in the ’lugormod’ folder to your liking. In the ’lugormod’ folder, locate and remove the following files:
 ```
-jampgame.dll - Mac .dll
-jampgamex86.dll windows .dll
-jampgame_mac.zip - Mac .dylib files
+jampgame.dll
+jampgamex86.dll
+jampgame_mac.zip
 ```
 
 Start the server with the command:
