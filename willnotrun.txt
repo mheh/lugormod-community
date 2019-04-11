@@ -1,0 +1,33 @@
+##########
+For Linux
+##########
+
+
+Step 1. Move libcxa.so.1
+
+libcxa.so.1 is a library that is referenced by jedi academy.
+The program (linuxjampded) will search for this where libraries are installed.
+This file needs to be in /usr/lib/ as linuxjampded will search there for it.
+
+If you're not running a desktop interface where you can drag and drop the location of libcxa.so.1, type this.
+sudo cp <location of libcxa.so.1> /usr/lib/
+
+An example
+sudo cp ~/Downloads/libcxa.so.1 /usr/lib/
+
+
+Step 2. Running a 32-bit program
+
+linuxjampded is a 32-bit program and lugormod 1.2 is a 32-bit mod.
+This means if you're running openjk 64-bit server, you cannot run 32-bit mods.
+If you are running linuxjampded and running a 32-bit mod, you need 32-bit
+dependencies for the game to run on a 64-bit operating system.
+
+If you don't do this, you may encounter "No such file or executable found." when typing ./linuxjampded or using a launch script.
+
+On ubuntu this is achieved by doing
+sudo dpkg --add-architecture i386
+sudo apt-get update
+sudo apt-get install libc6:i386 libncurses5:i386 libstdc++6:i386
+
+These steps should aid in getting your server to run on linux.
