@@ -42,7 +42,7 @@ target    - what to fire at when used, in this case when a person dies and this 
 - i added 12 to the z-axis because without the entity spawning 12 units up, you would literally spawn inside the ground.
 
 ## info_player_jail ***
-<p>
+
 Lugormod jail spawnpoint. <br>
 Use /jail <playername> <time> on a player and it will send them to this point, also place as many of these as you want<br>
 
@@ -53,42 +53,50 @@ Use /jail <playername> <time> on a player and it will send them to this point, a
 ```
 
 - i added 12 to the z-axis because without the entity spawning 12 units up, you would literally spawn inside the ground.
-<p>
+
 # misc_ Entities
 
 ## misc_exploding_crate *
 Spawns a crate that when hit by an attack will explode. You can change its default model by the model key, although its hitbox is hard coded.
+
+### Keys
+
 <p>
-### Keys<br>
 dmg           - sets the damage that the entity will give<br>
 model         - the md3 model to draw<br>
 splashRadius  - sets the damage radius around the origin of the entity<br>
 splashDamage  - sets the splash damage (if you are inside the splash radius you will receive this damage amount)<br>
 </p>
+
 ### Example code:
+
 ```
 /place misc_exploding_crate 0
 ```
+
 - will spawn an exploding crate that loads every time the entities are loaded for that map. After being destroyed, it doesn't respawn.
 
 ## misc_model_breakable *(L)
+
 This will spawn a model in game that can either have no purpose and sit there, or it can fire a target, or it can even accept money to fire at its target.
 
 ### Spawnflags:
-1     - Makes the model solid. If maxs/mins are defined it will follow those. 
-        Otherwise it will follow default maxs/mins, which go to the full extent size of the model
-2     - Will cycle its animation
-4     - Bounding Box will be there even when destroyed
-8     - Doesn't display damage model when destroyed
-16    - No smoke when used
-32    - 32 - When used, will toggle to it's usemodel (model + "_u1.md3")... this does nothing if spawnflags 64 is not checked.
-64    - When used it will not break
-128   - Player can use it will use button
-256   - No Explosion
-512   - Starts deactivated
-8192  - Payable button, use count and message keys
+<p>
+1     - Makes the model solid. If maxs/mins are defined it will follow those. <br>
+        Otherwise it will follow default maxs/mins, which go to the full extent size of the model<br>
+2     - Will cycle its animation<br>
+4     - Bounding Box will be there even when destroyed<br>
+8     - Doesn't display damage model when destroyed<br>
+16    - No smoke when used<br>
+32    - 32 - When used, will toggle to it's usemodel (model + "_u1.md3")... this does nothing if spawnflags 64 is not checked.<br>
+64    - When used it will not break<br>
+128   - Player can use it will use button<br>
+256   - No Explosion<br>
+512   - Starts deactivated<br>
+8192  - Payable button, use count and message keys<br>
 
 ### Keys:
+<p>
 property    - this entity will only work for people with access to the property set here
 customSkill        - The name of the skill to check. (see lmd_customskill for details).
 customSkillCompare - Comparison type. -1 for direct compare (use this for text), 0 for greater or equal to, 1 for less than. Default of 0.
@@ -119,11 +127,14 @@ target      - What to fire at when used
 model       - the md3 model to draw
 modelScale  - how much to scale the model, 1-10 for larger model, 0-1 for smaller, ex .5 for half the size.
 targetName  - make the trigger target this value for the entity to be used
+</p>
 
 ### Example code:
+
 ```
 /place misc_model_breakable 0 model,models/map_objects/factory/f_con1,spawnflags,8193,message,Pay Up Yo,count,20,target,spawn_desann,
 ```
+
 - This will make a button that charges 20 Credits to fire its target
 
 ```
@@ -133,6 +144,7 @@ targetName  - make the trigger target this value for the entity to be used
 - This will spawn a movable model that moves up and down with a 2 second delay between movements.
 
 ## misc_bsp ***
+
 This entity lets lets you load a map inside a map. Once you place it you will have to 'saveit' and then do /newmap <the map your on> for it to be visible. You have to do this because brushmodels only load when the map is loaded. If you mess up, the only way to delete it, is to go into the .lmd file on your server and remove it manually. If you're experiencing issues with this entity, ensure you're not running QMM or JASS on top of Lugormod, as it seems they interpret the entitylist of misc_bsp models differently.
 
 ### Keys:
