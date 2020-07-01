@@ -196,7 +196,8 @@ Any playercanregistertheirnicknamewiththecommand\regnick <password> where <passw
 • total time on the server.
 • level.
 • day of the last log in.
-• a string with data related to your profession • user ID.
+• a string with data related to your profession 
+• user ID.
 ```
 
 The account will expire and is deleted if the player doesn’t login in a certain number of days. The number of days until the account is deleted is decided by the player’s level, and is 7 days for each level up to a maximum of 70 days.
@@ -249,6 +250,7 @@ When you lose points because of the chicken rule you can not lose points this wa
 
 ## 2.3 Modified Items
 I found some items in the game very useless so I modified them a bit to make them more useful.
+
 ### 2.3.1 The grappling hook
 The stun baton doubles as a grappling hook. Alternate fire will launch a hook that will attach to the surface you are aiming at. When you have the hook out you can reel in by pressing the jump key, and you can extend the rope by pressing the crouch key. Pressing primary fire will launch a new hook and release the old one. Pressing alternate fire will release the hook. The grappling hook can be disabled by setting the cvar g_grapplingHook to 0.
 
@@ -333,7 +335,6 @@ hi
 ```
 
 In this example, if a player says the words ’hi’ or ’hello’ in a sentence the bot will randomly pick one of the two answers “Hi there!” or “Hi %s”, where %s is replaced by the name of the player saying ’hi’ or ’hello’.
-
 ```
 hello all
 hi all
@@ -483,7 +484,6 @@ Examples:
 ```
 
 This will spawn a command post that is owned by the red team at start and that can’t be taken by the blue team.
-
 ```
 \place control_point 0 spawnflags,2,message,by the lake,
 ```
@@ -498,6 +498,7 @@ survival bonus		1 point every three minutes for the blue team.
 last man standing 	3 points for the last surviving player in the blue team.
 last kill		2 points for the reborn who frags the last man standing.
 ```
+
 When all players are reborn a new round begins. The game ends when either the kill limit is reached or all players have started a round as reborn.
 
 ### 2.11 Temporary bans
@@ -513,34 +514,41 @@ The most useful command in the game is probably the command help. With no argume
 
 ### \addloc <description>
 With this command you can add a description of your current location. This is what is displayed with the command \location.
-This is a level 1 admin command.
 
+This is a level 1 admin command.
 
 ### \admins
 The command will list all authenticated admins that are currently on the server. Next to every name their admin level will be displayed.
 
 ### \announce <time> <msg>
 The message <msg> will be displayed for <time> seconds in the center of the screen for all players.
+
 This is a level 3 admin command.
 
 ### \authother <player> <lvl>
-Authenticates the player <player> for admin level <lvl>. The player will stay authenticated until re-authenticated, or until the player disconnects. To remove admin rights for a player set the level to 0. The player using this command can only authenticate others to a level less “powerful” than the player’s own level. This is a level 3 admin command.
+Authenticates the player <player> for admin level <lvl>. The player will stay authenticated until re-authenticated, or until the player disconnects. To remove admin rights for a player set the level to 0. The player using this command can only authenticate others to a level less “powerful” than the player’s own level. 
+	
+This is a level 3 admin command.
 
 ### \becomeking
 The current King (if any) will no longer be the King, and you will become the King.
+
 This is a level 1 admin command.
 
 ### \blowup
 The solid entity you are aiming at will explode. Use this command with caution, no checks are done before removing the entity. For removing stuff that you have placed the command killmodel is recommended.
+
 This is a level 1 admin command.
 
 ### \bluespawnpoint
 Place a player spawn point for the blue team. This is where the players in the blue team will start in a team game.
+
 This is a level 1 admin command.
 
 ### \botwprender
-Toggles the displaying of bot route waypoints. This is a level 1 admin command.
-3.1.10 buddy
+Toggles the displaying of bot route waypoints. 
+
+This is a level 1 admin command.
 
 ### \buddy [player]
 Add a player to or remove a player from your list of buddies. If no argument is provided your current list of buddies will be displayed.
@@ -549,7 +557,9 @@ Add a player to or remove a player from your list of buddies. If no argument is 
 With this command a registered player (see section 2.2) can buy a new level (see section 2.5). If [ammount] is enough to buy a new level, and you can afford it, you will level up. If [ammount] is not enough to buy a new level, or if you cannot afford a new level, the cost of the next level will be displayed.
 
 ### \cancelvote
-If there is a vote in progress, it fails. This is a level 3 admin command.
+If there is a vote in progress, it fails. 
+
+This is a level 3 admin command.
 
 ### \challenge <’power’|’force’|’fullforce’|’training’|’tiny’|’titan’>
 With this command you can challenge another player to a “special” duel. Aim at another player when invoking the command. The “special” duel types are:
@@ -578,16 +588,21 @@ Your current wealth will be displayed (see section 2.4).
 
 ### \defender
 With this command you can spawn a “defender”. It looks like an imperial dish, and will fire a deadly beam on any flying vehicle flying in a direction towards it. This is used to protect the area where the fighters are spawned from kamikaze pilots and other “ship lamers”. The fighters will be allowed to leave the area, but cannot return there.
+
 This is a level 1 admin command.
 
 ### \dragon
-Spit some fire on irritating players. This is a level 3 admin command.
+Spit some fire on irritating players. 
+
+This is a level 3 admin command.
 
 ### \drinkme
 Shrink yourself. You will stay small until you either duel someone or reconnect (if you are not an admin in which case you can use the command \eatme to go back to normal size again).
 
 ### \drop <item>
-Spawn and hurl an item in front of yourself. Example: \drop item_jetpack. This is a level 3 command.
+Spawn and hurl an item in front of yourself. Example: \drop item_jetpack. 
+	
+This is a level 3 admin command.
 
 ### \dropcr <ammount>
 Drop <ammount> credits (see section 2.4) infront of you. The money can then be picked up by any player.
@@ -609,6 +624,7 @@ Perform an emote. If no argument is provided the available emotes will be displa
 
 ### \fixdoor
 On some single player maps there may be doors that cannot be opened. It might be doors that are supposed to be opened by scripts triggered by events that take place only in the single player game. This can be amended with fixdoor. Aim at the door you wish to fix and issue the command. The fix can be saved with the server command saveit (see section 2.8).
+
 This is a level 1 admin command.
 
 ### \fnord
@@ -616,16 +632,23 @@ Makes you say something weird. The Fnorder Program was originally written by Ste
 
 ### \forcelevel [force]
 Raise the force with number [force] one level. If no argument is provided, all forces and their numbers will be listed. The first time you choose a dark or light force all forces of the other side will be removed from the list.
+
 This command is only available to players with the profession jedi/sith.
 
 ### \gethere <player>
-The player <player> will be teleported to infront of you. This is a level 3 admin command.
+The player <player> will be teleported to infront of you. 
+
+This is a level 3 admin command.
 
 ### \goto <player>
-You will be teleported to infront of the player <player>. This is a level 4 admin command.
+You will be teleported to infront of the player <player>. 
+	
+This is a level 4 admin command.
 
 ### \hicredits
-Display a list of the top ten wealthiest players (see section 2.4). This is a level 1 admin command.
+Display a list of the top ten wealthiest players (see section 2.4). 
+
+This is a level 1 admin command.
 
 ### \hilevel
 Display a list of the top ten players with the highest level (see section 2.5).
@@ -641,6 +664,7 @@ Toggle ignore on the player [player]. Messages from an ignored player will not b
 
 ### \invisible [player]
 The player [player] will become completly invisible. If no argument is provided you will become invisible.
+
 This is a level 2 admin command.
 
 ### \ionlyduel
@@ -648,40 +672,50 @@ You will be more or less invulnerable until you engage in a duel. You won’t be
 
 ### \items <’list’|’remove’|’place’> [itemname]
 With this command you can place, remove and list the items on the map. There is a list of all items in the game in the appendix. To place an item type \items place <itemname>. The item will be placed where you stand. To remove an item type \items remove <itemname>. This will remove all items of that type. To list all items type \items list. This will display what items are placed on the map, and how many of each. To give an example, this is how to place a jetpack: \items place item_jetpack.
+	
 This is a level 2 admin command.
 
 ### \iwantcredits <ammount>
 You will receive <ammount> credits (see section 2.4). 
+
 This is a level 1 admin command.
 
 ### jail [player]
-Put the player [player] in jail, or release the player if already in jail. If no argument is provided, the player you are aiming at will be jailed. For this to work you need to have placed at least one jail spawn point. This is done with the command \jailspawnpoint. The jailed player will spawn at such a spawnpoint. Use locations on the map from which you can’t escape. If a jailed player disconnects the players IP will be temporarily banned (see section 2.11). This is a level 4 admin command.
+Put the player [player] in jail, or release the player if already in jail. If no argument is provided, the player you are aiming at will be jailed. For this to work you need to have placed at least one jail spawn point. This is done with the command \jailspawnpoint. The jailed player will spawn at such a spawnpoint. Use locations on the map from which you can’t escape. If a jailed player disconnects the players IP will be temporarily banned (see section 2.11). 
+
+This is a level 4 admin command.
 
 ### \jailspawnpoint
 Use this command to place a spawn point for players who have been jailed. Before you use the command \jail you should place at least one jail spawn point (info_player_jail). This is where a jailed player spawns. Place it in a place that can’t be escaped.
+
 This is a level 1 admin command.
 
 ### \jmquit
 If you are playing the Jedi Master game type and you are currently the Jedi Master, you will hurl the saber infront of you and will no longer be the Jedi Master.
+
 This is a level 2 admin command.
-3.1.44 killmodel
 
 ### \killmodel
 The name of this command is somewhat misleading. With this command you can remove any solid entity that you have placed. Aim at the entity and issue the command.
+
 This is a level 2 admin command.
 
 ### \killother [player]
 The player [player] will die. If no argument is provided the player you aim at will die.
+
 This is a level 3 admin command.
 
 ### \king
 This command will give you some information about the King (see section 2.6). It will tell you who is presently the King (if there is one), how many duels the current King has won, and how many duels the best King has won.
 
 ### \listadmins
-This command will display a list of all accounts that has been made into an admin account (see section 2.2). The name and the admin level will be listed. This is a level 4 admin command.
+This command will display a list of all accounts that has been made into an admin account (see section 2.2). The name and the admin level will be listed. 
+
+This is a level 4 admin command.
 
 ### \location [player]
 This will tell you the location of the player [player], or your location if no argument is provided. This will only work if a botlocations file exists for the map. There are some included with the mod in the lugormod/botlocations folder. It is a plain text file. Each line in the file lists the coordinates for the location and a string associated with it.
+
 This is a level 4 admin command.
 
 ### \login <UID> <password>
@@ -692,18 +726,22 @@ This command changes the registration code for a registered player (see section 
 
 ### \newmap <map>
 Loads the map <map>.
+
 This is a level 2 admin command.
 
 ### \nocaps [player]
 Whenever the player [player] says something, any upper-case letter will be changed into a lower-case letter. If no argument is provided it affects the player you are aiming at. The command toggles this setting, simply use it again on a player to turn it off. Use this on players who can’t seem to find the caps lock key after hitting it by mistake. If a player with nocaps disconnects the player’s IP will be temporarily banned (see section 2.11).
+
 This is a level 4 admin command.
 
 ### \noclip [player]
 Gives the player [player] “noclip”. If no argument is provided you will get “noclip”. This command toggles the setting.
+
 This is a level 2 admin command.
 
 ### \novote [player]
 The player [player] will not be able to call any votes. If no argument is provided the player you are aiming at will be affected. This command toggles the setting. Simply use it again on a player to allow calling votes again. If a player with novote disconnects the player’s IP will be temporarily banned (see section 2.11).
+
 This is a level 4 admin command.
 
 ### \passvote
@@ -711,14 +749,16 @@ If there is a vote in progress, it succeeds. This is a level 2 admin command.
 
 ### \pay <ammount>
 Use this to give another player <ammount> credits (see section 2.4). You have to stand close to, facing the receiving player.
-3.1.57 place
 
 ### \place <classname> <dist> [field,value],[field,value],....
 A manual could be written on this command alone. It is a generic command for placing any type of entity on the map, with any option. <classname> is the entity class name. The entity will appear at distance <dist> from the surface you aim at when issuing the command. See the appendix for some examples on how to use this command.
+
 This is a level 1 admin command.
 
 ### \placecannon
-Spawns an emplaced gun infront of you. This is a level 2 admin command.
+Spawns an emplaced gun infront of you. 
+
+This is a level 2 admin command.
 
 ### \placemodel <path> [zoffset] [radius]
 Place a model on the map. The options [zoffset] and [radius] govern the size of the bounding box for the model (this is what makes it solid), and defaults to 0 and 16 respectively. The number of different models that can be loaded are limited both server side and client side to 512 (a model that has been loaded stays loaded even if you remove it), and the total number of entities is limited to 1024. Also every model you place puts an additional strain on the server. Don’t overdo this.
@@ -726,50 +766,59 @@ This is a level 1 admin command.
 
 ### \placemoneydisp
 This places a money_dispenser (see section 2.4). The money dispenser will appear in the spot where you issued the command, facing the direction you did, as soon as you move away.
+
 This is a level 1 admin command.
 
 ### \placerandomspot
 This places a random_spot where you are standing. These are used as random locations to spawn stuff at. Currently they are only used for the money_stash (see section 2.4).
+
 This is a level 1 admin command.
 
 ### \playerinfo [player]
 Displays information about the player [player]. If no argument is provided, information about all players on the server will be displayed in a list. A player that is authenticated as admin (see section 2.1.2). will be listed with a star in the far right of the row. A unique reference number is included that can be specified when issuing other commands in place of the full player name
+
 This is a level 4 admin command.
 
 ### \playerspawnpoint
 This will place a spawn point for players. This is where a player will spawn when entering the game, and after dying. If you have placed at least one player spawn point (info_player_deathmatch) on the map and saved it so that it loads up with the map (see section 2.8), the original player spawn point(s) will be removed when the map is loaded. It is highly recommended that spawn points are placed higher than ground level to avoid player collisions.
+
 This is a level 1 admin command.
 
 ### \playfx <path>
 Plays an effect located at your eyes in the direction you are facing. The number of effects that can be loaded are limited both client side and server side to 64. An effect that you play stay loaded until you load a new map. Rather strange and unwanted behavior is to be expected if you exceed this limit.
+
 This is a level 1 command.
 
 ### \playmusic <path>
-Plays a sterio music file to all players replacing the currently active song. This is a level 1 admin command.
+Plays a sterio music file to all players replacing the currently active song. 
+
+This is a level 1 admin command.
 
 ### \playsnd <path> 
 Audibly plays a sound-file in your general vicinity whilst animating your model’s mouth to indicate that the voices originate from your character. The number of sounds that can be loaded is limited both client side and server side to 256. A sound you play stay loaded until you load a new map. Undesirable behavior is to be expected if you exceed this limit, therefore it is not recommended to use the command exhaustively.
+
 This is a level 1 admin command.
 
 ### powerup <number>
 There are 15 powerups in the game. This command gives you one of these powerups for 30 seconds. The powerups are:
 ```
-1 Quad damage (not implemented)
-2 Battle suit
-3 Pull
-4 Red flag
-5 Blue flag
-6 Neutral flag
-7 Shield hit
-8 Speed burst (only the visual effect)
-9   Disintegrate
-10  Speed (only the visual effect)
-11  Cloak
-12 Force enlightened light
-13 Force enlightened dark
-14 Force boon
-15 Ysalamiri
+1 	Quad damage (not implemented)
+2 	Battle suit
+3 	Pull
+4 	Red flag
+5 	Blue flag
+6 	Neutral flag
+7 	Shield hit
+8 	Speed burst (only the visual effect)
+9   	Disintegrate
+10  	Speed (only the visual effect)
+11  	Cloak
+12 	Force enlightened light
+13 	Force enlightened dark
+14 	Force boon
+15 	Ysalamiri
 ```
+
 This is a level 1 admin command.
 
 ### \profession [profession]
@@ -777,8 +826,8 @@ Choose a profession. When choosing a profession a player’s level is set to 1 a
 
 ### \redspawnpoint
 Place a player spawn point for the red team. This is where the players in the red team will start in a team game.
-This is a level 1 admin command.
 
+This is a level 1 admin command.
 
 ### \regnick <new password>
 Register your nick name so that noone else can use it. This will create an ac- count. A user identification number (UID) will be displayed in the console. Use this when you log into the account with the command \login <UID> <password>. For more information on accounts see section 2.2.
@@ -791,6 +840,7 @@ Unlearn all your skills. If no argument is provided the cost is displayed. This 
 
 ### \say_admins <message>
 Say <message> so that only other admins can hear it. In non team game types, for admins, this will be used instead of say team.
+
 This is a level 4 admin command.
 
 ### \say_buddies <message>
@@ -801,27 +851,35 @@ Say <message> so that only players who are standing close to you can hear it. In
 
 ### \scale [player] <size>
 Scale the player [player] to the size <size> in percent. If the argument [player] is not provided you will be scaled. The maximum scale is 1023. If you set <size> to 0, scaling will be turned off (this is preferable to setting it to 100).
+
 This is a level 3 admin command.
 
 ### \show <classname|entitynumber>
-The entity/entities will emit a blue beam upwards. Use this if you need to see the location of invisible entities such as random_spot or info_player_deathmatch. This is a level 1 admin command.
+The entity/entities will emit a blue beam upwards. Use this if you need to see the location of invisible entities such as random_spot or info_player_deathmatch. 
+
+This is a level 1 admin command.
 
 ### \showhealth
 Display the health of the entity you aim at (not all entities has health). This is a level 2 admin command.
 
-###\shutup [player]
+### \shutup [player]
 Mute the player [player]. If no argument is provided the player you aim at will be muted. If a muted player disconnects the player’s IP will be temporarily banned (see section 2.11).
+
 This is a level 4 admin command.
 
 ### \skill [skill]
 Raise the skill with number [skill] one level. If no argument is provided, all skills and their numbers will be listed.
+
 This command is only available to players with the profession mercenary.
 
 ### \spawn <NPC_vehicle>
-Spawns the vehicle <NPC_vehicle>. This is a level 3 admin command.
+Spawns the vehicle <NPC_vehicle>. 
+
+This is a level 3 admin command.
   
 ### \spawner <NPC num|’list’|’remove’ num>
 Add a spawner spawning the NPC (vehicle or non vehicle) <NPC> until the num- ber of such NPC:s there are on the map is <num>. It will then stop spawning until one of the NPC:s are destroyed. The spawner will spawn indefinitely, but there will be at most <num> spawns at one time. You can list all spawn- ers on the map with the command \spawner list. Next to each spawner it’s entity number will be displayed. To remove a spawner use the command \spawner remove <num> where <num> is the spawner’s entity number.
+
 This is a level 2 admin command.
 
 ### \stats
@@ -829,29 +887,37 @@ Displays some information about your account (see section 2.2). You need to be r
 
 ### \strip <player> <’items’|’weapons’|’force’|’all’>
 The player <player> will be releived of all items, weapons, force powers or all of it.
+
 This is a level 3 admin command.
 
 ### \teamother <player> <team>
-Put the player ¡player¿ in the team ¡team¿. This is a level 3 admin command.
+Put the player <player> in the team <team>.
+	
+This is a level 3 admin command.
 
 ### \tmpban [player]
 Kick and temporarily ban the player [player]. If no argument is provided the player you are aiming at will be kicked. See section 2.11 for more information about temporary bans.
+
 This is a level 3 admin command.
 
 ### \trace [number|property value]
 Displays some information about the targeted entity/entities. If a number is provided, information on the entity with that entity number will be displayed. If a property name and a value is provided, information on all entities with a matching value for that property will be displayed. Only string value properties can be used. If no argument is provided, information on the solid entity that you are aiming at will be displayed.
+
 This is a level 1 admin command.
 
 ### \undoforce
 Undo the last selection made with the command \forcelevel. You can only undo the selections made since you last pressed any buttons (eg attack), and this must be done before disconnecting or map change/restart occurs.
+
 This command is only available to players with the profession jedi/sith.
 
 ### \undoskill
 Undo the last selection made with the command \skill. You can only undo the selections made since you last pressed any buttons (eg attack), and this must be done before disconnecting or map change/restart occurs.
+
 This command is only available to players with the profession mercenary.
 
 ### \useent [number]
 The entity with entity number [number] will be used (if it can be used). If no argument is provided the solid entity you are aiming at will be used.
+
 This is a level 1 admin command.
 
 ### \worthy
@@ -860,6 +926,7 @@ Displays a list of all connected players. For each player the following will be 
 
 ### \ysalamiri
 This command can only be used if the player has an ysalamiri. Only one ysalamiri can be carried at a time. When using the command the player will be bestowed with the powerup ysalamiri for an ammount of time determined by the level of the ’ysalamiri blast’ skill (see section 2.2.1). At level 4 and 5 the blast will also affect other players that are close enough.
+
 This command is only available to players with the profession mercenary.
 
 ## 3.2 Server Commands
@@ -909,7 +976,7 @@ Remove all temporary bans (see section 2.11).
 ### deletenick <nick>
 Remove the account with the name or UID <nick>.
 
-### entitylist [’remove’] [number|classname]
+### entitylist [’remove’] ['number'|'classname']
 This is not really a Lugormod command, but I have altered it to give it some more functionality. The command will list the entity with the entity number [number], or all entities with the entity class name [classname]. If the argument ’remove’ is provided, the entities will be removed instead of listed. This is the only way to remove some entities. There might be unexpected results from removing an entity, use this with care.
 
 ### hicredits
@@ -948,9 +1015,8 @@ Whenever the player <player> says something, any upper-case letter will be chang
 ### novote <player>
 The player <player> will not be able to call any votes. This command toggles the setting. Simply use it again on a player to allow calling votes again. If a player with novote disconnects the player’s IP will be temporarily banned (see section 2.11).
 
-
 ### playerinfo <player>
-Displays information about the player <player>. If no argument is provided, information about all players on the server will be displayed in a list. A player that is authenticated as admin (see section 2.1.2). will be listed with a star in the far right of the row.
+Displays information about the player <player>. If no argument is provided, information about all players on the server will be displayed in a list. A player that is authenticated as admin (see section 2.1.2) will be listed with a star in the far right of the row.
 
 ### saveit <filename>
 Save all entities placed on the map in a file. See section 2.8 for more information.
@@ -963,7 +1029,6 @@ Say something to the players. The name displayed in the game will be the name in
 
 ### say_admins <message>
 Say <message> so that only other admins can hear it.
- 
 
 ### sayasbot <bot> <message>
 Have the bot <bot> say <message>.
@@ -981,7 +1046,7 @@ Say something to the player <player>. The name displayed in the game will be the
 ### tmpbans
 Display a list of all temporary bans (see section 2.11).
 
-### trace <number|property value>
+### trace <'number'|'property value'>
 Displays some information about the targeted entity/entities. If a number is provided, information on the entity with that entity number will be displayed. If a property name and a value is provided, information on all entities with a matching value for that property will be displayed. Only string value properties can be used.
 
 ### uptime
@@ -991,9 +1056,10 @@ Display the time since the server was started.
 
 ### g_allowBlackNames
 In the original game, players are not supposed to be able to use the color black at all in their names. In the Lugormod they can’t unless this is set to anything other than 0.
+
 Defaults to ’0’.
  
-###g_allowVote
+### g_allowVote
 This is not really a Lugormod cvar, but I have made it into a bit mask with the following flags:
 ```
 1 	all
@@ -1009,18 +1075,24 @@ This is not really a Lugormod cvar, but I have made it into a bit mask with the 
 1024  	g_gamemode
 ```
 
-This way the different votes can be enabled separately. Defaults to ’1’
+This way the different votes can be enabled separately. 
+
+Defaults to ’1’
 
 ### g_autoRandomSpots
 If set to anything other than 0, random spots will be placed automatically on the map.
+
 Defaults to ’1’
 
 ### g_checkSkin
 If set to anything other than 0 the skin a player chooses will be checked to see if it is valid. This will remove the possibility to have invisible body parts, or to have a grey buggy looking skin.
 
 Defaults to ’1’
+
 ### g_chickenTime
-This is the time in seconds until a player who has lost points because of the chicken rule can lose points this way again. If it is set to 0 the chicken rule is disabled. For more information about the chicken rule see section 2.2.2. Defaults to ’60’
+This is the time in seconds until a player who has lost points because of the chicken rule can lose points this way again. If it is set to 0 the chicken rule is disabled. For more information about the chicken rule see section 2.2.2. 
+
+Defaults to ’60’
 
 ### g_cmdDisable
 This is a bit mask for disabling Lugormod commands. The following flags are available:
@@ -1038,45 +1110,59 @@ This is a bit mask for disabling Lugormod commands. The following flags are avai
 Default to ’0’
 
 ### g_cmdLvlFile
-This is the name of a file containing re-defenitions of what admin levels the Lugormod ingame commands are. Each row in the file is a command name - level pair. If you want to set the level for the commands blowup, drinkme and dragon all to 3, this is what you would type in your file:
+This is the name of a file containing re-defenitions of what admin levels the Lugormod ingame commands are. This is located in /lugormod/<file.cfg>. Each row in the file is a command name - level pair. If you want to set the level for the commands blowup, drinkme and dragon all to 3, this is what you would type in your file:
 ```
 "blowup" 3 
 "drinkme" 3 
 "dragon" 3
 ```
 
-Now all level 3, 2 and 1 admins will be able to use those commands. Defaults to not set
+Now all level 3, 2 and 1 admins will be able to use those commands. 
+
+Defaults to not set.
 
 ### g_creditsInBank
-This is the number of credits that the bank will start out with. Defaults to ’500000’
+This is the number of credits that the bank will start out with. 
+
+Defaults to ’500000’
 
 ### g_disableBail
 If set to anything other than 0 players will not be able to eject from an unlanded fighter.
+
 Defaults to ’0’
 
 ### g_disableSpec
 This is a bit mask with two flags, 1 and 4. If set to 1, moving in free spectate mode is disabled. If set to 4, follow spectate mode will be disabled. If set to 1 + 4 = 5 both moving in free mode and using follow mode will be disabled. This setting only applies to game types FFA and Team FFA.
+
 Defaults to ’0’
 
 ### g_dontLoadNPC
 The name of this cvar is misleading. It disables the loading of NPCs and the routes for the NPCs, but it also makes single player maps more compatible with the multi player server. Flags and names for entities are different in single player maps than in multi player maps. Setting this to anything other than 0 will make the server try to fix some of these problems. When playing a single player map, set this to 1, otherwise set it to 0.
+
 Defaults to ’0’
 
 ### g_duelForcePowerDisable
 This is a bitmask for disabling force powers in the Duel and Power Duel game types. It works exactly like the cvar g_forcePowerDisable.
+
 Defaults to ’0’
       
 ### g_enterMotd
-If set, this message will be displayed centered on the screen when a player enters the game. The time the message is displayed is determined by the 
+If set, this message will be displayed centered on the screen when a player enters the game. The time the message is displayed is determined by the cvar g_motdDispTime.
 
-### g_motdDispTime.
-Defaults to not set
+Defaults to not set.
 
 ### g_fixForce
-Some forces are too weak to be of any use, and some are too powerful. This is a bit mask, selecting to what force powers a fix is to be applied. There are currently fixes available for the force powers ’rage’ (256) and ’sense’ (16384). Defaults to ’0’
+Some forces are too weak to be of any use, and some are too powerful. This is a bit mask, selecting to what force powers a fix is to be applied. There are currently fixes available for the force powers:
+```
+256	Rage
+16384 	Sense 
+```
+
+Defaults to ’0’
 
 ### g_fixShields
 If this is set to anything other than 0 the shield emitters (item_shield) will be more powerful in FFA.
+
 Defaults to ’0’
 
 ### g_gameMode
@@ -1108,25 +1194,33 @@ Players can call a vote for these game modes with the command
 For more information about the game modes, see section 2.9 Defaults to ’0’
     
 ### g_grapplingHook
-If set to anything other than 0, the stun baton will double as a grappling hook. If set to 2 it will only be a grappling hook. See section 2.3.1 for more information. Defaults to ’0’
+If set to anything other than 0, the stun baton will double as a grappling hook. If set to 2 it will only be a grappling hook. See section 2.3.1 for more information. 
+
+Defaults to ’0’
 
 ### g_jmforcelevel
 The Jedi Master will get this level (0-3) in all force powers in the Jedi Master game type.
+
 Defaults to ’3’
 
 ### g_jmhealthbar
-If set to anything other than 0, when aiming at the Jedi Master in the Jedi Master game type, a health bar showing the Jedi Master’s health will appear. Defaults to ’0’
+If set to anything other than 0, when aiming at the Jedi Master in the Jedi Master game type, a health bar showing the Jedi Master’s health will appear. 
+
+Defaults to ’0’
 
 ### g_jmkillhealth
 This is how much health the Jedi Master will get for killing someone in the Jedi Master game type. If set to anything other than 0 the Jedi Master’s health will slowly count down until it reaches 0, and the only way for the Jedi Master to heal will be to kill other players.
+
 Defaults to ’0’
 
 ### g_jmstarthealth
 When becoming the Jedi Master in the game type Jedi Master the player’s health will be set to this.
+
 Defaults to ’100’
 
 ### g_jmsaberDamageScale
 The damage done by the Jedi Master’s saber in the Jedi Master game type will be multiplied by this.
+
 Defaults to ’2’
 
 ### g_jmsaberreplace
@@ -1141,27 +1235,37 @@ Because there are no maps for the Jedi Master game type, the saber must be place
 ```
 
 Add up the numbers of the types of items you want to be used as possible positions for the Jedi Master saber. This is only done if there isn’t already an info_jedimaster_start on the map.
+
 Defaults to ’1’
 
 ### g_kingTime
-This is the time in seconds after the King (see section 2.6) last dueled someone until the King will lose the crown. If set to 0 the king will never run out of time. Defaults to ’600’
+This is the time in seconds after the King (see section 2.6) last dueled someone until the King will lose the crown. If set to 0 the king will never run out of time. 
+
+Defaults to ’600’
 
 ### g_maxVoteCount
-The maximum number of votes a player can call. Defaults to ’3’
+The maximum number of votes a player can call. 
+
+Defaults to ’3’
 
 ### g_meditateProtect
 The time in milli seconds until a player who started meditating becomes pro- tected. The player will be protected from everything. If set to 0 protection by meditating is disabled. Meditate only protects in the FFA game type, and only when not in a private duel.
+
 Defaults to ’0’
 
-### g_motdDispTime
-The time in seconds the welcome message will be displayed. Defaults to ’5’
+### g_motdDispTime.
+Time in seconds to display g_enterMotd.
+
+Defaults to '5'
 
 ### g_nameForServer
 This is the name displayed when you use the server commands say, tell and callvote.
+
 Defaults to ’server’
 
 ### g_noVoteTime
 This is the ammount of time in minutes until a vote can be called after a map change.
+
 Defaults to ’5’
 
 ### g_pickupDisable
@@ -1175,23 +1279,25 @@ Disables pick ups on the map according to it’s type. This is a bit mask with t
 32	holdable items
 ```
 
-Disabled pick ups will be transformed into random spots (see section 2.4). Defaults to ’0’
+Disabled pick ups will be transformed into random spots (see section 2.4). 
+
+Defaults to ’0’
 
 ### g_privateDuel
 This isn’t really a Lugormod cvar, but I have made it into a bit mask with the following flags:
 ```
-1 Private duels enabled
-2 Multiple duels enabled
-4 Full health at duel start
-8 Full armor at duel start
-16 Full force power at duel start
-32 Full health at duel end
-64 Full armor at duel end
-128 Full force power at duel end
-256 Force saber on at duel start
-512 Force bow at duel start
-4096 King mode on
-8192 Only score frags in private duels in FFA 16384 Disable severing of duels
+1 	Private duels enabled
+2 	Multiple duels enabled
+4 	Full health at duel start
+8 	Full armor at duel start
+16 	Full force power at duel start
+32 	Full health at duel end
+64 	Full armor at duel end
+128	Full force power at duel end
+256 	Force saber on at duel start
+512 	Force bow at duel start
+4096	King mode on
+8192 	Only score frags in private duels in FFA 16384 Disable severing of duels
 ```
 
 Defaults to “289”
@@ -1204,11 +1310,12 @@ verybadword
 reallybadword 
 extremlybadword
 {
-warn "Mind your language\nplease"
-censor "I told you not to talk like that"
-mute "That’s it buddy, you have been muted" 
+	warn "Mind your language\nplease"
+	censor "I told you not to talk like that"
+	mute "That’s it buddy, you have been muted" 
 }
 ```
+
 Each line in the section of measures is an action possibly followed by a message. If there is a message it will be displayed in the center of the screen for the offending player. The first time a player uses one of the disallowed words, the first line of actions will be used, the second time the second will be used and so on. When the last action is reached it will be used over and over. The possible measures are:
 ```
 warn 	Does nothing.
@@ -1220,18 +1327,22 @@ ban 	The message is removed and the player is kicked and temporarily banned.
 ```
 
 If g_profanityFile is not set, the filter is disabled.
+
 Defaults to not set
 
 ### g_scorePlums
 If set to anything other than 0 a score plum will be displayed over a players head when the player score points.
+
 Defaults to ’0’
 
 ### g_tmpBanTime
 This is the time in minutes a temporary ban lasts. See section 2.11 for more information about temporary bans.
+
 Defaults to ’20’
 
 ### g_voteFix
 Normally when voting, anyone who doesn’t vote will be counted as having voted no. If this is set to anything other than 0 only voting players will be counted if voting for anything other than kicking a player.
+
 Defaults to ’0’
    
 ## Appendix A
@@ -1273,24 +1384,25 @@ Spawnflags:
 128	target ground vehicles 256 target armed players
 
 options:
-radius - How far away an enemy can be for it to pick it up (default 512) wait - Time between shots (default 150 ms)
-dmg - How much damage each shot does (default 5)
-health - How much damage it can take before exploding (default 100)
-count -	if CANRESPAWN spawnflag, decides how long it is before gun respawns (in ms) - defaults to 20000 (20 seconds)
-paintarget - target to fire off upon being hurt
-painwait - ms to wait between firing off pain targets
-random - random error (in degrees) of projectile direction when it comes out of the muzzle (default is 2)
-shotspeed - the speed of the missile it fires travels at (default is 1100 for regular turrets, 20000 for TURBOLASERS)
-splashDamage - How much damage the explosion does
-splashRadius - The radius of the explosion
-targetname - Toggles it on/off
-target - What to use when destroyed
-target2 - What to use when it decides to start shooting at an enemy showhealth - set to 1 to show health bar on this entity when crosshair is over it
-teamowner - crosshair shows green for this team, red for opposite team
+radius 		- How far away an enemy can be for it to pick it up (default 512) wait - Time between shots (default 150 ms)
+dmg 		- How much damage each shot does (default 5)
+health 		- How much damage it can take before exploding (default 100)
+count 		- if CANRESPAWN spawnflag, decides how long it is before gun respawns (in ms) - defaults to 20000 (20 seconds)
+paintarget 	- target to fire off upon being hurt
+painwait 	- ms to wait between firing off pain targets
+random 		- random error (in degrees) of projectile direction when it comes out of the muzzle (default is 2)
+shotspeed 	- the speed of the missile it fires travels at (default is 1100 for regular turrets, 20000 for TURBOLASERS)
+splashDamage 	- How much damage the explosion does
+splashRadius 	- The radius of the explosion
+targetname 	- Toggles it on/off
+target 		- What to use when destroyed
+target2 	- What to use when it decides to start shooting at an enemy showhealth - set to 1 to show health bar on this entity when crosshair is over it
+
+teamowner 	- crosshair shows green for this team, red for opposite team
 	0 - none
 	1 - red
 	2 - blue
-alliedTeam - team that this turret won't target
+alliedTeam 	- team that this turret won't target
 	0 - none
 	1 - red
 	2 - blue
@@ -1298,8 +1410,9 @@ teamnodmg - team that turret does not take damage from
 	0 - none
 	1 - red
 	2 - blue
-customscale - custom scaling size. 100 is normal size, 1024 is the max scaling. this will change the bounding box size, so be careful of starting in solid!
-icon	 - icon that represents the objective on the radar
+
+customscale 	- custom scaling size. 100 is normal size, 1024 is the max scaling. this will change the bounding box size, so be careful of starting in solid!
+icon	 	- icon that represents the objective on the radar
 ```
 
 ### Placing a jump pad
@@ -1378,11 +1491,12 @@ team_CTF_redflag
 team_CTF_blueflag
 team_CTF_neutralflag
 ```
-Acknowledgements
+
+## Acknowledgements
 I would like to thank all the players on my server and all the people on my forums helping me with ideas and finding bugs. I especially would like to thank Storm for being a great help in anwering questions in the forums, and even writing a faq for the Lugormod. 
 
 I would also like to thank the admins on my server for helping me look after it. 
 
 Thank you Steve Jackson of Steve Jackson Games (http://www.sjgames.com) for letting me use the fnord program in my mod.
 
-c 2004-2005 David Sjö̈strand
+###c 2004-2005 David Sjö̈strand
