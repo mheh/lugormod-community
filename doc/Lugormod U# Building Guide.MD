@@ -24,6 +24,7 @@ I have gone through and organized the entities by group. (info_, misc_, trigger_
 
 ## info_player_deathmatch ***
 Basic player spawnpoint, Now if your remove all the current spawnpoints and place one of these and then save, this will be the new spawnpoint. 
+
 - Do Not use info_player_start, it is out of date. You can place as many as you want, as long as the game sees this you will be ok.
 
 ### Keys:
@@ -33,6 +34,7 @@ noHumans  - humans cannot be spawned using this spawnpoint when set to 1.<br>
 target    - what to fire at when used, in this case when a person dies and this spawnpoint is used, it fires at this.<br>
 </p>
 ### Example code:
+
 ```
 /place info_player_deathmatch 12 nohumans,1,
 ```
@@ -44,23 +46,25 @@ target    - what to fire at when used, in this case when a person dies and this 
 Lugormod jail spawnpoint. <br>
 Use /jail <playername> <time> on a player and it will send them to this point, also place as many of these as you want<br>
 
-### Example code:<br>
+### Example code:
+
 ```
 /place info_player_jail 12
 ```
-- i added 12 to the z-axis because without the entity spawning 12 units up, you would literally spawn inside the ground.<br>
+
+- i added 12 to the z-axis because without the entity spawning 12 units up, you would literally spawn inside the ground.
 <p>
 # misc_ Entities
 
 ## misc_exploding_crate *
 Spawns a crate that when hit by an attack will explode. You can change its default model by the model key, although its hitbox is hard coded.
-
-### Keys
-dmg           - sets the damage that the entity will give
-model         - the md3 model to draw
-splashRadius  - sets the damage radius around the origin of the entity
-splashDamage  - sets the splash damage (if you are inside the splash radius you will receive this damage amount)
-
+<p>
+### Keys<br>
+dmg           - sets the damage that the entity will give<br>
+model         - the md3 model to draw<br>
+splashRadius  - sets the damage radius around the origin of the entity<br>
+splashDamage  - sets the splash damage (if you are inside the splash radius you will receive this damage amount)<br>
+</p>
 ### Example code:
 ```
 /place misc_exploding_crate 0
