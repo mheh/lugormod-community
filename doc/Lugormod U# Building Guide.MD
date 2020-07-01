@@ -1,4 +1,4 @@
-Lugormod U# (U-Sharp) Entity Guide
+# Lugormod U# (U-Sharp) Entity Guide
 
 The following are entities that can be placed and saved in the game, These are not all the entities, I've removed some of the entities that are for a team gametype and some of the entities that are pointless. Credit goes to Phred for making the first original entitylist, without that none of this is possible. And of course to Ravensoft, whenever they didn't do anything idiotic. I will try as best as i can to give a better definition for each entity, as well as give an example on how its placed. For a reference to these entities and how to use them please refer to the Lugormod Building Guide, located here.
 
