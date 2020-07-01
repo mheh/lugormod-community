@@ -1,6 +1,6 @@
-###27th November 2005
+### 27th November 2005
 
-###David Sjöstrand
+### David Sjöstrand
 
 # An introduction to the Lugormod 1.2
 
@@ -1539,4 +1539,4 @@ I would also like to thank the admins on my server for helping me look after it.
 
 Thank you Steve Jackson of Steve Jackson Games (http://www.sjgames.com) for letting me use the fnord program in my mod.
 
-###c 2004-2005 David Sjö̈strand
+### c 2004-2005 David Sjö̈strand
