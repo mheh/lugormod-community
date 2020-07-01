@@ -27,10 +27,11 @@ Basic player spawnpoint, Now if your remove all the current spawnpoints and plac
 - Do Not use info_player_start, it is out of date. You can place as many as you want, as long as the game sees this you will be ok.
 
 ### Keys:
-noBots    - bots cannot be spawned using this spawnpoint when set to 1.
-noHumans  - humans cannot be spawned using this spawnpoint when set to 1.
-target    - what to fire at when used, in this case when a person dies and this spawnpoint is used, it fires at this.
-
+<p>
+noBots    - bots cannot be spawned using this spawnpoint when set to 1.<br>
+noHumans  - humans cannot be spawned using this spawnpoint when set to 1.<br>
+target    - what to fire at when used, in this case when a person dies and this spawnpoint is used, it fires at this.<br>
+</p>
 ### Example code:
 ```
 /place info_player_deathmatch 12 nohumans,1,
