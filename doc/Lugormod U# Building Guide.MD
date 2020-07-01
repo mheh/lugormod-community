@@ -28,11 +28,12 @@ Basic player spawnpoint, Now if your remove all the current spawnpoints and plac
 - Do Not use info_player_start, it is out of date. You can place as many as you want, as long as the game sees this you will be ok.
 
 ### Keys:
-<p>
+
+```
 noBots    - bots cannot be spawned using this spawnpoint when set to 1.<br>
 noHumans  - humans cannot be spawned using this spawnpoint when set to 1.<br>
 target    - what to fire at when used, in this case when a person dies and this spawnpoint is used, it fires at this.<br>
-</p>
+```
 
 ### Example code:
 
@@ -44,8 +45,8 @@ target    - what to fire at when used, in this case when a person dies and this 
 
 ## info_player_jail ***
 
-Lugormod jail spawnpoint. <br>
-Use /jail <playername> <time> on a player and it will send them to this point, also place as many of these as you want<br>
+Lugormod jail spawnpoint.  
+Use /jail <playername> <time> on a player and it will send them to this point, also place as many of these as you want  
 
 ### Example code:
 
@@ -62,12 +63,12 @@ Spawns a crate that when hit by an attack will explode. You can change its defau
 
 ### Keys
 
-<p>
+```
 dmg           - sets the damage that the entity will give<br>
 model         - the md3 model to draw<br>
 splashRadius  - sets the damage radius around the origin of the entity<br>
 splashDamage  - sets the splash damage (if you are inside the splash radius you will receive this damage amount)<br>
-</p>
+```
 
 ### Example code:
 
@@ -82,22 +83,25 @@ splashDamage  - sets the splash damage (if you are inside the splash radius you 
 This will spawn a model in game that can either have no purpose and sit there, or it can fire a target, or it can even accept money to fire at its target.
 
 ### Spawnflags:
-<p>
+
+```
 1     - Makes the model solid. If maxs/mins are defined it will follow those. <br>
         Otherwise it will follow default maxs/mins, which go to the full extent size of the model<br>
 2     - Will cycle its animation<br>
 4     - Bounding Box will be there even when destroyed<br>
 8     - Doesn't display damage model when destroyed<br>
 16    - No smoke when used<br>
-32    - 32 - When used, will toggle to it's usemodel (model + "_u1.md3")... this does nothing if spawnflags 64 is not checked.<br>
+32    - When used, will toggle to it's usemodel (model + "_u1.md3")... this does nothing if spawnflags 64 is not checked.<br>
 64    - When used it will not break<br>
 128   - Player can use it will use button<br>
 256   - No Explosion<br>
 512   - Starts deactivated<br>
 8192  - Payable button, use count and message keys<br>
+```
 
 ### Keys:
 
+```
 property    - this entity will only work for people with access to the property set here  
 customSkill        - The name of the skill to check. (see lmd_customskill for details).  
 customSkillCompare - Comparison type. -1 for direct compare (use this for text), 0 for greater or equal to, 1 for less than. Default of 0.  
@@ -111,23 +115,23 @@ parm2       - the delay to wait in milliseconds before moving again when the mov
 profession  - Sets it so only a person with a certain profession can use a button.   
               Note that you can add these together: profession,3, = jedi and merc but tech can't access this button.  
   
--1     - no profession  
- 1     - Jedi Profession  
- 2     - Mercenary Profession  
- 4     - Tech Profession  
+              -1     - no profession  
+               1     - Jedi Profession  
+               2     - Mercenary Profession  
+               4     - Tech Profession  
   
 level       - People with this level and above can use this, must be set to 1-40. So if you set it to 5, people level 5 and up can use it while people   
               below level 5 cannot use it. However now if you set it to -5 people level's 5 and below will only be able to use this.  
 adminLevel  - People with this admin level and above can use this, must be set for 1-4, So if you set it to 2, admins level 2 and up can use it,   
               while people with level 3 and below cannot.  
-count       - Only works when spawnflags are set to 8192, its the amount of credits the person must pay with the "/pay" command for the entity to fire   its target.  
+count       - Only works when spawnflags are set to 8192, the amount of credits the person must pay for the entity to fire its target.  
 message     - The message that people will see when they press 'use' on the button.  
 gravity     - Add this key with the number one after it and make the z-axis to something above the ground and the model will be pushable and pullable.  
 target      - What to fire at when used  
 model       - the md3 model to draw  
 modelScale  - how much to scale the model, 1-10 for larger model, 0-1 for smaller, ex .5 for half the size.  
 targetName  - make the trigger target this value for the entity to be used  
-
+```
 
 ### Example code:
 
@@ -148,9 +152,12 @@ targetName  - make the trigger target this value for the entity to be used
 This entity lets lets you load a map inside a map. Once you place it you will have to 'saveit' and then do /newmap <the map your on> for it to be visible. You have to do this because brushmodels only load when the map is loaded. If you mess up, the only way to delete it, is to go into the .lmd file on your server and remove it manually. If you're experiencing issues with this entity, ensure you're not running QMM or JASS on top of Lugormod, as it seems they interpret the entitylist of misc_bsp models differently.
 
 ### Keys:
+```
 bspmodel    - the map .bsp you want to place
+```
 
 ### Example code:
+
 ```
 /place misc_bsp 0 bspmodel,t1_inter,
 ```
@@ -160,6 +167,8 @@ bspmodel    - the map .bsp you want to place
 Gives generic ammo when used Can be Granted a targetname to be used by another entity
 
 ### Keys:
+
+```
 count       - max charge value.
               (default 200)
 chargerate  - recharge 1 point every this many milliseconds.
@@ -167,8 +176,10 @@ chargerate  - recharge 1 point every this many milliseconds.
 nodrain     - don't drain power from station if 1.
 model       - the md3 model to draw, must include the extension ".md3" at the end of the model value for this to work. 
 targetname  - make the trigger target this value for the entity to be used.
+```
 
 ### Example code:
+
 ```
 /place misc_ammo_floor_unit 0 nodrain,1,
 ```
