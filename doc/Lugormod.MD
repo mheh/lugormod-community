@@ -1,10 +1,10 @@
-27th November 2005
+###27th November 2005
 
-David Sjöstrand
+###David Sjöstrand
 
-# An introduction to the Lugormod v1.2
+# An introduction to the Lugormod 1.2
 
-Last update 4/7/19 by Milo Hehmsoth
+Last update 6/30/20 by Milo Hehmsoth
 
 ## Preface
 This document serves as the official documentation for the Lugormod. It is a short introduction to the most essential features of the mod. This document is a work in progress and is more or less still only a draft. It will contain spelling errors, incorrect language and confusing choice of words. I myself am not a native English speaker. If you are, and you would like to help me make this document better, please contact me.
@@ -12,9 +12,7 @@ This document serves as the official documentation for the Lugormod. It is a sho
 ## Conventions
 The term admin will be used for administrator.
 
-
 Instead of the complete name of the game Star Wars Jedi Knight: Jedi Academy the abbreviation JK:JA will be used.
-
 
 A mod is a modification of a game or a game server, in this case the game server for the game JK:JA.
 
@@ -51,8 +49,7 @@ This example will list all .md3 models in the folder models/map_objects/yavin:
 Before looking at the Lugormod there are some basic concepts you need to have some knowledge about. When playing a multiplayer game there is always a server or host (usually only one) and one or more clients. The server is the machine hosting the game and a client is a machine connecting to the server to play the game. When you play the game the computer you are using is a client. Things that are said to be server-side are things that stuff that happen on the server machine and things that are said to be client-side are stuff that happens on the client machine. A (JK:JA) server can be run in two ways, as a non dedicated server or a dedicated server. When you start a non dedicated server the server will start and you will join the game. Both the server and the client will run in the same process. Anything you type in the console will be a server command. When you exit the game the server will stop running. This way of starting the server is not recommended.
 
 
-When you start a dedicated server, all you will get is a console window show- ing some text. If you wish to join the game, you will have to start the game and enter the game which you will find in the LAN game list. Any command you type in the console will be an ingame command. To be able to issue a server command, you will either have to type them in the server console window, or you will have to use the the command rcon.
-The syntax for the rcon command is
+When you start a dedicated server, all you will get is a console window show- ing some text. If you wish to join the game, you will have to start the game and enter the game which you will find in the LAN game list. Any command you type in the console will be an ingame command. To be able to issue a server command, you will either have to type them in the server console window, or you will have to use the the command rcon. The syntax for the rcon command is:
 ```
 \rcon [rconPassword] <command>
 ```
@@ -68,8 +65,7 @@ The cvar rconPassword exists server-side also, and to be able to issue a server 
 If you have unanswered questions after reading this document, or if you want more in depth information about the mod, visit the forums at http://lugor.mine.nu/ja
                
 ## Chapter 1 Installing the mod
-To be able to run the mod at all you will need to have
-Star Wars Jedi Knight: Jedi Academy version 1.01 installed on a computer.
+To be able to run the mod at all you will need to have Star Wars Jedi Knight: Jedi Academy version 1.01 installed on a computer.
 
 ### 1.1 Windows
 On a Windows system, locate the folder where Jedi Academy was installed (this is typically something like
@@ -87,15 +83,13 @@ jampgame_mac.zip
 In the ’lugormod’ folder, locate the file server.cfg. This file contains all the settings for the server. Edit this to your liking (more details on this later). You can use notepad for this. To start the server, go to the ’GameData’ folder and double click the Start dedicated.bat. This will start a dedicated internet server on the default port (29070). It is recommended that you run a dedicated server.
 
 ### 1.2 Mac OS
-This doesn’t work unless you have this version downloaded. - Left for posterity’s sake.
-Unzip the Lugormod zip archive in this folder when using JKJA Launch
+This doesn’t work unless you have this version downloaded. - Left for posterity’s sake. Unzip the Lugormod zip archive in this folder when using JKJA Launch
 ```
 ~/Library/Application Support/Jedi Academy MP
 ```
 
 
-This will create a folder called ’lugormod’. In the ’lugormod’ folder locate and rename the file jampgame_mac.zip jampgame_mac.pk3. In the ’lugormod’ folder, locate and remove the following
-files:
+This will create a folder called ’lugormod’. In the ’lugormod’ folder locate and rename the file jampgame_mac.zip jampgame_mac.pk3. In the ’lugormod’ folder, locate and remove the following files:
 ```
 jampgame.dll
 jampgamei386.so
@@ -105,9 +99,7 @@ jampgamex86.dll
 Start the game. Select the Lugormod from within the game. 1
 
 ### 1.2.1 Mac OS Dedicated server
-Unzip the Lugormod zip archive in the same folder as you find the
-JKJA Dedicated Server executable. Rename the file jampgame.dll in the ’base’ folder to something else. Then move the files jampgame.dll and Lugormod.pk3 from the ’lugormod’ folder to the ’base’ folder. In the ’lugormod’ folder, locate
-and remove the following files:
+Unzip the Lugormod zip archive in the same folder as you find the JKJA Dedicated Server executable. Rename the file jampgame.dll in the ’base’ folder to something else. Then move the files jampgame.dll and Lugormod.pk3 from the ’lugormod’ folder to the ’base’ folder. In the ’lugormod’ folder, locate and remove the following files:
 ```
 jampgamei386.so
 jampgamex86.dll
@@ -166,11 +158,9 @@ seta cvarname "value"
 
 A line starting with // is a comment and is ignored by the server.
 
-The first line we are interested in is the line starting with ’rconpassword’. This is the password for accessing the server remotely with the rcon command. Next we take a look at the cvar sv_hostname. This is the name of the server and is what is listed on the server list when you join a game. Set this to what
-ever you want.
+The first line we are interested in is the line starting with ’rconpassword’. This is the password for accessing the server remotely with the rcon command. Next we take a look at the cvar sv_hostname. This is the name of the server and is what is listed on the server list when you join a game. Set this to what ever you want.
 
-The last cvar we will look at now is sv_maxclients. This governs how many
-players are allowed on the server. The maximum number of players this game can accomodate is 32. Other limiting factors are the bandwidth of your internet connection and possibly the capacity of your computer. I suggest you start low (12 or so) and go higher if there are no problems when the server is full.
+The last cvar we will look at now is sv_maxclients. This governs how many players are allowed on the server. The maximum number of players this game can accomodate is 32. Other limiting factors are the bandwidth of your internet connection and possibly the capacity of your computer. I suggest you start low (12 or so) and go higher if there are no problems when the server is full.
 
 
 ### 2.1.2 Becoming an admin
@@ -190,9 +180,11 @@ Now you are authenticated as a level one admin. You will stay authenticated unti
 ### 2.2 Accounts
 Any playercanregistertheirnicknamewiththecommand\regnick <password> where <password> is a password selected by the user. A registered name can’t be used by any other player. When a player issues the regnick com- mand an account will be created and a user identification number (UID) will be returned (displayed in the console). The player can then use the command \login <UID> <regcode> when the player comes back to the server to login to this account. The account contains the following data:
 ```
-• registered nick name. • regcode.
+• registered nick name. 
+• regcode.
 • profession.
-• ammount of credits. • persistent score.
+• ammount of credits. 
+• persistent score.
 • total time on the server.
 • level.
 • day of the last log in.
@@ -201,6 +193,7 @@ Any playercanregistertheirnicknamewiththecommand\regnick <password> where <passw
 ```
 
 The account will expire and is deleted if the player doesn’t login in a certain number of days. The number of days until the account is deleted is decided by the player’s level, and is 7 days for each level up to a maximum of 70 days.
+
 Every Lugormod specific ingame command has a level. This is the admin level needed to be able to use the command. A normal, non admin, player has the admin level 0, and can only use commands with the level 0. Level 1 admins can access all commands. Level 2 Admins can access all commands except those that are level 1. A level 3 admin can access all commands except those that are level 1 or 2 and so on. The levels of the commands can be redefined. Set the cvar g_cmdLvlFile to the name of the file you want to use for this (for example cmdleveldefs.cfg). Open the file. Each row in the file is a command name - level pair. If you want to set the level for the commands blowup, drinkme and dragon all to 3, this is what you would write in your file:
 ```
 "blowup" 3 
