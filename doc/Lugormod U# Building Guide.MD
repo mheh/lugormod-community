@@ -30,9 +30,9 @@ Basic player spawnpoint, Now if your remove all the current spawnpoints and plac
 ### Keys:
 
 ```
-noBots    - bots cannot be spawned using this spawnpoint when set to 1.<br>
-noHumans  - humans cannot be spawned using this spawnpoint when set to 1.<br>
-target    - what to fire at when used, in this case when a person dies and this spawnpoint is used, it fires at this.<br>
+noBots    - bots cannot be spawned using this spawnpoint when set to 1.
+noHumans  - humans cannot be spawned using this spawnpoint when set to 1.
+target    - what to fire at when used, in this case when a person dies and this spawnpoint is used, it fires at this.
 ```
 
 ### Example code:
@@ -64,10 +64,10 @@ Spawns a crate that when hit by an attack will explode. You can change its defau
 ### Keys
 
 ```
-dmg           - sets the damage that the entity will give<br>
-model         - the md3 model to draw<br>
-splashRadius  - sets the damage radius around the origin of the entity<br>
-splashDamage  - sets the splash damage (if you are inside the splash radius you will receive this damage amount)<br>
+dmg           - sets the damage that the entity will give
+model         - the md3 model to draw
+splashRadius  - sets the damage radius around the origin of the entity
+splashDamage  - sets the splash damage (if you are inside the splash radius you will receive this damage amount)
 ```
 
 ### Example code:
@@ -85,27 +85,28 @@ This will spawn a model in game that can either have no purpose and sit there, o
 ### Spawnflags:
 
 ```
-1     - Makes the model solid. If maxs/mins are defined it will follow those. <br>
-        Otherwise it will follow default maxs/mins, which go to the full extent size of the model<br>
-2     - Will cycle its animation<br>
-4     - Bounding Box will be there even when destroyed<br>
-8     - Doesn't display damage model when destroyed<br>
-16    - No smoke when used<br>
-32    - When used, will toggle to it's usemodel (model + "_u1.md3")... this does nothing if spawnflags 64 is not checked.<br>
-64    - When used it will not break<br>
-128   - Player can use it will use button<br>
-256   - No Explosion<br>
-512   - Starts deactivated<br>
-8192  - Payable button, use count and message keys<br>
+1     - Makes the model solid. If maxs/mins are defined it will follow those.
+        Otherwise it will follow default maxs/mins, which go to the full extent size of the model
+2     - Will cycle its animation
+4     - Bounding Box will be there even when destroyed
+8     - Doesn't display damage model when destroyed
+16    - No smoke when used
+32    - When used, will toggle to it's usemodel (model + "_u1.md3")... this does nothing if spawnflags 64 is not checked.
+64    - When used it will not break
+128   - Player can use it will use button
+256   - No Explosion
+512   - Starts deactivated
+8192  - Payable button, use count and message keys
 ```
 
 ### Keys:
 
 ```
-property    - this entity will only work for people with access to the property set here  
 customSkill        - The name of the skill to check. (see lmd_customskill for details).  
-customSkillCompare - Comparison type. -1 for direct compare (use this for text), 0 for greater or equal to, 1 for less than. Default of 0.  
+customSkillCompare - Comparison type. -1 for direct compare (use this for text), 0 for greater or equal to, 1 for less than. 
+                     (default 0)  
 customSkillValue   - The value to compare to.  
+property    - this entity will only work for people with access to the property set here  
 playerFlags - gives access to this entity for players who have this set ammount of flags, see lmd_flagplayer for more information  
 useScript   - the script to use  
 parm1       - the movement distance for a movable model to move to, if spawnflags 2 is set it loops its movement.  
@@ -113,8 +114,7 @@ parm1       - the movement distance for a movable model to move to, if spawnflag
               "usescript,common/switch_on".  
 parm2       - the delay to wait in milliseconds before moving again when the movement reaches its closed position or opened position  
 profession  - Sets it so only a person with a certain profession can use a button.   
-              Note that you can add these together: profession,3, = jedi and merc but tech can't access this button.  
-  
+              Note that you can add these together: profession,3, = jedi and merc but tech can't access this button.
               -1     - no profession  
                1     - Jedi Profession  
                2     - Mercenary Profession  
@@ -153,7 +153,7 @@ This entity lets lets you load a map inside a map. Once you place it you will ha
 
 ### Keys:
 ```
-bspmodel    - the map .bsp you want to place
+bspmodel - the map .bsp you want to place
 ```
 
 ### Example code:
@@ -161,6 +161,7 @@ bspmodel    - the map .bsp you want to place
 ```
 /place misc_bsp 0 bspmodel,t1_inter,
 ```
+
 - will spawn a map, t1_inter in this case at the area you are looking at
 
 ## misc_ammo_floor_unit *
@@ -190,6 +191,7 @@ targetname  - make the trigger target this value for the entity to be used.
 Gives generic shield when used can also be granted a targetname
 
 ### Keys:
+```
 count       - max charge value 
               (default 50)
 chargerate  - recharge 1 point every this many milliseconds 
@@ -197,8 +199,10 @@ chargerate  - recharge 1 point every this many milliseconds
 nodrain     - don't drain power from me
 model       - the md3 model to draw, must include the extension ".md3" at the end of the model value for this to work
 targetname  - make the trigger target this value for the entity to be used
+```
 
 ### Example code:
+
 ```
 /place misc_shield_floor_unit 0 nodrain,1,
 ```
@@ -209,13 +213,17 @@ targetname  - make the trigger target this value for the entity to be used
 Gives health when used. Also can be targeted when given a targetname.
 
 ### Keys:
+
+```
 health      - the amount of health given when used 
               (default 60)
 model       - the md3 model to draw, must include the extension ".md3" at the end of the model value for this to work. 
               The hitbox will not change, it is hard coded into the entity code.
 targetname  - make the trigger target this value for the entity to be used
+```
 
 ### Example code:
+
 ```
 /place misc_model_health_power_converter 0
 ```
@@ -226,10 +234,15 @@ targetname  - make the trigger target this value for the entity to be used
 fires weapon projectiles when used.
 
 ### Spawnflags:
+
+```
 1 - fire the alt-fire of the chosen weapon
 2 - keep firing until used again (fires at intervals of "wait")
+```
 
 ### Keys:
+
+```
 wait        - debounce time between refires.
               (defaults to 500)
 target      - what to aim at (will update aim every frame if it's a moving target. 
@@ -237,8 +250,10 @@ target      - what to aim at (will update aim every frame if it's a moving targe
 weapon      - specify the weapon to use. Some of these are unstable, or will shut down the server when used, careful with them.
               (default is WP_BLASTER)
 targetname  - make the trigger target this value for the entity to be used.
+```
 
-Possible weapon pairs:
+#### Possible weapon key->pair:
+
 ```
 WP_BRYAR_PISTOL
 WP_BLASTER
@@ -263,6 +278,7 @@ WP_BLASTER_PISTOL
 ```
 
 ### Example code:
+
 ```
 /place misc_weapon_shooter * weapon,WP_TURRET,target,*66,spawnflags,2,
 ```
@@ -273,12 +289,15 @@ WP_BLASTER_PISTOL
 A working camera that is similar to the single player camera system. the player is noclipped and teleported and frozen at the camera location, and a fake model is left behind where he was. Any damage given to the fake model is passed onto the player. The entity spawns a camera model by default at the origin/angle of the entity. You can turn off the model by setting model,null,
 
 ### Keys:
+
+```
 wait        - time between the user being able to fire its targets by attacking. 
               (defaults to 1 second)
 target2     - when the user attacks.
 target3     - fire when the user alt-attacks.
 model       - The model to draw instead of the default camera model.
 targetname  - make the trigger target this value for the entity to be used.
+```
 
 ### Example code:
 ```
@@ -298,14 +317,21 @@ This must be within 64 world units of the surface!
 The target for a misc_portal_surface. You can set either angles or target another entity to determine the direction of view, like info_notnull or target_position.
 
 ### Spawnflags:
+
+```
 1 - slowly rotates
 2 - rotates fast
 4 - doesn't rotate
+```
 
 ### Keys:
+
+```
 roll - an angle modifier to orient the camera around the target vector
+```
 
 ### Example code:
+
 ```
 /place misc_portal_camera 0 target,cam_pos,targetname,cam_portal,spawnflags,4,roll,270,
 ```
@@ -314,6 +340,8 @@ roll - an angle modifier to orient the camera around the target vector
 Spawns a turret that will fire at a person. This entity is finicky, some spawnflags don't always work together.
 
 ### Spawnflags:
+
+```
 1     - Turret will start off and toggle turning on and off when used, requires the entity to have a targetname
 2     - Turret will be upside-down (with foot part on floor)
 4     - will respawn after being killed (use count)
@@ -324,8 +352,11 @@ Spawns a turret that will fire at a person. This entity is finicky, some spawnfl
 128   - Target Ground Vehicles
 256   - Target Players Who Are Armed
 512   - If set, turret will only attack players who fit the profession/level/maxlevel keys (By default people on property list are not attacked)
+```
 
 ### Keys:
+
+```
 property      - The turret will ignore players who fit the keys
 level         - The turret will ignore players who fit the keys
 authlevel     - The turret will ignore players who fit the keys
@@ -354,8 +385,10 @@ target2       - Target to activate upon firing at targets
 showhealth    - Will show health when person aims at the turret, if this has the value "1"
 customscale   - Custom scaling, 1024 is maximum, watch out with this
                 (default 100)
+```
 
 ### Example code:
+
 ```
 /place misc_turretG2 0 spawnflags,265,health,2000000,
 ```
@@ -364,11 +397,15 @@ customscale   - Custom scaling, 1024 is maximum, watch out with this
 Raining Stormtroopers?? spawned every interval+random fudgefactor, or if specified, when used. This takes up a lot of temp ents if you let them rain freely.
 
 ### Keys:
+
+```
 targetname  - if specified, will only spawn when used
 interval    - spawn every so often (milliseconds)
 fudgefactor - milliseconds between 0 and this number randomly added to interval
+```
 
 ### Example code:
+
 ```
 /place misc_faller 200 interval,1000,fudgefactor,200,
 ```
@@ -379,9 +416,13 @@ fudgefactor - milliseconds between 0 and this number randomly added to interval
 An in game slot machine, 1 entity thats all it takes. Accepts /pay command with numbers from 10 - 200 all numbers have to be by 10, ex /pay 50.
 
 ### Keys
+
+```
 count - the starting credit the machine comes with, once the total credit hits 0 the machine will say its out of credits when used.
+```
 
 ### Example code:
+
 ```
 /place misc_slotmachine 0 count,5000,
 ```
@@ -389,15 +430,17 @@ count - the starting credit the machine comes with, once the total credit hits 0
 ## misc_skyportal ***
 Will take a snapshot of wherever you place one of these and put it in the sky. The snapshot is a whole 360 around the origin of this entity, place on on the map and look at the sky. You Will Need To Use The misc_skyportal_orient entity to change an angle
 
-*Note:
-Also note that entities in the same PVS and visible (via point trace) from this object will be flagged as portal entities. This means they will be sent and updated from the server for every client every update regardless of where they are, and they will essentially be added to the scene twice if the client is in the same PVS as them (only once otherwise, but still once no matter where the client is). In other words, don't go overboard with it or everything
-will explode.
+*Note: Also note that entities in the same PVS and visible (via point trace) from this object will be flagged as portal entities. This means they will be sent and updated from the server for every client every update regardless of where they are, and they will essentially be added to the scene twice if the client is in the same PVS as them (only once otherwise, but still once no matter where the client is). In other words, don't go overboard with it or everything will explode.
 
 ### Keys:
+
+```
 fov - for the skybox. 
       (default is 80)
+```
 
 ### Example code:
+
 ```
 /place misc_skyportal 0
 ```
@@ -406,7 +449,10 @@ fov - for the skybox.
 point from which to orient the sky portal cam in relation to the regular view position.
 
 ### Keys:
+
+```
 modelscale - the scale at which to scale positions
+```
 
 # trigger_ Entities
 
@@ -414,6 +460,8 @@ modelscale - the scale at which to scale positions
 Must point at a target_position, which will be the apex of the leap. This will be client side predicted, unlike target_push.
 
 ### Spawnflags:
+
+```
 1     - Only a player can trigger this
 2     - Every 1 second, it will check to see if it can trace to the target_position, if it can, the trigger is touchable.
         If it can't, the trigger is not touchable.
@@ -425,22 +473,30 @@ Must point at a target_position, which will be the apex of the leap. This will b
 32    - acts like a conveyor belt, will only push if player is on the ground (should probably use RELATIVE also, if you want a true conveyor belt)
 128   - not active until targeted by a target_activate
 256   - multiple entities can touch this trigger in a single frame *and* if needed, the trigger can have a wait of > 0
+```
 
 ### Keys:
+
+```
 wait  - how long to wait between pushes (-1 = push only once)
 speed - when used with the spawnflag 4, pushes the client toward the position at a constant speed 
         (default is 1000)
+```
 
 ## trigger_lightningstrike * 
 A trigger that will generate random lightning strikes inside it. Lighting can do damage, if used it will target on/off
 
-*Note
-(Two-Part entity, to get hurt it has to be triggered, to start or turn off it has to be targeted)
+*Note: (Two-Part entity, to get hurt it has to be triggered, to start or turn off it has to be targeted)
 
 ### Spawnflags:
+
+```
 1 - Start off, must be used to turn on
+```
 
 ### Keys:
+
+```
 lightningfx - effect to use for lightning, MUST be specified
 wait        - Seconds between strikes
               (default 1000)
@@ -452,8 +508,10 @@ radius      - if non-0, does a radius damage at the lightning strike impact poin
               otherwise will only do line trace damage
               (default 0)
 targetname  - make the trigger target this value for the entity to be used, this entity is togglable so using this targetname makes it turn off and on.
+```
 
 ### Example code:
+
 ```
 /place trigger_lightningstrike 0 mins,-200 -400 0,maxs,200 400 800,spawnflags,1,wait,300,dmg,99,targetname,lightning,
 ```
@@ -464,6 +522,8 @@ targetname  - make the trigger target this value for the entity to be used, this
 Backbone of the game, this should be a highly placed entity. Often paired with maxs/mins to affect an area.
 
 ### Spawnflags:
+
+```
 1     - only a player can trigger this by touch, makes it so a NPC cannot fire a trigger_multiple
 2     - Won't fire unless triggering ent's view angles are within 45 degrees of trigger's angles (in addition to any other conditions)
         If you want the player to only be able to fire the entity at a 90 degree angle you would do ",angles,0 90 0," into your spawnstring.
@@ -473,8 +533,11 @@ Backbone of the game, this should be a highly placed entity. Often paired with m
 16    - only non-player NPCs can trigger this by touch
 128   - Start off, has to be activated by a target_activate to be touchable/usable
 1024  - multiple players can trigger the entity at the same time
+```
 
 ### Keys:
+
+```
 customskill         - The name of the skill to check. (see lmd_customskill for details)
 customskillcompare  - Comparison type. -1 for direct compare (use this for text), 0 for greater or equal to, 1 for less than. 
                       (default 0)
@@ -500,6 +563,7 @@ usetime       - If specified (in milliseconds) along with spawnflags 4, will req
                 (default 10000)
 model         - the model for the size of the bounding box
 targetname    - make the trigger target this value for the entity to be used
+```
 
 ### Example code:
 Because this is one of the most important entities i will list 3 examples
@@ -526,6 +590,8 @@ Because this is one of the most important entities i will list 3 examples
 a trigger multiple, but it automatically sets the wait key to -1, meaning once its used it can never be used again that game
 
 ### Spawnflags:
+
+```
 1     - only a player can trigger this by touch, makes it so a NPC cannot fire a trigger_multiple
 2     - Won't fire unless triggering ent's view angles are within 45 degrees of trigger's angles (in addition to any other conditions)
         if you want the player to only be able to fire the entity at a 90 degree angle you would do ",angles,0 90 0," into your spawnstring.
@@ -535,8 +601,11 @@ a trigger multiple, but it automatically sets the wait key to -1, meaning once i
 16    - only non-player NPCs can trigger this by touch
 128   - Start off, has to be activated by a target_activate to be touchable/usable
 256   - THIS IS INCORRECT! Multiple Entities Can Touch This
+```
 
 ### Keys:
+
+```
 customskill         - The name of the skill to check (see lmd_customskill for details)
 customskillcompare  - Comparison type. -1 for direct compare (use this for text), 0 for greater or equal to, 1 for less than. 
                       (default 0)
@@ -556,8 +625,10 @@ usetime       - If specified (in milliseconds) along with spawnflags 4, will req
                 (default 10000)
 model         - the model for the size of the bounding box
 targetname    - make the trigger target this value for the entity to be used
+```
 
 ### Example code:
+
 ```
 /place trigger_once 0 mins,-50 -50 0,maxs,50 50 50,target,t232,
 ```
@@ -568,13 +639,20 @@ targetname    - make the trigger target this value for the entity to be used
 First step of making a teleport. The bounding box area of a teleport, should target a target_teleporter. You don't need to use this entity, you can also use trigger_multiple. This works better if you wish to have a NPC_vehicle go through a teleport.
 
 ### Spawnflags:
+
+```
 1 - only spectators can teleport using this
 2 - don't teleport players if they are in a duel
+```
 
 ### Keys:
+
+```
 target - must be a target_teleporter entity
+```
 
 ### Example code:
+
 ```
 /place trigger_teleporter 0 mins,-15 -15 0,maxs,15 15 50,target,enter_bar,
 ```
@@ -586,19 +664,26 @@ Any player that touches this will be hurt.
 Targeting the trigger will toggle its on / off state.
 
 ### Spawnflags:
+
+```
 1   - The entity will start in its off state
 2   - Can Be Targeted
 4   - Suppresses playing the sound
 8   - Nothing Can Stop Damage
 16  - Changes the damage rate to once per second
+```
 
 ### Keys:
+
+```
 dmg         - The damage to hurt the player per second. Set to -1, it will make the player have a fall effect as if they are falling down a hill.
               (default 5)
 model       - the model for the size of the bounding box, same thing as using a bounding box, but use an existing bmodel
 targetname  - make the trigger target this value for the entity to be used, when used it will turn off and on
+```
 
 ### Example code:
+
 ```
 /place trigger_hurt 0 mins,-500 -500 0,maxs,500 500 200,dmg,-1,targetname,hole_die,
 ```
@@ -609,9 +694,13 @@ targetname  - make the trigger target this value for the entity to be used, when
 Removes gravity from players and makes them suffocate. Does not affect vehicles that have the player inside them. This must have a bounding box (max/mins) to work.
 
 ### Keys:
+
+```
 model - the model for the size of the bounding box, same thing as useing a bounding box, but use an existing bmodel
+```
 
 ### Example code:
+
 ```
 /place trigger_space 0 mins,-20 -20 0,maxs,20 20 50,targetname,space,
 ```
@@ -622,11 +711,15 @@ model - the model for the size of the bounding box, same thing as useing a bound
 Causes vehicle to turn towards a target and travel in that direction for a set time when hit. Needs to have a bounding box(maxs/mins) to work. Best if you make it target an target_position.
 
 ### Keys:
+
+```
 target      - name of entity to turn toward
 traveltime  - time to travel in this direction
 model       - the model for the size of the bounding box, same thing as using a bounding box, but use an existing bmodel
+```
 
 ### Example code:
+
 ```
 /place trigger_shipboundary 0 mins,-2000 -2000 0,maxs,2000 2000 3000,target,ship_turnaround,traveltime,10,
 ```
@@ -637,11 +730,15 @@ model       - the model for the size of the bounding box, same thing as using a 
 Ship will turn to face the angles of the first target, which should be target_position Then fly forward, playing the hyperspace effect, then pop out at a relative point around the target2 which should also be a target_position.
 
 ### Keys:
+
+```
 target    - supposed to face the origin of where this entity is located, use target_position
 target2   - supposed to head towards the origin of where this entity is placed, used target_position
 model     - the model for the size of the bounding box, same thing as using a bounding box, but use an existing bmodel
+```
 
 ### Example code:
+
 ```
 /place trigger_hyperspace 0 mins,-500 -1 0,maxs,500 1 0,target,pos_angle,target2,pos_end,
 ```
@@ -652,9 +749,13 @@ model     - the model for the size of the bounding box, same thing as using a bo
 changes the map to whatever you specify when this entity gets used.  This is dangerous in older lugormod versions or if not used with OpenJK. Escape sequences and the ';' can be used in the mapname key maliciously. Use with care and/or remove.
 
 ### Keys:
+
+```
 mapname - map to change to when used
+```
 
 ### Example code:
+
 ```
 /place target_level_change * targetname,changemap,mapname,t2_trip
 ```
@@ -663,9 +764,13 @@ mapname - map to change to when used
 Only exists for the sole purpose of having stuff aim at it, like misc_weapon_shooters, effects, tele's, trigger_push, misc_portal_camera ect.
 
 ### Keys:
+
+```
 targetname - make the trigger target this value for the entity to be used
+```
 
 ### Example code:
+
 ```
 /place target_position 60 targetname,blaster_fire_spot,
 ```
@@ -676,22 +781,32 @@ targetname - make the trigger target this value for the entity to be used
 Gets used by something targeting this, it will push the activator in the direction of its target, which should be a target_position or something.
 
 ### Spawnflags:
+
+```
 1 - play bounce noise
 2 - will push activator in direction of 'target' at constant 'speed', speed does need to be set for this to work
+```
 
 ### Keys:
+
+```
 speed - speed to push activator 
         (default 1000)
+```
 
 ## target_powerup **
 Sets a powerup to the player.
 
 ### Keys:
+
+```
 powerup     - use this key to set one of the powerups (listed below)
 targetname  - make the trigger target this value for the entity to be used
 wait        - duration
+```
 
 ### Powerups:
+
 ```
 0   - nothing
 1   - multiply the damage by the value in the cvar g_quadfactor
@@ -712,6 +827,7 @@ wait        - duration
 ```
 
 ### Example code:
+
 ```
 /place target_powerup * targetname,Coffee,powerup,11,
 ```
@@ -722,9 +838,13 @@ wait        - duration
 Remove all powerups from the person who uses this. In U# It will not longer remove the stash glow effect when a player uses this.
 
 ### Keys:
+
+```
 targetname - make the trigger target this value for the entity to be used
+```
 
 ### Example code:
+
 ```
 /place target_remove_powerups * targetname,remove_powerup
 ```
@@ -734,13 +854,20 @@ targetname - make the trigger target this value for the entity to be used
 ## target_teleporter **
 This teleports the player when used. Does not need a trigger_teleport, the same thing as misc_teleporter_dest, which isnt listed. Use angle or angles keys to change the direction that you teleport in.
 
-### Keys:
-targetname - make the trigger target this value for the entity to be used
-
 ### Spawnflags:
+
+```
 1 - Do not teleport player if they are in a duel.
+```
+
+### Keys:
+
+```
+targetname - make the trigger target this value for the entity to be used
+```
 
 ### Example code:
+
 ```
 /place target_teleporter 12 targetname,enter_bar,angle,90,
 ```
@@ -751,15 +878,22 @@ targetname - make the trigger target this value for the entity to be used
 This is a great entity for making an entity not fire its target right away, instead it waits the amount of time you set with the "wait" key to fire its target.
 
 ### Spawnflags:
+
+```
 1 - Keeps the delay from resetting the time if it is activated again while it is counting down to an event.
+```
 
 ### Keys:
+
+```
 wait        - Seconds to pause before firing targets
 random      - delay variance, total delay = delay +/- random seconds.
 targetname  - make the trigger target this value for the entity to be used
 target      - what to fire at when the delay time is hit
+```
 
 ### Example code:
+
 ```
 /place target_delay * wait,3,target,ship_spawn,targetname,ship_delay,
 ```
@@ -770,16 +904,22 @@ target      - what to fire at when the delay time is hit
 This entity will play a sound that you specify in a certain radius.
 
 ### Spawnflags:
+
+```
 1 - Makes the sound start On, loops the sound when complete
 2 - Makes the sound start Off
 4 - Everybody on the entire map can hear the sound
 8 - Only the activator can hear the sound
+```
 
 ### Keys:
+
+```
 noise       - wav file to play
 wait        - Seconds between auto triggerings, 0 = don't auto trigger
 random      - Wait variance, default is 0
 targetname  - make the trigger target this value for the entity to be used
+```
 
 ### Example code:
 ```
@@ -792,18 +932,25 @@ targetname  - make the trigger target this value for the entity to be used
 This will print a message across the screen. Basically the same as the announce command. If no spawnflag is set, it will make the print global.
 
 ### Spawnflags:
+
+```
 1   - Red Team Only
 2   - Blue Team Only
 4   - Only the person who activated the entity can see the message.
 8   - Message will appear at top left corner of the screen
 16  - Message will appear in area where chat normally appears
+```
 
 ### Keys:
+
+```
 message     - text to print
 wait        - don't fire off again if triggered within this many milliseconds ago
 targetname  - make the trigger target this value for the entity to be used
+```
 
 ### Example code:
+
 ```
 /place target_print * spawnflags,4,targetname,bar_text,message,^4No Laming\n ^0In the bar!,
 ```
@@ -814,14 +961,21 @@ targetname  - make the trigger target this value for the entity to be used
 Adds points to the players score once fired.
 
 ### Spawnflags:
+
+```
 1 - Sets your score to this count when used instead of adding to your score
+```
 
 ### Keys:
+
+```
 count       - number of points to add to the activator
               (default 1)
 targetname  - make the trigger target this value for the entity to be used
+```
 
 ### Example code:
+
 ```
 /place target_score * targetname,negative_points,count,-5,
 ```
@@ -832,9 +986,13 @@ targetname  - make the trigger target this value for the entity to be used
 This when targeted will kill the person/npc who fires it.
 
 ### Keys:
+
+```
 targetname - make the trigger target this value for the entity to be used
+```
 
 ### Example code:
+
 ```
 /place target_kill * targetname,kill
 ```
@@ -845,9 +1003,14 @@ targetname - make the trigger target this value for the entity to be used
 You have to use this entity a specified amount of times for it to fire at its target, the default is 2 times ravensoft made it so it will deactivate after it gets hit a certain amount of times, but if you set a bouncecount at -1 the entity will keep on being able to be used.
 
 ### Spawnflags:
+
+```
 1 - Start Inactive, must be hit by a target_activate to be able to be used.
+```
 
 ### Keys:
+
+```
 target        - what to first fire at when the entity as been hit a certain amount of times.
 target2       - fires this every time you target the entity and it isnt at its count
 count         - the amount of times to be hit for firing its target
@@ -855,8 +1018,10 @@ count         - the amount of times to be hit for firing its target
 bounceCount   - set this at -1 so the entity will never stop working, otherwise after the first use it will stop working 
                 if you set bouncecount to 5 then after the fifth use it will stop working.
 targetname    - make the trigger target this value for the entity to be used
+```
 
 ### Example code:
+
 ```
 /place target_counter * targetname,double_NPC_counter,target,dead_NPCS,count,2,bounceCount,-1,
 ```
@@ -867,21 +1032,29 @@ targetname    - make the trigger target this value for the entity to be used
 Randomly fires off only one of it's targets each time used, does the exact same thing as the target_relay with the random spawnflag it doesn't have a target2, target3, target4, target5, target6 function just set one target and multiple entities with that targetname. It will only fire one of them.
 
 ### Spawnflags:
+
+```
 1 - only be usable once, then disable itself
+```
 
 ### Keys:
+
+```
 targetname  - make the trigger target this value for the entity to be used
 target      - should target more than one entity, it will only fire at one of its targets.
+```
 
 ### Example code:
 Ok lets say i wanted to press a button and get a random amount of credits back..
 
 The random selector:
+
 ```
 /place target_random * targetname,random_reward,target,random_credits,
 ```
 
 My array of credits:
+
 ```
 /place target_credits * targetname,random_credits,count,2,
 /place target_credits * targetname,random_credits,count,-2,
@@ -894,10 +1067,15 @@ My array of credits:
 Does nothing but fire at its targets, can fire at up to 6 targets it will fire them all at the same time.
 
 ### Spawnflags:
+
+```
 4     - makes the target get fired off randomly, currently this only works for target1.
 128   - makes the entity start deactivated
+```
 
 ### Keys:
+
+```
 targetname  - make the trigger target this value for the entity to be used
 target      - the first target to fire
 target2     - the second target to fire
@@ -905,8 +1083,10 @@ target3     - the third target to fire
 target4     - the fourth target to fire
 target5     - the fifth target to fire
 target6     - the sixth target to fire
+```
 
 ### Example code:
+
 ```
 /place target_relay * targetname,blah,target,light1,target2,light2,
 ```
@@ -917,18 +1097,25 @@ target6     - the sixth target to fire
 Starts a script once used.
 
 ### Spawnflags:
+
+```
 1     - Will run the script on the entity that used this or tripped the trigger that used this
 128   - Will start in the off state.
+```
 
 ### Keys:
+
+```
 useScript   - Script to run when used
 count       - how many times to run, -1 = infinite. 
               (default 1)
 wait        - can't be used again in this amount of seconds 
               (default 1 second, if it's multiple-use)
 delay       - how long to wait after use to run script
+```
 
 ### Example code:
+
 ```
 /place target_scriptrunner * targetname,run_script,Usescript,close_door_cinematic,count,1,
 ```
@@ -939,6 +1126,8 @@ delay       - how long to wait after use to run script
 Will set the target(s) to be usable/triggerable It accepts its target(1-6) The activate must first be fired for it to activate its target.
 
 ### Keys:
+
+```
 targetname  - make the trigger target this value for the entity to be used
 target      - the entity(s) to activate when targeted
 target2     - the entity(s) to activate when targeted
@@ -946,8 +1135,10 @@ target3     - the entity(s) to activate when targeted
 target4     - the entity(s) to activate when targeted
 target5     - the entity(s) to activate when targeted
 target6     - the entity(s) to activate when targeted
+```
 
 ### Example code:
+
 ```
 /place target_activate * target,the_door,targetname,initial_entity,
 ```
@@ -958,6 +1149,8 @@ target6     - the entity(s) to activate when targeted
 Will set the target(s) to not be usable/triggerable. It accepts its target(1-6). The activate must first be fired for it to deactivate its target.
 
 ### Keys:
+
+```
 targetname  - make the trigger target this value for the entity to be used
 target      - the entity(s) to deactivate when targeted
 target2     - the entity(s) to deactivate when targeted
@@ -965,8 +1158,10 @@ target3     - the entity(s) to deactivate when targeted
 target4     - the entity(s) to deactivate when targeted
 target5     - the entity(s) to deactivate when targeted
 target6     - the entity(s) to deactivate when targeted
+```
 
 ### Example code:
+
 ```
 /place target_deactivate * targetname,tele_area_deact,target,tele_area,
 ```
@@ -977,10 +1172,14 @@ target6     - the entity(s) to deactivate when targeted
 Plays the requested music files when this target is used. You must set the music key when placing this otherwise it will crash the server.
 
 ### Keys:
+
+```
 music       - directory of to use music WAV or MP3 file
 targetname  - make the trigger target this value for the entity to be used
+```
 
 ### Example code:
+
 ```
 /place target_play_music * targetname,initial_entity,music,music/mp/duel.mp3,
 ```
@@ -991,13 +1190,17 @@ targetname  - make the trigger target this value for the entity to be used
 anyone near this entity has their screen shake around, in Lugormod T2 it is bugged and always does global
 
 ### Keys:
+
+```
 intensity     - intensity of the shake
 duration      - how long the shake lasts
 globalshake   - if set to anything > 0, then everyone in the server will have this effect them.
                 (default 0)
 targetname    - make the trigger target this value for the entity to be used
+```
 
 ### Example code:
+
 ```
 /place target_screenshake * intensity 2000,duration,100,globalshake,1,targetname,shakey,
 ```
@@ -1006,10 +1209,14 @@ targetname    - make the trigger target this value for the entity to be used
 Makes an invisible line between this entity and its target that damages you. Kinda pointless i know. It starts in the off state so you have to use its targetname for it to turn on
 
 ### Keys:
+
+```
 targetname  - make the trigger target this value for the entity to be used, and turn on
 target      - make this target a target_position or something, you don't need to do this you can just set angles.
+```
 
 ### Example code:
+
 ```
 /place target_laser 20 target,laser_pos1,targetname,the_laser,
 ```
@@ -1018,12 +1225,16 @@ target      - make this target a target_position or something, you don't need to
 gives the person who fires this an amount of credits
 
 ### Keys:
+
+```
 count       - the amount of credits to give the activator
 random      - the amount of credits you want to randomly receive this number is added onto the count
               If your count is 20 and you set this to 10 you will receive anywhere from 20-30 credits
 targetname  - make the trigger target this value for the entity to be used, the person who triggers this will receive the set amount of credits
+```
 
 ### Example code:
+
 ```
 /place target_credits * targetname,credits,count,5,random,20
 ```
@@ -1036,36 +1247,47 @@ targetname  - make the trigger target this value for the entity to be used, the 
 these are the waypoints for func_train
 
 ### Keys:
+
+```
 target      - next path corner and other targets to fire
 speed       - speed to move to the next corner
               (default 100)
 wait        - seconds to wait before behining move to next corner
 targetname  - make the previus path_corner target this, if it is the first path_corner the func_train needs to target this
               If it is the first path corner, the last path_corner needs to also target this
-
+```
 ### Example code:
+
 ```
 /place path_corner 20 targetname,path_a,target,path_b,wait,5,speed,90,
 ```
+
 - this is a the first path_corner, you can make as many as you want, i will make three of them, the first one should target the second one.
 
 ```
 /place path_corner 20 targetname,path_b,target,path_c,wait,5,speed,90,
 ```
+
 - this is the second path_corner, it should be the targetname of what the first one is targeting, also it should target the third path_corner
 
 ```
 /place path_corner 20 targetname,path_c,target,path_a,wait,5,speed,90,
 ```
+
 - this is the last path_corner that I am placing so it should target the first original path_corner, now to actually place the model see the func_train entity.
 
 ## emplaced_gun ***
 Spawns a turret gun that can be used if your a non jedi profession
 
 ### Spawnflags:
+
+```
 1 - Can Respawn
+```
 
 ### Keys:
+
+```
 customskill         - The name of the skill to check (see lmd_customskill for details)
 customskillcompare  - Comparison type. -1 for direct compare (use this for text), 0 for greater or equal to, 1 for less than
                       (default 0)
@@ -1080,8 +1302,10 @@ constraint  - number of degrees gun is constrained from base angles on each side
               (default 60.0)
 showhealth  - set to 1 to show health bar on this entity when cross hair is over it
               (default 0)
+```
 
 ### Example code:
+
 ```
 /place emplaced_gun 0 spawnflags,1,count,10000,contraint,45,
 ```
@@ -1149,14 +1373,21 @@ weapon_emplaced
 ```
 
 ### Spawnflags:
+
+```
 1 - if you set this and lets say you put 20 on the z-axis the entity will be floating in the air and wont fall to the ground
+```
 
 ### Keys:
+
+```
 wait        - the time to wait before respawning after picked up, if set to -1 it only appears when used.
 target      - target to fire when picked up
 targetname  - when wait is set to -1 this is what needs to be trigger for the entity to spawn
+```
 
 ### Example code:
+
 ```
 /place item_force_boon 0 wait,-1,targetname,spawn_boon,
 ```
@@ -1168,6 +1399,8 @@ When used, gets a random number between 1 and "count", and will go from "chance"
 Will fire the first target found then stop.
 
 ### Keys:
+
+```
 chance    - Number to compare
 chance2   - Number to compare
 chance3   - Number to compare
@@ -1181,17 +1414,22 @@ target3   - Corresponding target to fire.
 target4   - Corresponding target to fire.
 target5   - Corresponding target to fire.
 target6   - Corresponding target to fire.
+```
 
 ### Example Code:
+
 ```
 /place lmd_chance * count,7,chance,1,chance2,2,chance3,3,chance4,4,target,hit_1,target2,hit_2,target3,hit_3,target4_hit4,
 ```
+
 - This randomly genrates a number from 1-7 and fire the target if the number is the same. If it goes over 4, it doesn't fire anything. 4/7 of the time it will do nothing.
 
 ## lmd_restrict *(L)
 Restricts the person inside of it by whatever spawnflags are set. Use maxs/mins to set the bounding box.
 
 ### Spawnflags:
+
+```
 1     - Damage restrict, the people inside cannot be inflicted with damage
 2     - Restrict forcepowers
         (includes non-offensive force heal/protect etc...)
@@ -1199,31 +1437,44 @@ Restricts the person inside of it by whatever spawnflags are set. Use maxs/mins 
 8     - No duels, existing duels break if a player enters this.
 16    - No firing weapons
 128   - Start inactive, must be hit by a target_activate entity to become active.
+```
 
 ### Keys:
+
+```
 maxs/mins
+```
 
 ### Example code:
+
 ```
 /place lmd_restrict 0 mins,-500 -500 0,maxs,500 500 500,spawnflags,3,
 ```
+
 - Restricts damage and forcepowers in the defined area.
 
 ## lmd_stashzone ***(L)
 A zone to define an area for stashes. Also controls how many stashes can be spawned per zone. A stash may be set to delete itself when removed from its zone.
 
 ### Spawnflags:
+
+```
 1 - start inactive (stashes with no active zone can be taken anywhere).
 2 - master zone. Any stash spawns that are outside a zone by their zone key will be affected by the count key of a master zone. 
     Having multiple zones under a single key with this spawnflag is stupid.
+```
 
 ### Keys:
+
+```
 targetname  - name of this zone.
 count       - number of stashes that can be spawned at once within this zone. This overrides any settings of individual stash spawns. 
               This is per zone-entity.
               if a stash is brought into another zone of the same name but out of this one it will no longer count for this zone.
+```
 
 ### Example code:
+
 ```
 /place lmd_stashzone 0 mins,-1200 -1200 -1200,maxs,1200 1200 1200,spawnflags,2,targetname,main_stashzone,count,1,
 ```
@@ -1232,6 +1483,8 @@ count       - number of stashes that can be spawned at once within this zone. Th
 Point where stashes spawn. Can be triggered to manually spawn a stash. Multiple stashes can be spawned at once. It is possible to make a stash with 0 credits for the purpose of making it use a target when deposited (see the deposittarget key). A new stash will not spawn if the last one has not been picked up. stash spawn points that have been deactivated will not spawn stashes, although they will still run their spawn timers (they will just not spawn the stash when the timer fires). Important: if you want to use the traditional method of one stash spawning randomly, make sure all stash spawns have a random key, else only one point will spawn stashes. Or just set the spawn time to 0 and use a target_random targeting all the spawn points.
 
 ### Spawnflags:
+
+```
 1       - spawnmessage global: send the spawnmessage to everyone in the server (rather than in the stash zone), if the spawnmessage key is set.
 2       - spawnmessage screen print: send the spawnmessage as a screen print, as well as in the console.
 4       - pickupmessage global: send the pickup message to everyone in the server (rather than in the stash zone), if the pickupmessage key is set.
@@ -1250,8 +1503,11 @@ Point where stashes spawn. Can be triggered to manually spawn a stash. Multiple 
 32768   - reset credits shift when dropped.
 65536   - Stashes in this zone will respawn at this spawn. If no spawns have this set, stashes will not reset and just delete themselves.
 131072  - Delete the stash if it leaves the zone. See zoneexittime and zoneexitmessage keys.
+```
 
 ### Keys:
+
+```
 customskill         - The name of the skill to check (see lmd_customskill for details)
 customskillcompare  - Comparison type. -1 for direct compare (use this for text), 0 for greater or equal to, 1 for less than. 
                       (default 0)
@@ -1306,8 +1562,10 @@ pickuptarget      - target to use on pickup
 droptarget        - target to use on drop
 startdepotarget   - target to use on deposit start
 deposittarget     - target to use on deposit.
+```
 
 ### Example code:
+
 ```
 /place lmd_stashspawnpoint 4 spawnflags,169301,zone,main_stashzone,zoneexitmessage,You're leaving the stashzone.,credits,80,creditsrandom,50,creditshift,-1,creditshiftdelay,60,
 ```
@@ -1318,12 +1576,17 @@ deposittarget     - target to use on deposit.
 "Bank" You can set deposittime to 0 and have a trigger use this, if you don't want to require the player to use the entity directly.
 
 ### Spawnflags:
+
+```
 1   - no deposit time. Useful if you want to make another non-player entity trigger this
 2   - don't display stash status. If set, the terminal will not tell the user if a stash is out when it is used.
 4   - don't show up in /stash command.
 128 - start deactivated. Must be used by a target_activate to be usable.
+```
 
 ### Keys:
+
+```
 zone                  - only deposit stashes belonging to this zone.
 stashname             - name to refer to the stashes with. Only used for displaying the count of stashes 
                         (not used if spawnflag 2 is set).
@@ -1344,8 +1607,10 @@ depositmessage        - message to add to the bottom of the depositmessage of th
 startdepotarget       - target to use on deposit start
 deposittarget         - target to use on deposit.
 model                 - md3 model to draw, uses max/mins too.
+```
 
 ### Example code:
+
 ```
 /place lmd_stashdepo 0 zone,master_stashzone,model,models/map_objects/imperial/control_station,model,models\map_objects\imperial\control_panel.md3,
 ```
@@ -1354,6 +1619,7 @@ model                 - md3 model to draw, uses max/mins too.
 Spawns a money depo where you can depo stashs at.
 
 ### Example code:
+
 ```
 /place money_dispenser 0 angle,90,
 ```
@@ -1362,6 +1628,7 @@ Spawns a money depo where you can depo stashs at.
 when placed, it spawns a spawn point for a stash, one random_spot is used randomly each time a money stash is spawned.
 
 ### Example code:
+
 ```
 /place random_spot 0
 ```
@@ -1370,11 +1637,15 @@ when placed, it spawns a spawn point for a stash, one random_spot is used random
 Scales a player when they trigger this to the set count
 
 ### Keys:
+
+```
 scale       - The scale amount you want the player to be
 time        - The time it takes for the players scale to be set back to 100.
 targetname  - make the trigger target this value for the entity to be used
+```
 
 ### Example code:
+
 ```
 /place lmd_scale * targetname,scaler,scale,50,time,20,
 ```
@@ -1383,6 +1654,8 @@ targetname  - make the trigger target this value for the entity to be used
 Entity will fire target if the activator meets the usability keys
 
 ### Keys:
+
+```
 level
 adminlevel
 profession
@@ -1394,8 +1667,10 @@ targetname
 
 target    - fire if they meet requirements
 target2   - fire if they do not meet requirements
+```
 
 ### Example code:
+
 ```
 /place lmd_playercheck * targetname,let_me_in,level,5,target,teleport_me_in,target2,deny_msg,
 ```
@@ -1404,10 +1679,14 @@ target2   - fire if they do not meet requirements
 This entity was implemented by Lugor, it should be able to use any of the keys provided for npc_spawner and one more, it also allows the NPC to respawn after it has been destroyed.
 
 ### Keys:
+
+```
 customscale   - scale this npc/vehicle when it spawns.
 count         - ammount of NPCs it is allowed to be on the map at once from this spawn
+```
 
 ### Example code:
+
 ```
 /place LMD_spawner 40 NPC_type,swoop,count,1,targetname,Sweet_Ride
 ```
@@ -1416,16 +1695,23 @@ count         - ammount of NPCs it is allowed to be on the map at once from this
 changes an individual players gravity
 
 ### Spawnflags:
+
+```
 1   - remove the changed gravity flag, so the player uses standard gravity again 
       (use instead of setting it to 800, as gravity will be changed by vehicles if this is the case)
 2   - makes the gravity change global, so everyone has the change
+```
 
 ### Keys:
+
+```
 count       - gravity to change to, note 800 is default for g_gravity
 time        - the time it takes to reset gravity back to normal
 targetname  - make the trigger target this value for the entity to be used
+```
 
 ### Example code:
+
 ```
 /place lmd_gravity * targetname,fatty,count,2000,
 ```
@@ -1434,6 +1720,8 @@ targetname  - make the trigger target this value for the entity to be used
 The player stands in front of it and types /interact <password> if the password is correct it fires its target, if not, then it fires target2
 
 ### Keys:
+
+```
 customskill         - The name of the skill to check (see lmd_customskill for details)
 customskillcompare  - Comparison type. -1 for direct compare (use this for text), 0 for greater or equal to, 1 for less than.
                       (default 0)
@@ -1454,9 +1742,10 @@ target              - Target to fire when correct password is entered.
 target2             - Target to fire when incorrect password is entered.
 target4             - Target to fire when any password is given.
 target5             - Target to fire when used.
-
+```
 
 ### Example code:
+
 ```
 /place lmd_pwterminal 0 model,models/map_objects/factory/f_con1,target,enter_bar,target2,kill,target3,banana,message,Enter Bar,
 ```
@@ -1465,6 +1754,8 @@ target5             - Target to fire when used.
 Uses its targets in order until it hits its count, then resets.
 
 ### Keys:
+
+```
 target      - the first target to fire
 target2     - the second target to fire
 target3     - the third target to fire
@@ -1473,8 +1764,10 @@ target5     - the fifth target to fire
 target6     - the sixth target to fire
 count       - the last target to use before resetting to its first target, should be set so if you have three targets the count would be three
 targetname  - make the trigger target this value for the entity to be used
+```
 
 ### Example code:
+
 ```
 /place lmd_toggle * target,red_light,target2,blue_light,target3,green_light,count,3,targetname,light_sequence,
 ```
@@ -1483,6 +1776,8 @@ targetname  - make the trigger target this value for the entity to be used
 Spawns a light on the map, recommended you add a number greater than 0 to the z-axis to see the whole light
 
 ### Keys:
+
+```
 color       - the RGBcolors of the light in decimal percent (0 to 1, .5 would be 50%, EX: '0 .5 0' would be a faint green)
 light       - the radius that the light can travel
 offcolor    - same as color but when toggled off. 
@@ -1490,8 +1785,10 @@ offcolor    - same as color but when toggled off.
 offlight    - radius when toggled off 
               (default 0)
 targetname  - make the trigger target this value for the entity to be used
+```
 
 ### Example code:
+
 ```
 /place lmd_light 0 color,1 0 1,light,500,offcolor,0 1 0,offlight,500,targetname,light,
 ```
@@ -1500,32 +1797,45 @@ targetname  - make the trigger target this value for the entity to be used
 Spawns a model that can be used as a door. If you don't set a targetname the door will have a trigger area and will fire to its open state when you get near it.
 
 ### Spawnflags:
-1 - the door to moves to its destination when spawned, and operate in reverse. It is used to temporarily or permanently close off an area when triggered (not useful for touch or take damage doors).
-2 - Can be activated by force push/pull but also it can have a targetname
-4 - kills the player if the player is stuck between it and a wall, and its moving (it won't reverse it movement when hits the player)
-8 - wait in both the start and end states for a trigger event (stay opened until you use it again)
-16 - Starts locked, with the shader animmap at the first frame and inactive. Once used, the animmap changes to the second frame and the door operates normally. Note that you cannot use the door again after this.
-64 - Player can use it with the use button (you can press it like a button)
-128 - must be used by a target_activate before it can be used
+
+```
+1       - the door to moves to its destination when spawned, and operate in reverse. 
+          It is used to temporarily or permanently close off an area when triggered (not useful for touch or take damage doors).
+2       - Can be activated by force push/pull but also it can have a targetname
+4       - kills the player if the player is stuck between it and a wall, and its moving (it won't reverse it movement when hits the player)
+8       - wait in both the start and end states for a trigger event (stay opened until you use it again)
+16      - Starts locked, with the shader animmap at the first frame and inactive. 
+          Once used, the animmap changes to the second frame and the door operates normally. Note that you cannot use the door again after this.
+64      - Player can use it with the use button (you can press it like a button)
+128     - must be used by a target_activate before it can be used
+```
 
 ### Keys:
-model - the md3 model to draw
-target - Door fires this when it starts moving from it's closed position to its open position.
-opentarget - Door fires this after reaching its "open" position
-target2 - Door fires this when it starts moving from it's open position to its closed position.
-closetarget - Door fires this after reaching its "closed" position
-targetname - if set, no touch field will be spawned and a remote button or trigger field activates the door.
-speed - movement speed (100 default)
-wait - wait before returning (3 default, -1 = never return)
-delay - when used, how many seconds to wait before moving - default is none
-dmg - damage to inflict when blocked (2 default, set to negative for no damage)
-health - if set, the door must be shot open
-linear - set to 1 and it will move linearly rather than with acceleration (default is 0)
-team - set it to the same name on two or more doors so they'll open if one of them is used, don't use too long names
-vehopen - if non-0, vehicles/players riding vehicles can open
-movement - x y z value, movement direction. movement,0 0 100, will make it move 100 units up.
+
+```
+model           - the md3 model to draw
+target          - Door fires this when it starts moving from it's closed position to its open position.
+opentarget      - Door fires this after reaching its "open" position
+target2         - Door fires this when it starts moving from it's open position to its closed position.
+closetarget     - Door fires this after reaching its "closed" position
+targetname      - if set, no touch field will be spawned and a remote button or trigger field activates the door.
+speed           - movement speed 
+                  (default 100)
+wait            - wait before returning (-1 = never return)
+                  (default 3)
+delay           - when used, how many seconds to wait before moving - default is none
+dmg             - damage to inflict when blocked (set to negative for no damage)
+                  (default 2)
+health          - if set, the door must be shot open
+linear          - set to 1 and it will move linearly rather than with acceleration 
+                  (default 0)
+team            - set it to the same name on two or more doors so they'll open if one of them is used, don't use too long names
+vehopen         - if non-0, vehicles/players riding vehicles can open
+movement        - x y z value, movement direction. movement,0 0 100, will make it move 100 units up.
+```
 
 ### Example code:
+
 ```
 /place lmd_door 0 model,map_objects/factory/catw2_b,speed,90,targetname,door_1,target,deact_button,closetarget,act_button,
 ```
@@ -1536,33 +1846,46 @@ movement - x y z value, movement direction. movement,0 0 100, will make it move 
 What players can use to fire a target that only that set group of players can fire. The command, "/propadmin", will allow you to set who can use it.
 
 ### Spawnflags:
-1: If 'count' greater than zero, allow the renter to pay more money after the first payment to increase their time.
+
+```
+1 - If 'count' greater than zero, allow the renter to pay more money after the first payment to increase their time.
+```
 
 ### Keys:
-customskill (see lmd_customskill for details): The name of the skill to check.
-customskillcompare: Comparison type. -1 for direct compare (use this for text), 0 for greater or equal to, 1 for less than. Default of 0.
-customskillvalue: The value to compare to.
-property: The property to check to fire this entity.
-Profession: A bitmask of professions. Values: 1 - Jedi, 2 - Merc, 4 - Tech.
-Level: Minimum player level.
-MaxLevel: Maximum player level.
-AdminLevel: Minimum admin level.
-PlayerFlags: A bitmask of flags set by the lmd_playerflag entity.
-Model: The model. If the model is a glm model, you need to include the '.glm' extention. You do not need the 'map_objects/' folder in the path.
-Mins/Maxs: Hitbox data. Both values are vectors containing the x, y, and z sizes from the model's origin. Normally, the Mins data is negitive. If no mins or maxs are specified, then a hitbox is automatically calculated to cover the entire model.
-Property: The name of the property to check access to.
-Target: Target to fire if the user is a member of the property.
-Target2: Target to fire if the user is not a member of the property.
-Count: Number of credits per day this terminal costs to rent. If not set, then this terminal will not be rentable. Players can pay money to rent the terminal with '/pay <credits>'
-MinDays: If 'count', the minimum number of days this player can rent the property for.
-MaxDays: If 'count', the maximum number of days this player can rent the property for.
-MaxRenters: If 'count', the maximum number of renters that this terminal will allow. Defaults to 1.
-Rank: If 'count', the property rank to give to new renters. Values are: 1 - owner, 2 - caretaker, 3 - guest
+
+```
+customskill             - The name of the skill to check. (see lmd_customskill for details)
+customskillcompare      - Comparison type. -1 for direct compare (use this for text), 0 for greater or equal to, 1 for less than. 
+                          (default 0)
+customskillvalue        - The value to compare to.
+property                - The property to check to fire this entity.
+profession              - A bitmask of professions. Values: 1 - Jedi, 2 - Merc, 4 - Tech.
+level                   - Minimum player level.
+maxlevel                - Maximum player level.
+adminlevel              - Minimum admin level.
+playerflags             - A bitmask of flags set by the lmd_playerflag entity.
+model                   - The model. If the model is a glm model, you need to include the '.glm' extention. 
+                          You do not need the 'map_objects/' folder in the path.
+mins/maxs               - Hitbox data. Both values are vectors containing the x, y, and z sizes from the model's origin. 
+                          Normally, the Mins data is negitive. If no mins or maxs are specified, then a hitbox is automatically 
+                          calculated to cover the entire model.
+property                - The name of the property to check access to.
+target                  - Target to fire if the user is a member of the property.
+target2                 - Target to fire if the user is not a member of the property.
+count                   - Number of credits per day this terminal costs to rent. 
+                          If not set, then this terminal will not be rentable. Players can pay money to rent the terminal with '/pay <credits>'
+mindays                 - If 'count', the minimum number of days this player can rent the property for.
+maxdays                 - If 'count', the maximum number of days this player can rent the property for.
+maxrenters              - If 'count', the maximum number of renters that this terminal will allow. Defaults to 1.
+rank                    - If 'count', the property rank to give to new renters. Values are: 1 - owner, 2 - caretaker, 3 - guest
+```
 
 ### Example code:
+
 ```
 /place lmd_propertyterminal 0 model,models/map_objects/factory/f_con2,spawnflags,2,target,my_door,property,flips_door,
 ```
+
 - This is what you would do for the first group of people you want, if you wanted to have another terminal for another group you would change the count, or property set:
 
 ```
@@ -1573,14 +1896,21 @@ Rank: If 'count', the property rank to give to new renters. Values are: 1 - owne
 This will change the shader on the map to another shader you specify. If no targetname is set, it will change shaders for you on map start
 
 ### Spawnflags
+
+```
 1 - Toggable, switches from new to old when targeted.
+```
 
 ### Keys:
+
+```
 old - the shader directory of what you want to change.
 new - the shader directory of what your changing the shader into.
 targetname - the name of the entity, when someone fires at this it will change the shader you are referring to.
+```
 
 ### Example code:
+
 ```
 /place lmd_remap * old,textures/quicktrip/desert_0,new,textures/yavin/ground
 ```
@@ -1589,14 +1919,21 @@ targetname - the name of the entity, when someone fires at this it will change t
 If this is active, it uses its target when used. If it is inactive (set by a target_deactivate), then it fires its target2 when used.
 
 ### Spawnflags:
+
+```
 1 - Makes it start off
+```
 
 ### Keys:
+
+```
 target - what to fire at when used, when the entity is active
 target2 - what to fire at when used, when the entity is deactivated
 targetname - make the trigger target this value for the entity to be used
+```
 
 ### Example code:
+
 ```
 /place lmd_gate * targetname,gate,target,act_spawn,target2,act_spawn2,spawnflags,1,
 ```
@@ -1606,30 +1943,42 @@ drops a model from the origin of this entity that can be picked up and fires a t
 Create and launch a model that can be picked up by players.
 
 ### Spawnflags:
+
+```
 1: Player must use the item to pick it up rather than touching it.
+```
 
 ### Keys:
-customskill (see lmd_customskill for details): The name of the skill to check.
-customskillcompare: Comparison type. -1 for direct compare (use this for text), 0 for greater or equal to, 1 for less than. Default of 0.
-customskillvalue: The value to compare to.
-Profession: A bitmask of professions. Values: 1 - Jedi, 2 - Merc, 4 - Tech.
-Level: Minimum player level.
-MaxLevel: Maximum player level.
-AdminLevel: Minimum admin level.
-property: this entity will only work for people with access to the property set here
-PlayerFlags: A bitmask of flags set by the lmd_playerflag entity.
-Model: The model. If the model is a glm model, you need to include the '.glm' extention. You do not need the 'map_objects/' folder in the path.
-Mins/Maxs: Hitbox data. Both values are vectors containing the x, y, and z sizes from the model's origin. Normally, the Mins data is negitive. If no mins or maxs are specified, then a hitbox is automatically calculated to cover the entire model.
-Target: Target to fire when picked up.
-Target2: Target to fire when time runs out.
-Noise: Sound to make when being picked up
-Count: Number of credits to give the player. If this is set and no noise key is specified, then the noise key defaults to sound/interface/secret_area.wav
-Velocity: Speed at which to toss this item. Default 50.
-Angles: Angles to launch this item at
-Time: Number of seconds to stay for. Set this to -1 for no time limit. Default 30.
-Wait: Number of seconds to wait between triggerings.
+
+```
+customskill             - The name of the skill to check. (see lmd_customskill for details)
+customskillcompare      - Comparison type. -1 for direct compare (use this for text), 0 for greater or equal to, 1 for less than. 
+                          (default 0)
+customskillvalue        - The value to compare to.
+profession              - A bitmask of professions. Values: 1 - Jedi, 2 - Merc, 4 - Tech.
+level                   - Minimum player level.
+maxlevel                - Maximum player level.
+adminlevel              - Minimum admin level.
+property                - this entity will only work for people with access to the property set here
+playerflags             - A bitmask of flags set by the lmd_playerflag entity.
+model                   - The model. If the model is a glm model, you need to include the '.glm' extention. 
+                          You do not need the 'map_objects/' folder in the path.
+mins/maxs               - Hitbox data. Both values are vectors containing the x, y, and z sizes from the model's origin. 
+                          Normally, the Mins data is negitive. If no mins or maxs are specified, then a hitbox is automatically 
+                          calculated to cover the entire model.
+target                  - Target to fire when picked up.
+target2                 - Target to fire when time runs out.
+noise                   - Sound to make when being picked up
+count                   - Number of credits to give the player. 
+                          If this is set and no noise key is specified, then the noise key defaults to sound/interface/secret_area.wav
+velocity                - Speed at which to toss this item. Default 50.
+angles                  - Angles to launch this item at
+time                    - Number of seconds to stay for. Set this to -1 for no time limit. Default 30.
+wait                    - Number of seconds to wait between triggerings.
+```
 
 ### Example code:
+
 ```
 /place lmd_drop 5 model,map_objects/desert/3po_head,count,50,targetname,drophead,velocity,0,wait,30
 ```
@@ -1638,28 +1987,39 @@ Wait: Number of seconds to wait between triggerings.
 When used it echoes different commands a player can use (/interact <1 to 6>)
 
 ### Spawnflags:
+
+```
 1: Send the output to the player's screen.
 2: Do not send the output to the player's console.
+```
 
 ### Keys:
-customskill (see lmd_customskill for details): The name of the skill to check.
-customskillcompare: Comparison type. -1 for direct compare (use this for text), 0 for greater or equal to, 1 for less than. Default of 0.
-customskillvalue: The value to compare to.
-Profession: A bitmask of professions. Values: 1 - Jedi, 2 - Merc, 4 - Tech.
-Level: Minimum player level.
-MaxLevel: Maximum player level.
-AdminLevel: Minimum admin level.
-property: this entity will only work for people with access to the property set here
-PlayerFlags: A bitmask of flags set by the lmd_playerflag entity.
-Model: The model. If the model is a glm model, you need to include the '.glm' extention. You do not need the 'map_objects/' folder in the path.
-Mins/Maxs: Hitbox data. Both values are vectors containing the x, y, and z sizes from the model's origin. Normally, the Mins data is negitive. If no mins or maxs are specified, then a hitbox is automatically calculated to cover the entire model.
-Message: Message to display when used.
-UseTarget: Target to fire when the player presses the use key on this.
-GlobalTarget: Targe to fire when any command is used.
-Cmd-Cmd6: Name of each command.
-Target-Target6: Target to use for each command.
+
+```
+customskill             - The name of the skill to check. (see lmd_customskill for details)
+customskillcompare      - Comparison type. -1 for direct compare (use this for text), 0 for greater or equal to, 1 for less than. 
+                          (default 0)
+customskillvalue        - The value to compare to.
+profession              - A bitmask of professions. Values: 1 - Jedi, 2 - Merc, 4 - Tech.
+level                   - Minimum player level.
+maxlevel                - Maximum player level.
+adminlevel              - Minimum admin level.
+property                - this entity will only work for people with access to the property set here
+playerflags             - A bitmask of flags set by the lmd_playerflag entity.
+model                   - The model. If the model is a glm model, you need to include the '.glm' extention. 
+                          You do not need the 'map_objects/' folder in the path.
+mins/maxs               - Hitbox data. Both values are vectors containing the x, y, and z sizes from the model's origin. 
+                          Normally, the Mins data is negitive. If no mins or maxs are specified, then a hitbox is automatically 
+                          calculated to cover the entire model.
+message                 - Message to display when used.
+usetarget               - Target to fire when the player presses the use key on this.
+globaltarget            - Targe to fire when any command is used.
+cmd-cmd6                - Name of each command.
+target-target6          - Target to use for each command.
+```
 
 ### Example code:
+
 ```
 /place lmd_terminal 0 model,map_objects/factory/f_con1,spawnflags,2,message,I have some powerups,cmd,Bodyshield,cmd2,Speed,cmd3,Red Light,target,bodyshield_pu,target2,speed_pu,target3,rlight_pu,
 ```
@@ -1669,6 +2029,8 @@ Target-Target6: Target to use for each command.
 When used it grants the client an item specified here that can be used with the /inventory command.
 
 ### Keys:
+
+```
 name: The custom name you want this item to have.
 noCombine: If this is set to 1, this item will not combine with others.
 noDelete: If this is set to 1, the user will not be able to delete this item.
@@ -1694,10 +2056,12 @@ rocket: ammo count.
 thermal: ammo count.
 tripmine: ammo count.
 detpack: ammo count.
+```
 
+### Weapons: bitmask of weapons
 
-### Weapons: bitmask of weapons to give in
-weapon,<bitmask>,
+written as: weapon,<bitmask>,
+        
 ```
 2 WP_STUN_BATON
 4 WP_MELEE
@@ -1716,25 +2080,30 @@ weapon,<bitmask>,
 32768 WP_CONCUSSION
 65536 WP_BRYAR_OLD
 ```
+        
 NOTE: this does NOT give ammo. The user must pick up ammo to use, or in some cases see, the weapon.
 
 ### iObject type keys
-* upcount (combinable) Inverse keycard, for collection quests.
 
-property: Name of the property to grant access to when enough of these are picked up.
-max: Grant access to the property when "current" is greater than or equal to this.
-count: Current number of item type picked up. When another upcount item with the same name and property key is picked up, this number is increased by the new item's current value. Defaults to 1.
+```
+* upcount (combinable) Inverse keycard, for collection quests.
+        property: Name of the property to grant access to when enough of these are picked up.
+        max: Grant access to the property when "current" is greater than or equal to this.
+        count: Current number of item type picked up. When another upcount item with the same name and property key is picked up, 
+               this number is increased by the new item's current value. Defaults to 1.
 
 * downcount (combinable) Keycard 2.0
+        property: The property to grant access to while "current" is less than "count".
+        max: Maximum number of times to allow access to the property.
+        count: Current number of uses left.
+        noAutoDelete: Set this to 1 to disable automatic deletion this item when it runs out of uses.
 
-property: The property to grant access to while "current" is less than "count".
-max: Maximum number of times to allow access to the property.
-count: Current number of uses left.
-noAutoDelete: Set this to 1 to disable automatic deletion this item when it runs out of uses.
-
-While "keycard" still will spawn using a conversion placeholder for backwards compatibility, its item no longer officially exists. Use "downcount" instead.
+        While "keycard" still will spawn using a conversion placeholder for backwards compatibility, its item no longer officially exists. 
+        Use "downcount" instead.
+```
 
 ### Example code: 
+
 ```
 <NEED EXAMPLE>
 ```
@@ -1743,108 +2112,142 @@ While "keycard" still will spawn using a conversion placeholder for backwards co
 An entity that, when used, creates a new custom skill for the person who targets it.
 
 ### Spawnflags:
+
+```
 1 - (Use with Value key) rather than adding value to player's current skill, entity will set player's value for this skill to the amount set in the value key.
+```
 
 ### Keys:
-skill: Name of the skill (choose your own)
-value: Essentially the "level" of the skill
+
+```
+skill   - Name of the skill (choose your own)
+value   - Essentially the "level" of the skill
+```
 
 ## lmd_mover **(L)
 A moving model can be used to do movements for pendulum/rotating/bobbing/door for any of the ontype,onatype,offtype,offatype keys use the list of available movements and specify it to that number. Ex: ontype,0, for don't move at all. The entity is toggleable so if you use its targetname it will switch to its off state. by default its off state movement type is 0.
 
 ### Spawnflags:
+
+```
 1 - The set model will be solid
+```
 
 ### Keys:
-model - the md3 model to draw
-targetname - make the trigger target this value for the entity to be used
+
+```
+model           - the md3 model to draw
+targetname      - make the trigger target this value for the entity to be used
+```
 
 Types - Use the movements list, an 'ontype/offtype' is for movement, while an 'onatype/offatype' is a rotation.
 
-ontype - Movement type when in the on state (See types of movement list)
-offtype - Movement type when in the off state (See types of movement list)
-onatype - Rotation type when in the on state (See types of movement list)
-offatype - Rotation type when in the off state (See types of movement list)
+```
+ontype          - Movement type when in the on state (See types of movement list)
+offtype         - Movement type when in the off state (See types of movement list)
+onatype         - Rotation type when in the on state (See types of movement list)
+offatype        - Rotation type when in the off state (See types of movement list)
+```
 
 Durations - The time it takes for the model to complete its action in milliseconds. An 'onduration/offduration' is for the time it takes to complete a movement, while an 'onaduration/offaduration' is the time it takes to complete a rotation.
 
-onduration - The time it takes for the model to move to the set delta when in the on state (milliseconds)
-offduration - The time it takes for the model to move to the set delta when in the off state (milliseconds)
-onaduration - The time it takes for the model to rotate to the set delta when in the on state (milliseconds)
-offaduration - The time it takes for the model to rotate to the set delta when in the off state (milliseconds)
+```
+onduration      - The time it takes for the model to move to the set delta when in the on state (milliseconds)
+offduration     - The time it takes for the model to move to the set delta when in the off state (milliseconds)
+onaduration     - The time it takes for the model to rotate to the set delta when in the on state (milliseconds)
+offaduration    - The time it takes for the model to rotate to the set delta when in the off state (milliseconds)
+```
 
 Deltas - How far something will move/rotate to. An 'ondelta/offdelta' is how far the model will move. An 'onadelta/offadelta' how far the model will rotate to.
 
-ondelta - How many units to move to when in the on state. (X Y Z)
-offdelta - How many units to move to when in the off state. (X Y Z)
-onadelta - How far the model will rotate to from the base of the model in the on state. (X Y Z)
-offadelta - How far the model will rotate to from the base off the model in the off state. (X Y Z)
+```
+ondelta         - How many units to move to when in the on state. (X Y Z)
+offdelta        - How many units to move to when in the off state. (X Y Z)
+onadelta        - How far the model will rotate to from the base of the model in the on state. (X Y Z)
+offadelta       - How far the model will rotate to from the base off the model in the off state. (X Y Z)
+```
 
 ### Types Of Movement
+
 ```
-0 - Don't move at all.
-1 - Teleport between starting and ending point.
-2 - Move towards its goal, after its goal is reached it will keep moving forever. Use this movement type for models that rotate.
-3 - Move towards its goal, and stop when the goal is reached.
-4 - Move towards its goal, near the end it will start to decelerate then stop.
-5 - Slowly accelerate towards middle of goal. Accelerating fastest at the middle of its goal then slowly start to decelerate 
-    after it hit the middle of its goal towards the end. It will come back down to the starting point and keep moving like that forever. 
-    Use this for bobbing and pendulums.
-6 - This one is kind of pointless. It will ignore any set delta keys and fall to the ground at 800 units per second (Default Gravity Setting) 
-    and ignores any objects in its way. So it will keep falling through the floor.
+0       - Don't move at all.
+1       - Teleport between starting and ending point.
+2       - Move towards its goal, after its goal is reached it will keep moving forever. Use this movement type for models that rotate.
+3       - Move towards its goal, and stop when the goal is reached.
+4       - Move towards its goal, near the end it will start to decelerate then stop.
+5       - Slowly accelerate towards middle of goal. Accelerating fastest at the middle of its goal then slowly start to decelerate 
+          after it hit the middle of its goal towards the end. It will come back down to the starting point and keep moving like that forever. 
+          Use this for bobbing and pendulums.
+6       - This one is kind of pointless. It will ignore any set delta keys and fall to the ground at 800 units per second (Default Gravity Setting) 
+          and ignores any objects in its way. So it will keep falling through the floor.
 ```
 
 ### Example code:
+
 Because this is new and not a lot of people understand it I will explain how to do the same movements t2_pendulum, t2_bobbing, and t2_rotating used to do.
 
 ```
 /place lmd_mover 0 model,models/map_objects/desert/3po_head,onaduration,1000,onadelta,0 180 0,onatype,2,
 ```
+
 - Spawns a sphere that will rotate 180 degrees and keep rotating for ever it takes 1 second to complete its goal
 
 ```
 /place lmd_mover 0 model,models/map_objects/factory/catw2_b,spawnflags,1,ontype,5,onduration,3000,ondelta,0 0 200
 ```
+
 - Spawns a catwalk that will bob up and down 200 units. It takes 3 seconds to complete its goal
 
 ```
 /place lmd_mover 0 model,models/map_objects/factory/catw2_b,onaduration,5000,onatype,5,onadelta,50 0 0,angles,90 0 0,spawnflags,1,
 ```
+
 - Spawns a catwalk that will swing in a pendulum motion 50 units back and forth takes 5 seconds to complete the full movement
 
 ## lmd_rentterminal *(L)
 Entity is used for a player to use the /pay command on the terminal and then he can have access to it as long as he wants or until it reaches the set max time.
 
 ### Spawnflags:
+
+```
 1 - Time will expire if player dies while owning the terminal
 2 - Can pay for more time while you already own the terminal
 4 - Tell the renter when they are at 30/15/5 seconds left.
+```
 
 ### Keys:
-customskill (see lmd_customskill for details): The name of the skill to check.
-customskillcompare: Comparison type. -1 for direct compare (use this for text), 0 for greater or equal to, 1 for less than. Default of 0.
-customskillvalue: The value to compare to.
-Profession: A bitmask of professions. Values: 1 - Jedi, 2 - Merc, 4 - Tech.
-Level: Minimum player level.
-MaxLevel: Maximum player level.
-AdminLevel: Minimum admin level.
-property: this entity will only work for people with access to the property set here
-PlayerFlags: A bitmask of flags set by the lmd_playerflag entity.
-Model: The model. If the model is a glm model, you need to include the '.glm' extention. You do not need the 'map_objects/' folder in the path.
-Mins/Maxs: Hitbox data. Both values are vectors containing the x, y, and z sizes from the model's origin. Normally, the Mins data is negitive. If no mins or maxs are specified, then a hitbox is automatically calculated to cover the entire model.
-Message: The message to be displayed when the terminal is used.
-Count: Cost.
-Minutes: Number of minutes to gain when payed 'count' number of credits.
-Wait: Minimum time to wait between payments, if spawnflag 2 is set.
-MaxTime: Maximum number of minutes a player can rent.
-MinTime: Minimum number of minutes a player can rent.
-Target: Target to fire when used by its current renter.
-Target2: Target to fire when the rent runs out.
-Target3: Target to fire when first rented.
-Target4: Target to fire when used by someone who is not the renter while being rented.
-Target5: Target to fire when used by anyone when not being rented.
+
+```
+customskill             - The name of the skill to check. (see lmd_customskill for details)
+customskillcompare      - Comparison type. -1 for direct compare (use this for text), 0 for greater or equal to, 1 for less than. 
+                          (default 0)
+customskillvalue        - The value to compare to.
+profession              - A bitmask of professions. Values: 1 - Jedi, 2 - Merc, 4 - Tech.
+level                   - Minimum player level.
+maxlevel                - Maximum player level.
+adminlevel              - Minimum admin level.
+property                - this entity will only work for people with access to the property set here
+playerflags             - A bitmask of flags set by the lmd_playerflag entity.
+model                   - The model. If the model is a glm model, you need to include the '.glm' extention. 
+                          You do not need the 'map_objects/' folder in the path.
+mins/maxs               - Hitbox data. Both values are vectors containing the x, y, and z sizes from the model's origin. 
+                          Normally, the Mins data is negitive. If no mins or maxs are specified, then a hitbox is automatically 
+                          calculated to cover the entire model.
+message                 - The message to be displayed when the terminal is used.
+count                   - Cost.
+minutes                 - Number of minutes to gain when payed 'count' number of credits.
+wait                    - Minimum time to wait between payments, if spawnflag 2 is set.
+maxtime                 - Maximum number of minutes a player can rent.
+mintime                 - Minimum number of minutes a player can rent.
+target                  - Target to fire when used by its current renter.
+target2                 - Target to fire when the rent runs out.
+target3                 - Target to fire when first rented.
+target4                 - Target to fire when used by someone who is not the renter while being rented.
+target5                 - Target to fire when used by anyone when not being rented.
+```
 
 ### Example code:
+
 ```
 /place lmd_rentterminal 0 model,models/map_objects/factory/f_con1,message,Rent House,minutes,60,count,50,target,tele_inhouse,target2,act_exit,target3,moremoney_msg,
 ```
@@ -1853,9 +2256,13 @@ Target5: Target to fire when used by anyone when not being rented.
 Leaves behind a fake player body like misc_camera does when you use it. Any damage given to the body while the entity is in use is forwarded to the client who used it. Unless the trigger that targets this, targets a delay which targets a target_teleporter .01 seconds later you will be stuck in your body. The next time this entity gets used the body gets removed.
 
 ### Keys:
+
+```
 targetname - make the trigger target this value for the entity to be used
+```
 
 ### Example code:
+
 ```
 /place lmd_body 0 targetname,body
 ```
@@ -1864,9 +2271,13 @@ targetname - make the trigger target this value for the entity to be used
 sets a flag to a player so you can give them temporary access to stuff, works kind of like a keycard. When you target this it grants you lets say flags 5, then you can have misc_model_breakable with the playerflags key set to 5 and only this person will have access to it.
 
 ### Keys:
+
+```
 flags - the amount of flags to set to the player, only players with this set flags can have access to entities with the playerflags key.
+```
 
 ### Example code:
+
 ```
 /place lmd_flagplayer 0 flags,5,targetname,give_accesstobar,
 ```
@@ -1877,11 +2288,16 @@ flags - the amount of flags to set to the player, only players with this set fla
 Spawns a NPC that you specify, remember all keys are case sensative.(Its not npc_type, its NPC_type), if this is going to be used by a button add "count,-1," so it can spawn more than once.
 
 ### Spawnflags:
-16 - NPC can be in air, but will spawn on the closest floor surface below it
-32 - Will spawn with no default AI (BS_CINEMATIC), or the blinking that happens when it spawns
-256 - Spawner is shy (wont spawn if a player is looking at it)
+
+```
+16      - NPC can be in air, but will spawn on the closest floor surface below it
+32      - Will spawn with no default AI (BS_CINEMATIC), or the blinking that happens when it spawns
+256     - Spawner is shy (wont spawn if a player is looking at it)
+```
 
 ### Keys:
+
+```
 NPC_type        - name of NPC to spawn
 targetname      - name this NPC goes by for targeting
 count           - how many NPCs to spawn (only if targeted), set to -1 for it to be able to spawn after the first use
@@ -1903,10 +2319,13 @@ noCombatSounds  - set to 1 to prevent loading and usage of combat sounds
                   (anger, victory, etc.)
 noExtraSounds   - set to 1 to prevent loading and usage of "extra" sounds 
                   (chasing the enemy - detecting them, flanking them... also jedi combat sounds)
+```
 
 
 For and of the following keys use the script # that is listed after the script type.
+
 ### Script Type Keys:
+
 ```
 spawnscript - default script to run once spawned (none by default)
 usescript - default script to run when used (none by default)
@@ -1918,6 +2337,7 @@ deathscript - default script to run when killed (none by default)
 ```
 
 ### Script Type Spawnflags:
+
 ```
 1: Stand around, do absolutely nothing
 2: Roam around, collect stuff
@@ -1946,6 +2366,7 @@ deathscript - default script to run when killed (none by default)
 -To use a script you would enter the name of the script you want and then the # key of what you want it to actually fire when it hits that mark: ",spawnscript,14" should make the npc fight its enemies when spawned.
 
 ### Example code:
+
 ```
 /place NPC_spawner 30 NPC_type,desann,count,-1,spawnscript,14,NPC_target,desann_dead,
 ```
@@ -1954,6 +2375,8 @@ deathscript - default script to run when killed (none by default)
 Spawns a NPC Vehicle, please note the entity name is case sensitive.
 
 ### Spawnflags:
+
+```
 1   - die after certain amount of time of not having a pilot
 2   - Fighters: Don't drop until someone gets in it 
       (this only works as long as no one has *ever* ridden the vehicle, to simulate ships that are suspended-docked)
@@ -1962,15 +2385,19 @@ Spawns a NPC Vehicle, please note the entity name is case sensitive.
 32  - Will spawn with no default AI (BS_CINEMATIC), or won't blink when spawned
 64  - Starts not solid
 256 - Spawner is shy (wont spawn if a player is looking at it)
+```
 
 ### Keys:
-dropTime    - use with spawnflags 2, the vehicle will drop straight down for this number of seconds before flying forward
-dmg         - use with spawnflags 1, delay in milliseconds for ship to explode if no pilot 
-              (default 10000)
-speed       - use with spawnflags 1, distance for pilot to get away from ship after dismounting before it starts counting down the death timer
-model2      - if the vehicle can have a droid, this NPC will be spawned and placed there
-showhealth  - set to 1 to show health bar on this entity when crosshair is over it
-targetname  - make the trigger target this value for the entity to be used
+
+```
+dropTime        - use with spawnflags 2, the vehicle will drop straight down for this number of seconds before flying forward
+dmg             - use with spawnflags 1, delay in milliseconds for ship to explode if no pilot 
+                  (default 10000)
+speed           - use with spawnflags 1, distance for pilot to get away from ship after dismounting before it starts counting down the death timer
+model2          - if the vehicle can have a droid, this NPC will be spawned and placed there
+showhealth      - set to 1 to show health bar on this entity when crosshair is over it
+targetname      - make the trigger target this value for the entity to be used
+```
 
 ### Example code:
 ```
@@ -1983,10 +2410,14 @@ targetname  - make the trigger target this value for the entity to be used
 This is a world rain effect, meaning that it will play the effect everywhere on the map, or anywhere there is a weatherzone. Weatherzones have to be placed before the map compiles. This weather effect will move slowly if spawned and there is a misc_skyporal on the map. Please note that placing this effect will extremly increase the load time when you connect.
 
 ### Keys:
+
+```
 count - the number of rain particles 
         (default 500)
+```
 
 ### Example code:
+
 ```
 /place fx_rain 0 count,600,
 ```
@@ -1995,10 +2426,14 @@ count - the number of rain particles
 This is a world snow effect, meaning that it will play the effect everywhere on the map, or anywhere there is a weatherzone. Weatherzones have to be placed before the map compiles. This weather effect will move slowly if spawned and there is a misc_skyporal on the map. Please note that placing this effect will extremly increase the load time when you connect.
 
 ### Keys:
+
+```
 count - the number of snow particles 
         (default 1000)
+```
 
 ### Example code:
+
 ```
 /place fx_snow 0 count,1200,
 ```
@@ -2007,10 +2442,14 @@ count - the number of snow particles
 This is a world space dust effect, meaning that it will play the effect everywhere on the map, or anywhere there is a weatherzone. Weatherzones have to be placed before the map compiles. This weather effect will move slowly if spawned and there is a misc_skyporal on the map. Please note that placing this effect will extremly increase the load time when you connect.
 
 ### Keys:
+
+```
 count - the number of space dust particles 
         (default 1000)
+```
 
 ### Example code:
+
 ```
 /place fx_spacedust 0 count,1200,
 ```
@@ -2019,11 +2458,16 @@ count - the number of space dust particles
 Runs the specified effect, if it is used it will toggle, on/off.
 
 ### Spawnflags:
+
+```
 1 - effect will start in the off state
 2 - effect fires once, and thats when its used
 4 - does radius damage around effect, you set the damage variables with the 'splashRadius', 'splashDamage' keys
+```
 
 ### Keys:
+
+```
 fxFile        - name of the effect file to play
 target        - direction to aim the effect in 
                 (default to up)
@@ -2034,11 +2478,14 @@ splashDamage  - the damage to give everything in the splash radius
                 (default is 5)
 soundset      - plays start sound when toggled on, loop sound while on, and a stop sound when turned off
 targetname    - make the trigger target this value for the entity to be used
+```
 
 ### Example code:
+
 ```
 /place fx_runner 0 fxfile,effects/misc/possession,wait,2000,spawnflags,3,
 ```
+
 - Creates an effect that only fires once when used, and starts off.
 
 # func_ Entities (see following post for func entities)
@@ -2047,28 +2494,41 @@ targetname    - make the trigger target this value for the entity to be used
 This is the only func_ entity that doesn't need a bmodel. Repeatedly fires its targets. Can be turned on or off by using its targetname.
 
 ### Spawnflags:
+
+```
 1 - Starts on
+```
 
 ### Keys:
+
+```
 wait - base time between triggering all targets, default is 1
 random - wait variance, default is 0 so, the basic time between firing is a random time between (wait - random) and (wait + random)
 targetname - make the trigger target this value for the entity to be used
 target - what the entity will fire at in increments of the wait time.
+```
 
 ### Example code:
+
 ```
 /place func_timer * target,light_switch,spawnflags,1,wait,3,random,1,
 ```
+
 - ok this is an example of using the func_timer to target an entity almost every 3 seconds, i added 1 to the random so that the entity will be used every 2, 3, 4 seconds randomly.
 
 ## func_plat **
 Uses a bmodel that will move up like an elevator, it cannot start up and move down however. It can only start down and move up.
 
 ### Spawnflags:
+
+```
 64 - Allows you to use the brush model as a button
 128 - Starts deactivated, you need to hit it with a target_activate to use it again.
+```
 
 ### Keys:
+
+```
 lip - How high to rest above from a brush default 8
 height - How far to move up. The default is the height of the bmodel
 speed - How fast to move, default 200
@@ -2076,8 +2536,10 @@ dmg - How much damage to cause to a player if they block the path of the entity 
 model - bmodel to draw
 color - add this before light key for the light key to work properly it does a RGB value so ",color,1 0 0" for a red light
 light - radius of light, color key must be set first in your spawnstring for it to work
+```
 
 ### Example code:
+
 ```
 /place func_plat * targetname,plat,lip,1,model,*5,height,200,speed,20
 ```
@@ -2086,10 +2548,15 @@ light - radius of light, color key must be set first in your spawnstring for it 
 Spawns a button type object that when used moves in a direction, fires all of its targets and returns back to original spot.
 
 ### Spawnflags:
+
+```
 64 - Allows player to use the bmodel with use
 128 - Starts deactivated
+```
 
 ### Keys:
+
+```
 angles - determines what direction to move at.
 target - what to fire at when used
 speed - speed to move at, default 40
@@ -2099,8 +2566,10 @@ lip - How high to rest above from a brush default 4
 model - bmodel to draw
 color - add this before light key for the light key to work properly it does a RGB value so ",color,1 0 0" for a red light
 light - radius of light, color key must be set first in your spawnstring for it to work
+```
 
 ### Example code:
+
 ```
 /place func_button * model,*22,angles,0 180 0,target,the_door,lip,5,
 ```
@@ -2109,15 +2578,21 @@ light - radius of light, color key must be set first in your spawnstring for it 
 A bmodel that opens and closes, can fire targets along the way. When this entity doesn't have a targetname it will autospawn another entity to trigger it called a "trigger_door". To delete this entity edit the func_door to have a targetname.
 
 ### Spawnflags:
-1 - Start Open
-2 - Moves when push/pull is used on it
-4 - Crushes anything in its path, instead of returning to its position it came from
-8 - Stops at the end of its movement and doesn't returned unless used again
-16 - Shows shader animmap It starts off and wont move properly until something uses its targetname, the trigger_door entity wont effect it until after its used its first time
-64 - Can be used with use key
-128 - Starts deactivated
+
+```
+1       - Start Open
+2       - Moves when push/pull is used on it
+4       - Crushes anything in its path, instead of returning to its position it came from
+8       - Stops at the end of its movement and doesn't returned unless used again
+16      - Shows shader animmap It starts off and wont move properly until something uses its targetname, 
+          the trigger_door entity wont effect it until after its used its first time
+64      - Can be used with use key
+128     - Starts deactivated
+```
 
 ### Keys:
+
+```
 team - Use this to pair up two door together like double doors, that move in opposite directions. give both the same team key and once 1 is triggered the second one automatically moves.
 model - bmodel to draw
 target - Door fires this when it starts moving from it's closed position to its open position.
@@ -2132,8 +2607,10 @@ health - if set the door must be killed to move open
 delay - if set how long to wait before starting to move
 wait - if set how long to wait when it reaches its open position to move towards its closed position
 lip - How high to rest above from a brush default 8
+```
 
 ### Example code:
+
 ```
 /place func_door * model,*25,angles,0 360 0,targetname,the_door,target,deact_button,closetarget,act_button,
 ```
@@ -2142,6 +2619,8 @@ lip - How high to rest above from a brush default 8
 equivalent to misc_model_breakable for bmodels
 
 ### Spawnflags:
+
+```
 1 - Will be used when you Force-Push it
 2 - Will be used when you Force-Pull it
 4 - Toggle the shader animation frame between 1 and 2 when used
@@ -2149,14 +2628,19 @@ equivalent to misc_model_breakable for bmodels
 16 - Make it do damage when it hits any entity
 64 - Player can use it, fires its target when used
 128 - Starts Deactivated
+```
 
 ### Keys:
+
+```
 target - what to fire at when used
 model - bmodel to draw
 color - add this before light key for the light key to work properly it does a RGB value so ",color,1 0 0" for a red light
 light - radius of light, color key must be set first in your spawnstring for it to work
+```
 
 ### Example code:
+
 ```
 /place func_static * origin,0 0 100,model,*5,spawnflags,64,target,door,
 ```
@@ -2164,13 +2648,18 @@ light - radius of light, color key must be set first in your spawnstring for it 
 ## func_rotating **
 
 ### Spawnflags:
+
+```
 4 - Moves on X Axis
 8 - Moves on Y Axis
 16 - Will hurt a player if blocked
 64 - Can be used
 128 - Start Deactivated
+```
 
 ### Keys:
+
+```
 speed - how fast it moves default is 100
 dmg - damage to inflict when blocked
 spinangles - set rotation on all three axis X Y Z
@@ -2178,8 +2667,10 @@ health - the set health it has when this is set it gets destroyed when killed
 model - bmodel to draw
 color - add this before light key for the light key to work properly it does a RGB value so ",color,1 0 0" for a red light
 light - radius of light, color key must be set first in your spawnstring for it to work
+```
 
 ### Example code:
+
 ```
 /place func_rotating * origin,200 0 0,model,*5,dmg,200,spawnflags,20,spinangles,90 20 50,
 ```
@@ -2188,20 +2679,27 @@ light - radius of light, color key must be set first in your spawnstring for it 
 bmodel that bobs up and down
 
 ### Spawnflags:
-1 - On X Axis
-2 - On Y Axis
-64 - Player can use bmodel
-128 - Start Deactivated
+
+```
+1       - On X Axis
+2       - On Y Axis
+64      - Player can use bmodel
+128     - Start Deactivated
+```
 
 ### Keys:
-height - How high to bob
-speed - How long it takes to complete the bob
-dmg - damage to inflict when blocked
-model - bmodel to draw
-color - add this before light key for the light key to work properly it does a RGB value so ",color,1 0 0" for a red light
-light - radius of light, color key must be set first in your spawnstring for it to work
+
+```
+height  - How high to bob
+speed   - How long it takes to complete the bob
+dmg     - damage to inflict when blocked
+model   - bmodel to draw
+color   - add this before light key for the light key to work properly it does a RGB value so ",color,1 0 0" for a red light
+light   - radius of light, color key must be set first in your spawnstring for it to work
+```
 
 ### Example code:
+
 ```
 /place func_bobbing * origin,0 50 0,model,*69,height,200,speed,5,
 ```
@@ -2210,17 +2708,24 @@ light - radius of light, color key must be set first in your spawnstring for it 
 A bmodel that swings like a pendulum
 
 ### Spawnflags:
+
+```
 64 - can be used
 128 - start deactivated
+```
 
 ### Keys:
+
+```
 speed - Number of degrees each way the pendulum swings, default 30
 dmg - Damage to inflict when blocked
 model - bmodel to draw
 color - add this before light key for the light key to work properly it does a RGB value so ",color,1 0 0" for a red light
 light - radius of light, color key must be set first in your spawnstring for it to work
+```
 
 ### Example code:
+
 ```
 /place func_pendulum * origin,0 200 0,model,*5,speed,5,
 ```
@@ -2229,21 +2734,28 @@ light - radius of light, color key must be set first in your spawnstring for it 
 Spawns a bmodel that follows path_corner entities as a train
 
 ### Spawnflags:
+
+```
 1 - Start On
 2 - Can be toggled on and off
 16 - Damages anything in its path
 64 - Can be used
 128 - Starts Deactivated
+```
 
 ### Keys:
+
+```
 speed - how fast to move
 target - the path_corner to start the train at
 dmg - how much damage to inflict when blocked
 model - bmodel to draw
 color - add this before light key for the light key to work properly it does a RGB value so ",color,1 0 0" for a red light
 light - radius of light, color key must be set first in your spawnstring for it to work
+```
 
 ### Example code:
+
 ```
 /place func_train * target,path_corn1,speed,200,dmg,200,spawnflags,65,
 ```
@@ -2252,6 +2764,7 @@ light - radius of light, color key must be set first in your spawnstring for it 
 spawns a bmodel that gets destroyed when attacked
 
 ### Spawnflags:
+```
 1 - Can only be broken by being used
 2 - Does damage on impact
 8 - Can be broken by impact damage, like how glass gets broken
@@ -2260,8 +2773,11 @@ spawns a bmodel that gets destroyed when attacked
 64 - Using it doesn't make it break, it can still break from damage
 128 - Player can use it
 256 - Don't use the explosion effect when destroyed
+```
 
 ### Keys:
+
+```
 paintarget - what to fire at when hit but not destroyed
 wait - how long to wait before firing paintarget
 delay - when destroyed how long to wait before blowing up
@@ -2269,8 +2785,10 @@ health - how much health it has
 splashdamage - how much damage to give to players withing the splash radius
 splashradius - the radius around the entities origin to give damage to when destroyed
 model - bmodel to draw
+```
 
 ### Example code:
+
 ```
 /place func_breakable * origin,0 0 0,model,*25,health,200,splashradius,200,splashdamage,200,
 ```
@@ -2279,16 +2797,23 @@ model - bmodel to draw
 same thing can be done with func_breakable
 
 ### Spawnflags:
+
+```
 64 - Can be Used
 128 - Start Deactivated
+```
 
 ### Keys:
+
+```
 maxshards - how many shards of glass to draw when broke
 model - bmodel to draw
 color - add this before light key for the light key to work properly it does a RGB value so ",color,1 0 0" for a red light
 light - radius of light, color key must be set first in your spawnstring for it to work
+```
 
 ### Example code:
+
 ```
 /place func_glass * origin,0 0 0,model,*5,maxshards,5,
 ```
@@ -2297,18 +2822,25 @@ light - radius of light, color key must be set first in your spawnstring for it 
 bmodel that disappears when its used and reappears when its used again
 
 ### Spawnflags:
+
+```
 1 - Starts disappeared
 8 - Doesn't Toggle on and off when used, just fires target
 64 - Can be used
 128 - Start Deactivated
+```
 
 ### Keys:
+
+```
 target - what to fire at every time it is turned to off state
 model - bmodel to draw
 color - add this before light key for the light key to work properly it does a RGB value so ",color,1 0 0" for a red light
 light - radius of light, color key must be set first in your spawnstring for it to work
+```
 
 ### Example code:
+
 ```
 /place func_usable * origin,0 50 0,model,*22,spawnflags,1,target,credits,
 ```
