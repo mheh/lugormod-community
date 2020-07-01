@@ -18,7 +18,7 @@ I have gone through and organized the entities by group. (info_, misc_, trigger_
 (L) = Entity was created or edited by either lugor/phred
 ```
 
-- So if an entity has \**(L) by it that means that it was created by either lugor or phred, and has to be targeted to work.
+- So if an entity has **(L) by it that means that it was created by either lugor or phred, and has to be targeted to work.
 
 # info_ Entities
 
@@ -40,16 +40,16 @@ target    - what to fire at when used, in this case when a person dies and this 
 - i added 12 to the z-axis because without the entity spawning 12 units up, you would literally spawn inside the ground.
 
 ## info_player_jail ***
-Lugormod jail spawnpoint. 
-Use /jail <playername> <time> on a player and it will send them to this point, also place as many of these as you want
+<p>
+Lugormod jail spawnpoint. <br>
+Use /jail <playername> <time> on a player and it will send them to this point, also place as many of these as you want<br>
 
-### Example code:
+### Example code:<br>
 ```
 /place info_player_jail 12
 ```
-
-- i added 12 to the z-axis because without the entity spawning 12 units up, you would literally spawn inside the ground.
-
+- i added 12 to the z-axis because without the entity spawning 12 units up, you would literally spawn inside the ground.<br>
+<p>
 # misc_ Entities
 
 ## misc_exploding_crate *
