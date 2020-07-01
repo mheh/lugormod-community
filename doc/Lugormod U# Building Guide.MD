@@ -28,7 +28,9 @@ Basic player spawnpoint, Now if your remove all the current spawnpoints and plac
 
 ### Keys:
 noBots    - bots cannot be spawned using this spawnpoint when set to 1.
+
 noHumans  - humans cannot be spawned using this spawnpoint when set to 1.
+
 target    - what to fire at when used, in this case when a person dies and this spawnpoint is used, it fires at this.
 
 ### Example code:
