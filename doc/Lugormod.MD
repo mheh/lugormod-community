@@ -167,11 +167,15 @@ The last cvar we will look at now is sv_maxclients. This governs how many player
 To gain access to the admin commands you need to authenticate yourself as an admin. There are four admin levels. Level 1 is the most “powerful” and it is suggested that only you, the owner of the server, are a level 1 admin. As a level 1 admin you will have access to all Lugormod commands and all cheat protected commands.
 
 Join the server you created. In the console type:
+```
 \rconPassword <rconpassword>
+```
 
 where <rconpassword> is the password you set earlier in the server.cfg file. Then type in the console:
 
+```
 \rcon authother <player> 1
+```
 
 where <player> is the name you are using.
 
@@ -254,9 +258,17 @@ The bryar pistol is a teleporter gun. Alternate fire will launch a green stone. 
 If there is a money stash (see section 2.4) on the map and close by, the binoculars, if worn by a player with the profession mercenary, will emit a blipping sound. The range from which you can detect the stash depends on the level in the skill ’stash range’. The sound will be more frequent the closer your aim is to the direction of the stash. The proximity of the stash is not indicated in any way.
 
 ### 2.4 Credits and stashes
-For some reason this mod is best known for having money in it. I implemented this because I saw some players playing that they paid eachother money by saying ”*pays CR 10*” and such, so I decided to give them some money to play with. The money in the game is called credits. A player can drop money with the command \dropcr <ammount>. A player can give another player some money with the command \pay <ammount>. When using the command ’pay’ the player must stand close to, aiming at the receiving player. As level 1 admin you can use the command \iwantcredits <ammount> to give yourself money.
-The money is taken from a ”bank”. This bank starts out with an ammount of credits specified by the cvar g_creditsInBank, and this is the maximum ammount of credits there can be in the “world”. You can, however, add money to the bank with the server command \addtobank <ammount>
-A player can earn money by finding a money stash and bringing it to a money dispenser (aka ”a bank”). When there is at least one money dispenser on the map, it will spawn money stashes in random locations on the map. There can only be one money stash at the map at a time. The time until a money stash spawns is random but depends on the number of players on the server. If there are many players the time will be shorter. A money dispenser is placed on the map using the command \placemoneydisp. The money dispenser will appear in the spot where you issued the command, facing the direction you did, as soon as you move away. The random locations around the map used for spawning the money stash at can be placed with the command \placerandomspot. Some random spots might already be on the map because all disabled item, weapon, ammo, shield and health pick ups are transformed into random spots (this be- haviour can be disabled with the cvar g_autoRandomSpots). You can list all ran- dom spots by issuing the following server command entitylist random_spot.
+For some reason this mod is best known for having money in it. I implemented this because I saw some players playing that they paid eachother money by saying ”*pays CR 10*” and such, so I decided to give them some money to play with. 
+
+The money in the game is called credits. A player can drop money with the command \dropcr <ammount>. A player can give another player some money with the command \pay <ammount>. When using the command ’pay’ the player must stand close to, aiming at the receiving player. As level 1 admin you can use the command \iwantcredits <ammount> to give yourself money. 
+	
+The money is taken from a ”bank”. This bank starts out with an ammount of credits specified by the cvar g_creditsInBank, and this is the maximum ammount of credits there can be in the “world”. You can, however, add money to the bank with the server command \addtobank <ammount>. 
+	
+A player can earn money by finding a money stash and bringing it to a money dispenser (aka ”a bank”). When there is at least one money dispenser on the map, it will spawn money stashes in random locations on the map. There can only be one money stash at the map at a time. The time until a money stash spawns is random but depends on the number of players on the server. If there are many players the time will be shorter. 
+
+A money dispenser is placed on the map using the command \placemoneydisp. The money dispenser will appear in the spot where you issued the command, facing the direction you did, as soon as you move away. 
+
+The random locations around the map used for spawning the money stash at can be placed with the command \placerandomspot. Some random spots might already be on the map because all disabled item, weapon, ammo, shield and health pick ups are transformed into random spots (this behaviour can be disabled with the cvar g_autoRandomSpots). You can list all random spots by issuing the following server command entitylist random_spot.
 
 ### 2.5 The level
 A registered player (see section 2.2) can gain levels. There are two ways of doing this. You can buy a level with the command:
@@ -264,13 +276,25 @@ A registered player (see section 2.2) can gain levels. There are two ways of doi
 \buylevel [ammount]
 ```
 
-If [ammount] is enough to buy a new level, and you can afford it, you will level up. If [ammount] is not enough to buy a new level, or if you cannot afford a new level, the cost of the next level will be displayed. If you have the profession ’no profession’ you can also gain levels by earning a high persistant score (see section 2.2.2) and spending time on the server. To level up, both the score and the time must be high enough. The required time and score is displayed with the command \stats. The number of days an account is valid after last logging in is determined by the level and is the level multiplied by seven days. If the player does not login before this, the account is deleted.
+If [ammount] is enough to buy a new level, and you can afford it, you will level up. If [ammount] is not enough to buy a new level, or if you cannot afford a new level, the cost of the next level will be displayed. 
+
+If you have the profession ’no profession’ you can also gain levels by earning a high persistant score (see section 2.2.2) and spending time on the server. 
+
+To level up, both the score and the time must be high enough. The required time and score is displayed with the command \stats. 
+
+The number of days an account is valid after last logging in is determined by the level and is the level multiplied by seven days. If the player does not login before this, the account is deleted.
 
 ### 2.6 The King mode
-The first player to win a private duel becomes the king. The King will auto- matically accept duels. If a player wins a duel against the King, that player will become the King. To find out who is currently the King use the command \king. This will also display how many duels the current King has won since becoming the King, and how many duels the best King won. The King mode can be enabled/disabled with the cvar g_privateDuel (see section 3.3.31).
+The first player to win a private duel becomes the king. The King will automatically accept duels. If a player wins a duel against the King, that player will become the King. 
+
+To find out who is currently the King use the command \king. This will also display how many duels the current King has won since becoming the King, and how many duels the best King won. The King mode can be enabled/disabled with the cvar g_privateDuel (see section 3.3.31).
 
 ### 2.7 The bots
-The bots are somewhat improved in the Lugormod. They will fight a little bit better and if you set the cvar g_botHonorableDuelAcceptance to 1 they will behave better, and not only accept duels, but also challenge players and other bots to duels. The bots in the Lugormod can also answer when you talk to them. They have a list of words and sentences, and if a player says a word from that list, the bots will pick a corresponding sentence and say that. Included with the mod is a fully configured bot called ’astupidbot’. It is only meant as a template for making bots of your own. The cvar g_botMinPlayers governs the minimum number of players there will be on your server. If at any time there are fewer than that number of players on the server, a bot will enter the game. If at any time there are more than that number players on the server, and if any of them is a bot, a bot will disconnect. Be sure to have configured at least as many bots as what you set g_botMinPlayers to.
+The bots are somewhat improved in the Lugormod. They will fight a little bit better and if you set the cvar g_botHonorableDuelAcceptance to 1 they will behave better, and not only accept duels, but also challenge players and other bots to duels. 
+
+The bots in the Lugormod can also answer when you talk to them. They have a list of words and sentences, and if a player says a word from that list, the bots will pick a corresponding sentence and say that. Included with the mod is a fully configured bot called ’astupidbot’. It is only meant as a template for making bots of your own. 
+
+The cvar g_botMinPlayers governs the minimum number of players there will be on your server. If at any time there are fewer than that number of players on the server, a bot will enter the game. If at any time there are more than that number players on the server, and if any of them is a bot, a bot will disconnect. Be sure to have configured at least as many bots as what you set g_botMinPlayers to.
 
 With the server command \sayasbot <bot> <message> you can have the bot <bot> say <message>.
 
@@ -284,17 +308,17 @@ taunt 		(the taunt)
 bow 		(the taunt)
 wait 		(stand still for a couple of seconds) 
 ignore 		(stop challenging the player for a while) 
-hug
+hug		(hug the player)
 give 		<item>
 spawn 		<vehicle>
-attack
-throw
+attack		(start attacking the player)
+throw		(throw the player)
 forgive 	(stop hating a player)
 goto 		(doesn’t really work)
 surrender 	(the emote)
 where 		(tell you where he is)
-voteyes
-voteno
+voteyes		(castvote yes)
+voteno		(castvote no)
 callvote 	<vote>
 fnord 		(say something weird)
 ```
@@ -305,7 +329,11 @@ sayasbot astupidbot @bow
 ```
 
 ### 2.7.2 Configuring the bots
-The cvar g_botsFile specifies what file is to be used to define the bots. In the server.cfg provided with the mod g_botsFile is set to bots.cfg. This file can be found in the ’base’ folder. Open it with your favorite text editor. In this file there is only one section. This section describes ’astupidbot’. Copy the section and paste it below the existing section so that you have two sections. Now you have two bots. Change the name of the new bot by changing ’astupidbot’ to something else. The last line in the section is ’personality’. It specifies the name of a file containing the personality for the bot. Even though you can use the same personality file for several bots it is recommended that you create a new one for each bot. The personality file fot astupidbot can be found in the ’botfiles’ folder in the ’base’ folder. Save and close the ’bots.cfg’ file and open the file astupidbot.jkb. This file is somewhat more complicated than the bots.cfg file. Most settings are explained in the file. Save the file with a new file name so that you get a new copy of the file, and set the the option ’personality’ in the bots.cfg file to refer to this file.
+The cvar g_botsFile specifies what file is to be used to define the bots. In the server.cfg provided with the mod g_botsFile is set to bots.cfg. This file can be found in the ’base’ folder. Open it with your favorite text editor. 
+
+In this file there is only one section. This section describes ’astupidbot’. Copy the section and paste it below the existing section so that you have two sections. Now you have two bots. Change the name of the new bot by changing ’astupidbot’ to something else. 
+
+The last line in the section is ’personality’. It specifies the name of a file containing the personality for the bot. Even though you can use the same personality file for several bots it is recommended that you create a new one for each bot. The personality file for astupidbot can be found in the ’botfiles’ folder in the ’base’ folder. Save and close the ’bots.cfg’ file and open the file astupidbot.jkb. This file is somewhat more complicated than the bots.cfg file. Most settings are explained in the file. Save the file with a new file name so that you get a new copy of the file, and set the the option ’personality’ in the bots.cfg file to refer to this file.
 
 In the personality file you will find chat groups. There are several chat groups. In certain situations the bot will pick one of the sentences from a chat group at random and say it. For example, if the bot is killed it will pick one of the lines in the section ’Died’ and say that. One of the sections is ’ChatBack’ and it is a little bit different from the rest. It contains rows with words followed by a section containing one or more sentences. If a player says something that contains all of the words (in any order) found in one of the rows with words, the bot will randomly pick a sentence from the following section and say that. 
 
@@ -337,9 +365,11 @@ hi all
 ```
 
 In this example the player must say a sentence containing both the word ‘hi’ and the word ’all’ or the word ’hello’ and the word ’all’ to get a response.
+
 Some things to keep in mind:
 The triggering words can not contain any non alphabetical characters (not even numbers).
 When a match is found the ChatBack section will not be parsed any further.
+
 ```
 hello 
 hi
@@ -461,15 +491,14 @@ You need to place at least two command posts on the map, one for each team. To p
 ```
 
 Make sure the first command post you place is for the opposite team. Place player spawn points, and if you wish vehicle spawners, in the vicinity of the command posts. The spawn points will “belong” to the closest command post and the team controlling it. If you add the option ’alliedTeam’ to a vehicle spawner, the spawner will only spawn vehicles if the closest control point is controlled by the selected team. This way you can have one type of vehicles spawn when one team controls the command post, and another type of vehicles when the other team controls it.
+
 There are two spawn flags for the command post:
 ```
 1 Cannot be taken 
 2 Important
 ```
 
-The ’Cannot be taken’ flag is only valid if ’alliedTeam’ is set to either 1 or 2 (red or blue). An important control point takes longer to hack, but also reduces the rate the points count down more when controlled. You can set the option
-
-’message’ to a description of the command post. This will be displayed when someone is trying to steal a command post from the opposite team. If you want a model other than the default one, set the option ’model’. You can also change the size of the bounding box with the options ’maxs’ and ’mins’.
+The ’Cannot be taken’ flag is only valid if ’alliedTeam’ is set to either 1 or 2 (red or blue). An important control point takes longer to hack, but also reduces the rate the points count down more when controlled. You can set the option ’message’ to a description of the command post. This will be displayed when someone is trying to steal a command post from the opposite team. If you want a model other than the default one, set the option ’model’. You can also change the size of the bounding box with the options ’maxs’ and ’mins’.
 
 Examples:
 ```
@@ -482,25 +511,34 @@ This will spawn a command post that is owned by the red team at start and that c
 ```
 
 This will spawn an important command post that is not owned by any team at start.
-Issuetheservercommandsaveit battlegroundwhenyouarefinishedplac- ing your stuff.
+Issue the server command '\saveit battleground' when you are finished placing your stuff.
 
 ### 2.10.3 The Reborn game type
-Although you are in teams in this game type this is not really a team game. Your objective is to achieve the highest personal score. The game is played in several rounds. At the beginning of each round all players but one is in the blue team. When you are in the blue team you have no force powers and no saber but you can use weapons and pick health pick ups. You get one point for each member of the red team (the reborn) that you frag. If you are fragged by a member of the red team you become a reborn (you join the red team). When you are in the red team you cannot pick up weapons or health pick ups, but you have a light saber and force powers. You do not get any points for fragging blue players, but by doing so you ensure that they do not get more points. As the goal is the same for all the reborn, cooperation is a good idea. The following bonuses are awarded:
+Although you are in teams in this game type this is not really a team game. Your objective is to achieve the highest personal score. The game is played in several rounds. At the beginning of each round all players but one is in the blue team. 
+
+When you are in the blue team you have no force powers and no saber but you can use weapons and pick health pick ups. You get one point for each member of the red team (the reborn) that you frag. If you are fragged by a member of the red team you become a reborn (you join the red team). 
+
+When you are in the red team you cannot pick up weapons or health pick ups, but you have a light saber and force powers. You do not get any points for fragging blue players, but by doing so you ensure that they do not get more points. 
+
+As the goal is the same for all the reborn, cooperation is a good idea. 
+
+The following bonuses are awarded:
 ```
 survival bonus		1 point every three minutes for the blue team.
-last man standing 	3 points for the last surviving player in the blue team.
 last kill		2 points for the reborn who frags the last man standing.
+last man standing 	3 points for the last surviving player in the blue team.
 ```
 
 When all players are reborn a new round begins. The game ends when either the kill limit is reached or all players have started a round as reborn.
 
 ### 2.11 Temporary bans
-The only way to ban a player is by the player’s IP address. Many players have a dynamic IP address which means that they get a new IP address every time they turn their computer on. Banning such an IP address permanently is not very effective. Also eventually someone else will get that IP address, and might not be able to connect to the server (not very probable, but still). In the Lugormod there are temporary bans. When added they stay for a certain ammount of time, then they are automatically removed. Any player who is vote kicked from the server will automatically get a temporary ban, so that the player can’t just reconnect instantly.
+The only way to ban a player is by the player’s IP address. Many players have a dynamic IP address which means that they get a new IP address every time they turn their computer on. Banning such an IP address permanently is not very effective. Also eventually someone else will get that IP address, and might not be able to connect to the server (not very probable, but still). 
+
+In the Lugormod there are temporary bans. When added they stay for a certain ammount of time, then they are automatically removed. Any player who is vote kicked from the server will automatically get a temporary ban, so that the player can’t just reconnect instantly.
 
 # Chapter 3 - The Lugormod Commands and Cvars
 
 ## 3.1 Ingame Commands
-
 
 ### \help <command>
 The most useful command in the game is probably the command help. With no argument the command will display a list of all Lugormod commands available to the player. To get a short description on how to use a command supply the argument <command> to the command help. Example: \help login.
@@ -755,6 +793,7 @@ This is a level 2 admin command.
 
 ### \placemodel <path> [zoffset] [radius]
 Place a model on the map. The options [zoffset] and [radius] govern the size of the bounding box for the model (this is what makes it solid), and defaults to 0 and 16 respectively. The number of different models that can be loaded are limited both server side and client side to 512 (a model that has been loaded stays loaded even if you remove it), and the total number of entities is limited to 1024. Also every model you place puts an additional strain on the server. Don’t overdo this.
+
 This is a level 1 admin command.
 
 ### \placemoneydisp
@@ -826,10 +865,14 @@ This is a level 1 admin command.
 Register your nick name so that noone else can use it. This will create an ac- count. A user identification number (UID) will be displayed in the console. Use this when you log into the account with the command \login <UID> <password>. For more information on accounts see section 2.2.
 
 ### \resetforce [cost]
-Unlearn all your force powers. If no argument is provided the cost is displayed. This command is only available to players with the profession jedi/sith.
+Unlearn all your force powers. If no argument is provided the cost is displayed. 
+
+This command is only available to players with the profession jedi/sith.
 
 ### \resetskill [cost]
-Unlearn all your skills. If no argument is provided the cost is displayed. This command is only available to players with the profession mercenary.
+Unlearn all your skills. If no argument is provided the cost is displayed. 
+
+This command is only available to players with the profession mercenary.
 
 ### \say_admins <message>
 Say <message> so that only other admins can hear it. In non team game types, for admins, this will be used instead of say team.
@@ -1050,7 +1093,7 @@ Display the time since the server was started.
 ### g_allowBlackNames
 In the original game, players are not supposed to be able to use the color black at all in their names. In the Lugormod they can’t unless this is set to anything other than 0.
 
-Defaults to ’0’.
+Defaults to ’0’
  
 ### g_allowVote
 This is not really a Lugormod cvar, but I have made it into a bit mask with the following flags:
@@ -1105,9 +1148,9 @@ Default to ’0’
 ### g_cmdLvlFile
 This is the name of a file containing re-defenitions of what admin levels the Lugormod ingame commands are. This is located in /lugormod/<file.cfg>. Each row in the file is a command name - level pair. If you want to set the level for the commands blowup, drinkme and dragon all to 3, this is what you would type in your file:
 ```
-"blowup" 3 
-"drinkme" 3 
-"dragon" 3
+"blowup" 	3 
+"drinkme" 	3 
+"dragon" 	3
 ```
 
 Now all level 3, 2 and 1 admins will be able to use those commands. 
@@ -1184,7 +1227,9 @@ Players can call a vote for these game modes with the command
 \callvote g_gamemode <number>.
 ```
 
-For more information about the game modes, see section 2.9 Defaults to ’0’
+For more information about the game modes, see section 2.9 
+
+Defaults to ’0’
     
 ### g_grapplingHook
 If set to anything other than 0, the stun baton will double as a grappling hook. If set to 2 it will only be a grappling hook. See section 2.3.1 for more information. 
@@ -1293,7 +1338,7 @@ This isn’t really a Lugormod cvar, but I have made it into a bit mask with the
 8192 	Only score frags in private duels in FFA 16384 Disable severing of duels
 ```
 
-Defaults to “289”
+Defaults to '289'
 
 ### g_profanityFile
 This is the name of the configuration file for the profanity filter. The file is a regular text file listing first all words that are to be filtered followed by a section with measures to be taken.
@@ -1340,7 +1385,6 @@ Defaults to ’0’
    
 ## Appendix A
 
-
 ### A.1.1 Placing a turret
 The entity classname of a turret is turret_G2. The type of turret you get depends on the spawnflags. There are two types of turrets you can get, a small turret hanging from roof, or the huge death star like turbo laser. By default you get the small one, but by setting the spawn flag 4 you will get the big one. Here is an example for placing a small one (aim at a ceiling):
 ```
@@ -1376,13 +1420,15 @@ Spawnflags:
 64	target fighters
 128	target ground vehicles 256 target armed players
 
-options:
-radius 		- How far away an enemy can be for it to pick it up (default 512) wait - Time between shots (default 150 ms)
+Options:
+count 		- if CANRESPAWN spawnflag, decides how long it is before gun respawns (in ms) - defaults to 20000 (20 seconds)
+customscale 	- custom scaling size. 100 is normal size, 1024 is the max scaling. this will change the bounding box size, so be careful of starting in solid!
 dmg 		- How much damage each shot does (default 5)
 health 		- How much damage it can take before exploding (default 100)
-count 		- if CANRESPAWN spawnflag, decides how long it is before gun respawns (in ms) - defaults to 20000 (20 seconds)
+icon	 	- icon that represents the objective on the radar
 paintarget 	- target to fire off upon being hurt
 painwait 	- ms to wait between firing off pain targets
+radius 		- How far away an enemy can be for it to pick it up (default 512) wait - Time between shots (default 150 ms)
 random 		- random error (in degrees) of projectile direction when it comes out of the muzzle (default is 2)
 shotspeed 	- the speed of the missile it fires travels at (default is 1100 for regular turrets, 20000 for TURBOLASERS)
 splashDamage 	- How much damage the explosion does
@@ -1395,17 +1441,16 @@ teamowner 	- crosshair shows green for this team, red for opposite team
 	0 - none
 	1 - red
 	2 - blue
+
 alliedTeam 	- team that this turret won't target
 	0 - none
 	1 - red
 	2 - blue
+
 teamnodmg - team that turret does not take damage from
 	0 - none
 	1 - red
 	2 - blue
-
-customscale 	- custom scaling size. 100 is normal size, 1024 is the max scaling. this will change the bounding box size, so be careful of starting in solid!
-icon	 	- icon that represents the objective on the radar
 ```
 
 ### Placing a jump pad
@@ -1434,55 +1479,57 @@ Now look at the spot you want people to be teleported to and type:
 
 ## References
 ```
-item_shield_sm_instant
-item_shield_lrg_instant
-item_medpak_instant
-item_seeker
-item_shield
+item_ammodisp
+item_binoculars
+item_eweb_holdable
+item_force_boon
+item_force_enlighten_dark
+item_force_enlighten_light
+item_healthdisp
+item_jetpack
 item_medpac
 item_medpac_big
-item_binoculars
-item_sentry_gun
-item_jetpack
-item_healthdisp
-item_ammodisp
-item_eweb_holdable
+item_medpak_instant
 item_seeker
-item_force_enlighten_light
-item_force_enlighten_dark
-item_force_boon
+item_sentry_gun
+item_shield
+item_shield_lrg_instant
+item_shield_sm_instant
 item_ysalimari
 ```
 ```
+weapon_bryar_pistol //This is a teleporter in the lugormod weapon_blaster
 weapon_stun_baton // doubles as grappling hook in the Lugormod weapon_melee
 weapon_saber
 weapon_blaster_pistol
-weapon_concussion_rifle
-weapon_bryar_pistol //This is a teleporter in the lugormod weapon_blaster
-weapon_disruptor
+weapon_blaster
 weapon_bowcaster
+weapon_disruptor
 weapon_repeater
-weapon_demp2
 weapon_flechette
+weapon_demp2
+weapon_concussion_rifle
 weapon_rocket_launcher
-```
-```
-ammo_thermal
-ammo_tripmine
-ammo_detpack
 weapon_thermal
 weapon_trip_mine
 weapon_det_pack
 weapon_emplaced
-ammo_force
-ammo_blaster
-ammo_powercell
-ammo_metallic_bolts
-ammo_rockets
+```
+```
 ammo_all
-team_CTF_redflag
+ammo_blaster
+ammo_detpack
+ammo_force
+ammo_metallic_bolts
+ammo_powercell
+ammo_rockets
+ammo_thermal
+ammo_tripmine
+```
+```
 team_CTF_blueflag
 team_CTF_neutralflag
+team_CTF_redflag
 ```
 
 ## Acknowledgements
