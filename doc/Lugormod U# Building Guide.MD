@@ -39,7 +39,8 @@ target    - what to fire at when used, in this case when a person dies and this 
 - i added 12 to the z-axis because without the entity spawning 12 units up, you would literally spawn inside the ground.
 
 ## info_player_jail ***
-Lugormod jail spawnpoint. Use /jail <playername> <time> on a player and it will send them to this point, also place as many of these as you want
+Lugormod jail spawnpoint. 
+Use /jail <playername> <time> on a player and it will send them to this point, also place as many of these as you want
 
 ### Example code:
 ```
