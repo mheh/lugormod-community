@@ -33,6 +33,7 @@ noBots    - bots cannot be spawned using this spawnpoint when set to 1.<br>
 noHumans  - humans cannot be spawned using this spawnpoint when set to 1.<br>
 target    - what to fire at when used, in this case when a person dies and this spawnpoint is used, it fires at this.<br>
 </p>
+
 ### Example code:
 
 ```
@@ -96,38 +97,37 @@ This will spawn a model in game that can either have no purpose and sit there, o
 8192  - Payable button, use count and message keys<br>
 
 ### Keys:
-<p>
-property    - this entity will only work for people with access to the property set here
-customSkill        - The name of the skill to check. (see lmd_customskill for details).
-customSkillCompare - Comparison type. -1 for direct compare (use this for text), 0 for greater or equal to, 1 for less than. Default of 0.
-customSkillValue   - The value to compare to.
-playerFlags - gives access to this entity for players who have this set ammount of flags, see lmd_flagplayer for more information
-useScript   - the script to use
-parm1       - the movement distance for a movable model to move to, if spawnflags 2 is set it loops its movement. 
-              If not it only moves when something targets the entities targetname this only works if you have the usescript key set to something like:       
-              "usescript,common/switch_on".
-parm2       - the delay to wait in milliseconds before moving again when the movement reaches its closed position or opened position
-profession  - Sets it so only a person with a certain profession can use a button. 
-              Note that you can add these together: profession,3, = jedi and merc but tech can't access this button.
 
--1     - no profession
- 1     - Jedi Profession
- 2     - Mercenary Profession
- 4     - Tech Profession
+property    - this entity will only work for people with access to the property set here  
+customSkill        - The name of the skill to check. (see lmd_customskill for details).  
+customSkillCompare - Comparison type. -1 for direct compare (use this for text), 0 for greater or equal to, 1 for less than. Default of 0.  
+customSkillValue   - The value to compare to.  
+playerFlags - gives access to this entity for players who have this set ammount of flags, see lmd_flagplayer for more information  
+useScript   - the script to use  
+parm1       - the movement distance for a movable model to move to, if spawnflags 2 is set it loops its movement.  
+              If not it only moves when something targets the entities targetname this only works if you have the usescript key set to something like:         
+              "usescript,common/switch_on".  
+parm2       - the delay to wait in milliseconds before moving again when the movement reaches its closed position or opened position  
+profession  - Sets it so only a person with a certain profession can use a button.   
+              Note that you can add these together: profession,3, = jedi and merc but tech can't access this button.  
+  
+-1     - no profession  
+ 1     - Jedi Profession  
+ 2     - Mercenary Profession  
+ 4     - Tech Profession  
+  
+level       - People with this level and above can use this, must be set to 1-40. So if you set it to 5, people level 5 and up can use it while people   
+              below level 5 cannot use it. However now if you set it to -5 people level's 5 and below will only be able to use this.  
+adminLevel  - People with this admin level and above can use this, must be set for 1-4, So if you set it to 2, admins level 2 and up can use it,   
+              while people with level 3 and below cannot.  
+count       - Only works when spawnflags are set to 8192, its the amount of credits the person must pay with the "/pay" command for the entity to fire   its target.  
+message     - The message that people will see when they press 'use' on the button.  
+gravity     - Add this key with the number one after it and make the z-axis to something above the ground and the model will be pushable and pullable.  
+target      - What to fire at when used  
+model       - the md3 model to draw  
+modelScale  - how much to scale the model, 1-10 for larger model, 0-1 for smaller, ex .5 for half the size.  
+targetName  - make the trigger target this value for the entity to be used  
 
-level       - People with this level and above can use this, must be set to 1-40. So if you set it to 5, people level 5 and up can use it while people 
-              below level 5 cannot use it. However now if you set it to -5 people level's 5 and below will only be able to use this.
-adminLevel  - People with this admin level and above can use this, must be set for 1-4, So if you set it to 2, admins level 2 and up can use it, 
-              while people with level 3 and below cannot.
-count       - Only works when spawnflags are set to 8192, its the amount of credits the person must pay with the "/pay" command for the entity to fire its    
-              target.
-message     - The message that people will see when they press 'use' on the button.
-gravity     - Add this key with the number one after it and make the z-axis to something above the ground and the model will be pushable and pullable.
-target      - What to fire at when used
-model       - the md3 model to draw
-modelScale  - how much to scale the model, 1-10 for larger model, 0-1 for smaller, ex .5 for half the size.
-targetName  - make the trigger target this value for the entity to be used
-</p>
 
 ### Example code:
 
