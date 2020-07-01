@@ -1,19 +1,24 @@
 # Lugormod U# (U-Sharp) Entity Guide
 
-The following are entities that can be placed and saved in the game, These are not all the entities, I've removed some of the entities that are for a team gametype and some of the entities that are pointless. Credit goes to Phred for making the first original entitylist, without that none of this is possible. And of course to Ravensoft, whenever they didn't do anything idiotic. I will try as best as i can to give a better definition for each entity, as well as give an example on how its placed. For a reference to these entities and how to use them please refer to the Lugormod Building Guide, located here.
+The following are entities that can be placed and saved in the game. These are not all the entities, I've removed some of the entities that are for a team gametype and some of the entities that are pointless. 
+
+Credit goes to Phred for making the first original entitylist, without that none of this is possible. And of course to Ravensoft, whenever they didn't do anything idiotic. I will try as best as i can to give a better definition for each entity, as well as give an example on how its placed. 
+
+For a reference to these entities and how to use them please refer to the Lugormod Building Guide, located here.
 
 Please Note: I am still adding things as i go, I removed entities that I know are currently unstable, or don't work properly they will be readded when they get fixed.
 
 I have gone through and organized the entities by group. (info_, misc_, trigger_, target_, fx_, lmd_, func_, misc..) Some of the entities may belong in more than one group so i am going to make a key chart. That will put a symbol by each entities name so you know what kind of entity it is. Some entities may very if they have targetnames set, I am setting their keys by if the entity is placed without a targetname.
 
-Key Chart:
-
+## Key Chart:
+```
 * = Entity is triggerable.
 ** = Entity can be targeted to work. Or has to be.
 *** = Is an entity that is placed that doesn't need to be targeted/triggered to work.
 (L) = Entity was created or edited by either lugor/phred
+```
 
-- So if an entity has **(L) by it that means that it was created by either lugor or phred, and has to be targeted to work.
+- So if an entity has \**(L) by it that means that it was created by either lugor or phred, and has to be targeted to work.
 
 Info Entities
 
