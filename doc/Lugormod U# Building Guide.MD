@@ -578,7 +578,7 @@ Because this is one of the most important entities i will list 3 examples
 /place trigger_multiple 0 mins,-100 -5 0,maxs,100 5 200,target,kill_npc,spawnflags,16,
 ```
 
--This would be an example if you had a room that had NPCs in it and you didn't want people to be able to get the NPCs out of the room, so when the NPC leaves the room it will fire at a target_kill and kill the NPC, the spawnflags 16 makes it so the trigger_multiple can only be fired by NPCs.
+- This would be an example if you had a room that had NPCs in it and you didn't want people to be able to get the NPCs out of the room, so when the NPC leaves the room it will fire at a target_kill and kill the NPC, the spawnflags 16 makes it so the trigger_multiple can only be fired by NPCs.
 
 ```
 /place trigger_multiple 0 mins,-15 -15 0,maxs,15 15 45,spawnflags,4,usetime,10000,target,free_cash,
@@ -1691,7 +1691,7 @@ count         - ammount of NPCs it is allowed to be on the map at once from this
 /place LMD_spawner 40 NPC_type,swoop,count,1,targetname,Sweet_Ride
 ```
 
-##lmd_gravity **(L)
+## lmd_gravity **(L)
 changes an individual players gravity
 
 ### Spawnflags:
