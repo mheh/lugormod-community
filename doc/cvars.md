@@ -1,18 +1,18 @@
 # Lugormod Cvars
 
-**_lmd_maxSameIp_**
+##**_lmd_maxSameIp_**
 
 **Default: 3**
 
 Maximum number of users that can have the same ip.  Once this limit is reached for a certain ip, all new connections from the ip will be ignored.  Usefull for stopping fake player attacks.
 
-**_lmd_autoBanSameIp_**
+##**_lmd_autoBanSameIp_**
 
 **Default: 0**
 
 If lmd_maxsameip is set, then this cvar controls whether to ban ips that go over the given limit.
 
-**_lmd_datapath_**
+##**_lmd_datapath_**
 
 **Default: default**
 
@@ -20,24 +20,28 @@ If lmd_maxsameip is set, then this cvar controls whether to ban ips that go over
 
 The data path that lugormod will use for its accounts, entity sets, and other files.
 
-**_lmd_startingCr_**
+##**_lmd_startingCr_**
 
 **Default: 0**
 
 The number of credits a newly registered player starts with
 
-**_lmd_stashRate_**
+##**_lmd_stashRate_**
 
 **Default: 60000**
 
 The time in miliseconds to wait between checking to spawn a stash.  This time is offset by a random value, and may not spawn a stash each check.
 
-**_lmd_stashDepoTime_**
+##**_lmd_stashDepoTime_**
+
 **Default: 15000**
+
 The time in miliseconds needed to deposit a stash.
 
-**_lmd_stashCr_**
+##**_lmd_stashCr_**
+
 **Default: 10**
+
 The default number of credits in a stash.  This is only used in the new lmd_stash* entity set, and only if no credits value is already given.
 
 **_lmd_adminGodLevel_**
