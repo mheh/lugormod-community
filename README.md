@@ -1,13 +1,18 @@
 # Lugormod U# 2.4.8.4 Blank Server
 
-This is a setup of Lugormod U# 2.4.8.4 +Wp +Fp ready to go for linux servers. It has everything in the correct location, so you can copy these files to your directory and launch the server with ./jka_start
+This is a setup of Lugormod U# 2.4.8.4 +Wp +Fp for linux servers. It has everything in the correct location so you can copy these files to your directory and launch the server with ./jka_start
+
 It also has an added /info command which is just a dummy command pointing to /help in order to fix OpenJK compatability.
 
 ## Documentation
 Documentation files are located under the doc subfolder for markdown files. Links are below:
+
 [Original Lugormod Document](doc/lugormod.md) (Original PDF in folder, too)
+
 [Auto-Launch Information](doc/autolaunch.md)
+
 [U# Building Guide](doc/building.md)
+
 Not completed: [Cvar List](doc/cvars.md)
 
 ## Setup Guide
