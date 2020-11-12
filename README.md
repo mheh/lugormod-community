@@ -1,61 +1,32 @@
-# Lugormod U# 2.4.5.4 Blank Server
+# Lugormod U# 2.4.8.4 Blank Server
 
-This is a setup of lugormod 1.2.2 ready to go for linux servers. It has everything installed so you can copy these files to your directory and launch the server with ./jka_start
-Alternatively you can start the automatic restart scripts by executing two of them: ./jka-restarter.sh and ./jka_autorestart.sh
+This is a setup of Lugormod U# 2.4.8.4 +Wp +Fp ready to go for linux servers. It has everything in the correct location, so you can copy these files to your directory and launch the server with ./jka_start
+It also has an added /info command which is just a dummy command pointing to /help in order to fix OpenJK compatability.
 
-Check the other branches for the servers linked to github on this account.
+## Documentation
+Documentation files are located under the doc subfolder for markdown files. Links are below:
+[Original Lugormod Document](doc/lugormod.md) (Original PDF in folder, too)
+[Auto-Launch Information](doc/autolaunch.md)
+[U# Building Guide](doc/building.md)
+Not completed: [Cvar List](doc/cvars.md)
 
-## Server Guides
-
-The server is running with: 
+## Setup Guide
+The quickest setup is the follow these commands:
 ```
-linuxjampded
-lugormod 1.2.2
-```
-
-### Settings location:
-```
-lugormod/
-
-lugormod/cmdleveldefs.cfg
-	Set command levels for lugormod commands.  Lugormod has 4 adminlevels.
-
-lugormod/server.cfg
-	Set cvars, map rotations and other things that are executed when the server starts.
+git clone https://github.com/mheh/lugormod-community.git
+cp -r lugormod-community/lugormod/* <destination of lugormod folder>
 ```
 
-### Installing
+This assumes you have a lugormod folder in your openjk or .ja server folder and have been previously running a server. Just make sure you set fs_game to lugormod when launching.
 
-Wherever you download this folder, merge it into your existing jedi academy folder.
+## A New Server
 
-Commonly:
+The overall directory view of an OpenJK server should look like this:
 ```
-/home/<username>/.ja/
+/home/<username>/.local/share/openjk/base/
+/home/<username>/.local/share/openjk/lugormod/
+/home/<username>/.local/share/openjk/openjkded.i386
 ```
-or for OpenJK
-```
-/home/<username>/.local/share/openjk/
-```
-
-The finished directory paths should be as follows:
-
-```
-/home/<username>/.ja/base/
-/home/<username>/.ja/lugormod/
-/home/<username>/.ja/linuxjampded
-/home/<username>/.ja/pdb.so
-/home/<username>/.ja/
-```
-or for OpenJK installs
-```
-/home/<username>/.local/openjk/base/
-/home/<username>/.local/openjk/lugormod/
-/home/<username>/.local/openjk/openjkded.i386
-/home/<username>/.local/openjk/pdb.so
-/home/<username>/.local/openjk/
-```
-
-### If you're piecing together a server
 
 In order to host your own server you'll need asset files.
 Within the base folder:
@@ -64,53 +35,57 @@ assets0.pk3  assets2.pk3  cgamei386.so  jampgamei386.so  uii386.so
 assets1.pk3  assets3.pk3
 ```
 
-Once these files have been created, you should be able to launch a dedicated local server on your linux machine.
-
-Type this when you're in the folder that has linuxjampded or openjkded.i386 in it.
-```
-./linuxjampded +set fs_game lugormod +exec server.cfg
-```
-
-This should launch the server in your terminal window. And be available for connecting to on your local network.
-
-## If you encounter errors please check these things.
-
-For the linuxjampded executable under Ubuntu, you must install libc6, libncurses5 and libstdc++6 as 32-bit:
+For the server executable in Ubuntu, you must install libc6, libncurses5 and libstdc++6 as 32-bit:
 ```
 sudo dpkg --add-architecture i386
-sudo apt-get update
-sudo apt-get install libc6:i386 libncurses5:i386 libstdc++6:i386
+sudo apt update
+sudo apt install libc6:i386 libncurses5:i386 libstdc++6:i386
 ```
 
-You need to have libcxa.so.1 located in /usr/lib for the linuxjampded executable:
+For openjkded you need zlib1g-dev also installed in 32-bit:
+```
+sudo apt install zlib1g-dev:i386
+```
+
+Finally, copy libcxa.so.1 into /usr/lib:
 ```
 cp libcxa.so.1 /usr/lib
 ```
 
-## Becoming an admin
-
-First connect to your server, change your name from Padawan (if it's Padawan), and create an account with 
+Once these files have been placed correctly, you should be able to launch a dedicated local server on your linux machine.
 ```
-/regnick <password>
-```
-change the password and remove the < > from it.
-
-Then login with 
-```
-/login <ID> <password>
+./openjkded.i386 +set fs_game lugormod +exec server.cfg
 ```
 
-Set your rconpassword to what your server's rconpassword is set to in server.cfg.
+This will launch the server in your terminal window, set the game to lugormod, and execute the server.cfg which loads the first map. By default it is available on the local network.
+A linuxjampded version of the server is similar in layout, but everything resides in /home/<username>/.ja
+
+## Firewall
+Depending on your hosting and firewall scenario, this will vary. Please consult your hosting company's documentation and firewall documentation before asking support from individuals.
+You need to open the default jedi academy port on your server if you're running a firewall, and potentially your host or router port as well for internet access.
+If you're not running a firewall, or if this is for a home setup, you shouldn't need to open any ports for a local connection.
+
+### For Ubuntu's UFW firewall
+Check if UFW is active:
 ```
-/rconpassword <rconpassword of server>
+sudo ufw status
 ```
 
-Then type 
+if disabled, run the following commands:
 ```
-/rcon makeadmin <ID> 1
+sudo ufw default deny incoming
+sudo ufw default allow outgoing
+sudo ufw allow 29070
 ```
 
-Now, assuming you're not running OpenJK, which takes control over /help, you should be able to type /help and view all available commands to the administrator.
+### WAIT
+If you're hosting remotely or connected via ssh, make sure to allow SSH over port 22:
+```
+sudo ufw allow 22
+```
+
+### For Routers/Hosting
+Open TCP/UDP port 29070 on your router's home page or host's website. Thie varies in appearance but often is labeled as Port forwarding.
 
 ## Authors
 
