@@ -16,13 +16,15 @@ Documentation files are located under the doc subfolder for markdown files. Link
 Not completed: [Cvar List](doc/cvars.md)
 
 ## Setup Guide
+Be careful, these commands copy a server.cfg file. This assumes a lugormod folder exists for your server.
+
 The quickest setup is the follow these commands:
 ```
 git clone https://github.com/mheh/lugormod-community.git
 cp -r lugormod-community/lugormod/* <destination of lugormod folder>
 ```
 
-This assumes you have a lugormod folder in your openjk or .ja server folder and have been previously running a server. 
+Please change jka_start.sh to your server destination, too as well as scripts in the autolaunch folder. Read [Auto-Launch Information](doc/autolaunch.md) for help.
 
 ## A New Server
 
