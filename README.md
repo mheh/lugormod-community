@@ -1,6 +1,6 @@
 # Lugormod U# 2.4.8.4 Blank Server
 
-This is a setup of Lugormod U# 2.4.8.4 +Wp +Fp for linux servers. It has everything in the correct location so you can copy these files to your directory and launch the server with ./jka_start
+This is a setup of Lugormod U# 2.4.8.4 +Wp +Fp for linux servers.
 
 It also has an added /info command which is just a dummy command pointing to /help in order to fix OpenJK compatability.
 
@@ -22,7 +22,7 @@ git clone https://github.com/mheh/lugormod-community.git
 cp -r lugormod-community/lugormod/* <destination of lugormod folder>
 ```
 
-This assumes you have a lugormod folder in your openjk or .ja server folder and have been previously running a server. Just make sure you set fs_game to lugormod when launching.
+This assumes you have a lugormod folder in your openjk or .ja server folder and have been previously running a server. 
 
 ## A New Server
 
@@ -63,11 +63,14 @@ Once these files have been placed correctly, you should be able to launch a dedi
 ```
 
 This will launch the server in your terminal window, set the game to lugormod, and execute the server.cfg which loads the first map. By default it is available on the local network.
+
 A linuxjampded version of the server is similar in layout, but everything resides in /home/<username>/.ja
 
 ## Firewall
 Depending on your hosting and firewall scenario, this will vary. Please consult your hosting company's documentation and firewall documentation before asking support from individuals.
+
 You need to open the default jedi academy port on your server if you're running a firewall, and potentially your host or router port as well for internet access.
+
 If you're not running a firewall, or if this is for a home setup, you shouldn't need to open any ports for a local connection.
 
 ### For Ubuntu's UFW firewall
