@@ -1,4 +1,4 @@
-# Lugor 1.2.2 Blank Server
+# Lugormod U# 2.4.5.4 Blank Server
 
 This is a setup of lugormod 1.2.2 ready to go for linux servers. It has everything installed so you can copy these files to your directory and launch the server with ./jka_start
 Alternatively you can start the automatic restart scripts by executing two of them: ./jka-restarter.sh and ./jka_autorestart.sh
@@ -32,6 +32,10 @@ Commonly:
 ```
 /home/<username>/.ja/
 ```
+or for OpenJK
+```
+/home/<username>/.local/share/openjk/
+```
 
 The finished directory paths should be as follows:
 
@@ -40,13 +44,20 @@ The finished directory paths should be as follows:
 /home/<username>/.ja/lugormod/
 /home/<username>/.ja/linuxjampded
 /home/<username>/.ja/pdb.so
-/home/<username>/.ja/>
+/home/<username>/.ja/
+```
+or for OpenJK installs
+```
+/home/<username>/.local/openjk/base/
+/home/<username>/.local/openjk/lugormod/
+/home/<username>/.local/openjk/openjkded.i386
+/home/<username>/.local/openjk/pdb.so
+/home/<username>/.local/openjk/
 ```
 
 ### If you're piecing together a server
 
-In order to host your own server you'll need asset files located in base
-
+In order to host your own server you'll need asset files.
 Within the base folder:
 ```
 assets0.pk3  assets2.pk3  cgamei386.so  jampgamei386.so  uii386.so
@@ -55,25 +66,25 @@ assets1.pk3  assets3.pk3
 
 Once these files have been created, you should be able to launch a dedicated local server on your linux machine.
 
-To do this, change to the directory with linuxjampded in it 
-```
-cd /home/<username>/.ja/
-```
-
-Then type
+Type this when you're in the folder that has linuxjampded or openjkded.i386 in it.
 ```
 ./linuxjampded +set fs_game lugormod +exec server.cfg
 ```
-Which should launch the server in your terminal window. And be available for connecting to on your local network.
-If you encounter errors please check willnotrun.txt
 
-Alternatively this is what the file says:
+This should launch the server in your terminal window. And be available for connecting to on your local network.
 
-For Ubuntu:
+## If you encounter errors please check these things.
+
+For the linuxjampded executable under Ubuntu, you must install libc6, libncurses5 and libstdc++6 as 32-bit:
 ```
 sudo dpkg --add-architecture i386
 sudo apt-get update
 sudo apt-get install libc6:i386 libncurses5:i386 libstdc++6:i386
+```
+
+You need to have libcxa.so.1 located in /usr/lib for the linuxjampded executable:
+```
+cp libcxa.so.1 /usr/lib
 ```
 
 ## Becoming an admin
