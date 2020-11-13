@@ -260,8 +260,8 @@ This entity lights up an area. It can be toggled between two colors.
 ```
 light               : The intensity of the light when turned on.
 color               : The colors in decimal precent form (0 to 1, 0.5 would be 50%) for the color to display. Values are RGB in that order. Example: color,1 0 1, would be yellow.
-offLight            : Same as light but when toggled off.
-offColor            : Same as color but when toggled off.
+offlight            : Same as light but when toggled off.
+offcolor            : Same as color but when toggled off.
 ```
 
 ## t2_light
@@ -741,6 +741,12 @@ Logical: true
 
 ## info_notnull
 Logical: true
+### Description
+Used as a positional target for in-game calculation, like jumppad targets, effects. target_position does the same thing
+### Keys
+```
+targetname          : make the trigger target this value for the entity to be used
+```
 
 ## info_camp
 Logical: true
@@ -787,15 +793,137 @@ Logical: false
 
 ## func_door
 Logical: false
+### Description
+A bmodel that opens and closes and fires its targets along the way. When this entity doesn't have a targetname, it will auto-spawn another entity to trigger it called trigger_door.
+### Spawnflags
+```
+1         : starts open
+2         : moves when push/pull is used on it
+4         : crushes anything in its path, instead of returning to the position it came from.
+8         : stops at the end of its movement and doesn't return unless used again
+16        : starts locked, with the shader animmap at the first frame and inactive.
+          : once used, the animmap changes to the second frame and the door operates normally.
+          : note that you cannot use the door again after this.
+64        : can be used with use key
+128       : starts deactivated
+```
+### Keys
+```
+model               : bmodel to draw
+model2              : .md3 model to also draw
+model2scale         : percent of normal scale (on all x y and z axii) to scale the model2 if there is one.
+                    : 100 is normal scale, min is 1 (100 times smaller than normal), max is 1000 (ten times normal).
+angle               : determines the opening direction
+target              : door fires this when it starts moving from its closed position.
+opentarget          : Door fires this after reaching its open position
+target2             : Door fires this when it starts moving from it's open position to its closed position.
+closetarget         : Door fires this after reaching its closed position.
+targetname          : if set, no touch field will be spawn and must be triggered by remote button or trigger field.
+speed               : movement speed (100 default)
+wait                : wait before returning (3 default, -1 = never return)
+delay               : when used, how many seconds to wait before moving (0 default)
+lip                 : lip remaining at end of move (8 default)
+dmg                 : damage to inflict when blocked (2 default, set to negative for no damage)
+color               : go read func_static
+light               : intensity of light/color
+health              : if set, the door must be shot open
+linear              : set to 1 and it will move linearly rather than with acceleration (default is 0)
+teamallow           : even if locked, this team can always open:
+                    : 0 - none (locked to everyone)
+                    : 1 - red
+                    : 2 - blue
+vehopen             : if non-0, vehicles/players riding vehicles can open
+```
 
 ## func_static
 Logical: false
+### Description
+Equivalent to misc_model_breakable but for bmodels.
+### Spawnflags
+```
+1         : will be used when you force-push it
+2         : will be used when you force-pull it
+4         : toggle the shader anim frame between 1 and 2 when used
+8         : make it do damage when it's blocked
+16        : make it do damage when it hits an entity
+64        : player can use it with use button
+128       : starts deactivated, must be used by a target_activate before it can be used
+2048      : Very very evil, do not use this. BROADCAST
+```
+### Keys
+```
+model               : bmodel to draw
+model2              : .md3 model to also draw
+model2scale         : percent of normal scale (on all x y and z axii) to scale the model2 if there is one.
+                    : 100 is normal scale, min is 1 (100 times smaller than normal), max is 1000 (ten times normal).
+color               : RGB color value to use for bmodel. ex: color,1 0 1, makes pink. color,1 1 1, makes white
+light               : intensity of color/light
+material            : default is 0 - MAT_METAL
+                    : choose a number 0 - 16
+dmg                 : how much damage to do when it crushes (use with spawnflags 8/16)
+linear              : set to 1 and it will move linearly rather than with accelleration. (default is 0)
+```
 
 ## func_rotating
 Logical: false
+### Description
+Spawns a rotating bmodel. Can cause damage.
+### Spawnflags
+```
+4         : moves on x-axis
+8         : moves on y-axis
+16        : will hurt a player, if blocked
+64        : can be used
+128       : starts deactivated
+```
+### Keys
+```
+model               : bmodel to draw
+model2              : .md3 model to also draw
+model2scale         : percent of normal scale (on all x y and z axii) to scale the model2 if there is one.
+                    : 100 is normal scale, min is 1 (100 times smaller than normal), max is 1000 (ten times normal).
+speed               : determines how fast it moves; default value is 100.
+dmg                 : damage to inflict when blocked (2 default)
+spinangles          : instead of using 'speed', you can set use this to set rotation on all 3 axes (pitch yaw and roll)
+health              : default is 0
+                    : if health is set, the following keys are available:
+numchunks           : Multiplies the number of chunks spawned. (default 1)  (.5) is half as many chunks, (2) is twice as many chunks
+chunksize           : scales up/down the chunk size by this number (default is 1)
+showhealth          : if non-0, will display the health bar on the hud when the crosshair is over this ent (in siege)
+teamowner           : in siege this will specify which team this thing is 'owned' by.
+                    :  To that team the crosshair will highlight green, other team: highlight red.
+splashRadius        : damage radius to do
+splashDamage        : damage to do
+color               : RGB color value to use for bmodel. ex: color,1 0 1, makes pink. color,1 1 1, makes white
+light               : intensity of color/light
+material            : default is '0 - MAT_METAL' - choose a number 0 - 16
+teamnodmg           : appicable only during Siege gametype. if 1, team 1 can't damage this. 
+```
 
 ## func_bobbing
 Logical: false
+### Description
+bmodel that bobs up and down
+### Spawnflags
+```
+1         : on x-axis
+2         : on y-axis
+64        : player can use bmodel
+128       : starts deactivated
+```
+### Keys
+```
+model               : bmodel to draw
+model2              : .md3 model to also draw
+model2scale         : percent of normal scale (on all x y and z axii) to scale the model2 if there is one.
+                    : 100 is normal scale, min is 1 (100 times smaller than normal), max is 1000 (ten times normal).
+height              : amplitude of bob (32 default)
+speed               : seconds to complete a bob cycle (4 default)
+phase               : the 0.0 to 1.0 offset in the cycle to start at
+dmg                 : damage to inflict when blocked (2 default)
+color               : RGB color value to use for bmodel. ex: color,1 0 1, makes pink. color,1 1 1, makes white
+light               : intensity of color/light
+```
 
 ## func_pendulum
 Logical: false
@@ -1029,6 +1157,25 @@ Logical: false
 
 ## misc_security_panel
 Logical: false
+### Description
+Uses its target. Is shorthand for the model: kejim/sec_panel.md3
+### Keys
+```
+profession          : A bitmask of professions. Values: 1 - jedi/sith, 2 - merc
+level               : Minimum player level.
+maxLevel            : Maximum player level.
+adminLevel          : Minimum admin level.
+playerFlags         : A bitmask of flags set by the lmd_flagplayer entity.
+property            : Check if the player can access the property. Any rank will work.
+customSkill         : Name of a custom skill to check for.
+customSkillValue    : Value to compare.
+customSkillCompare  : Comparison type. -1 text, 0 greater or equal, 1 lesser.
+requireCredits      : If positive, the player must have this many credits or more. If negative, the player must have less than this.
+mins/maxs           : Hitbox data. Both values are vectors containing the x, y, and z sizes from the model's origin.
+                    : Normally, the Mins data is negative. If no mins or maxs are specified, then a hitbox is automatically calculated to cover the entire model.
+target              : fires at this target
+targetname          : can toggle activation/deactivation if targeted
+```
 
 ## misc_stuff
 Logical: false
@@ -1044,6 +1191,51 @@ Logical: false
 
 ## misc_model_breakable
 Logical: false
+### Description
+This will spawn a model in game that can have no purpose, be usable, or be payable.
+### Spawnflags
+```
+1         : Makes the object solid. If mins/maxs defined it will follow those
+2         : Will cycle its animation
+4         : When destroyed, bounding box will still exist
+8         : When destroyed, doesn't display damage
+16        : When used, no smoke
+32        : When used, it will toggle its usemodel (model + '_u1.md3'), won't do anything without spawnflags 64
+64        : When used, it will not break.
+128       : Player can use it like a button
+256       : No explosion
+512       : Starts deactivated
+1024      : Unknown
+2048      : Unknown
+4096      : Unknown
+8192      : Payable button, use count for cost and message for display
+```
+### Keys
+```
+profession          : A bitmask of professions. Values: 1 - jedi/sith, 2 - merc
+level               : Minimum player level.
+maxLevel            : Maximum player level.
+adminLevel          : Minimum admin level.
+playerFlags         : A bitmask of flags set by the lmd_flagplayer entity.
+property            : Check if the player can access the property. Any rank will work.
+customSkill         : Name of a custom skill to check for.
+customSkillValue    : Value to compare.
+customSkillCompare  : Comparison type. -1 text, 0 greater or equal, 1 lesser.
+requireCredits      : If positive, the player must have this many credits or more. If negative, the player must have less than this.
+model               : The model. If the model is a glm model, you need to include the '.glm' extention. You do not need the 'map_objects' folder in the path.
+mins/maxs           : Hitbox data. Both values are vectors containing the x, y, and z sizes from the model's origin.
+                    : Normally, the Mins data is negative. If no mins or maxs are specified, then a hitbox is automatically calculated to cover the entire model.
+usescript           : The script to use
+parm1               : The movement distance for a moveable model to move to, usescript must be set
+                    : Spawnflags 2 makes it loop its movement, otherwise it only moves when targeted or used
+parm2               : The delay in ms to move again after completing its parm1 movement
+count               : Only works is spawnflags 8192 is set. The amount of credits a player must pay to fire entity target
+message             : The message to display when a player presses 'use' on the button
+gravity             : Use this to enable/disable gravity. Make sure z-axis is off the ground when spawning. Model will be pushable/pullable
+target              : What to fire at when used
+modelscale          : How much to scale the model. 1-10 for larger, 0-1 for smaller. ex: .5 half size
+targetname          : Make the trigger target this value for the entity to be used
+```
 
 ## misc_G2model
 Logical: false
@@ -1089,18 +1281,62 @@ Logical: false
 
 ## fx_runner
 Logical: false
+### Description
+Runs the specified effect, if it is used, it will toggle on/off
+### Spawnflags
+```
+1         : effect starts off, toggles on/off when used
+2         : effect fires only when used
+4         : does radius damage around effect every delay ms
+```
+### Keys
+```
+fxFile              : name of the effect file to play
+target              : direction to aim the effect in, otherwise defaults to up
+target2             : uses its target2 when the fx gets triggered
+delay               : how often to call the effect, don't over-do this (default 200)
+random              : random amount of time to add to delay, (default 0, 200 = 0 to 200 ms)
+splashRadius        : only works when damage spawnflag is on (default 16)
+splashDamage        : only works when damage spawnflag is on (default 5)
+soundSet            : bmodel set to use, player starts sound when toggled on 
+                    : loop sound while on (doesn't play on a oneshot), and a stop sound when turned off
+```
 
 ## target_screenshake
 Logical: true
+### Description
+Shakes whoever targeted the entity's screen. Default global shake.
+### Keys
+```
+intensity           : intensity of the shake. default 10
+duration            : duration of the shake. default 800
+globalshake         : if it's not 0, shake all clients. default 1
+```
 
 ## target_escapetrig
 Logical: true
 
 ## misc_maglock
 Logical: false
+### Description
+DOES NOT WORK. Place facing a func_door (using the angle, not a targetname) and it will lock that door. Can only be destroyed by lightsaber and will automatically unlock the door it's attached to. NOTE: place these half-way in the door to make it flush with the door's surface.
+### Keys
+```
+target              : thing to use when destroyed (not doors, it automatically unlocks the door it was angled at)
+health              : default is 10
+model               : Default: imp_detention/door_lock.md3 (doesn't exist)
+```
 
 ## misc_faller
 Logical: true
+### Description
+Raining stormtroopers?? spawned every interval+random fudgefactor or if specified, when used. Be careful, it will take up a lot of tempEnts if you let it rain freely
+### Keys
+```
+targetname          : if specified, will only spawn when used
+interval            : spawn every so often (milliseconds)
+fudgefactor         : milliseconds between 0 and this number randomly added to inverval
+```
 
 ## ref_tag
 Logical: true
@@ -1110,6 +1346,38 @@ Logical: true
 
 ## misc_weapon_shooter
 Logical: true
+### Description
+Fires weapon projectiles when used.
+### Spawnflags
+```
+1         : fire the alt-fire of the chosen weapon
+2         : keep firing until used again (fires at intervals of wait)
+```
+### Keys
+```
+wait                : debounce time between refires (defaults to 500)
+target              : what to aim at (will update aim every frame if its a moving target)
+weapon              : specify the weapon to use (default is WP_BLASTER)
+                    : WP_BRYAR_PISTOL
+                    : WP_BLASTER
+                    : WP_DISRUPTOR
+                    : WP_BOWCASTER
+                    : WP_REPEATER
+                    : WP_DEMP2
+                    : WP_FLECHETTE
+                    : WP_ROCKET_LAUNCHER
+                    : WP_THERMAL
+                    : WP_TRIP_MINE
+                    : WP_DET_PACK
+                    : WP_STUN_BATON
+                    : WP_EMPLACED_GUN
+                    : WP_BOT_LASER
+                    : WP_TURRET
+                    : WP_ATST_MAIN
+                    : WP_ATST_SIDE
+                    : WP_TIE_FIGHTER
+                    : WP_RAPID_FIRE_CONC
+```
 
 ## lmd_spawner
 Logical: true
@@ -1118,216 +1386,6 @@ Logical: true
 Logical: true
 
 ## NPC_Vehicle
-Logical: true
-
-## NPC_Kyle
-Logical: true
-
-## NPC_Lando
-Logical: true
-
-## NPC_Jan
-Logical: true
-
-## NPC_Luke
-Logical: true
-
-## NPC_MonMothma
-Logical: true
-
-## NPC_Tavion
-Logical: true
-
-## NPC_Tavion_New
-Logical: true
-
-## NPC_Alora
-Logical: true
-
-## NPC_Reelo
-Logical: true
-
-## NPC_Galak
-Logical: true
-
-## NPC_Desann
-Logical: true
-
-## NPC_Bartender
-Logical: true
-
-## NPC_MorganKatarn
-Logical: true
-
-## NPC_Jedi
-Logical: true
-
-## NPC_Prisoner
-Logical: true
-
-## NPC_Rebel
-Logical: true
-
-## NPC_Stormtrooper
-Logical: true
-
-## NPC_StormtrooperOfficer
-Logical: true
-
-## NPC_Snowtrooper
-Logical: true
-
-## NPC_Tie_Pilot
-Logical: true
-
-## NPC_Ugnaught
-Logical: true
-
-## NPC_Jawa
-Logical: true
-
-## NPC_Gran
-Logical: true
-
-## NPC_Rodian
-Logical: true
-
-## NPC_Weequay
-Logical: true
-
-## NPC_Trandoshan
-Logical: true
-
-## NPC_Tusken
-Logical: true
-
-## NPC_Noghri
-Logical: true
-
-## NPC_SwampTrooper
-Logical: true
-
-## NPC_Imperial
-Logical: true
-
-## NPC_ImpWorker
-Logical: true
-
-## NPC_BespinCop
-Logical: true
-
-## NPC_Reborn
-Logical: true
-
-## NPC_ShadowTrooper
-Logical: true
-
-## NPC_Monster_Murjj
-Logical: true
-
-## NPC_Monster_Swamp
-Logical: true
-
-## NPC_Monster_Howler
-Logical: true
-
-## NPC_MineMonster
-Logical: true
-
-## NPC_Monster_Claw
-Logical: true
-
-## NPC_Monster_Glider
-Logical: true
-
-## NPC_Monster_Flier2
-Logical: true
-
-## NPC_Monster_Lizard
-Logical: true
-
-## NPC_Monster_Fish
-Logical: true
-
-## NPC_Monster_Wampa
-Logical: true
-
-## NPC_Monster_Rancor
-Logical: true
-
-## NPC_Droid_Interrogator
-Logical: true
-
-## NPC_Droid_Probe
-Logical: true
-
-## NPC_Droid_Mark1
-Logical: true
-
-## NPC_Droid_Mark2
-Logical: true
-
-## NPC_Droid_ATST
-Logical: true
-
-## NPC_Droid_Seeker
-Logical: true
-
-## NPC_Droid_Remote
-Logical: true
-
-## NPC_Droid_Sentry
-Logical: true
-
-## NPC_Droid_Gonk
-Logical: true
-
-## NPC_Droid_Mouse
-Logical: true
-
-## NPC_Droid_R2D2
-Logical: true
-
-## NPC_Droid_R5D2
-Logical: true
-
-## NPC_Droid_Protocol
-Logical: true
-
-## NPC_Reborn_New
-Logical: true
-
-## NPC_Cultist
-Logical: true
-
-## NPC_Cultist_Saber
-Logical: true
-
-## NPC_Cultist_Saber_Powers
-Logical: true
-
-## NPC_Cultist_Destroyer
-Logical: true
-
-## NPC_Cultist_Commando
-Logical: true
-
-## NPC_Colombian_Soldier
-Logical: true
-
-## NPC_Colombian_Rebel
-Logical: true
-
-## NPC_Colombian_EmplacedGunner
-Logical: true
-
-## NPC_Manuel_Vergara_RMG
-Logical: true
-
-## NPC_HazardTrooper
-Logical: true
-
-## NPC_Saboteur
 Logical: true
 
 ## waypoint
@@ -1448,6 +1506,12 @@ Logical: true
 
 ## misc_slotmachine
 Logical: false
+### Description
+An in-game slot machine. Accepts /pay with numbers 10-200. All numbers have to be divisble by 10.
+### Keys
+```
+count               : the starting credit the machine has. When this hits 0 the machine will say 'out of credits'
+```
 
 ## ghost_exit_red
 Logical: true
