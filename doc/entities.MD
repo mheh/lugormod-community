@@ -6,8 +6,8 @@ Logical: true
 When triggered, this entity will use its target when enabled, and use its target2 when disabled.
 ### Keys
 ```
-effect                        : '1' Invincible. '2' Electrocution. '3' Fall to death. '4' Jail. '5' Godmode. '6' Shield. '7' Notarget. '8' Invisible. '9' Undying.
-wait                          : Time to play the effect for. Default: '30'
+effect              : '1' Invincible. '2' Electrocution. '3' Fall to death. '4' Jail. '5' Godmode. '6' Shield. '7' Notarget. '8' Invisible. '9' Undying.
+wait                : Time to play the effect for. Default: '30'
 ```
 
 ## lmd_actor
@@ -24,14 +24,14 @@ Web link now defunct.
 ```
 ### Keys
 ```
-NPC_TargetName                : The name to use for lmd_actor_modify or lmd_actor_action.
-target                        : The target to use after spawning an actor.
-model                         : The model to use for this actor.
-skin                          : The model skin to use for this actor.
-modelscale                    : The scale to apply to the model.
-legsanim                      : The text name of a legs animation to apply. Use the admin command '\anims' to find an animation.
-torsoanim                     : The text name of a torso animation to apply. Use the admin command '\anims' to find an animation.
-color                         : The custom RGB color of the model, if available.
+NPC_TargetName      : The name to use for lmd_actor_modify or lmd_actor_action.
+target              : The target to use after spawning an actor.
+model               : The model to use for this actor.
+skin                : The model skin to use for this actor.
+modelscale          : The scale to apply to the model.
+legsanim            : The text name of a legs animation to apply. Use the admin command '\anims' to find an animation.
+torsoanim           : The text name of a torso animation to apply. Use the admin command '\anims' to find an animation.
+color               : The custom RGB color of the model, if available.
 ```
 
 ## lmd_body
@@ -47,8 +47,8 @@ Logical: true
 Fire one of six targets based on a random number.
 ### Keys
 ```
-count                         : The maximum random number to generate.
-chance, chance2, ..., chance6 : If the random number is less than or equal to the given value, then fire the relevant target.
+count               : The maximum random number to generate.
+chance, chance2, ..., chance6: If the random number is less than or equal to the given value, then fire the relevant target.
 ```
 
 ## lmd_door
@@ -67,35 +67,35 @@ The lugormod equivalent of func_door: an entity that moves between 2 states, ope
 ```
 ### Keys
 ```
-profession                    : A bitmask of professions. Values: 1 - jedi/sith, 2 - merc
-level                         : Minimum player level.
-maxLevel                      : Maximum player level.
-adminLevel                    : Minimum admin level.
-playerFlags                   : A bitmask of flags set by the lmd_flagplayer entity.
-property                      : Check if the player can access the property. Any rank will work.
-customSkill                   : Name of a custom skill to check for.
-customSkillValue              : Value to compare.
-customSkillCompare            : Comparison type. -1 text, 0 greater or equal, 1 lesser.
-requireCredits                : If positive, the player must have this many credits or more. If negative, the player must have less than this.
-model                         : The model. If the model is a glm model, you need to include the '.glm' extention. You do not need the 'map_objects' folder in the path.
-mins/maxs                     : Hitbox data. Both values are vectors containing the x, y, and z sizes from the model's origin.
+profession          : A bitmask of professions. Values: 1 - jedi/sith, 2 - merc
+level               : Minimum player level.
+maxLevel            : Maximum player level.
+adminLevel          : Minimum admin level.
+playerFlags         : A bitmask of flags set by the lmd_flagplayer entity.
+property            : Check if the player can access the property. Any rank will work.
+customSkill         : Name of a custom skill to check for.
+customSkillValue    : Value to compare.
+customSkillCompare  : Comparison type. -1 text, 0 greater or equal, 1 lesser.
+requireCredits      : If positive, the player must have this many credits or more. If negative, the player must have less than this.
+model               : The model. If the model is a glm model, you need to include the '.glm' extention. You do not need the 'map_objects' folder in the path.
+mins/maxs           : Hitbox data. Both values are vectors containing the x, y, and z sizes from the model's origin.
                     : Normally, the Mins data is negative. If no mins or maxs are specified, then a hitbox is automatically calculated to cover the entire model.
-target                        : Fired when the door starts moving from the closed position to the open position.
-openTarget                    : Fired after reaching the 'open' position.
-target2                       : Fired when it starts moving from the open position to the closed position.
-closeTarget                   : Fire after reaching the 'closed' position.
-targetName                    : Trigger when an entity uses this. If not specified, the door will open when someone gets close to it.
-movement                      : Vector cordinates containing the distance to move in each direction. Default is 0 0 100.
-speed                         : Movement speed (100 default).
-wait                          : Seconds wait before returning to the closed position (3 default, -1 = never return).
-delay                         : How many seconds to wait after it is used before moving - default is none.
-dmg                           : Damage to inflict when blocked (2 default, set to negative for no damage). Requires the 'Crush players' spawnflag.
-color                         : Constantly emit this color. Buggy.
-light                         : Emit light at this intensity. Buggy.
-health                        : If set, the door must be shot to open.
-linear                        : If non-0, then move at a constant speed, rather than accelerating and decelerating.
-teamAllow                     : Even if locked, this team can always open and close it just by walking up to it. Values are: '0' - none, '1' - red, '2' - blue.
-vehOpen                       : If non-0, vehicles/players riding vehicles can open this door by getting close.
+target              : Fired when the door starts moving from the closed position to the open position.
+openTarget          : Fired after reaching the 'open' position.
+target2             : Fired when it starts moving from the open position to the closed position.
+closeTarget         : Fire after reaching the 'closed' position.
+targetName          : Trigger when an entity uses this. If not specified, the door will open when someone gets close to it.
+movement            : Vector cordinates containing the distance to move in each direction. Default is 0 0 100.
+speed               : Movement speed (100 default).
+wait                : Seconds wait before returning to the closed position (3 default, -1 = never return).
+delay               : How many seconds to wait after it is used before moving - default is none.
+dmg                 : Damage to inflict when blocked (2 default, set to negative for no damage). Requires the 'Crush players' spawnflag.
+color               : Constantly emit this color. Buggy.
+light               : Emit light at this intensity. Buggy.
+health              : If set, the door must be shot to open.
+linear              : If non-0, then move at a constant speed, rather than accelerating and decelerating.
+teamAllow           : Even if locked, this team can always open and close it just by walking up to it. Values are: '0' - none, '1' - red, '2' - blue.
+vehOpen             : If non-0, vehicles/players riding vehicles can open this door by getting close.
 ```
 
 ## t2_door
@@ -112,28 +112,28 @@ Create and launch a model that can be picked up by players.
 ```
 ### Keys
 ```
-profession                    : A bitmask of professions. Values: 1 - jedi/sith, 2 - merc
-level                         : Minimum player level.
-maxLevel                      : Maximum player level.
-adminLevel                    : Minimum admin level.
-playerFlags                   : A bitmask of flags set by the lmd_flagplayer entity.
-property                      : Check if the player can access the property. Any rank will work.
-customSkill                   : Name of a custom skill to check for.
-customSkillValue              : Value to compare.
-customSkillCompare            : Comparison type. -1 text, 0 greater or equal, 1 lesser.
-requireCredits                : If positive, the player must have this many credits or more. If negative, the player must have less than this.
-model                         : The model. If the model is a glm model, you need to include the '.glm' extention. You do not need the 'map_objects' folder in the path.
-mins/maxs                     : Hitbox data. Both values are vectors containing the x, y, and z sizes from the model's origin.
+profession          : A bitmask of professions. Values: 1 - jedi/sith, 2 - merc
+level               : Minimum player level.
+maxLevel            : Maximum player level.
+adminLevel          : Minimum admin level.
+playerFlags         : A bitmask of flags set by the lmd_flagplayer entity.
+property            : Check if the player can access the property. Any rank will work.
+customSkill         : Name of a custom skill to check for.
+customSkillValue    : Value to compare.
+customSkillCompare  : Comparison type. -1 text, 0 greater or equal, 1 lesser.
+requireCredits      : If positive, the player must have this many credits or more. If negative, the player must have less than this.
+model               : The model. If the model is a glm model, you need to include the '.glm' extention. You do not need the 'map_objects' folder in the path.
+mins/maxs           : Hitbox data. Both values are vectors containing the x, y, and z sizes from the model's origin.
                     : Normally, the Mins data is negative. If no mins or maxs are specified, then a hitbox is automatically calculated to cover the entire model.
-target                        : Target to fire when picked up.
-target2                       : Target to fire when time runs out.
-noise                         : Sound to make when being picked up
-count                         : Number of credits to give the player. If this is set and no noise key is specified, then the noise key defaults to sound/interface/secret_area.wav
-velocity                      : Speed at which to toss this item. Default '50'
-offset                        : Offset to drop from the player if spawnflag 4 is set. Default '64'
-angles                        : Angles to launch this item at
-time                          : Number of seconds to stay for. Set this to '-1' for no time limit.  Default '30'
-wait                          : Number of seconds to wait between triggerings.
+target              : Target to fire when picked up.
+target2             : Target to fire when time runs out.
+noise               : Sound to make when being picked up
+count               : Number of credits to give the player. If this is set and no noise key is specified, then the noise key defaults to sound/interface/secret_area.wav
+velocity            : Speed at which to toss this item. Default '50'
+offset              : Offset to drop from the player if spawnflag 4 is set. Default '64'
+angles              : Angles to launch this item at
+time                : Number of seconds to stay for. Set this to '-1' for no time limit.  Default '30'
+wait                : Number of seconds to wait between triggerings.
 ```
 
 ## lmd_dropcr
@@ -147,28 +147,28 @@ Create and launch a model that can be picked up by players.
 ```
 ### Keys
 ```
-profession                    : A bitmask of professions. Values: 1 - jedi/sith, 2 - merc
-level                         : Minimum player level.
-maxLevel                      : Maximum player level.
-adminLevel                    : Minimum admin level.
-playerFlags                   : A bitmask of flags set by the lmd_flagplayer entity.
-property                      : Check if the player can access the property. Any rank will work.
-customSkill                   : Name of a custom skill to check for.
-customSkillValue              : Value to compare.
-customSkillCompare            : Comparison type. -1 text, 0 greater or equal, 1 lesser.
-requireCredits                : If positive, the player must have this many credits or more. If negative, the player must have less than this.
-model                         : The model. If the model is a glm model, you need to include the '.glm' extention. You do not need the 'map_objects' folder in the path.
-mins/maxs                     : Hitbox data. Both values are vectors containing the x, y, and z sizes from the model's origin.
+profession          : A bitmask of professions. Values: 1 - jedi/sith, 2 - merc
+level               : Minimum player level.
+maxLevel            : Maximum player level.
+adminLevel          : Minimum admin level.
+playerFlags         : A bitmask of flags set by the lmd_flagplayer entity.
+property            : Check if the player can access the property. Any rank will work.
+customSkill         : Name of a custom skill to check for.
+customSkillValue    : Value to compare.
+customSkillCompare  : Comparison type. -1 text, 0 greater or equal, 1 lesser.
+requireCredits      : If positive, the player must have this many credits or more. If negative, the player must have less than this.
+model               : The model. If the model is a glm model, you need to include the '.glm' extention. You do not need the 'map_objects' folder in the path.
+mins/maxs           : Hitbox data. Both values are vectors containing the x, y, and z sizes from the model's origin.
                     : Normally, the Mins data is negative. If no mins or maxs are specified, then a hitbox is automatically calculated to cover the entire model.
-target                        : Target to fire when picked up.
-target2                       : Target to fire when time runs out.
-noise                         : Sound to make when being picked up
-count                         : Number of credits to give the player. If this is set and no noise key is specified, then the noise key defaults to sound/interface/secret_area.wav
-velocity                      : Speed at which to toss this item. Default '50'
-offset                        : Offset to drop from the player if spawnflag 4 is set. Default '64'
-angles                        : Angles to launch this item at
-time                          : Number of seconds to stay for. Set this to '-1' for no time limit.  Default '30'
-wait                          : Number of seconds to wait between triggerings.
+target              : Target to fire when picked up.
+target2             : Target to fire when time runs out.
+noise               : Sound to make when being picked up
+count               : Number of credits to give the player. If this is set and no noise key is specified, then the noise key defaults to sound/interface/secret_area.wav
+velocity            : Speed at which to toss this item. Default '50'
+offset              : Offset to drop from the player if spawnflag 4 is set. Default '64'
+angles              : Angles to launch this item at
+time                : Number of seconds to stay for. Set this to '-1' for no time limit.  Default '30'
+wait                : Number of seconds to wait between triggerings.
 ```
 
 ## lmd_flagplayer
@@ -177,7 +177,7 @@ Logical: true
 Set temporary values on a player. These flags can be used by any entity that supports the usability keys. Flags are cleared on player death. This is unrelated to the capture the flag gametype.
 ### Keys
 ```
-flags                         : Bitmask of values to add to the player. If value is negative, the flags will be removed.
+flags               : Bitmask of values to add to the player. If value is negative, the flags will be removed.
 ```
 
 ## lmd_gate
@@ -190,8 +190,8 @@ When triggered, this entity will use its target when enabled, and use its target
 ```
 ### Keys
 ```
-target                        : Target to fire when triggered and enabled.
-target2                       : Target to fire when triggered and disabled.
+target              : Target to fire when triggered and enabled.
+target2             : Target to fire when triggered and disabled.
 ```
 
 ## t2_gate
@@ -207,8 +207,8 @@ Change the gravity for a specific player.
 ```
 ### Keys
 ```
-count                         : New gravity value
-time                          : Number of seconds to change the gravity for. '0' for no time limit.
+count               : New gravity value
+time                : Number of seconds to change the gravity for. '0' for no time limit.
 ```
 
 ## target_gravity_change
@@ -221,8 +221,8 @@ Change the gravity for a specific player.
 ```
 ### Keys
 ```
-count                         : New gravity value
-time                          : Number of seconds to change the gravity for. '0' for no time limit.
+count               : New gravity value
+time                : Number of seconds to change the gravity for. '0' for no time limit.
 ```
 
 ## lmd_speed
@@ -235,8 +235,8 @@ Change the speed for a specific player.
 ```
 ### Keys
 ```
-count                         : New speed value
-time                          : Number of seconds to change the speed for. '0' for no time limit.
+count               : New speed value
+time                : Number of seconds to change the speed for. '0' for no time limit.
 ```
 
 ## lmd_iobject
@@ -245,11 +245,11 @@ Logical: true
 Gives the user the specified inventory object.
 ### Keys
 ```
-type                          : The inventory type to use.
-name                          : The name the item should use. Defaults to the type name
-noDelete                      : Don't let the user delete this item.
-noCombine                     : Do not let this item combine with other items, if applicable.
-...                           : Extra item-specific keys.
+type                : The inventory type to use.
+name                : The name the item should use. Defaults to the type name
+noDelete            : Don't let the user delete this item.
+noCombine           : Do not let this item combine with other items, if applicable.
+...                 : Extra item-specific keys.
 ```
 
 ## lmd_light
@@ -258,10 +258,10 @@ Logical: false
 This entity lights up an area. It can be toggled between two colors.
 ### Keys
 ```
-light                         : The intensity of the light when turned on.
-color                         : The colors in decimal precent form (0 to 1, 0.5 would be 50%) for the color to display. Values are RGB in that order. Example: color,1 0 1, would be yellow.
-offLight                      : Same as light but when toggled off.
-offColor                      : Same as color but when toggled off.
+light               : The intensity of the light when turned on.
+color               : The colors in decimal precent form (0 to 1, 0.5 would be 50%) for the color to display. Values are RGB in that order. Example: color,1 0 1, would be yellow.
+offLight            : Same as light but when toggled off.
+offColor            : Same as color but when toggled off.
 ```
 
 ## t2_light
@@ -279,25 +279,25 @@ Movement types      : '0' Stationary.
                     : '6' Gravity.
 ### Keys
 ```
-model                         : The model. If the model is a glm model, you need to include the '.glm' extention. You do not need the 'map_objects' folder in the path.
-mins/maxs                     : Hitbox data. Both values are vectors containing the x, y, and z sizes from the model's origin.
+model               : The model. If the model is a glm model, you need to include the '.glm' extention. You do not need the 'map_objects' folder in the path.
+mins/maxs           : Hitbox data. Both values are vectors containing the x, y, and z sizes from the model's origin.
                     : Normally, the Mins data is negative. If no mins or maxs are specified, then a hitbox is automatically calculated to cover the entire model.
-onDelta                       : The movement offset when turned on. This is a vector, and needs the x, y, and z values specified (like mins/maxs/origin and others).
-|                             : This is the origin/angles the entity should be at once 'duration' completes.
-onDuration                    : The movement time when turned on. The object will move Delta units every this many milliseconds. This may repeat if the right movement type is set.
-onType                        : The movement type when turned on.
-offDelta                      : The movement/rotation offset when turned on. This is a vector, and needs the x, y, and z values specified (like mins/maxs/origin and others).
-|                             : This is the origin/angles the entity should be at once 'duration' completes.
-offDuration                   : The movement time when turned on. The object will move Delta units every this many milliseconds. This may repeat if the right movement type is set.
-offType                       : The movement type when turned on.
-onADelta                      : The angular rotation offset when turned on. This is a vector, and needs the x, y, and z values specified (like mins/maxs/origin and others).
-|                             : This is the origin/angles the entity should be at once 'duration' completes.
-onADuration                   : The angular movement time when turned on The object will move Delta units every this many milliseconds. This may repeat if the right movement type is set.
-onAType                       : The angular movement type when turned on.
-offADelta                     : The angular movement/rotation offset when turned on. This is a vector, and needs the x, y, and z values specified (like mins/maxs/origin and others).
-|                             : This is the origin/angles the entity should be at once 'duration' completes.
-offADuration                  : The angular movement time when turned on. The object will move Delta units every this many milliseconds. This may repeat if the right movement type is set.
-offAType                      : The angular movement type when turned on.
+onDelta             : The movement offset when turned on. This is a vector, and needs the x, y, and z values specified (like mins/maxs/origin and others).
+|                   : This is the origin/angles the entity should be at once 'duration' completes.
+onDuration          : The movement time when turned on. The object will move Delta units every this many milliseconds. This may repeat if the right movement type is set.
+onType              : The movement type when turned on.
+offDelta            : The movement/rotation offset when turned on. This is a vector, and needs the x, y, and z values specified (like mins/maxs/origin and others).
+|                   : This is the origin/angles the entity should be at once 'duration' completes.
+offDuration         : The movement time when turned on. The object will move Delta units every this many milliseconds. This may repeat if the right movement type is set.
+offType             : The movement type when turned on.
+onADelta            : The angular rotation offset when turned on. This is a vector, and needs the x, y, and z values specified (like mins/maxs/origin and others).
+|                   : This is the origin/angles the entity should be at once 'duration' completes.
+onADuration         : The angular movement time when turned on The object will move Delta units every this many milliseconds. This may repeat if the right movement type is set.
+onAType             : The angular movement type when turned on.
+offADelta           : The angular movement/rotation offset when turned on. This is a vector, and needs the x, y, and z values specified (like mins/maxs/origin and others).
+|                   : This is the origin/angles the entity should be at once 'duration' completes.
+offADuration        : The angular movement time when turned on. The object will move Delta units every this many milliseconds. This may repeat if the right movement type is set.
+offAType            : The angular movement type when turned on.
 ```
 
 ## lmd_playercheck
@@ -306,18 +306,18 @@ Logical: true
 Fires its target if the user meets the usability keys, target2 if not.
 ### Keys
 ```
-profession                    : A bitmask of professions. Values: 1 - jedi/sith, 2 - merc
-level                         : Minimum player level.
-maxLevel                      : Maximum player level.
-adminLevel                    : Minimum admin level.
-playerFlags                   : A bitmask of flags set by the lmd_flagplayer entity.
-property                      : Check if the player can access the property. Any rank will work.
-customSkill                   : Name of a custom skill to check for.
-customSkillValue              : Value to compare.
-customSkillCompare            : Comparison type. -1 text, 0 greater or equal, 1 lesser.
-requireCredits                : If positive, the player must have this many credits or more. If negative, the player must have less than this.
-target                        : Target to fire if the player meets the usability keys.
-target2                       : Target to fire if the player does not meet the usability keys.
+profession          : A bitmask of professions. Values: 1 - jedi/sith, 2 - merc
+level               : Minimum player level.
+maxLevel            : Maximum player level.
+adminLevel          : Minimum admin level.
+playerFlags         : A bitmask of flags set by the lmd_flagplayer entity.
+property            : Check if the player can access the property. Any rank will work.
+customSkill         : Name of a custom skill to check for.
+customSkillValue    : Value to compare.
+customSkillCompare  : Comparison type. -1 text, 0 greater or equal, 1 lesser.
+requireCredits      : If positive, the player must have this many credits or more. If negative, the player must have less than this.
+target              : Target to fire if the player meets the usability keys.
+target2             : Target to fire if the player does not meet the usability keys.
 ```
 
 ## lmd_propertyterminal
@@ -330,29 +330,29 @@ Fires target if the player is a member of the specified property, target2 if the
 ```
 ### Keys
 ```
-profession                    : A bitmask of professions. Values: 1 - jedi/sith, 2 - merc
-level                         : Minimum player level.
-maxLevel                      : Maximum player level.
-adminLevel                    : Minimum admin level.
-playerFlags                   : A bitmask of flags set by the lmd_flagplayer entity.
-property                      : Check if the player can access the property. Any rank will work.
-customSkill                   : Name of a custom skill to check for.
-customSkillValue              : Value to compare.
-customSkillCompare            : Comparison type. -1 text, 0 greater or equal, 1 lesser.
-requireCredits                : If positive, the player must have this many credits or more. If negative, the player must have less than this.
-model                         : The model. If the model is a glm model, you need to include the '.glm' extention. You do not need the 'map_objects' folder in the path.
-mins/maxs                     : Hitbox data. Both values are vectors containing the x, y, and z sizes from the model's origin.
+profession          : A bitmask of professions. Values: 1 - jedi/sith, 2 - merc
+level               : Minimum player level.
+maxLevel            : Maximum player level.
+adminLevel          : Minimum admin level.
+playerFlags         : A bitmask of flags set by the lmd_flagplayer entity.
+property            : Check if the player can access the property. Any rank will work.
+customSkill         : Name of a custom skill to check for.
+customSkillValue    : Value to compare.
+customSkillCompare  : Comparison type. -1 text, 0 greater or equal, 1 lesser.
+requireCredits      : If positive, the player must have this many credits or more. If negative, the player must have less than this.
+model               : The model. If the model is a glm model, you need to include the '.glm' extention. You do not need the 'map_objects' folder in the path.
+mins/maxs           : Hitbox data. Both values are vectors containing the x, y, and z sizes from the model's origin.
                     : Normally, the Mins data is negative. If no mins or maxs are specified, then a hitbox is automatically calculated to cover the entire model.
-property                      : The name of the property to check access to.
-target                        : Target to fire if the user is a member of the property.
-target2                       : Target to fire if the user is not a member of the property.
-count                         : Number of credits per day this terminal costs to rent. If not set, then this terminal will not be rentable. Players can pay money to rent the terminal with '/pay <credits>'
-mindays                       : If 'count', the minimum number of days this player can rent the property for.
-maxdays                       : If 'count', the maximum number of days this player can rent the property for.
-maxrenters                    : If 'count', the maximum number of renters that this terminal will allow. Defaults to 1.
-rank                          : If 'count', the property rank to give to new renters. Values are: 1 - owner, 2 - caretaker, 3 - guest.
-grantmessage                  : Message to display when user has access.
-denymessage                   : Message to display when user does not have access.
+property            : The name of the property to check access to.
+target              : Target to fire if the user is a member of the property.
+target2             : Target to fire if the user is not a member of the property.
+count               : Number of credits per day this terminal costs to rent. If not set, then this terminal will not be rentable. Players can pay money to rent the terminal with '/pay <credits>'
+mindays             : If 'count', the minimum number of days this player can rent the property for.
+maxdays             : If 'count', the maximum number of days this player can rent the property for.
+maxrenters          : If 'count', the maximum number of renters that this terminal will allow. Defaults to 1.
+rank                : If 'count', the property rank to give to new renters. Values are: 1 - owner, 2 - caretaker, 3 - guest.
+grantmessage        : Message to display when user has access.
+denymessage         : Message to display when user does not have access.
 ```
 
 ## t2_propertyterminal
@@ -364,9 +364,9 @@ Logical: true
 Sets or removes a property access rank on the activator.
 ### Keys
 ```
-property                      : The property to set access to.
-rank                          : If 'count', the property rank to give to new renters. Values are: '1' - owner, '2' - caretaker, '3' - guest, '0' - remove access.
-1                             : Drop to floor.
+property            : The property to set access to.
+rank                : If 'count', the property rank to give to new renters. Values are: '1' - owner, '2' - caretaker, '3' - guest, '0' - remove access.
+1                   : Drop to floor.
 ```
 
 ## lmd_pwterminal
@@ -375,26 +375,26 @@ Logical: false
 A terminal that fires its target when the correct password is given. Players can enter a password using '\interact <password>'.
 ### Keys
 ```
-profession                    : A bitmask of professions. Values: 1 - jedi/sith, 2 - merc
-level                         : Minimum player level.
-maxLevel                      : Maximum player level.
-adminLevel                    : Minimum admin level.
-playerFlags                   : A bitmask of flags set by the lmd_flagplayer entity.
-property                      : Check if the player can access the property. Any rank will work.
-customSkill                   : Name of a custom skill to check for.
-customSkillValue              : Value to compare.
-customSkillCompare            : Comparison type. -1 text, 0 greater or equal, 1 lesser.
-requireCredits                : If positive, the player must have this many credits or more. If negative, the player must have less than this.
-model                         : The model. If the model is a glm model, you need to include the '.glm' extention. You do not need the 'map_objects' folder in the path.
-mins/maxs                     : Hitbox data. Both values are vectors containing the x, y, and z sizes from the model's origin.
+profession          : A bitmask of professions. Values: 1 - jedi/sith, 2 - merc
+level               : Minimum player level.
+maxLevel            : Maximum player level.
+adminLevel          : Minimum admin level.
+playerFlags         : A bitmask of flags set by the lmd_flagplayer entity.
+property            : Check if the player can access the property. Any rank will work.
+customSkill         : Name of a custom skill to check for.
+customSkillValue    : Value to compare.
+customSkillCompare  : Comparison type. -1 text, 0 greater or equal, 1 lesser.
+requireCredits      : If positive, the player must have this many credits or more. If negative, the player must have less than this.
+model               : The model. If the model is a glm model, you need to include the '.glm' extention. You do not need the 'map_objects' folder in the path.
+mins/maxs           : Hitbox data. Both values are vectors containing the x, y, and z sizes from the model's origin.
                     : Normally, the Mins data is negative. If no mins or maxs are specified, then a hitbox is automatically calculated to cover the entire model.
-message                       : Text to show when used.
-password                      : The correct password.
-target                        : Target to fire when correct password is entered.
-target2                       : Target to fire when incorrect password is entered.
-target4                       : Target to fire when any password is given.
-target5                       : Target to fire when used.
-randPw                        : Generates a new, random password of the same length, everytime the entity is (re)spawned.
+message             : Text to show when used.
+password            : The correct password.
+target              : Target to fire when correct password is entered.
+target2             : Target to fire when incorrect password is entered.
+target4             : Target to fire when any password is given.
+target5             : Target to fire when used.
+randPw              : Generates a new, random password of the same length, everytime the entity is (re)spawned.
 ```
 
 ## t2_pwterminal
@@ -410,8 +410,8 @@ Replace a texture or shader in the game with a new texture/shader. This affects 
 ```
 ### Keys
 ```
-old                           : Shader to replace.
-new                           : Shader to use in place of the old one.
+old                 : Shader to replace.
+new                 : Shader to use in place of the old one.
 ```
 
 ## lmd_rentterminal
@@ -426,30 +426,30 @@ A terminal that can be rented. Players pay money using '\pay <credits>', and the
 ```
 ### Keys
 ```
-profession                    : A bitmask of professions. Values: 1 - jedi/sith, 2 - merc
-level                         : Minimum player level.
-maxLevel                      : Maximum player level.
-adminLevel                    : Minimum admin level.
-playerFlags                   : A bitmask of flags set by the lmd_flagplayer entity.
-property                      : Check if the player can access the property. Any rank will work.
-customSkill                   : Name of a custom skill to check for.
-customSkillValue              : Value to compare.
-customSkillCompare            : Comparison type. -1 text, 0 greater or equal, 1 lesser.
-requireCredits                : If positive, the player must have this many credits or more. If negative, the player must have less than this.
-model                         : The model. If the model is a glm model, you need to include the '.glm' extention. You do not need the 'map_objects' folder in the path.
-mins/maxs                     : Hitbox data. Both values are vectors containing the x, y, and z sizes from the model's origin.
+profession          : A bitmask of professions. Values: 1 - jedi/sith, 2 - merc
+level               : Minimum player level.
+maxLevel            : Maximum player level.
+adminLevel          : Minimum admin level.
+playerFlags         : A bitmask of flags set by the lmd_flagplayer entity.
+property            : Check if the player can access the property. Any rank will work.
+customSkill         : Name of a custom skill to check for.
+customSkillValue    : Value to compare.
+customSkillCompare  : Comparison type. -1 text, 0 greater or equal, 1 lesser.
+requireCredits      : If positive, the player must have this many credits or more. If negative, the player must have less than this.
+model               : The model. If the model is a glm model, you need to include the '.glm' extention. You do not need the 'map_objects' folder in the path.
+mins/maxs           : Hitbox data. Both values are vectors containing the x, y, and z sizes from the model's origin.
                     : Normally, the Mins data is negative. If no mins or maxs are specified, then a hitbox is automatically calculated to cover the entire model.
-message                       : The message to be displayed when the terminal is used.
-count                         : Cost to rent this terminal.
-minutes                       : Number of minutes to gain when payed 'count' number of credits.
-wait                          : Minimum time to wait between payments, if spawnflag 2 is set.
-maxTime                       : Maximum number of minutes a player can rent.
-minTime                       : Minimum number of minutes a player can rent.
-target                        : Target to fire when used by its current renter.
-target2                       : Target to fire when the rent runs out.
-target3                       : Target to fire when first rented.
-target4                       : Target to fire when used by someone who is not the renter while being rented.
-target5                       : Target to fire when used by anyone when not being rented.
+message             : The message to be displayed when the terminal is used.
+count               : Cost to rent this terminal.
+minutes             : Number of minutes to gain when payed 'count' number of credits.
+wait                : Minimum time to wait between payments, if spawnflag 2 is set.
+maxTime             : Maximum number of minutes a player can rent.
+minTime             : Minimum number of minutes a player can rent.
+target              : Target to fire when used by its current renter.
+target2             : Target to fire when the rent runs out.
+target3             : Target to fire when first rented.
+target4             : Target to fire when used by someone who is not the renter while being rented.
+target5             : Target to fire when used by anyone when not being rented.
 ```
 
 ## t2_rentterminal
@@ -470,7 +470,7 @@ Restrict certain player actions or events within the given area.
 ```
 ### Keys
 ```
-mins/maxs                     : Hitbox data. Both values are vectors containing the x, y, and z sizes from the model's origin.
+mins/maxs           : Hitbox data. Both values are vectors containing the x, y, and z sizes from the model's origin.
                     : Normally, the Mins data is negative. If no mins or maxs are specified, then a hitbox is automatically calculated to cover the entire model.
 ```
 
@@ -480,8 +480,8 @@ Logical: true
 Changes a player's scale.
 ### Keys
 ```
-scale                         : The scale between 1 and 1024 to set the player to. A scale of 0 will set them to their default scale. Default 0.
-time                          : Number of seconds for the scale to last. '0' for unlimited. Default: '0'
+scale               : The scale between 1 and 1024 to set the player to. A scale of 0 will set them to their default scale. Default 0.
+time                : Number of seconds for the scale to last. '0' for unlimited. Default: '0'
 ```
 
 ## lmd_stashdepo
@@ -504,25 +504,25 @@ List up to 6 commands to the player. The player can activate a command by using 
 ```
 ### Keys
 ```
-model                         : The model. If the model is a glm model, you need to include the '.glm' extention. You do not need the 'map_objects' folder in the path.
-mins/maxs                     : Hitbox data. Both values are vectors containing the x, y, and z sizes from the model's origin.
+model               : The model. If the model is a glm model, you need to include the '.glm' extention. You do not need the 'map_objects' folder in the path.
+mins/maxs           : Hitbox data. Both values are vectors containing the x, y, and z sizes from the model's origin.
                     : Normally, the Mins data is negative. If no mins or maxs are specified, then a hitbox is automatically calculated to cover the entire model.
-profession                    : A bitmask of professions. Values: 1 - jedi/sith, 2 - merc
-level                         : Minimum player level.
-maxLevel                      : Maximum player level.
-adminLevel                    : Minimum admin level.
-playerFlags                   : A bitmask of flags set by the lmd_flagplayer entity.
-property                      : Check if the player can access the property. Any rank will work.
-customSkill                   : Name of a custom skill to check for.
-customSkillValue              : Value to compare.
-customSkillCompare            : Comparison type. -1 text, 0 greater or equal, 1 lesser.
-requireCredits                : If positive, the player must have this many credits or more. If negative, the player must have less than this.
-#FLAGS                        : (null)
-message                       : Message to display when used.
-useTarget                     : Target to fire when the player presses the use key on this.
-globalTarget                  : Targe to fire when any command is used.
-cmd-cmd6                      : Name of each command.
-target-target6                : Target to use for each command.
+profession          : A bitmask of professions. Values: 1 - jedi/sith, 2 - merc
+level               : Minimum player level.
+maxLevel            : Maximum player level.
+adminLevel          : Minimum admin level.
+playerFlags         : A bitmask of flags set by the lmd_flagplayer entity.
+property            : Check if the player can access the property. Any rank will work.
+customSkill         : Name of a custom skill to check for.
+customSkillValue    : Value to compare.
+customSkillCompare  : Comparison type. -1 text, 0 greater or equal, 1 lesser.
+requireCredits      : If positive, the player must have this many credits or more. If negative, the player must have less than this.
+#FLAGS              : (null)
+message             : Message to display when used.
+useTarget           : Target to fire when the player presses the use key on this.
+globalTarget        : Targe to fire when any command is used.
+cmd-cmd6            : Name of each command.
+target-target6      : Target to use for each command.
 ```
 
 ## t2_terminal
@@ -534,8 +534,8 @@ Logical: true
 Targets 1 through 'count' will be used in order. One target will be fired per trigger.
 ### Keys
 ```
-count                         : The highest target number you are using. Must be greater than 1.
-target -> target6             : Targets to fire.
+count               : The highest target number you are using. Must be greater than 1.
+target -> target6   : Targets to fire.
 ```
 
 ## t2_toggle
@@ -556,25 +556,25 @@ A train that moves between path_corner target points.
 ```
 ### Keys
 ```
-profession                    : A bitmask of professions. Values: 1 - jedi/sith, 2 - merc
-level                         : Minimum player level.
-maxLevel                      : Maximum player level.
-adminLevel                    : Minimum admin level.
-playerFlags                   : A bitmask of flags set by the lmd_flagplayer entity.
-property                      : Check if the player can access the property. Any rank will work.
-customSkill                   : Name of a custom skill to check for.
-customSkillValue              : Value to compare.
-customSkillCompare            : Comparison type. -1 text, 0 greater or equal, 1 lesser.
-requireCredits                : If positive, the player must have this many credits or more. If negative, the player must have less than this.
-model                         : The model. If the model is a glm model, you need to include the '.glm' extention. You do not need the 'map_objects' folder in the path.
-mins/maxs                     : Hitbox data. Both values are vectors containing the x, y, and z sizes from the model's origin.
+profession          : A bitmask of professions. Values: 1 - jedi/sith, 2 - merc
+level               : Minimum player level.
+maxLevel            : Maximum player level.
+adminLevel          : Minimum admin level.
+playerFlags         : A bitmask of flags set by the lmd_flagplayer entity.
+property            : Check if the player can access the property. Any rank will work.
+customSkill         : Name of a custom skill to check for.
+customSkillValue    : Value to compare.
+customSkillCompare  : Comparison type. -1 text, 0 greater or equal, 1 lesser.
+requireCredits      : If positive, the player must have this many credits or more. If negative, the player must have less than this.
+model               : The model. If the model is a glm model, you need to include the '.glm' extention. You do not need the 'map_objects' folder in the path.
+mins/maxs           : Hitbox data. Both values are vectors containing the x, y, and z sizes from the model's origin.
                     : Normally, the Mins data is negative. If no mins or maxs are specified, then a hitbox is automatically calculated to cover the entire model.
-speed                         : Movement speed.  Default '100'
-dmg                           : Damage to inflict when blocked.
-target                        : The first path_corner to move to.
-color                         : Vector of red, blue, and green values.
-light                         : Intensity of emitted color.
-wait                          : Time to wait between uses, if spawnflag 64 is set.
+speed               : Movement speed.  Default '100'
+dmg                 : Damage to inflict when blocked.
+target              : The first path_corner to move to.
+color               : Vector of red, blue, and green values.
+light               : Intensity of emitted color.
+wait                : Time to wait between uses, if spawnflag 64 is set.
 ```
 
 ## lmd_customskill
@@ -587,8 +587,8 @@ Set a custom skill value to a registered player. No affect on players who are no
 ```
 ### Keys
 ```
-skill                         : The custom skill name to set.
-value                         : If spawnflag 1 is ^1not^7 set, this is added to the origional as a non-decimal number. Otherwise, it is directly set.
+skill               : The custom skill name to set.
+value               : If spawnflag 1 is ^1not^7 set, this is added to the origional as a non-decimal number. Otherwise, it is directly set.
 ```
 
 ## lmd_event
@@ -603,22 +603,22 @@ Trigger targetnames on various player events.
 ```
 ### Keys
 ```
-profession                    : A bitmask of professions. Values: 1 - jedi/sith, 2 - merc
-level                         : Minimum player level.
-maxLevel                      : Maximum player level.
-adminLevel                    : Minimum admin level.
-playerFlags                   : A bitmask of flags set by the lmd_flagplayer entity.
-property                      : Check if the player can access the property. Any rank will work.
-customSkill                   : Name of a custom skill to check for.
-customSkillValue              : Value to compare.
-customSkillCompare            : Comparison type. -1 text, 0 greater or equal, 1 lesser.
-requireCredits                : If positive, the player must have this many credits or more. If negative, the player must have less than this.
-mins/maxs                     : Hitbox data. Both values are vectors containing the x, y, and z sizes from the model's origin.
+profession          : A bitmask of professions. Values: 1 - jedi/sith, 2 - merc
+level               : Minimum player level.
+maxLevel            : Maximum player level.
+adminLevel          : Minimum admin level.
+playerFlags         : A bitmask of flags set by the lmd_flagplayer entity.
+property            : Check if the player can access the property. Any rank will work.
+customSkill         : Name of a custom skill to check for.
+customSkillValue    : Value to compare.
+customSkillCompare  : Comparison type. -1 text, 0 greater or equal, 1 lesser.
+requireCredits      : If positive, the player must have this many credits or more. If negative, the player must have less than this.
+mins/maxs           : Hitbox data. Both values are vectors containing the x, y, and z sizes from the model's origin.
                     : Normally, the Mins data is negative. If no mins or maxs are specified, then a hitbox is automatically calculated to cover the entire model.
-target                        : Target to fire if a player enters this area. The trigger will not refire on this player until they exit and re-enter
-exitTarget                    : Target to fire when a player exits this area. This will never be called without Target firing first.
-deathTarget                   : Target to fire when a player dies.
-killTarget                    : Target to fire when a player kills another player.
+target              : Target to fire if a player enters this area. The trigger will not refire on this player until they exit and re-enter
+exitTarget          : Target to fire when a player exits this area. This will never be called without Target firing first.
+deathTarget         : Target to fire when a player dies.
+killTarget          : Target to fire when a player kills another player.
 ```
 
 ## lmd_interact
@@ -632,22 +632,22 @@ Note that this uses names instead of numbers.
 ```
 ### Keys
 ```
-profession                    : A bitmask of professions. Values: 1 - jedi/sith, 2 - merc
-level                         : Minimum player level.
-maxLevel                      : Maximum player level.
-adminLevel                    : Minimum admin level.
-playerFlags                   : A bitmask of flags set by the lmd_flagplayer entity.
-property                      : Check if the player can access the property. Any rank will work.
-customSkill                   : Name of a custom skill to check for.
-customSkillValue              : Value to compare.
-customSkillCompare            : Comparison type. -1 text, 0 greater or equal, 1 lesser.
-requireCredits                : If positive, the player must have this many credits or more. If negative, the player must have less than this.
-message                       : Message to display while interacting.
-radius                        : How far away from this entity the player may wander before the interaction is canceled.
-globalTarget                  : Targe to fire when any command is used.
-unknownTarget                 : Targe to fire when any command is used.
-cmd, cmd2, ..., cmd6          : Name of each command.
-target, target2, ..., target6 : Target to use for each command.
+profession          : A bitmask of professions. Values: 1 - jedi/sith, 2 - merc
+level               : Minimum player level.
+maxLevel            : Maximum player level.
+adminLevel          : Minimum admin level.
+playerFlags         : A bitmask of flags set by the lmd_flagplayer entity.
+property            : Check if the player can access the property. Any rank will work.
+customSkill         : Name of a custom skill to check for.
+customSkillValue    : Value to compare.
+customSkillCompare  : Comparison type. -1 text, 0 greater or equal, 1 lesser.
+requireCredits      : If positive, the player must have this many credits or more. If negative, the player must have less than this.
+message             : Message to display while interacting.
+radius              : How far away from this entity the player may wander before the interaction is canceled.
+globalTarget        : Targe to fire when any command is used.
+unknownTarget       : Targe to fire when any command is used.
+cmd, cmd2, ..., cmd6: Name of each command.
+target, target2, ..., target6: Target to use for each command.
 ```
 
 ## info_player_start
@@ -661,7 +661,7 @@ Logical: true
 Jailed players will spawn here.
 ### Keys
 ```
-Target                        : Target is fired when a player spawns at this spawn point.
+Target              : Target is fired when a player spawns at this spawn point.
 ```
 
 ## info_player_duel
@@ -670,9 +670,9 @@ Logical: true
 For use in the duel game type.  A duelist will spawn here.
 ### Keys
 ```
-Target                        : Target is fired when a player spawns at this spawn point.
-NoHumans                      : Do not let human players spawn on this spawn point.
-NoBots                        : Do not let bots spawn on this spawn point.
+Target              : Target is fired when a player spawns at this spawn point.
+NoHumans            : Do not let human players spawn on this spawn point.
+NoBots              : Do not let bots spawn on this spawn point.
 ```
 
 ## info_player_duel1
@@ -681,9 +681,9 @@ Logical: true
 For use in the power duel game type.  The staff duelist will spawn here.
 ### Keys
 ```
-Target                        : Target is fired when a player spawns at this spawn point.
-NoHumans                      : Do not let human players spawn on this spawn point.
-NoBots                        : Do not let bots spawn on this spawn point.
+Target              : Target is fired when a player spawns at this spawn point.
+NoHumans            : Do not let human players spawn on this spawn point.
+NoBots              : Do not let bots spawn on this spawn point.
 ```
 
 ## info_player_duel2
@@ -692,9 +692,9 @@ Logical: true
 For use in the power duel game type.  The paired saber duelists will spawn here.
 ### Keys
 ```
-Target                        : Target is fired when a player spawns at this spawn point.
-NoHumans                      : Do not let human players spawn on this spawn point.
-NoBots                        : Do not let bots spawn on this spawn point.
+Target              : Target is fired when a player spawns at this spawn point.
+NoHumans            : Do not let human players spawn on this spawn point.
+NoBots              : Do not let bots spawn on this spawn point.
 ```
 
 ## info_player_deathmatch
@@ -707,9 +707,9 @@ For use in the power duel game type.  The paired saber duelists will spawn here.
 ```
 ### Keys
 ```
-Target                        : Target is fired when a player spawns at this spawn point.
-NoHumans                      : Do not let human players spawn on this spawn point.
-NoBots                        : Do not let bots spawn on this spawn point.
+Target              : Target is fired when a player spawns at this spawn point.
+NoHumans            : Do not let human players spawn on this spawn point.
+NoBots              : Do not let bots spawn on this spawn point.
 ```
 
 ## info_player_siegeteam1
@@ -772,14 +772,14 @@ This is a brush model entity, so be careful when using it.  The origin may not b
 ```
 ### Keys
 ```
-Model                         : Required.  Brush model to apply.
-Model2                        : Md3 model to also apply.
-Lip                           : Distance above the spawn position to go to when idle.  Default 8.
-Height                        : Distance above the spawn position to move to when touched.  Defaults to the brush's height.
-Speed                         : Speed to move at.  Default 200.
-Dmg                           : Damage to apply when blocked from moving.  Default 2.
-Color                         : The vector color to emit.  May flicker and randomize when in motion.
-Light                         : The light intensity of the color to emit.
+Model               : Required.  Brush model to apply.
+Model2              : Md3 model to also apply.
+Lip                 : Distance above the spawn position to go to when idle.  Default 8.
+Height              : Distance above the spawn position to move to when touched.  Defaults to the brush's height.
+Speed               : Speed to move at.  Default 200.
+Dmg                 : Damage to apply when blocked from moving.  Default 2.
+Color               : The vector color to emit.  May flicker and randomize when in motion.
+Light               : The light intensity of the color to emit.
 ```
 
 ## func_button
@@ -832,14 +832,14 @@ This is a brush model entity, so be careful when using it. The origin may not be
 ```
 ### Keys
 ```
-mins/maxs                     : Hitbox data. Both values are vectors containing the x, y, and z sizes from the model's origin.
+mins/maxs           : Hitbox data. Both values are vectors containing the x, y, and z sizes from the model's origin.
                     : Normally, the Mins data is negative. If no mins or maxs are specified, then a hitbox is automatically calculated to cover the entire model.
-targetName                    : Toggles on and off when used.
-lightningFX                   : Effect file to play on lightning.  Default env/huge_lightning.
-wait                          : Time in milliseconds between lightning strikes.  Default 1000.
-random                        : Random time offset in milliseconds to add to the time between strikes.  Default 2000.
-dmg                           : Damage per strike.  Default 50.
-radius                        : Splash radius for applying damage around a lightning strike point.  Default 0 (direct strike).
+targetName          : Toggles on and off when used.
+lightningFX         : Effect file to play on lightning.  Default env/huge_lightning.
+wait                : Time in milliseconds between lightning strikes.  Default 1000.
+random              : Random time offset in milliseconds to add to the time between strikes.  Default 2000.
+dmg                 : Damage per strike.  Default 50.
+radius              : Splash radius for applying damage around a lightning strike point.  Default 0 (direct strike).
 ```
 
 ## trigger_once
@@ -862,19 +862,19 @@ A basic trigger. Fires its target when conditions are met.
 ```
 ### Keys
 ```
-mins/maxs                     : Hitbox data. Both values are vectors containing the x, y, and z sizes from the model's origin.
+mins/maxs           : Hitbox data. Both values are vectors containing the x, y, and z sizes from the model's origin.
                     : Normally, the Mins data is negative. If no mins or maxs are specified, then a hitbox is automatically calculated to cover the entire model.
-wait                          : Time in seconds to wait between triggerings.  Default 0.
-random                        : Random plus or minus wait offset offset in seconds.
-delay                         : Number of seconds to wait after a triggering before firing the target.
-target                        : Target to use on triggering
-target2                       : Target to use after a triggering when conditions are no longer met (such as the player leaving the trigger).
-speed                         : Time in seconds to wait for another triggering before firing Target2.  Default 1.
-noise                         : The sound to play on the activator's origin when triggered.
-NPC_targetname                : Only triggerable by an NPC with this NPC_targetname.
-team                          : Only the specified team can activate this trigger.  0: Any, 1: Red, 2: Blue.  Default 0.
-soundSet                      : Ambient sound set to play when this trigger is activated.
-useTime                       : Time in milliseconds the user is required to use this trigger for it to activate.  Plays a hacking animation and visual.  Requires spawnflag 4 to be set.
+wait                : Time in seconds to wait between triggerings.  Default 0.
+random              : Random plus or minus wait offset offset in seconds.
+delay               : Number of seconds to wait after a triggering before firing the target.
+target              : Target to use on triggering
+target2             : Target to use after a triggering when conditions are no longer met (such as the player leaving the trigger).
+speed               : Time in seconds to wait for another triggering before firing Target2.  Default 1.
+noise               : The sound to play on the activator's origin when triggered.
+NPC_targetname      : Only triggerable by an NPC with this NPC_targetname.
+team                : Only the specified team can activate this trigger.  0: Any, 1: Red, 2: Blue.  Default 0.
+soundSet            : Ambient sound set to play when this trigger is activated.
+useTime             : Time in milliseconds the user is required to use this trigger for it to activate.  Plays a hacking animation and visual.  Requires spawnflag 4 to be set.
 ```
 
 ## trigger_push
@@ -897,11 +897,11 @@ Warning: If the target is lower than the trigger, the server may crash.
 ```
 ### Keys
 ```
-mins/maxs                     : Hitbox data. Both values are vectors containing the x, y, and z sizes from the model's origin.
+mins/maxs           : Hitbox data. Both values are vectors containing the x, y, and z sizes from the model's origin.
                     : Normally, the Mins data is negative. If no mins or maxs are specified, then a hitbox is automatically calculated to cover the entire model.
-target                        : The entity to aim at.  The direction will be taken on spawn.
-wait                          : How long to wait between pushes.
-speed                         : How fast to push the player.
+target              : The entity to aim at.  The direction will be taken on spawn.
+wait                : How long to wait between pushes.
+speed               : How fast to push the player.
 ```
 
 ## trigger_space
@@ -914,17 +914,17 @@ Suffocate and freeze all players within the trigger.
 ```
 ### Keys
 ```
-profession                    : A bitmask of professions. Values: 1 - jedi/sith, 2 - merc
-level                         : Minimum player level.
-maxLevel                      : Maximum player level.
-adminLevel                    : Minimum admin level.
-playerFlags                   : A bitmask of flags set by the lmd_flagplayer entity.
-property                      : Check if the player can access the property. Any rank will work.
-customSkill                   : Name of a custom skill to check for.
-customSkillValue              : Value to compare.
-customSkillCompare            : Comparison type. -1 text, 0 greater or equal, 1 lesser.
-requireCredits                : If positive, the player must have this many credits or more. If negative, the player must have less than this.
-mins/maxs                     : Hitbox data. Both values are vectors containing the x, y, and z sizes from the model's origin.
+profession          : A bitmask of professions. Values: 1 - jedi/sith, 2 - merc
+level               : Minimum player level.
+maxLevel            : Maximum player level.
+adminLevel          : Minimum admin level.
+playerFlags         : A bitmask of flags set by the lmd_flagplayer entity.
+property            : Check if the player can access the property. Any rank will work.
+customSkill         : Name of a custom skill to check for.
+customSkillValue    : Value to compare.
+customSkillCompare  : Comparison type. -1 text, 0 greater or equal, 1 lesser.
+requireCredits      : If positive, the player must have this many credits or more. If negative, the player must have less than this.
+mins/maxs           : Hitbox data. Both values are vectors containing the x, y, and z sizes from the model's origin.
                     : Normally, the Mins data is negative. If no mins or maxs are specified, then a hitbox is automatically calculated to cover the entire model.
 ```
 
@@ -1397,17 +1397,17 @@ A Hoth style turret.  Uses 2 entities.
 ```
 ### Keys
 ```
-radius                        : How far away an enemy can be for it to pick it up. Default: 1024.
-wait                          : Time between shots in milliseconds. Default: 300.
-dmg                           : How much damage each shot does. Default: 100.
-health                        : How much damage it can take before exploding. Default: 3000.
-speed                         : How fast the turret can aim.  Default: 10.
-splashDamage                  : How much splash damage is done by the projectiles. Default: 300.
-splashRadius                  : The radius of the projectile explosion. Default: 128
-shotspeed                     : How fast the projectile moves.
-targetname                    : Toggles on / off when triggered.
-target                        : The targetname to fire when the turret is destroyed.
-target2                       : The targetname to fire when the turret locks on to an enemy.
+radius              : How far away an enemy can be for it to pick it up. Default: 1024.
+wait                : Time between shots in milliseconds. Default: 300.
+dmg                 : How much damage each shot does. Default: 100.
+health              : How much damage it can take before exploding. Default: 3000.
+speed               : How fast the turret can aim.  Default: 10.
+splashDamage        : How much splash damage is done by the projectiles. Default: 300.
+splashRadius        : The radius of the projectile explosion. Default: 128
+shotspeed           : How fast the projectile moves.
+targetname          : Toggles on / off when triggered.
+target              : The targetname to fire when the turret is destroyed.
+target2             : The targetname to fire when the turret locks on to an enemy.
 ```
 
 ## misc_turretG2
@@ -1463,9 +1463,9 @@ This has the same effect as /spawnstring edit, and results in the entity respawn
 If no key or value specified, it will only respawn the entity.
 ### Keys
 ```
-target                        : Target entity to edit or reset.
-key                           : SpawnString key.
-value                         : SpawnString value.
+target              : Target entity to edit or reset.
+key                 : SpawnString key.
+value               : SpawnString value.
 ```
 
 ## lmd_cskill_compare
@@ -1474,11 +1474,11 @@ Logical: true
 Compares values of two customskills, and fires respective target.
 ### Keys
 ```
-skill1                        : skill to compare.
-skill2                        : skill to compare.
-target                        : Target to fire if skill1 is greater.
-target2                       : Target to fire if skill2 is greater.
-target3                       : Target to fire if both are equal.
+skill1              : skill to compare.
+skill2              : skill to compare.
+target              : Target to fire if skill1 is greater.
+target2             : Target to fire if skill2 is greater.
+target3             : Target to fire if both are equal.
 ```
 
 ## lmd_countcheck
@@ -1487,21 +1487,21 @@ Logical: true
 Fires target or target2 depending on the current count of players who meet the requirements.
 ### Keys
 ```
-profession                    : A bitmask of professions. Values: 1 - jedi/sith, 2 - merc
-level                         : Minimum player level.
-maxLevel                      : Maximum player level.
-adminLevel                    : Minimum admin level.
-playerFlags                   : A bitmask of flags set by the lmd_flagplayer entity.
-property                      : Check if the player can access the property. Any rank will work.
-customSkill                   : Name of a custom skill to check for.
-customSkillValue              : Value to compare.
-customSkillCompare            : Comparison type. -1 text, 0 greater or equal, 1 lesser.
-requireCredits                : If positive, the player must have this many credits or more. If negative, the player must have less than this.
-mins/maxs                     : Hitbox data. Both values are vectors containing the x, y, and z sizes from the model's origin.
+profession          : A bitmask of professions. Values: 1 - jedi/sith, 2 - merc
+level               : Minimum player level.
+maxLevel            : Maximum player level.
+adminLevel          : Minimum admin level.
+playerFlags         : A bitmask of flags set by the lmd_flagplayer entity.
+property            : Check if the player can access the property. Any rank will work.
+customSkill         : Name of a custom skill to check for.
+customSkillValue    : Value to compare.
+customSkillCompare  : Comparison type. -1 text, 0 greater or equal, 1 lesser.
+requireCredits      : If positive, the player must have this many credits or more. If negative, the player must have less than this.
+mins/maxs           : Hitbox data. Both values are vectors containing the x, y, and z sizes from the model's origin.
                     : Normally, the Mins data is negative. If no mins or maxs are specified, then a hitbox is automatically calculated to cover the entire model.
-count                         : Required count of players.
-target                        : Target to fire if greater or equal.
-target2                       : Target to fire if less.
+count               : Required count of players.
+target              : Target to fire if greater or equal.
+target2             : Target to fire if less.
 ```
 
 ## lmd_iterateplayers
@@ -1510,19 +1510,19 @@ Logical: true
 Iterates among all connected players and fires its target for them.
 ### Keys
 ```
-profession                    : A bitmask of professions. Values: 1 - jedi/sith, 2 - merc
-level                         : Minimum player level.
-maxLevel                      : Maximum player level.
-adminLevel                    : Minimum admin level.
-playerFlags                   : A bitmask of flags set by the lmd_flagplayer entity.
-property                      : Check if the player can access the property. Any rank will work.
-customSkill                   : Name of a custom skill to check for.
-customSkillValue              : Value to compare.
-customSkillCompare            : Comparison type. -1 text, 0 greater or equal, 1 lesser.
-requireCredits                : If positive, the player must have this many credits or more. If negative, the player must have less than this.
-mins/maxs                     : Hitbox data. Both values are vectors containing the x, y, and z sizes from the model's origin.
+profession          : A bitmask of professions. Values: 1 - jedi/sith, 2 - merc
+level               : Minimum player level.
+maxLevel            : Maximum player level.
+adminLevel          : Minimum admin level.
+playerFlags         : A bitmask of flags set by the lmd_flagplayer entity.
+property            : Check if the player can access the property. Any rank will work.
+customSkill         : Name of a custom skill to check for.
+customSkillValue    : Value to compare.
+customSkillCompare  : Comparison type. -1 text, 0 greater or equal, 1 lesser.
+requireCredits      : If positive, the player must have this many credits or more. If negative, the player must have less than this.
+mins/maxs           : Hitbox data. Both values are vectors containing the x, y, and z sizes from the model's origin.
                     : Normally, the Mins data is negative. If no mins or maxs are specified, then a hitbox is automatically calculated to cover the entire model.
-target                        : Target to fire for any connected player who meets the requirements.
+target              : Target to fire for any connected player who meets the requirements.
 ```
 
 ## target_heal
@@ -1531,9 +1531,9 @@ Logical: true
 Heals or damages the user by a specified value of health or armor.
 ### Keys
 ```
-health                        : Health points to acquire.
-armor                         : Shield points to acquire.
-ammo                          : Ammo to acquire. Does not affect every ammo type. Use a value of '16777216' to set maximum a player can carry.
+health              : Health points to acquire.
+armor               : Shield points to acquire.
+ammo                : Ammo to acquire. Does not affect every ammo type. Use a value of '16777216' to set maximum a player can carry.
 ```
 
 ## lmd_actor_modify
@@ -1542,14 +1542,14 @@ Logical: true
 Change actor attributes on the fly. All actors matching the NPC_Target with their NPC_TargetName will be affected.
 ### Keys
 ```
-NPC_Target                    : The name of the actors to affect.
-target                        : This target will be fired once this entity finishes applying all modifications.
-origin                        : If non-zero, the actor will be teleported to this origin.
-angles                        : If non-zero, the actor will be turned to face these angles.
-modelscale                    : The scale to apply to the model.
-legsanim                      : The text name of a legs animation to apply. Use the admin command '\anims' to find an animation.
-torsoanim                     : The text name of a torso animation to apply. Use the admin command '\anims' to find an animation.
-color                         : The custom RGB color of the model, if available.
+NPC_Target          : The name of the actors to affect.
+target              : This target will be fired once this entity finishes applying all modifications.
+origin              : If non-zero, the actor will be teleported to this origin.
+angles              : If non-zero, the actor will be turned to face these angles.
+modelscale          : The scale to apply to the model.
+legsanim            : The text name of a legs animation to apply. Use the admin command '\anims' to find an animation.
+torsoanim           : The text name of a torso animation to apply. Use the admin command '\anims' to find an animation.
+color               : The custom RGB color of the model, if available.
 ```
 
 ## target_animate
@@ -1558,10 +1558,10 @@ Logical: true
 Makes the user play specified animation.
 ### Keys
 ```
-torsoAnim                     : Upper animation to be played.
-legsAnim                      : Lower animation to be played.
-torsoTime                     : Time in milliseconds to play the upper animation for.
-legsTime                      : Time in milliseconds to play the lower animation for.
+torsoAnim           : Upper animation to be played.
+legsAnim            : Lower animation to be played.
+torsoTime           : Time in milliseconds to play the upper animation for.
+legsTime            : Time in milliseconds to play the lower animation for.
 ```
 
 List generated: Nov 12 2020
