@@ -15,7 +15,7 @@ Documentation files are located under the doc subfolder for markdown files. Link
 
 Incomplete: [Cvar List](doc/cvars.md)
 
-Incomplete: [Entities List](doc/entities.md)
+Incomplete: [Entities List](doc/entities.MD)
 
 ## Setup Guide
 Be careful, these commands copy a server.cfg file. This assumes a lugormod folder exists for your server.
