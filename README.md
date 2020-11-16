@@ -11,9 +11,11 @@ Documentation files are located under the doc subfolder for markdown files. Link
 
 [Auto-Launch Information](doc/autolaunch.md)
 
-[U# Building Guide](doc/building.md)
+[2012 U# Building Guide](doc/building.md)
 
-Not completed: [Cvar List](doc/cvars.md)
+Incomplete: [Cvar List](doc/cvars.md)
+
+Incomplete: [Entities List](doc/entities.md)
 
 ## Setup Guide
 Be careful, these commands copy a server.cfg file. This assumes a lugormod folder exists for your server.
