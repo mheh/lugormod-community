@@ -201,6 +201,25 @@ Experimental.  Enable dragging corpses with the use key.
 ### Default value: 0
 Give a player credits for killing other players.  Does not work for killing NPCs.
 
+## g_privateDuel
+### Default value: 289
+Bitmask to enable private duels between clients
+0: Off
+1: Private duels enabled
+2: Multiple private duels enabled
+4: Give full health at start of a duel
+8: Give full armor at start of a duel
+16: Give full force power at start of a duel
+32: Restore full health at end of a duel
+64: Restore full armor at end of a duel
+128: Restore full force power at end of a duel
+256: Force saber on at duel start
+512: Force bow at duel start (Warning: sometimes this will loop)
+1204: There is a king
+2048: Frags give points only in duel in FFA
+4096: Disable severing of duels
+
+
 ## g_noVoteTime
 ### Default value: 5
 Number of minutes to wait after a map change before votes are allowed again.  This does not apply to admins level 3 or lower.
@@ -227,7 +246,21 @@ Stop players from using skin setups that might result in invisible or untextured
 ### Default value: 0
 ### Restart required
 Settings for the lugormod-specific game modifiers.
-TODO: describe game modes and values.
+1-6 are game modes, 8-256 are additional bitmask options
+0: Normal
+1: Instant Gib
+2: Rocket Arena
+3: Sniper Arena
+4: Melee Arena
+5: Super Merc/Jedi
+6: Instant Disrupt
+
+8: Low Gravity
+16: With Force Jump
+32: Start with Jetpack
+64: Start with Grappling Hook
+128: Respawn timer (20 sec)
+
 
 ## g_chickenTime
 ### Default value: 600
@@ -349,3 +382,4 @@ Number of miliseconds to wait before granting invincibility to someone using the
 If a player uses the meditation taunt, then increase their max forcepower by this amount for the duration of the taunt.
 DANGER: Can severely unbalance the game!  It is highly recommended you leave this as-is to avoid placing non force using professions at a severe disadvantage.
 
+List generated: Dec  9 2020
