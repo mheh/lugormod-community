@@ -1,0 +1,38 @@
+8-31-2021 23:33 (0:00): ------------------------------------------------------------
+8-31-2021 23:33 (0:00): InitGame: \version\JAmp: v1.0.1.0 linux-i386 Mar 14 2020\timelimit\45\sv_privateClients\0\sv_minRate\0\sv_minPing\0\sv_maxclients\32\sv_maxRate\0\sv_maxPing\999\sv_hostname\^7~^1~^7~ COMM SERVER ~^1~^7~\sv_fps\50\sv_floodProtectSlow\1\sv_floodProtect\1\sv_autoDemo\0\sv_allowDownload\0\serveruptime\212\protocol\26\mapname\academy6\gamename\Lugormod\g_weaponDisable\0\g_stepSlideFix\0\g_siegeTeamSwitch\1\g_siegeTeam2\none\g_siegeTeam1\none\g_siegeRespawn\20\g_showDuelHealths\1\g_saberWallDamageScale\0.4\g_saberLocking\0\g_privateDuel\1535\g_noSpecMove\0\g_needpass\0\g_maxHolocronCarry\3\g_maxGameClients\0\g_maxForceRank\7\g_jediVmerc\0\g_gametype\0\g_gamemode\0\g_forceRegenTime\160\g_forcePowerDisable\0\g_forceBasedTeams\1\g_duelWeaponDisable\9\g_debugmelee\1\g_allowNPC\1\fs_game\lugormod\fraglimit\0\duel_fraglimit\10\dmflags\0\capturelimit\10\bot_minplayers\2\bg_fighterAltControl\0\Lugormod_Version\U#-0.0.0.91 Alpha
+8-31-2021 23:34 (0:30): ClientConnect: 0
+8-31-2021 23:34 (0:30): ClientUserinfoChanged handling info: 0 \team\0\skill\ 5.00\personality\botfiles/astupidbot.jkb\saber2\none\saber1\kyle\color2\4\color1\4\sex\male\model\jawa\snaps\20\rate\25000\name\astupidbot
+8-31-2021 23:34 (0:30): ClientUserinfoChanged: 0 n\astupidbot\t\0\model\jawa\c1\4\c2\4\hc\0\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\\st2\\dt\0\sdt\0
+8-31-2021 23:34 (0:30): IP: localhost astupidbot
+8-31-2021 23:34 (0:30): ClientUserinfoChanged handling info: 0 \team\0\skill\ 5.00\personality\botfiles/astupidbot.jkb\saber2\none\saber1\kyle\color2\4\color1\4\sex\male\model\jawa\snaps\20\rate\25000\name\astupidbot
+8-31-2021 23:34 (0:30): ClientUserinfoChanged: 0 n\astupidbot\t\0\model\jawa\c1\4\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+8-31-2021 23:34 (0:30): ClientBegin: 0
+8-31-2021 23:34 (0:41): ClientConnect: 1
+8-31-2021 23:34 (0:41): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+8-31-2021 23:34 (0:41): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\0\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\\st2\\dt\0\sdt\0
+8-31-2021 23:34 (0:41): IP: localhost Kyle
+8-31-2021 23:34 (0:41): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+8-31-2021 23:34 (0:41): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+8-31-2021 23:34 (0:41): ClientBegin: 1
+8-32-2021 0:54 (80:29): ClientConnect: 2
+8-32-2021 0:54 (80:29): ClientUserinfoChanged handling info: 2 \ip\191.186.254.43:29070\challenge\1561543009\qport\55563\protocol\26\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\none\saber1\single_4\cg_predictItems\1\sex\male\handicap\100\color2\5\color1\2\forcepowers\7-1-030000000000000330\model\jedi_hm/head_c1|torso_a1|lower_a1\snaps\20\rate\4000\name\{JoFA} Adept Skywalter\teamtask\0
+8-32-2021 0:54 (80:29): ClientUserinfoChanged: 2 n\{JoFA} Adept Skywalter\t\0\model\jedi_hm/head_c1|torso_a1|lower_a1\c1\2\c2\5\hc\0\w\0\l\0\tt\0\tl\0\st\\st2\\dt\0
+8-32-2021 0:54 (80:29): IP: 191.186.254.43 {JoFA} Adept Skywalter
+8-32-2021 0:54 (80:35): Kill: 1 0 3: Kyle killed astupidbot by MOD_SABER
+8-32-2021 0:54 (80:35): Exit: Timelimit hit.
+8-32-2021 0:54 (80:35): score: 1  ping: 40  client: 1 Kyle
+8-32-2021 0:54 (80:35): score: 0  ping: 54  client: 0 astupidbot
+8-32-2021 0:54 (80:36): ClientUserinfoChanged handling info: 0 \team\0\skill\ 5.00\personality\botfiles/astupidbot.jkb\saber2\none\saber1\kyle\color2\4\color1\4\sex\male\model\jawa\snaps\20\rate\25000\name\astupidbot
+8-32-2021 0:54 (80:36): ClientUserinfoChanged: 0 n\astupidbot\t\0\model\jawa\c1\4\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+8-32-2021 0:54 (80:36): ClientUserinfoChanged handling info: 0 \team\0\skill\ 5.00\personality\botfiles/astupidbot.jkb\saber2\none\saber1\kyle\color2\4\color1\4\sex\male\model\jawa\snaps\20\rate\25000\name\astupidbot
+8-32-2021 0:54 (80:36): ClientUserinfoChanged: 0 n\astupidbot\t\0\model\jawa\c1\4\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+8-32-2021 0:54 (80:36): ClientUserinfoChanged handling info: 2 \ip\191.186.254.43:29070\challenge\1561543009\qport\55563\protocol\26\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\none\saber1\single_4\cg_predictItems\1\sex\male\handicap\100\color2\5\color1\2\forcepowers\7-1-030000000000000330\model\jedi_hm/head_c1|torso_a1|lower_a1\snaps\20\rate\4000\name\{JoFA} Adept Skywalter\teamtask\0
+8-32-2021 0:54 (80:36): ClientUserinfoChanged: 2 n\{JoFA} Adept Skywalter\t\0\model\jedi_hm/head_c1|torso_a1|lower_a1\c1\2\c2\5\hc\100\w\0\l\0\tt\0\tl\0\st\single_4\st2\none\dt\0
+8-32-2021 0:54 (80:52): ClientUserinfoChanged handling info: 2 \ip\191.186.254.43:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\none\saber1\dual_5\cg_predictItems\1\sex\male\handicap\100\color2\5\color1\2\forcepowers\6-1-030330000000000333\model\jedi_hm/head_c1|torso_a1|lower_a1\snaps\20\rate\4000\name\Padawan\teamtask\0\teamoverlay\1
+8-32-2021 0:54 (80:52): ClientNamechange: {JoFA} Adept Skywalter is now Padawan
+8-32-2021 0:54 (80:52): ClientUserinfoChanged: 2 n\Padawan\t\0\model\jedi_hm/head_c1|torso_a1|lower_a1\c1\2\c2\5\hc\100\w\0\l\0\tt\0\tl\0\st\dual_5\st2\none\dt\0
+8-32-2021 0:54 (80:52): ClientUserinfoChanged handling info: 2 \ip\191.186.254.43:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\none\saber1\dual_5\cg_predictItems\1\sex\male\handicap\100\color2\5\color1\2\forcepowers\6-1-030330000000000333\model\jedi_hm/head_c1|torso_a1|lower_a1\snaps\20\rate\4000\name\Padawan\teamtask\0\teamoverlay\1
+8-32-2021 0:54 (80:52): ClientUserinfoChanged: 2 n\Padawan\t\0\model\jedi_hm/head_c1|torso_a1|lower_a1\c1\2\c2\5\hc\100\w\0\l\0\tt\0\tl\0\st\dual_5\st2\none\dt\0
+8-32-2021 0:54 (80:52): ClientBegin: 2
+8-32-2021 0:54 (80:56): ShutdownGame:
+8-32-2021 0:54 (80:56): ------------------------------------------------------------

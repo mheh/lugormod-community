@@ -1,0 +1,113 @@
+{
+"classname" "trigger_multiple"
+"maxs" "50 50 50"
+"mins" "-50 -50 0"
+"targetname" "free_cr_deac"
+"spawnflags" "4"
+"usetime" "10000"
+"target" "free_cr"
+"origin" "4495 709 3264"
+}
+{
+"classname" "target_credits"
+"targetname" "free_cr"
+"count" "900"
+"random" "900"
+}
+{
+"classname" "money_dispenser"
+"origin" "3758 1309 2048"
+}
+{
+"classname" "misc_model_breakable"
+"model" "models/map_objects/mp/force_boon"
+"spawnflags" "193"
+"target" "boon"
+"targetname" "boon_deac"
+"origin" "3521 475 3017"
+}
+{
+"classname" "target_deactivate"
+"targetname" "boon"
+"target" "boon_deac"
+}
+{
+"classname" "target_delay"
+"targetname" "boon"
+"target" "boon_reac"
+"wait" "120"
+}
+{
+"classname" "target_activate"
+"targetname" "boon_reac"
+"target" "boon_deac"
+}
+{
+"classname" "target_powerup"
+"targetname" "boon"
+"wait" "120"
+"powerup" "14"
+}
+{
+"classname" "item_ysalimari"
+"wait" "30"
+"origin" "3685 467 2048"
+}
+{
+"classname" "misc_model_health_power_converter"
+"angle" "180"
+"origin" "4080 2314 1198"
+}
+{
+"classname" "misc_ammo_floor_unit"
+"nodrain" "1"
+"origin" "4080 2257 1152"
+}
+{
+"classname" "misc_shield_floor_unit"
+"nodrain" "1"
+"origin" "4062 2216 1152"
+}
+{
+"classname" "misc_shield_floor_unit"
+"nodrain" "1"
+"origin" "4360 -45 1728"
+}
+{
+"classname" "misc_ammo_floor_unit"
+"nodrain" "1"
+"origin" "4394 -75 1728"
+}
+{
+"classname" "misc_model_health_power_converter"
+"angle" "10"
+"origin" "2476 549 878"
+}
+{
+"classname" "misc_model_health_power_converter"
+"angle" "-100"
+"origin" "2804 972 2350"
+}
+{
+"classname" "target_deactivate"
+"targetname" "free_cr"
+"target" "free_cr_deac"
+}
+{
+"classname" "misc_model_breakable"
+"model" "models/map_objects/factory/catw2_b"
+"spawnflags" "1"
+"modelscale" "1.5"
+"origin" "4352 834 2559"
+}
+{
+"classname" "money_dispenser"
+"origin" "4357 832 2571"
+}
+{
+"classname" "func_static"
+"model" "*2"
+"light" "300"
+"color" "1 1 1"
+"origin" "4674 -333 1434"
+}

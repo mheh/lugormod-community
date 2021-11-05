@@ -1,0 +1,138 @@
+{
+"classname" "target_fixdoor"
+"target" "lastdoor"
+"targetname" "fix_lastdoor"
+}
+{
+"classname" "trigger_always"
+"target" "fix_lastdoor"
+}
+{
+"classname" "target_fixdoor"
+"target" "gauntlet_final_door"
+"targetname" "fix_gauntlet_final_door"
+}
+{
+"classname" "info_player_jail"
+"angle" "-177"
+"origin" "-7772 -288 1762"
+}
+{
+"classname" "info_player_jail"
+"angle" "88"
+"origin" "-11554 -498 1762"
+}
+{
+"classname" "weapon_flechette"
+"angle" "178"
+"origin" "-11904 1282 3897"
+}
+{
+"classname" "ammo_tripmine"
+"angle" "1"
+"origin" "-9690 -1070 3497"
+}
+{
+"classname" "weapon_repeater"
+"angle" "1"
+"origin" "-10784 -1132 3953"
+}
+{
+"classname" "item_cloak"
+"angle" "270"
+"origin" "-10362 -3790 4025"
+}
+{
+"classname" "item_sentry_gun"
+"angle" "329"
+"origin" "-11500 -272 3489"
+}
+{
+"classname" "item_seeker"
+"angle" "103"
+"origin" "-8556 1878 3761"
+}
+{
+"classname" "item_shield"
+"angle" "9"
+"origin" "-8996 -1000 3521"
+}
+{
+"classname" "weapon_blaster_pistol"
+"angle" "270"
+"origin" "-9378 -960 3721"
+}
+{
+"classname" "weapon_bowcaster"
+"angle" "269"
+"origin" "-8928 710 3721"
+}
+{
+"classname" "ammo_detpack"
+"angle" "175"
+"origin" "-7708 -918 3457"
+}
+{
+"classname" "money_dispenser"
+"angle" "0"
+"spawnflags" "0"
+"origin" "-9134 -1536 1410"
+}
+{
+"classname" "info_player_jail"
+"angle" "-146"
+"origin" "-8252 -518 1098"
+}
+{
+"classname" "info_player_deathmatch"
+"angle" "90"
+"origin" "-9528 -1718 1434"
+}
+{
+"classname" "info_player_deathmatch"
+"angle" "-180"
+"origin" "-8054 -284 1434"
+}
+{
+"classname" "trigger_always"
+"target" "fix_gauntlet_final_door"
+}
+{
+"classname" "info_player_deathmatch"
+"angle" "88"
+"origin" "-9174 -1774 1762"
+}
+{
+"classname" "info_player_deathmatch"
+"angle" "-89"
+"origin" "-9172 1178 1762"
+}
+{
+"classname" "ammo_thermal"
+"angle" "83"
+"origin" "-9262 -1872 2209"
+}
+{
+"classname" "weapon_blaster"
+"angle" "91"
+"origin" "-9528 946 2177"
+}
+{
+"angle" "92"
+"classname" "money_dispenser"
+"origin" "-8328 -1158 3458"
+}
+{
+"classname" "trigger_always"
+"target" "preoutrorunner"
+"origin" "-10398 -3212 4076"
+}
+{
+"classname" "trigger_visible"
+"target" "outroRunner"
+"origin" "-10446 -3136 4076"
+}
+{
+"classname" "item_binoculars"
+"origin" "-9610 -1078 2009"
+}

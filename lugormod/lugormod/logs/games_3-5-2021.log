@@ -1,0 +1,466 @@
+3-6-2021 7:42 (0:00): ------------------------------------------------------------
+3-6-2021 7:42 (0:00): InitGame: \version\JAmp: v1.0.1.0 linux-i386 Mar 14 2020\timelimit\45\sv_privateClients\0\sv_minRate\0\sv_minPing\0\sv_maxclients\32\sv_maxRate\0\sv_maxPing\999\sv_hostname\^7~^1~^7~ COMM SERVER ~^1~^7~\sv_fps\50\sv_floodProtectSlow\1\sv_floodProtect\1\sv_autoDemo\0\sv_allowDownload\0\serveruptime\54\protocol\26\mapname\mp/duel6\gamename\Lugormod\g_weaponDisable\0\g_stepSlideFix\0\g_siegeTeamSwitch\1\g_siegeTeam2\none\g_siegeTeam1\none\g_siegeRespawn\20\g_showDuelHealths\1\g_saberWallDamageScale\0.4\g_saberLocking\0\g_privateDuel\1535\g_noSpecMove\0\g_needpass\0\g_maxHolocronCarry\3\g_maxGameClients\0\g_maxForceRank\7\g_jediVmerc\0\g_gametype\0\g_gamemode\0\g_forceRegenTime\160\g_forcePowerDisable\0\g_forceBasedTeams\1\g_duelWeaponDisable\9\g_debugmelee\1\g_allowNPC\1\fs_game\lugormod\fraglimit\0\duel_fraglimit\10\dmflags\0\capturelimit\10\bot_minplayers\2\bg_fighterAltControl\0\Lugormod_Version\U#-0.0.0.91 Alpha
+3-6-2021 7:42 (0:30): ClientConnect: 0
+3-6-2021 7:42 (0:30): ClientUserinfoChanged handling info: 0 \team\0\skill\ 5.00\personality\botfiles/astupidbot.jkb\saber2\none\saber1\kyle\color2\4\color1\4\sex\male\model\jawa\snaps\20\rate\25000\name\astupidbot
+3-6-2021 7:42 (0:30): ClientUserinfoChanged: 0 n\astupidbot\t\0\model\jawa\c1\4\c2\4\hc\0\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\\st2\\dt\0\sdt\0
+3-6-2021 7:42 (0:30): IP: localhost astupidbot
+3-6-2021 7:42 (0:30): ClientUserinfoChanged handling info: 0 \team\0\skill\ 5.00\personality\botfiles/astupidbot.jkb\saber2\none\saber1\kyle\color2\4\color1\4\sex\male\model\jawa\snaps\20\rate\25000\name\astupidbot
+3-6-2021 7:42 (0:30): ClientUserinfoChanged: 0 n\astupidbot\t\0\model\jawa\c1\4\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+3-6-2021 7:42 (0:30): ClientBegin: 0
+3-6-2021 7:43 (0:52): ClientConnect: 1
+3-6-2021 7:43 (0:52): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+3-6-2021 7:43 (0:52): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\0\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\\st2\\dt\0\sdt\0
+3-6-2021 7:43 (0:52): IP: localhost Kyle
+3-6-2021 7:43 (0:52): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+3-6-2021 7:43 (0:52): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+3-6-2021 7:43 (0:52): ClientBegin: 1
+3-6-2021 21:22 (820:07): ClientConnect: 2
+3-6-2021 21:22 (820:07): ClientUserinfoChanged handling info: 2 \ip\213.118.246.241:29070\challenge\-283923456\qport\44551\protocol\26\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\none\saber1\single_1\cg_predictItems\1\sex\male\handicap\100\color2\4\color1\4\forcepowers\6-1-030330000000000333\model\boba_fett/default\snaps\20\rate\25000\name\Vlackho\teamtask\0\teamoverlay\0
+3-6-2021 21:22 (820:07): ClientUserinfoChanged: 2 n\Vlackho\t\0\model\boba_fett/default\c1\4\c2\4\hc\0\w\0\l\0\tt\0\tl\0\st\\st2\\dt\0
+3-6-2021 21:22 (820:07): IP: 213.118.246.241 Vlackho
+3-6-2021 21:22 (820:07): say: Kyle: Hi
+3-6-2021 21:22 (820:14): ClientUserinfoChanged handling info: 2 \ip\213.118.246.241:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\none\saber1\single_1\cg_predictItems\1\sex\male\handicap\100\color2\4\color1\4\forcepowers\6-1-030330000000000333\model\boba_fett/default\snaps\20\rate\25000\name\Vlackho\teamtask\0\teamoverlay\1
+3-6-2021 21:22 (820:14): ClientUserinfoChanged: 2 n\Vlackho\t\0\model\boba_fett/default\c1\4\c2\4\hc\0\w\0\l\0\tt\0\tl\0\st\single_1\st2\none\dt\0
+3-6-2021 21:22 (820:14): ClientUserinfoChanged handling info: 2 \ip\213.118.246.241:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\none\saber1\single_1\cg_predictItems\1\sex\male\handicap\100\color2\4\color1\4\forcepowers\6-1-030330000000000333\model\boba_fett/default\snaps\20\rate\25000\name\Vlackho\teamtask\0\teamoverlay\1
+3-6-2021 21:22 (820:14): ClientUserinfoChanged: 2 n\Vlackho\t\0\model\boba_fett/default\c1\4\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\single_1\st2\none\dt\0
+3-6-2021 21:22 (820:14): ClientBegin: 2
+3-6-2021 21:22 (820:26): say: astupidbot: bye all
+3-6-2021 21:22 (820:26): ClientDisconnect: 0
+3-6-2021 21:23 (821:09): ClientConnect: 0
+3-6-2021 21:23 (821:09): ClientUserinfoChanged handling info: 0 \ip\178.119.162.21:29070\challenge\-1529286749\qport\51499\protocol\26\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\none\saber1\single_6\cg_predictItems\1\sex\male\handicap\100\color2\4\color1\0\forcepowers\6-2-030300220000000333\model\chiss/default\snaps\20\rate\4000\name\BrechtLS\teamtask\0
+3-6-2021 21:23 (821:09): ClientUserinfoChanged: 0 n\BrechtLS\t\0\model\chiss/default\c1\0\c2\4\hc\0\w\0\l\0\tt\0\tl\0\st\\st2\\dt\0
+3-6-2021 21:23 (821:09): IP: 178.119.162.21 BrechtLS
+3-6-2021 21:23 (821:12): ClientDisconnect: 0
+3-6-2021 21:23 (821:12): ClientConnect: 0
+3-6-2021 21:23 (821:12): ClientUserinfoChanged handling info: 0 \ip\178.119.162.21:29070\challenge\-1529286749\qport\51499\protocol\26\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\none\saber1\single_6\cg_predictItems\1\sex\male\handicap\100\color2\4\color1\0\forcepowers\6-2-030300220000000333\model\chiss/default\snaps\20\rate\4000\name\BrechtLS\teamtask\0
+3-6-2021 21:23 (821:12): ClientUserinfoChanged: 0 n\BrechtLS\t\0\model\chiss/default\c1\0\c2\4\hc\0\w\0\l\0\tt\0\tl\0\st\\st2\\dt\0
+3-6-2021 21:23 (821:12): IP: 178.119.162.21 BrechtLS
+3-6-2021 21:23 (821:23): ClientUserinfoChanged handling info: 0 \ip\178.119.162.21:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\none\saber1\single_6\cg_predictItems\1\sex\male\handicap\100\color2\4\color1\0\forcepowers\1-2-010000000000000100\model\chiss/default\snaps\20\rate\4000\name\BrechtLS\teamtask\0\teamoverlay\1
+3-6-2021 21:23 (821:23): ClientUserinfoChanged: 0 n\BrechtLS\t\0\model\chiss/default\c1\0\c2\4\hc\0\w\0\l\0\tt\0\tl\0\st\single_6\st2\none\dt\0
+3-6-2021 21:23 (821:23): ClientUserinfoChanged handling info: 0 \ip\178.119.162.21:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\none\saber1\single_6\cg_predictItems\1\sex\male\handicap\100\color2\4\color1\0\forcepowers\1-2-010000000000000100\model\chiss/default\snaps\20\rate\4000\name\BrechtLS\teamtask\0\teamoverlay\1
+3-6-2021 21:23 (821:23): ClientUserinfoChanged: 0 n\BrechtLS\t\0\model\chiss/default\c1\0\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\single_6\st2\none\dt\0
+3-6-2021 21:23 (821:23): ClientBegin: 0
+3-6-2021 21:23 (821:37): say: Kyle: cya
+3-6-2021 21:23 (821:37): ClientDisconnect: 1
+3-6-2021 21:25 (823:26): ClientUserinfoChanged handling info: 0 \ip\178.119.162.21:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\none\saber1\single_6\cg_predictItems\1\sex\male\handicap\100\color2\4\color1\0\forcepowers\7-2-030300330000020333\model\chiss/default\snaps\20\rate\4000\name\BrechtLS\teamtask\0\teamoverlay\1
+3-6-2021 21:25 (823:26): ClientUserinfoChanged: 0 n\BrechtLS\t\0\model\chiss/default\c1\0\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\single_6\st2\none\dt\0
+3-6-2021 21:27 (825:16): Kill: 0 2 3: BrechtLS killed Vlackho by MOD_SABER
+3-6-2021 21:27 (825:16): Exit: Timelimit hit.
+3-6-2021 21:27 (825:16): score: 1  ping: 94  client: 0 BrechtLS
+3-6-2021 21:27 (825:16): score: 0  ping: 95  client: 2 Vlackho
+3-6-2021 21:27 (825:17): ClientUserinfoChanged handling info: 2 \ip\213.118.246.241:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\none\saber1\single_1\cg_predictItems\1\sex\male\handicap\100\color2\4\color1\4\forcepowers\6-1-030330000000000333\model\boba_fett/default\snaps\20\rate\25000\name\Vlackho\teamtask\0\teamoverlay\1
+3-6-2021 21:27 (825:17): ClientUserinfoChanged: 2 n\Vlackho\t\0\model\boba_fett/default\c1\4\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\single_1\st2\none\dt\0
+3-6-2021 21:27 (825:42): ShutdownGame:
+3-6-2021 21:27 (825:42): ------------------------------------------------------------
+3-6-2021 21:27 (825:42): ------------------------------------------------------------
+3-6-2021 21:27 (825:42): InitGame: \version\JAmp: v1.0.1.0 linux-i386 Mar 14 2020\timelimit\45\sv_privateClients\0\sv_minRate\0\sv_minPing\0\sv_maxclients\32\sv_maxRate\0\sv_maxPing\999\sv_hostname\^7~^1~^7~ COMM SERVER ~^1~^7~\sv_fps\50\sv_floodProtectSlow\1\sv_floodProtect\1\sv_autoDemo\0\sv_allowDownload\0\serveruptime\54\protocol\26\mapname\mp/duel6\gamename\Lugormod\g_weaponDisable\0\g_stepSlideFix\0\g_siegeTeamSwitch\1\g_siegeTeam2\none\g_siegeTeam1\none\g_siegeRespawn\20\g_showDuelHealths\1\g_saberWallDamageScale\0.4\g_saberLocking\0\g_privateDuel\1535\g_noSpecMove\0\g_needpass\0\g_maxHolocronCarry\3\g_maxGameClients\0\g_maxForceRank\7\g_jediVmerc\0\g_gametype\0\g_gamemode\0\g_forceRegenTime\160\g_forcePowerDisable\0\g_forceBasedTeams\1\g_duelWeaponDisable\9\g_debugmelee\1\g_allowNPC\1\fs_game\lugormod\fraglimit\0\duel_fraglimit\10\dmflags\0\capturelimit\10\bot_minplayers\2\bg_fighterAltControl\0\Lugormod_Version\U#-0.0.0.91 Alpha
+3-6-2021 21:27 (825:42): ClientConnect: 0
+3-6-2021 21:27 (825:42): ClientUserinfoChanged handling info: 0 \ip\178.119.162.21:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\none\saber1\single_6\cg_predictItems\1\sex\male\handicap\100\color2\4\color1\0\forcepowers\7-2-030300330000020333\model\chiss/default\snaps\20\rate\4000\name\BrechtLS\teamtask\0\teamoverlay\1
+3-6-2021 21:27 (825:42): ClientUserinfoChanged: 0 n\BrechtLS\t\0\model\chiss/default\c1\0\c2\4\hc\0\w\0\l\0\tt\0\tl\0\st\single_6\st2\none\dt\0
+3-6-2021 21:27 (825:42): ClientUserinfoChanged handling info: 0 \ip\178.119.162.21:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\none\saber1\single_6\cg_predictItems\1\sex\male\handicap\100\color2\4\color1\0\forcepowers\7-2-030300330000020333\model\chiss/default\snaps\20\rate\4000\name\BrechtLS\teamtask\0\teamoverlay\1
+3-6-2021 21:27 (825:42): ClientUserinfoChanged: 0 n\BrechtLS\t\0\model\chiss/default\c1\0\c2\4\hc\0\w\0\l\0\tt\0\tl\0\st\single_6\st2\none\dt\0
+3-6-2021 21:27 (825:42): ClientUserinfoChanged handling info: 0 \ip\178.119.162.21:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\none\saber1\single_6\cg_predictItems\1\sex\male\handicap\100\color2\4\color1\0\forcepowers\7-2-030300330000020333\model\chiss/default\snaps\20\rate\4000\name\BrechtLS\teamtask\0\teamoverlay\1
+3-6-2021 21:27 (825:42): ClientUserinfoChanged: 0 n\BrechtLS\t\0\model\chiss/default\c1\0\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\single_6\st2\none\dt\0
+3-6-2021 21:27 (825:42): ClientBegin: 0
+3-6-2021 21:27 (825:42): ClientConnect: 2
+3-6-2021 21:27 (825:42): ClientUserinfoChanged handling info: 2 \ip\213.118.246.241:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\none\saber1\single_1\cg_predictItems\1\sex\male\handicap\100\color2\4\color1\4\forcepowers\6-1-030330000000000333\model\boba_fett/default\snaps\20\rate\25000\name\Vlackho\teamtask\0\teamoverlay\1
+3-6-2021 21:27 (825:42): ClientUserinfoChanged: 2 n\Vlackho\t\0\model\boba_fett/default\c1\4\c2\4\hc\0\w\0\l\0\tt\0\tl\0\st\single_1\st2\none\dt\0
+3-6-2021 21:27 (825:42): ClientUserinfoChanged handling info: 2 \ip\213.118.246.241:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\none\saber1\single_1\cg_predictItems\1\sex\male\handicap\100\color2\4\color1\4\forcepowers\6-1-030330000000000333\model\boba_fett/default\snaps\20\rate\25000\name\Vlackho\teamtask\0\teamoverlay\1
+3-6-2021 21:27 (825:42): ClientUserinfoChanged: 2 n\Vlackho\t\0\model\boba_fett/default\c1\4\c2\4\hc\0\w\0\l\0\tt\0\tl\0\st\single_1\st2\none\dt\0
+3-6-2021 21:27 (825:42): ClientUserinfoChanged handling info: 2 \ip\213.118.246.241:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\none\saber1\single_1\cg_predictItems\1\sex\male\handicap\100\color2\4\color1\4\forcepowers\6-1-030330000000000333\model\boba_fett/default\snaps\20\rate\25000\name\Vlackho\teamtask\0\teamoverlay\1
+3-6-2021 21:27 (825:42): ClientUserinfoChanged: 2 n\Vlackho\t\0\model\boba_fett/default\c1\4\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\single_1\st2\none\dt\0
+3-6-2021 21:27 (825:42): ClientBegin: 2
+3-6-2021 21:29 (826:59): Kill: 0 2 3: BrechtLS killed Vlackho by MOD_SABER
+3-6-2021 21:30 (828:00): ClientUserinfoChanged handling info: 2 \ip\213.118.246.241:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\none\saber1\single_1\cg_predictItems\1\sex\male\handicap\100\color2\4\color1\4\forcepowers\6-1-030330000000000333\model\boba_fett/default\snaps\20\rate\25000\name\Vlackho\teamtask\0\teamoverlay\1
+3-6-2021 21:30 (828:00): ClientUserinfoChanged: 2 n\Vlackho\t\0\model\boba_fett/default\c1\4\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\single_1\st2\none\dt\0
+3-6-2021 21:30 (828:24): ClientUserinfoChanged handling info: 0 \ip\178.119.162.21:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\none\saber1\single_6\cg_predictItems\1\sex\male\handicap\100\color2\4\color1\0\forcepowers\7-2-030300330000020333\model\kyle/default\snaps\20\rate\4000\name\BrechtLS\teamtask\0\teamoverlay\1
+3-6-2021 21:30 (828:24): ClientUserinfoChanged: 0 n\BrechtLS\t\0\model\kyle/default\c1\0\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\single_6\st2\none\dt\0
+3-6-2021 21:30 (828:38): ClientUserinfoChanged handling info: 0 \ip\178.119.162.21:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\none\saber1\single_6\cg_predictItems\1\sex\male\handicap\100\color2\4\color1\0\forcepowers\7-2-030300330000020333\model\chiss/default\snaps\20\rate\4000\name\BrechtLS\teamtask\0\teamoverlay\1
+3-6-2021 21:30 (828:38): ClientUserinfoChanged: 0 n\BrechtLS\t\0\model\chiss/default\c1\0\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\single_6\st2\none\dt\0
+3-6-2021 21:34 (831:53): Kill: 0 2 3: BrechtLS killed Vlackho by MOD_SABER
+3-6-2021 21:34 (831:54): ClientUserinfoChanged handling info: 2 \ip\213.118.246.241:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\none\saber1\single_1\cg_predictItems\1\sex\male\handicap\100\color2\4\color1\4\forcepowers\6-1-030330000000000333\model\boba_fett/default\snaps\20\rate\25000\name\Vlackho\teamtask\0\teamoverlay\1
+3-6-2021 21:34 (831:54): ClientUserinfoChanged: 2 n\Vlackho\t\0\model\boba_fett/default\c1\4\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\single_1\st2\none\dt\0
+3-6-2021 21:35 (833:45): Kill: 0 2 31: BrechtLS killed Vlackho by MOD_FORCE_DARK
+3-6-2021 21:35 (833:46): ClientUserinfoChanged handling info: 2 \ip\213.118.246.241:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\none\saber1\single_1\cg_predictItems\1\sex\male\handicap\100\color2\4\color1\4\forcepowers\6-1-030330000000000333\model\boba_fett/default\snaps\20\rate\25000\name\Vlackho\teamtask\0\teamoverlay\1
+3-6-2021 21:35 (833:46): ClientUserinfoChanged: 2 n\Vlackho\t\0\model\boba_fett/default\c1\4\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\single_1\st2\none\dt\0
+3-6-2021 21:36 (834:34): Kill: 2 0 3: Vlackho killed BrechtLS by MOD_SABER
+3-6-2021 21:36 (834:47): ClientUserinfoChanged handling info: 0 \ip\178.119.162.21:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\none\saber1\single_6\cg_predictItems\1\sex\male\handicap\100\color2\4\color1\0\forcepowers\7-2-030300330000020333\model\chiss/default\snaps\20\rate\4000\name\BrechtLS\teamtask\0\teamoverlay\1
+3-6-2021 21:36 (834:47): ClientUserinfoChanged: 0 n\BrechtLS\t\0\model\chiss/default\c1\0\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\single_6\st2\none\dt\0
+3-6-2021 21:38 (835:50): Kill: 0 2 3: BrechtLS killed Vlackho by MOD_SABER
+3-6-2021 21:38 (836:05): ClientUserinfoChanged handling info: 2 \ip\213.118.246.241:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\none\saber1\single_1\cg_predictItems\1\sex\male\handicap\100\color2\4\color1\4\forcepowers\6-1-030330000000000333\model\boba_fett/default\snaps\20\rate\25000\name\Vlackho\teamtask\0\teamoverlay\1
+3-6-2021 21:38 (836:05): ClientUserinfoChanged: 2 n\Vlackho\t\0\model\boba_fett/default\c1\4\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\single_1\st2\none\dt\0
+3-6-2021 21:39 (837:04): Kill: 0 2 3: BrechtLS killed Vlackho by MOD_SABER
+3-6-2021 21:39 (837:15): ClientUserinfoChanged handling info: 2 \ip\213.118.246.241:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\none\saber1\single_1\cg_predictItems\1\sex\male\handicap\100\color2\4\color1\4\forcepowers\6-1-030330000000000333\model\boba_fett/default\snaps\20\rate\25000\name\Vlackho\teamtask\0\teamoverlay\1
+3-6-2021 21:39 (837:15): ClientUserinfoChanged: 2 n\Vlackho\t\0\model\boba_fett/default\c1\4\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\single_1\st2\none\dt\0
+3-6-2021 21:41 (839:34): Kill: 2 0 3: Vlackho killed BrechtLS by MOD_SABER
+3-6-2021 21:41 (839:39): ClientUserinfoChanged handling info: 0 \ip\178.119.162.21:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\none\saber1\single_6\cg_predictItems\1\sex\male\handicap\100\color2\4\color1\0\forcepowers\7-2-030300330000020333\model\chiss/default\snaps\20\rate\4000\name\BrechtLS\teamtask\0\teamoverlay\1
+3-6-2021 21:41 (839:39): ClientUserinfoChanged: 0 n\BrechtLS\t\0\model\chiss/default\c1\0\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\single_6\st2\none\dt\0
+3-6-2021 21:42 (839:57): Kill: 0 2 3: BrechtLS killed Vlackho by MOD_SABER
+3-6-2021 21:42 (840:11): ClientUserinfoChanged handling info: 2 \ip\213.118.246.241:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\none\saber1\single_1\cg_predictItems\1\sex\male\handicap\100\color2\4\color1\4\forcepowers\6-1-030330000000000333\model\boba_fett/default\snaps\20\rate\25000\name\Vlackho\teamtask\0\teamoverlay\1
+3-6-2021 21:42 (840:11): ClientUserinfoChanged: 2 n\Vlackho\t\0\model\boba_fett/default\c1\4\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\single_1\st2\none\dt\0
+3-6-2021 21:46 (844:02): Kill: 0 2 3: BrechtLS killed Vlackho by MOD_SABER
+3-6-2021 21:46 (844:11): ClientUserinfoChanged handling info: 2 \ip\213.118.246.241:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\none\saber1\single_1\cg_predictItems\1\sex\male\handicap\100\color2\4\color1\4\forcepowers\6-1-030330000000000333\model\boba_fett/default\snaps\20\rate\25000\name\Vlackho\teamtask\0\teamoverlay\1
+3-6-2021 21:46 (844:11): ClientUserinfoChanged: 2 n\Vlackho\t\0\model\boba_fett/default\c1\4\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\single_1\st2\none\dt\0
+3-6-2021 21:48 (846:37): Kill: 0 2 3: BrechtLS killed Vlackho by MOD_SABER
+3-6-2021 21:49 (847:27): ClientUserinfoChanged handling info: 2 \ip\213.118.246.241:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\single_1\saber1\single_1\cg_predictItems\1\sex\male\handicap\100\color2\2\color1\1\forcepowers\7-1-033332000020000333\model\luke/default\snaps\20\rate\25000\name\Vlackho\teamtask\0\teamoverlay\1
+3-6-2021 21:49 (847:27): ClientUserinfoChanged: 2 n\Vlackho\t\0\model\luke/default\c1\1\c2\2\hc\100\w\0\l\0\tt\0\tl\0\st\single_1\st2\none\dt\0
+3-6-2021 21:49 (847:28): ClientUserinfoChanged handling info: 2 \ip\213.118.246.241:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\single_1\saber1\single_1\cg_predictItems\1\sex\male\handicap\100\color2\2\color1\1\forcepowers\7-1-033332000020000333\model\luke/default\snaps\20\rate\25000\name\Vlackho\teamtask\0\teamoverlay\1
+3-6-2021 21:49 (847:28): ClientUserinfoChanged: 2 n\Vlackho\t\0\model\luke/default\c1\1\c2\2\hc\100\w\0\l\0\tt\0\tl\0\st\single_1\st2\single_1\dt\0
+3-6-2021 21:49 (847:28): ClientUserinfoChanged handling info: 2 \ip\213.118.246.241:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\single_1\saber1\single_1\cg_predictItems\1\sex\male\handicap\100\color2\2\color1\1\forcepowers\7-1-033332000020000333\model\luke/default\snaps\20\rate\25000\name\Vlackho\teamtask\0\teamoverlay\1
+3-6-2021 21:49 (847:28): ClientUserinfoChanged: 2 n\Vlackho\t\0\model\luke/default\c1\1\c2\2\hc\100\w\0\l\0\tt\0\tl\0\st\single_1\st2\single_1\dt\0
+3-6-2021 21:50 (848:14): Kill: 2 0 3: Vlackho killed BrechtLS by MOD_SABER
+3-6-2021 21:50 (848:16): ClientUserinfoChanged handling info: 0 \ip\178.119.162.21:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\none\saber1\single_6\cg_predictItems\1\sex\male\handicap\100\color2\4\color1\0\forcepowers\7-2-030300330000020333\model\chiss/default\snaps\20\rate\4000\name\BrechtLS\teamtask\0\teamoverlay\1
+3-6-2021 21:50 (848:16): ClientUserinfoChanged: 0 n\BrechtLS\t\0\model\chiss/default\c1\0\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\single_6\st2\none\dt\0
+3-6-2021 21:54 (852:08): Kill: 0 2 6: BrechtLS killed Vlackho by MOD_BLASTER
+3-6-2021 21:54 (852:14): ClientUserinfoChanged handling info: 2 \ip\213.118.246.241:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\single_1\saber1\single_1\cg_predictItems\1\sex\male\handicap\100\color2\2\color1\1\forcepowers\7-1-033332000020000333\model\luke/default\snaps\20\rate\25000\name\Vlackho\teamtask\0\teamoverlay\1
+3-6-2021 21:54 (852:14): ClientUserinfoChanged: 2 n\Vlackho\t\0\model\luke/default\c1\1\c2\2\hc\100\w\0\l\0\tt\0\tl\0\st\single_1\st2\single_1\dt\0
+3-6-2021 21:55 (853:29): Kill: 2 0 3: Vlackho killed BrechtLS by MOD_SABER
+3-6-2021 21:55 (853:33): ClientUserinfoChanged handling info: 0 \ip\178.119.162.21:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\none\saber1\single_6\cg_predictItems\1\sex\male\handicap\100\color2\4\color1\0\forcepowers\7-2-030300330000020333\model\chiss/default\snaps\20\rate\4000\name\BrechtLS\teamtask\0\teamoverlay\1
+3-6-2021 21:55 (853:33): ClientUserinfoChanged: 0 n\BrechtLS\t\0\model\chiss/default\c1\0\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\single_6\st2\none\dt\0
+3-6-2021 21:56 (853:50): Kill: 0 2 31: BrechtLS killed Vlackho by MOD_FORCE_DARK
+3-6-2021 21:56 (853:56): ClientUserinfoChanged handling info: 2 \ip\213.118.246.241:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\single_1\saber1\single_1\cg_predictItems\1\sex\male\handicap\100\color2\2\color1\1\forcepowers\7-1-033332000020000333\model\luke/default\snaps\20\rate\25000\name\Vlackho\teamtask\0\teamoverlay\1
+3-6-2021 21:56 (853:56): ClientUserinfoChanged: 2 n\Vlackho\t\0\model\luke/default\c1\1\c2\2\hc\100\w\0\l\0\tt\0\tl\0\st\single_1\st2\single_1\dt\0
+3-6-2021 21:56 (854:43): ClientUserinfoChanged handling info: 2 \ip\213.118.246.241:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\none\saber1\dual_4\cg_predictItems\1\sex\male\handicap\100\color2\2\color1\0\forcepowers\7-1-033332000020000333\model\snowtrooper/default\snaps\20\rate\25000\name\Vlackho\teamtask\0\teamoverlay\1
+3-6-2021 21:56 (854:43): ClientUserinfoChanged: 2 n\Vlackho\t\0\model\snowtrooper/default\c1\0\c2\2\hc\100\w\0\l\0\tt\0\tl\0\st\single_1\st2\single_1\dt\0
+3-6-2021 21:57 (855:30): ClientUserinfoChanged handling info: 2 \ip\213.118.246.241:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\none\saber1\dual_4\cg_predictItems\1\sex\male\handicap\100\color2\2\color1\0\forcepowers\7-1-330331000030000333\model\snowtrooper/default\snaps\20\rate\25000\name\Vlackho\teamtask\0\teamoverlay\1
+3-6-2021 21:57 (855:30): ClientUserinfoChanged: 2 n\Vlackho\t\0\model\snowtrooper/default\c1\0\c2\2\hc\100\w\0\l\0\tt\0\tl\0\st\single_1\st2\single_1\dt\0
+3-6-2021 21:59 (857:07): Kill: 0 2 3: BrechtLS killed Vlackho by MOD_SABER
+3-6-2021 21:59 (857:08): ClientUserinfoChanged handling info: 2 \ip\213.118.246.241:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\none\saber1\dual_4\cg_predictItems\1\sex\male\handicap\100\color2\2\color1\0\forcepowers\7-1-330331000030000333\model\snowtrooper/default\snaps\20\rate\25000\name\Vlackho\teamtask\0\teamoverlay\1
+3-6-2021 21:59 (857:08): ClientUserinfoChanged: 2 n\Vlackho\t\0\model\snowtrooper/default\c1\0\c2\2\hc\100\w\0\l\0\tt\0\tl\0\st\dual_4\st2\none\dt\0
+3-6-2021 21:59 (857:08): ClientUserinfoChanged handling info: 2 \ip\213.118.246.241:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\none\saber1\dual_4\cg_predictItems\1\sex\male\handicap\100\color2\2\color1\0\forcepowers\7-1-330331000030000333\model\snowtrooper/default\snaps\20\rate\25000\name\Vlackho\teamtask\0\teamoverlay\1
+3-6-2021 21:59 (857:08): ClientUserinfoChanged: 2 n\Vlackho\t\0\model\snowtrooper/default\c1\0\c2\2\hc\100\w\0\l\0\tt\0\tl\0\st\dual_4\st2\none\dt\0
+3-6-2021 22: 1 (859:19): Kill: 1022 0 38: <world> killed BrechtLS by MOD_FALLING
+3-6-2021 22: 1 (859:20): ClientUserinfoChanged handling info: 0 \ip\178.119.162.21:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\none\saber1\single_6\cg_predictItems\1\sex\male\handicap\100\color2\4\color1\0\forcepowers\7-2-030300330000020333\model\chiss/default\snaps\20\rate\4000\name\BrechtLS\teamtask\0\teamoverlay\1
+3-6-2021 22: 1 (859:20): ClientUserinfoChanged: 0 n\BrechtLS\t\0\model\chiss/default\c1\0\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\single_6\st2\none\dt\0
+3-6-2021 22: 3 (861:02): Kill: 0 2 3: BrechtLS killed Vlackho by MOD_SABER
+3-6-2021 22: 3 (861:03): ClientUserinfoChanged handling info: 2 \ip\213.118.246.241:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\none\saber1\dual_4\cg_predictItems\1\sex\male\handicap\100\color2\2\color1\0\forcepowers\7-1-330331000030000333\model\snowtrooper/default\snaps\20\rate\25000\name\Vlackho\teamtask\0\teamoverlay\1
+3-6-2021 22: 3 (861:03): ClientUserinfoChanged: 2 n\Vlackho\t\0\model\snowtrooper/default\c1\0\c2\2\hc\100\w\0\l\0\tt\0\tl\0\st\dual_4\st2\none\dt\0
+3-6-2021 22: 4 (862:42): Kill: 0 2 3: BrechtLS killed Vlackho by MOD_SABER
+3-6-2021 22: 5 (863:43): ClientUserinfoChanged handling info: 2 \ip\213.118.246.241:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\none\saber1\dual_4\cg_predictItems\1\sex\male\handicap\100\color2\2\color1\0\forcepowers\7-1-330331000030000333\model\snowtrooper/default\snaps\20\rate\25000\name\Vlackho\teamtask\0\teamoverlay\1
+3-6-2021 22: 5 (863:43): ClientUserinfoChanged: 2 n\Vlackho\t\0\model\snowtrooper/default\c1\0\c2\2\hc\100\w\0\l\0\tt\0\tl\0\st\dual_4\st2\none\dt\0
+3-6-2021 22: 5 (863:47): ClientUserinfoChanged handling info: 2 \ip\213.118.246.241:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\single_1\saber1\single_1\cg_predictItems\1\sex\male\handicap\100\color2\0\color1\0\forcepowers\7-2-030330330000000333\model\reborn/default\snaps\20\rate\25000\name\Vlackho\teamtask\0\teamoverlay\1
+3-6-2021 22: 5 (863:47): ClientUserinfoChanged: 2 n\Vlackho\t\0\model\reborn/default\c1\0\c2\0\hc\100\w\0\l\0\tt\0\tl\0\st\dual_4\st2\none\dt\0
+3-6-2021 22: 6 (864:45): Kill: 2 0 3: Vlackho killed BrechtLS by MOD_SABER
+3-6-2021 22: 6 (864:47): ClientUserinfoChanged handling info: 0 \ip\178.119.162.21:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\none\saber1\single_6\cg_predictItems\1\sex\male\handicap\100\color2\4\color1\0\forcepowers\7-2-030300330000020333\model\chiss/default\snaps\20\rate\4000\name\BrechtLS\teamtask\0\teamoverlay\1
+3-6-2021 22: 6 (864:47): ClientUserinfoChanged: 0 n\BrechtLS\t\0\model\chiss/default\c1\0\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\single_6\st2\none\dt\0
+3-6-2021 22: 7 (865:35): Kill: 2 0 3: Vlackho killed BrechtLS by MOD_SABER
+3-6-2021 22: 7 (865:36): ClientUserinfoChanged handling info: 0 \ip\178.119.162.21:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\none\saber1\single_6\cg_predictItems\1\sex\male\handicap\100\color2\4\color1\0\forcepowers\7-2-030300330000020333\model\chiss/default\snaps\20\rate\4000\name\BrechtLS\teamtask\0\teamoverlay\1
+3-6-2021 22: 7 (865:36): ClientUserinfoChanged: 0 n\BrechtLS\t\0\model\chiss/default\c1\0\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\single_6\st2\none\dt\0
+3-6-2021 22: 8 (865:50): Kill: 0 2 3: BrechtLS killed Vlackho by MOD_SABER
+3-6-2021 22: 8 (865:57): ClientUserinfoChanged handling info: 2 \ip\213.118.246.241:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\single_1\saber1\single_1\cg_predictItems\1\sex\male\handicap\100\color2\0\color1\0\forcepowers\7-2-030330330000000333\model\reborn/default\snaps\20\rate\25000\name\Vlackho\teamtask\0\teamoverlay\1
+3-6-2021 22: 8 (865:57): ClientUserinfoChanged: 2 n\Vlackho\t\0\model\reborn/default\c1\0\c2\0\hc\100\w\0\l\0\tt\0\tl\0\st\single_1\st2\single_1\dt\0
+3-6-2021 22: 8 (865:57): ClientUserinfoChanged handling info: 2 \ip\213.118.246.241:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\single_1\saber1\single_1\cg_predictItems\1\sex\male\handicap\100\color2\0\color1\0\forcepowers\7-2-030330330000000333\model\reborn/default\snaps\20\rate\25000\name\Vlackho\teamtask\0\teamoverlay\1
+3-6-2021 22: 8 (865:57): ClientUserinfoChanged: 2 n\Vlackho\t\0\model\reborn/default\c1\0\c2\0\hc\100\w\0\l\0\tt\0\tl\0\st\single_1\st2\single_1\dt\0
+3-6-2021 22: 8 (866:21): Kill: 0 2 3: BrechtLS killed Vlackho by MOD_SABER
+3-6-2021 22: 8 (866:23): ClientUserinfoChanged handling info: 2 \ip\213.118.246.241:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\single_1\saber1\single_1\cg_predictItems\1\sex\male\handicap\100\color2\0\color1\0\forcepowers\7-2-030330330000000333\model\reborn/default\snaps\20\rate\25000\name\Vlackho\teamtask\0\teamoverlay\1
+3-6-2021 22: 8 (866:23): ClientUserinfoChanged: 2 n\Vlackho\t\0\model\reborn/default\c1\0\c2\0\hc\100\w\0\l\0\tt\0\tl\0\st\single_1\st2\single_1\dt\0
+3-6-2021 22: 9 (866:52): Kill: 2 0 3: Vlackho killed BrechtLS by MOD_SABER
+3-6-2021 22: 9 (866:56): ClientUserinfoChanged handling info: 0 \ip\178.119.162.21:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\none\saber1\single_6\cg_predictItems\1\sex\male\handicap\100\color2\4\color1\0\forcepowers\7-2-030300330000020333\model\chiss/default\snaps\20\rate\4000\name\BrechtLS\teamtask\0\teamoverlay\1
+3-6-2021 22: 9 (866:56): ClientUserinfoChanged: 0 n\BrechtLS\t\0\model\chiss/default\c1\0\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\single_6\st2\none\dt\0
+3-6-2021 22: 9 (867:07): Kill: 0 2 3: BrechtLS killed Vlackho by MOD_SABER
+3-6-2021 22: 9 (867:35): ClientUserinfoChanged handling info: 2 \ip\213.118.246.241:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\single_1\saber1\single_1\cg_predictItems\1\sex\male\handicap\100\color2\0\color1\0\forcepowers\7-2-030330330000000333\model\reborn/default\snaps\20\rate\25000\name\Vlackho\teamtask\0\teamoverlay\1
+3-6-2021 22: 9 (867:35): ClientUserinfoChanged: 2 n\Vlackho\t\0\model\reborn/default\c1\0\c2\0\hc\100\w\0\l\0\tt\0\tl\0\st\single_1\st2\single_1\dt\0
+3-6-2021 22:10 (868:22): Kill: 0 2 3: BrechtLS killed Vlackho by MOD_SABER
+3-6-2021 22:10 (868:23): ClientUserinfoChanged handling info: 2 \ip\213.118.246.241:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\single_1\saber1\single_1\cg_predictItems\1\sex\male\handicap\100\color2\0\color1\0\forcepowers\7-2-030330330000000333\model\reborn/default\snaps\20\rate\25000\name\Vlackho\teamtask\0\teamoverlay\1
+3-6-2021 22:10 (868:23): ClientUserinfoChanged: 2 n\Vlackho\t\0\model\reborn/default\c1\0\c2\0\hc\100\w\0\l\0\tt\0\tl\0\st\single_1\st2\single_1\dt\0
+3-6-2021 22:11 (868:54): Kill: 2 0 3: Vlackho killed BrechtLS by MOD_SABER
+3-6-2021 22:11 (868:57): ClientUserinfoChanged handling info: 0 \ip\178.119.162.21:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\none\saber1\single_6\cg_predictItems\1\sex\male\handicap\100\color2\4\color1\0\forcepowers\7-2-030300330000020333\model\chiss/default\snaps\20\rate\4000\name\BrechtLS\teamtask\0\teamoverlay\1
+3-6-2021 22:11 (868:57): ClientUserinfoChanged: 0 n\BrechtLS\t\0\model\chiss/default\c1\0\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\single_6\st2\none\dt\0
+3-6-2021 22:12 (870:32): Kill: 0 2 3: BrechtLS killed Vlackho by MOD_SABER
+3-6-2021 22:12 (870:42): Exit: Timelimit hit.
+3-6-2021 22:12 (870:42): score: 17  ping: 94  client: 0 BrechtLS
+3-6-2021 22:12 (870:42): score: 8  ping: 93  client: 2 Vlackho
+3-6-2021 22:12 (870:43): ClientUserinfoChanged handling info: 2 \ip\213.118.246.241:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\single_1\saber1\single_1\cg_predictItems\1\sex\male\handicap\100\color2\0\color1\0\forcepowers\7-2-030330330000000333\model\reborn/default\snaps\20\rate\25000\name\Vlackho\teamtask\0\teamoverlay\1
+3-6-2021 22:12 (870:43): ClientUserinfoChanged: 2 n\Vlackho\t\0\model\reborn/default\c1\0\c2\0\hc\100\w\0\l\0\tt\0\tl\0\st\single_1\st2\single_1\dt\0
+3-6-2021 22:13 (870:49): ClientDisconnect: 2
+3-6-2021 22:13 (870:49): ShutdownGame:
+3-6-2021 22:13 (870:49): ------------------------------------------------------------
+3-6-2021 22:13 (870:49): ------------------------------------------------------------
+3-6-2021 22:13 (870:49): InitGame: \version\JAmp: v1.0.1.0 linux-i386 Mar 14 2020\timelimit\45\sv_privateClients\0\sv_minRate\0\sv_minPing\0\sv_maxclients\32\sv_maxRate\0\sv_maxPing\999\sv_hostname\^7~^1~^7~ COMM SERVER ~^1~^7~\sv_fps\50\sv_floodProtectSlow\1\sv_floodProtect\1\sv_autoDemo\0\sv_allowDownload\0\serveruptime\54\protocol\26\mapname\mp/duel6\gamename\Lugormod\g_weaponDisable\0\g_stepSlideFix\0\g_siegeTeamSwitch\1\g_siegeTeam2\none\g_siegeTeam1\none\g_siegeRespawn\20\g_showDuelHealths\1\g_saberWallDamageScale\0.4\g_saberLocking\0\g_privateDuel\1535\g_noSpecMove\0\g_needpass\0\g_maxHolocronCarry\3\g_maxGameClients\0\g_maxForceRank\7\g_jediVmerc\0\g_gametype\0\g_gamemode\0\g_forceRegenTime\160\g_forcePowerDisable\0\g_forceBasedTeams\1\g_duelWeaponDisable\9\g_debugmelee\1\g_allowNPC\1\fs_game\lugormod\fraglimit\0\duel_fraglimit\10\dmflags\0\capturelimit\10\bot_minplayers\2\bg_fighterAltControl\0\Lugormod_Version\U#-0.0.0.91 Alpha
+3-6-2021 22:13 (870:49): ClientConnect: 0
+3-6-2021 22:13 (870:49): ClientUserinfoChanged handling info: 0 \ip\178.119.162.21:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\none\saber1\single_6\cg_predictItems\1\sex\male\handicap\100\color2\4\color1\0\forcepowers\7-2-030300330000020333\model\chiss/default\snaps\20\rate\4000\name\BrechtLS\teamtask\0\teamoverlay\1
+3-6-2021 22:13 (870:49): ClientUserinfoChanged: 0 n\BrechtLS\t\0\model\chiss/default\c1\0\c2\4\hc\0\w\0\l\0\tt\0\tl\0\st\single_6\st2\none\dt\0
+3-6-2021 22:13 (870:49): ClientUserinfoChanged handling info: 0 \ip\178.119.162.21:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\none\saber1\single_6\cg_predictItems\1\sex\male\handicap\100\color2\4\color1\0\forcepowers\7-2-030300330000020333\model\chiss/default\snaps\20\rate\4000\name\BrechtLS\teamtask\0\teamoverlay\1
+3-6-2021 22:13 (870:49): ClientUserinfoChanged: 0 n\BrechtLS\t\0\model\chiss/default\c1\0\c2\4\hc\0\w\0\l\0\tt\0\tl\0\st\single_6\st2\none\dt\0
+3-6-2021 22:13 (870:49): ClientUserinfoChanged handling info: 0 \ip\178.119.162.21:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\none\saber1\single_6\cg_predictItems\1\sex\male\handicap\100\color2\4\color1\0\forcepowers\7-2-030300330000020333\model\chiss/default\snaps\20\rate\4000\name\BrechtLS\teamtask\0\teamoverlay\1
+3-6-2021 22:13 (870:49): ClientUserinfoChanged: 0 n\BrechtLS\t\0\model\chiss/default\c1\0\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\single_6\st2\none\dt\0
+3-6-2021 22:13 (870:49): ClientBegin: 0
+3-6-2021 22:13 (871:19): ClientConnect: 1
+3-6-2021 22:13 (871:19): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/astupidbot.jkb\saber2\none\saber1\kyle\color2\4\color1\4\sex\male\model\jawa\snaps\20\rate\25000\name\astupidbot
+3-6-2021 22:13 (871:19): ClientUserinfoChanged: 1 n\astupidbot\t\0\model\jawa\c1\4\c2\4\hc\0\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\\st2\\dt\0\sdt\0
+3-6-2021 22:13 (871:19): IP: localhost astupidbot
+3-6-2021 22:13 (871:19): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/astupidbot.jkb\saber2\none\saber1\kyle\color2\4\color1\4\sex\male\model\jawa\snaps\20\rate\25000\name\astupidbot
+3-6-2021 22:13 (871:19): ClientUserinfoChanged: 1 n\astupidbot\t\0\model\jawa\c1\4\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+3-6-2021 22:13 (871:19): ClientBegin: 1
+3-6-2021 22:13 (871:22): ClientDisconnect: 0
+3-6-2021 22:13 (871:41): ClientConnect: 0
+3-6-2021 22:13 (871:41): ClientUserinfoChanged handling info: 0 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+3-6-2021 22:13 (871:41): ClientUserinfoChanged: 0 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\0\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\\st2\\dt\0\sdt\0
+3-6-2021 22:13 (871:41): IP: localhost Kyle
+3-6-2021 22:13 (871:41): ClientUserinfoChanged handling info: 0 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+3-6-2021 22:13 (871:41): ClientUserinfoChanged: 0 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+3-6-2021 22:13 (871:41): ClientBegin: 0
+3-6-2021 22:56 (914:02): ClientConnect: 2
+3-6-2021 22:56 (914:02): ClientUserinfoChanged handling info: 2 \ip\95.155.127.134:29070\challenge\-367024827\qport\24534\protocol\26\name\Shihan\rate\4000\snaps\20\model\rax_joris/default\forcepowers\7-1-030000000000000230\color1\3\color2\2\handicap\100\sex\male\cg_predictItems\1\saber1\single_5\saber2\single_9\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0
+3-6-2021 22:56 (914:02): ClientUserinfoChanged: 2 n\Shihan\t\0\model\rax_joris/default\c1\3\c2\2\hc\0\w\0\l\0\tt\0\tl\0\st\\st2\\dt\0
+3-6-2021 22:56 (914:02): IP: 95.155.127.134 Shihan
+3-6-2021 22:56 (914:11): ClientUserinfoChanged handling info: 2 \ip\95.155.127.134:29070\name\Shihan\rate\4000\snaps\20\model\kyle/default\forcepowers\1-1-010000000000000100\color1\2\color2\0\handicap\100\sex\male\cg_predictItems\1\saber1\dual_4\saber2\none\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+3-6-2021 22:56 (914:11): ClientUserinfoChanged: 2 n\Shihan\t\0\model\kyle/default\c1\2\c2\0\hc\0\w\0\l\0\tt\0\tl\0\st\dual_4\st2\none\dt\0
+3-6-2021 22:56 (914:11): ClientUserinfoChanged handling info: 2 \ip\95.155.127.134:29070\name\Shihan\rate\4000\snaps\20\model\kyle/default\forcepowers\1-1-010000000000000100\color1\2\color2\0\handicap\100\sex\male\cg_predictItems\1\saber1\dual_4\saber2\none\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+3-6-2021 22:56 (914:11): ClientUserinfoChanged: 2 n\Shihan\t\0\model\kyle/default\c1\2\c2\0\hc\100\w\0\l\0\tt\0\tl\0\st\dual_4\st2\none\dt\0
+3-6-2021 22:56 (914:11): ClientBegin: 2
+3-6-2021 22:56 (914:23): say: Kyle: bye all
+3-6-2021 22:56 (914:23): ClientDisconnect: 0
+3-6-2021 22:56 (914:33): ClientConnect: 0
+3-6-2021 22:56 (914:33): ClientUserinfoChanged handling info: 0 \ip\92.151.205.89:29070\challenge\-673739770\qport\6515\protocol\26\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\none\saber1\single_1\cg_predictItems\1\sex\male\handicap\100\color2\4\color1\3\forcepowers\7-1-030330000000000333\model\luke/default\snaps\20\rate\4000\name\Raspy\teamtask\0\teamoverlay\1
+3-6-2021 22:56 (914:33): ClientUserinfoChanged: 0 n\Raspy\t\0\model\luke/default\c1\3\c2\4\hc\0\w\0\l\0\tt\0\tl\0\st\\st2\\dt\0
+3-6-2021 22:56 (914:33): IP: 92.151.205.89 Raspy
+3-6-2021 22:56 (914:38): ClientUserinfoChanged handling info: 0 \ip\92.151.205.89:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\none\saber1\single_1\cg_predictItems\1\sex\male\handicap\100\color2\4\color1\3\forcepowers\7-1-030330000000000333\model\luke/default\snaps\20\rate\4000\name\Raspy\teamtask\0\teamoverlay\1
+3-6-2021 22:56 (914:38): ClientUserinfoChanged: 0 n\Raspy\t\0\model\luke/default\c1\3\c2\4\hc\0\w\0\l\0\tt\0\tl\0\st\single_1\st2\none\dt\0
+3-6-2021 22:56 (914:38): ClientUserinfoChanged handling info: 0 \ip\92.151.205.89:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\none\saber1\single_1\cg_predictItems\1\sex\male\handicap\100\color2\4\color1\3\forcepowers\7-1-030330000000000333\model\luke/default\snaps\20\rate\4000\name\Raspy\teamtask\0\teamoverlay\1
+3-6-2021 22:56 (914:38): ClientUserinfoChanged: 0 n\Raspy\t\0\model\luke/default\c1\3\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\single_1\st2\none\dt\0
+3-6-2021 22:56 (914:38): ClientBegin: 0
+3-6-2021 22:56 (914:48): say: astupidbot: cya
+3-6-2021 22:56 (914:48): ClientDisconnect: 1
+3-6-2021 22:57 (915:03): ClientConnect: 1
+3-6-2021 22:57 (915:03): ClientUserinfoChanged handling info: 1 \ip\195.150.52.28:29070\challenge\-1544093057\qport\33640\protocol\26\name\FISHER\rate\4000\snaps\20\model\tusken/default\forcepowers\7-2-030330330000000333\color1\0\color2\0\handicap\100\sex\male\cg_predictItems\1\saber1\single_1\saber2\single_1\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+3-6-2021 22:57 (915:03): ClientUserinfoChanged: 1 n\FISHER\t\0\model\tusken/default\c1\0\c2\0\hc\0\w\0\l\0\tt\0\tl\0\st\\st2\\dt\0
+3-6-2021 22:57 (915:03): IP: 195.150.52.28 FISHER
+3-6-2021 22:57 (915:07): ClientUserinfoChanged handling info: 2 \ip\95.155.127.134:29070\name\Shihan\rate\4000\snaps\20\model\rax_joris/default\forcepowers\1-1-010000000000000100\color1\2\color2\3\handicap\100\sex\male\cg_predictItems\1\saber1\single_5\saber2\single_9\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+3-6-2021 22:57 (915:07): ClientUserinfoChanged: 2 n\Shihan\t\0\model\rax_joris/default\c1\2\c2\3\hc\100\w\0\l\0\tt\0\tl\0\st\dual_4\st2\none\dt\0
+3-6-2021 22:57 (915:10): ClientUserinfoChanged handling info: 1 \ip\195.150.52.28:29070\name\FISHER\rate\4000\snaps\20\model\tusken/default\forcepowers\7-2-030330330000000333\color1\0\color2\0\handicap\100\sex\male\cg_predictItems\1\saber1\single_1\saber2\single_1\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+3-6-2021 22:57 (915:10): ClientUserinfoChanged: 1 n\FISHER\t\0\model\tusken/default\c1\0\c2\0\hc\0\w\0\l\0\tt\0\tl\0\st\single_1\st2\single_1\dt\0
+3-6-2021 22:57 (915:10): ClientUserinfoChanged handling info: 1 \ip\195.150.52.28:29070\name\FISHER\rate\4000\snaps\20\model\tusken/default\forcepowers\7-2-030330330000000333\color1\0\color2\0\handicap\100\sex\male\cg_predictItems\1\saber1\single_1\saber2\single_1\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+3-6-2021 22:57 (915:10): ClientUserinfoChanged: 1 n\FISHER\t\0\model\tusken/default\c1\0\c2\0\hc\100\w\0\l\0\tt\0\tl\0\st\single_1\st2\single_1\dt\0
+3-6-2021 22:57 (915:10): ClientBegin: 1
+3-6-2021 22:57 (915:34): Kill: 1 2 3: FISHER killed Shihan by MOD_SABER
+3-6-2021 22:57 (915:36): ClientUserinfoChanged handling info: 2 \ip\95.155.127.134:29070\name\Shihan\rate\4000\snaps\20\model\rax_joris/default\forcepowers\1-1-010000000000000100\color1\2\color2\3\handicap\100\sex\male\cg_predictItems\1\saber1\single_5\saber2\single_9\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+3-6-2021 22:57 (915:36): ClientUserinfoChanged: 2 n\Shihan\t\0\model\rax_joris/default\c1\2\c2\3\hc\100\w\0\l\0\tt\0\tl\0\st\single_5\st2\single_9\dt\0
+3-6-2021 22:57 (915:36): ClientUserinfoChanged handling info: 2 \ip\95.155.127.134:29070\name\Shihan\rate\4000\snaps\20\model\rax_joris/default\forcepowers\1-1-010000000000000100\color1\2\color2\3\handicap\100\sex\male\cg_predictItems\1\saber1\single_5\saber2\single_9\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+3-6-2021 22:57 (915:36): ClientUserinfoChanged: 2 n\Shihan\t\0\model\rax_joris/default\c1\2\c2\3\hc\100\w\0\l\0\tt\0\tl\0\st\single_5\st2\single_9\dt\0
+3-6-2021 22:58 (915:49): Exit: Timelimit hit.
+3-6-2021 22:58 (915:49): score: 1  ping: 113  client: 1 FISHER
+3-6-2021 22:58 (915:49): score: 0  ping: 94  client: 0 Raspy
+3-6-2021 22:58 (915:49): score: 0  ping: 108  client: 2 Shihan
+3-6-2021 22:58 (916:05): ShutdownGame:
+3-6-2021 22:58 (916:05): ------------------------------------------------------------
+3-6-2021 22:58 (916:05): ------------------------------------------------------------
+3-6-2021 22:58 (916:05): InitGame: \version\JAmp: v1.0.1.0 linux-i386 Mar 14 2020\timelimit\45\sv_privateClients\0\sv_minRate\0\sv_minPing\0\sv_maxclients\32\sv_maxRate\0\sv_maxPing\999\sv_hostname\^7~^1~^7~ COMM SERVER ~^1~^7~\sv_fps\50\sv_floodProtectSlow\1\sv_floodProtect\1\sv_autoDemo\0\sv_allowDownload\0\serveruptime\54\protocol\26\mapname\mp/duel6\gamename\Lugormod\g_weaponDisable\0\g_stepSlideFix\0\g_siegeTeamSwitch\1\g_siegeTeam2\none\g_siegeTeam1\none\g_siegeRespawn\20\g_showDuelHealths\1\g_saberWallDamageScale\0.4\g_saberLocking\0\g_privateDuel\1535\g_noSpecMove\0\g_needpass\0\g_maxHolocronCarry\3\g_maxGameClients\0\g_maxForceRank\7\g_jediVmerc\0\g_gametype\0\g_gamemode\0\g_forceRegenTime\160\g_forcePowerDisable\0\g_forceBasedTeams\1\g_duelWeaponDisable\9\g_debugmelee\1\g_allowNPC\1\fs_game\lugormod\fraglimit\0\duel_fraglimit\10\dmflags\0\capturelimit\10\bot_minplayers\2\bg_fighterAltControl\0\Lugormod_Version\U#-0.0.0.91 Alpha
+3-6-2021 22:58 (916:05): ClientConnect: 0
+3-6-2021 22:58 (916:05): ClientUserinfoChanged handling info: 0 \ip\92.151.205.89:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\none\saber1\single_1\cg_predictItems\1\sex\male\handicap\100\color2\4\color1\3\forcepowers\7-1-030330000000000333\model\luke/default\snaps\20\rate\4000\name\Raspy\teamtask\0\teamoverlay\1
+3-6-2021 22:58 (916:05): ClientUserinfoChanged: 0 n\Raspy\t\0\model\luke/default\c1\3\c2\4\hc\0\w\0\l\0\tt\0\tl\0\st\single_1\st2\none\dt\0
+3-6-2021 22:58 (916:05): ClientUserinfoChanged handling info: 0 \ip\92.151.205.89:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\none\saber1\single_1\cg_predictItems\1\sex\male\handicap\100\color2\4\color1\3\forcepowers\7-1-030330000000000333\model\luke/default\snaps\20\rate\4000\name\Raspy\teamtask\0\teamoverlay\1
+3-6-2021 22:58 (916:05): ClientUserinfoChanged: 0 n\Raspy\t\0\model\luke/default\c1\3\c2\4\hc\0\w\0\l\0\tt\0\tl\0\st\single_1\st2\none\dt\0
+3-6-2021 22:58 (916:05): ClientUserinfoChanged handling info: 0 \ip\92.151.205.89:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\none\saber1\single_1\cg_predictItems\1\sex\male\handicap\100\color2\4\color1\3\forcepowers\7-1-030330000000000333\model\luke/default\snaps\20\rate\4000\name\Raspy\teamtask\0\teamoverlay\1
+3-6-2021 22:58 (916:05): ClientUserinfoChanged: 0 n\Raspy\t\0\model\luke/default\c1\3\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\single_1\st2\none\dt\0
+3-6-2021 22:58 (916:05): ClientBegin: 0
+3-6-2021 22:58 (916:05): ClientConnect: 1
+3-6-2021 22:58 (916:05): ClientUserinfoChanged handling info: 1 \ip\195.150.52.28:29070\name\FISHER\rate\4000\snaps\20\model\tusken/default\forcepowers\7-2-030330330000000333\color1\0\color2\0\handicap\100\sex\male\cg_predictItems\1\saber1\single_1\saber2\single_1\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+3-6-2021 22:58 (916:05): ClientUserinfoChanged: 1 n\FISHER\t\0\model\tusken/default\c1\0\c2\0\hc\0\w\0\l\0\tt\0\tl\0\st\single_1\st2\single_1\dt\0
+3-6-2021 22:58 (916:05): ClientUserinfoChanged handling info: 1 \ip\195.150.52.28:29070\name\FISHER\rate\4000\snaps\20\model\tusken/default\forcepowers\7-2-030330330000000333\color1\0\color2\0\handicap\100\sex\male\cg_predictItems\1\saber1\single_1\saber2\single_1\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+3-6-2021 22:58 (916:05): ClientUserinfoChanged: 1 n\FISHER\t\0\model\tusken/default\c1\0\c2\0\hc\0\w\0\l\0\tt\0\tl\0\st\single_1\st2\single_1\dt\0
+3-6-2021 22:58 (916:05): ClientUserinfoChanged handling info: 1 \ip\195.150.52.28:29070\name\FISHER\rate\4000\snaps\20\model\tusken/default\forcepowers\7-2-030330330000000333\color1\0\color2\0\handicap\100\sex\male\cg_predictItems\1\saber1\single_1\saber2\single_1\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+3-6-2021 22:58 (916:05): ClientUserinfoChanged: 1 n\FISHER\t\0\model\tusken/default\c1\0\c2\0\hc\100\w\0\l\0\tt\0\tl\0\st\single_1\st2\single_1\dt\0
+3-6-2021 22:58 (916:05): ClientBegin: 1
+3-6-2021 22:58 (916:05): ClientConnect: 2
+3-6-2021 22:58 (916:05): ClientUserinfoChanged handling info: 2 \ip\95.155.127.134:29070\name\Shihan\rate\4000\snaps\20\model\rax_joris/default\forcepowers\1-1-010000000000000100\color1\2\color2\3\handicap\100\sex\male\cg_predictItems\1\saber1\single_5\saber2\single_9\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+3-6-2021 22:58 (916:05): ClientUserinfoChanged: 2 n\Shihan\t\0\model\rax_joris/default\c1\2\c2\3\hc\0\w\0\l\0\tt\0\tl\0\st\single_5\st2\single_9\dt\0
+3-6-2021 22:58 (916:05): ClientUserinfoChanged handling info: 2 \ip\95.155.127.134:29070\name\Shihan\rate\4000\snaps\20\model\rax_joris/default\forcepowers\1-1-010000000000000100\color1\2\color2\3\handicap\100\sex\male\cg_predictItems\1\saber1\single_5\saber2\single_9\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+3-6-2021 22:58 (916:05): ClientUserinfoChanged: 2 n\Shihan\t\0\model\rax_joris/default\c1\2\c2\3\hc\0\w\0\l\0\tt\0\tl\0\st\single_5\st2\single_9\dt\0
+3-6-2021 22:58 (916:05): ClientUserinfoChanged handling info: 2 \ip\95.155.127.134:29070\name\Shihan\rate\4000\snaps\20\model\rax_joris/default\forcepowers\1-1-010000000000000100\color1\2\color2\3\handicap\100\sex\male\cg_predictItems\1\saber1\single_5\saber2\single_9\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+3-6-2021 22:58 (916:05): ClientUserinfoChanged: 2 n\Shihan\t\0\model\rax_joris/default\c1\2\c2\3\hc\100\w\0\l\0\tt\0\tl\0\st\single_5\st2\single_9\dt\0
+3-6-2021 22:58 (916:05): ClientBegin: 2
+3-6-2021 22:58 (916:43): ClientUserinfoChanged handling info: 2 \ip\95.155.127.134:29070\name\Shihan\rate\4000\snaps\20\model\rax_joris/default\forcepowers\7-1-333330000100000333\color1\2\color2\3\handicap\100\sex\male\cg_predictItems\1\saber1\single_5\saber2\single_9\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+3-6-2021 22:58 (916:43): ClientUserinfoChanged: 2 n\Shihan\t\0\model\rax_joris/default\c1\2\c2\3\hc\100\w\0\l\0\tt\0\tl\0\st\single_5\st2\single_9\dt\0
+3-6-2021 22:59 (917:08): ClientUserinfoChanged handling info: 0 \ip\92.151.205.89:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\none\saber1\single_4\cg_predictItems\1\sex\male\handicap\100\color2\4\color1\5\forcepowers\7-1-030332000010003333\model\boba_fett/default\snaps\20\rate\4000\name\Raspy\teamtask\0\teamoverlay\1
+3-6-2021 22:59 (917:08): ClientUserinfoChanged: 0 n\Raspy\t\0\model\boba_fett/default\c1\5\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\single_1\st2\none\dt\0
+3-6-2021 22:59 (917:25): Kill: 1 0 3: FISHER killed Raspy by MOD_SABER
+3-6-2021 22:59 (917:26): ClientUserinfoChanged handling info: 0 \ip\92.151.205.89:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\none\saber1\single_4\cg_predictItems\1\sex\male\handicap\100\color2\4\color1\5\forcepowers\7-1-030332000010003333\model\boba_fett/default\snaps\20\rate\4000\name\Raspy\teamtask\0\teamoverlay\1
+3-6-2021 22:59 (917:26): ClientUserinfoChanged: 0 n\Raspy\t\0\model\boba_fett/default\c1\5\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\single_4\st2\none\dt\0
+3-6-2021 22:59 (917:26): ClientUserinfoChanged handling info: 0 \ip\92.151.205.89:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\none\saber1\single_4\cg_predictItems\1\sex\male\handicap\100\color2\4\color1\5\forcepowers\7-1-030332000010003333\model\boba_fett/default\snaps\20\rate\4000\name\Raspy\teamtask\0\teamoverlay\1
+3-6-2021 22:59 (917:26): ClientUserinfoChanged: 0 n\Raspy\t\0\model\boba_fett/default\c1\5\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\single_4\st2\none\dt\0
+3-6-2021 23: 0 (917:52): Kill: 0 2 3: Raspy killed Shihan by MOD_SABER
+3-6-2021 23: 0 (917:53): ClientUserinfoChanged handling info: 2 \ip\95.155.127.134:29070\name\Shihan\rate\4000\snaps\20\model\rax_joris/default\forcepowers\7-1-333330000100000333\color1\2\color2\3\handicap\100\sex\male\cg_predictItems\1\saber1\single_5\saber2\single_9\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+3-6-2021 23: 0 (917:53): ClientUserinfoChanged: 2 n\Shihan\t\0\model\rax_joris/default\c1\2\c2\3\hc\100\w\0\l\0\tt\0\tl\0\st\single_5\st2\single_9\dt\0
+3-6-2021 23: 1 (918:51): Kill: 1 0 3: FISHER killed Raspy by MOD_SABER
+3-6-2021 23: 1 (918:52): ClientUserinfoChanged handling info: 0 \ip\92.151.205.89:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\none\saber1\single_4\cg_predictItems\1\sex\male\handicap\100\color2\4\color1\5\forcepowers\7-1-030332000010003333\model\boba_fett/default\snaps\20\rate\4000\name\Raspy\teamtask\0\teamoverlay\1
+3-6-2021 23: 1 (918:52): ClientUserinfoChanged: 0 n\Raspy\t\0\model\boba_fett/default\c1\5\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\single_4\st2\none\dt\0
+3-6-2021 23: 2 (920:18): Kill: 1 0 31: FISHER killed Raspy by MOD_FORCE_DARK
+3-6-2021 23: 2 (920:22): ClientUserinfoChanged handling info: 0 \ip\92.151.205.89:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\none\saber1\single_4\cg_predictItems\1\sex\male\handicap\100\color2\4\color1\5\forcepowers\7-1-030332000010003333\model\boba_fett/default\snaps\20\rate\4000\name\Raspy\teamtask\0\teamoverlay\1
+3-6-2021 23: 2 (920:22): ClientUserinfoChanged: 0 n\Raspy\t\0\model\boba_fett/default\c1\5\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\single_4\st2\none\dt\0
+3-6-2021 23: 2 (920:40): Kill: 1 2 3: FISHER killed Shihan by MOD_SABER
+3-6-2021 23: 2 (920:42): ClientUserinfoChanged handling info: 2 \ip\95.155.127.134:29070\name\Shihan\rate\4000\snaps\20\model\rax_joris/default\forcepowers\7-1-333330000100000333\color1\2\color2\3\handicap\100\sex\male\cg_predictItems\1\saber1\single_5\saber2\single_9\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+3-6-2021 23: 2 (920:42): ClientUserinfoChanged: 2 n\Shihan\t\0\model\rax_joris/default\c1\2\c2\3\hc\100\w\0\l\0\tt\0\tl\0\st\single_5\st2\single_9\dt\0
+3-6-2021 23: 3 (921:11): Kill: 2 1 3: Shihan killed FISHER by MOD_SABER
+3-6-2021 23: 3 (921:13): ClientUserinfoChanged handling info: 1 \ip\195.150.52.28:29070\name\FISHER\rate\4000\snaps\20\model\tusken/default\forcepowers\7-2-030330330000000333\color1\0\color2\0\handicap\100\sex\male\cg_predictItems\1\saber1\single_1\saber2\single_1\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+3-6-2021 23: 3 (921:13): ClientUserinfoChanged: 1 n\FISHER\t\0\model\tusken/default\c1\0\c2\0\hc\100\w\0\l\0\tt\0\tl\0\st\single_1\st2\single_1\dt\0
+3-6-2021 23: 3 (921:25): Kill: 2 0 3: Shihan killed Raspy by MOD_SABER
+3-6-2021 23: 3 (921:27): ClientUserinfoChanged handling info: 0 \ip\92.151.205.89:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\none\saber1\single_4\cg_predictItems\1\sex\male\handicap\100\color2\4\color1\5\forcepowers\7-1-030332000010003333\model\boba_fett/default\snaps\20\rate\4000\name\Raspy\teamtask\0\teamoverlay\1
+3-6-2021 23: 3 (921:27): ClientUserinfoChanged: 0 n\Raspy\t\0\model\boba_fett/default\c1\5\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\single_4\st2\none\dt\0
+3-6-2021 23: 3 (921:43): Kill: 2 1 3: Shihan killed FISHER by MOD_SABER
+3-6-2021 23: 3 (921:44): ClientUserinfoChanged handling info: 1 \ip\195.150.52.28:29070\name\FISHER\rate\4000\snaps\20\model\tusken/default\forcepowers\7-2-030330330000000333\color1\0\color2\0\handicap\100\sex\male\cg_predictItems\1\saber1\single_1\saber2\single_1\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+3-6-2021 23: 3 (921:44): ClientUserinfoChanged: 1 n\FISHER\t\0\model\tusken/default\c1\0\c2\0\hc\100\w\0\l\0\tt\0\tl\0\st\single_1\st2\single_1\dt\0
+3-6-2021 23: 4 (921:55): Kill: 1 2 31: FISHER killed Shihan by MOD_FORCE_DARK
+3-6-2021 23: 4 (921:56): ClientUserinfoChanged handling info: 2 \ip\95.155.127.134:29070\name\Shihan\rate\4000\snaps\20\model\rax_joris/default\forcepowers\7-1-333330000100000333\color1\2\color2\3\handicap\100\sex\male\cg_predictItems\1\saber1\single_5\saber2\single_9\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+3-6-2021 23: 4 (921:56): ClientUserinfoChanged: 2 n\Shihan\t\0\model\rax_joris/default\c1\2\c2\3\hc\100\w\0\l\0\tt\0\tl\0\st\single_5\st2\single_9\dt\0
+3-6-2021 23: 4 (922:36): Kill: 2 0 3: Shihan killed Raspy by MOD_SABER
+3-6-2021 23: 4 (922:37): ClientUserinfoChanged handling info: 0 \ip\92.151.205.89:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\none\saber1\single_4\cg_predictItems\1\sex\male\handicap\100\color2\4\color1\5\forcepowers\7-1-030332000010003333\model\boba_fett/default\snaps\20\rate\4000\name\Raspy\teamtask\0\teamoverlay\1
+3-6-2021 23: 4 (922:37): ClientUserinfoChanged: 0 n\Raspy\t\0\model\boba_fett/default\c1\5\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\single_4\st2\none\dt\0
+3-6-2021 23: 5 (923:01): Kill: 1 2 3: FISHER killed Shihan by MOD_SABER
+3-6-2021 23: 5 (923:03): ClientUserinfoChanged handling info: 2 \ip\95.155.127.134:29070\name\Shihan\rate\4000\snaps\20\model\rax_joris/default\forcepowers\7-1-333330000100000333\color1\2\color2\3\handicap\100\sex\male\cg_predictItems\1\saber1\single_5\saber2\single_9\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+3-6-2021 23: 5 (923:03): ClientUserinfoChanged: 2 n\Shihan\t\0\model\rax_joris/default\c1\2\c2\3\hc\100\w\0\l\0\tt\0\tl\0\st\single_5\st2\single_9\dt\0
+3-6-2021 23: 5 (923:46): ClientUserinfoChanged handling info: 0 \ip\92.151.205.89:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\none\saber1\dual_1\cg_predictItems\1\sex\male\handicap\100\color2\4\color1\1\forcepowers\7-2-030330300000003333\model\desann/default\snaps\20\rate\4000\name\Raspy\teamtask\0\teamoverlay\1
+3-6-2021 23: 5 (923:46): ClientUserinfoChanged: 0 n\Raspy\t\0\model\desann/default\c1\1\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\single_4\st2\none\dt\0
+3-6-2021 23: 6 (924:07): Kill: 2 1 3: Shihan killed FISHER by MOD_SABER
+3-6-2021 23: 6 (924:08): ClientUserinfoChanged handling info: 1 \ip\195.150.52.28:29070\name\FISHER\rate\4000\snaps\20\model\tusken/default\forcepowers\7-2-030330330000000333\color1\0\color2\0\handicap\100\sex\male\cg_predictItems\1\saber1\single_1\saber2\single_1\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+3-6-2021 23: 6 (924:08): ClientUserinfoChanged: 1 n\FISHER\t\0\model\tusken/default\c1\0\c2\0\hc\100\w\0\l\0\tt\0\tl\0\st\single_1\st2\single_1\dt\0
+3-6-2021 23: 6 (924:17): Kill: 1 2 3: FISHER killed Shihan by MOD_SABER
+3-6-2021 23: 6 (924:19): ClientUserinfoChanged handling info: 2 \ip\95.155.127.134:29070\name\Shihan\rate\4000\snaps\20\model\rax_joris/default\forcepowers\7-1-333330000100000333\color1\2\color2\3\handicap\100\sex\male\cg_predictItems\1\saber1\single_5\saber2\single_9\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+3-6-2021 23: 6 (924:19): ClientUserinfoChanged: 2 n\Shihan\t\0\model\rax_joris/default\c1\2\c2\3\hc\100\w\0\l\0\tt\0\tl\0\st\single_5\st2\single_9\dt\0
+3-6-2021 23: 6 (924:25): Kill: 1 2 3: FISHER killed Shihan by MOD_SABER
+3-6-2021 23: 6 (924:26): ClientUserinfoChanged handling info: 2 \ip\95.155.127.134:29070\name\Shihan\rate\4000\snaps\20\model\rax_joris/default\forcepowers\7-1-333330000100000333\color1\2\color2\3\handicap\100\sex\male\cg_predictItems\1\saber1\single_5\saber2\single_9\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+3-6-2021 23: 6 (924:26): ClientUserinfoChanged: 2 n\Shihan\t\0\model\rax_joris/default\c1\2\c2\3\hc\100\w\0\l\0\tt\0\tl\0\st\single_5\st2\single_9\dt\0
+3-6-2021 23: 6 (924:26): Kill: 0 1 3: Raspy killed FISHER by MOD_SABER
+3-6-2021 23: 6 (924:29): ClientUserinfoChanged handling info: 1 \ip\195.150.52.28:29070\name\FISHER\rate\4000\snaps\20\model\tusken/default\forcepowers\7-2-030330330000000333\color1\0\color2\0\handicap\100\sex\male\cg_predictItems\1\saber1\single_1\saber2\single_1\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+3-6-2021 23: 6 (924:29): ClientUserinfoChanged: 1 n\FISHER\t\0\model\tusken/default\c1\0\c2\0\hc\100\w\0\l\0\tt\0\tl\0\st\single_1\st2\single_1\dt\0
+3-6-2021 23: 7 (924:51): Kill: 2 1 3: Shihan killed FISHER by MOD_SABER
+3-6-2021 23: 7 (924:52): Kill: 2 0 3: Shihan killed Raspy by MOD_SABER
+3-6-2021 23: 7 (924:53): ClientUserinfoChanged handling info: 1 \ip\195.150.52.28:29070\name\FISHER\rate\4000\snaps\20\model\tusken/default\forcepowers\7-2-030330330000000333\color1\0\color2\0\handicap\100\sex\male\cg_predictItems\1\saber1\single_1\saber2\single_1\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+3-6-2021 23: 7 (924:53): ClientUserinfoChanged: 1 n\FISHER\t\0\model\tusken/default\c1\0\c2\0\hc\100\w\0\l\0\tt\0\tl\0\st\single_1\st2\single_1\dt\0
+3-6-2021 23: 7 (924:55): ClientUserinfoChanged handling info: 0 \ip\92.151.205.89:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\none\saber1\dual_1\cg_predictItems\1\sex\male\handicap\100\color2\4\color1\1\forcepowers\7-2-030330300000003333\model\desann/default\snaps\20\rate\4000\name\Raspy\teamtask\0\teamoverlay\1
+3-6-2021 23: 7 (924:55): ClientUserinfoChanged: 0 n\Raspy\t\0\model\desann/default\c1\1\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\dual_1\st2\none\dt\0
+3-6-2021 23: 7 (924:55): ClientUserinfoChanged handling info: 0 \ip\92.151.205.89:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\none\saber1\dual_1\cg_predictItems\1\sex\male\handicap\100\color2\4\color1\1\forcepowers\7-2-030330300000003333\model\desann/default\snaps\20\rate\4000\name\Raspy\teamtask\0\teamoverlay\1
+3-6-2021 23: 7 (924:55): ClientUserinfoChanged: 0 n\Raspy\t\0\model\desann/default\c1\1\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\dual_1\st2\none\dt\0
+3-6-2021 23: 7 (925:36): ClientUserinfoChanged handling info: 2 \ip\95.155.127.134:29070\name\Shihan\rate\4000\snaps\20\model\rax_joris/default\forcepowers\7-1-333330000100000333\color1\5\color2\3\handicap\100\sex\male\cg_predictItems\1\saber1\dual_1\saber2\none\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+3-6-2021 23: 7 (925:36): ClientUserinfoChanged: 2 n\Shihan\t\0\model\rax_joris/default\c1\5\c2\3\hc\100\w\0\l\0\tt\0\tl\0\st\single_5\st2\single_9\dt\0
+3-6-2021 23: 7 (925:48): Kill: 1 0 31: FISHER killed Raspy by MOD_FORCE_DARK
+3-6-2021 23: 8 (925:51): ClientUserinfoChanged handling info: 0 \ip\92.151.205.89:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\none\saber1\dual_1\cg_predictItems\1\sex\male\handicap\100\color2\4\color1\1\forcepowers\7-2-030330300000003333\model\desann/default\snaps\20\rate\4000\name\Raspy\teamtask\0\teamoverlay\1
+3-6-2021 23: 8 (925:51): ClientUserinfoChanged: 0 n\Raspy\t\0\model\desann/default\c1\1\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\dual_1\st2\none\dt\0
+3-6-2021 23: 8 (926:12): Kill: 1 2 3: FISHER killed Shihan by MOD_SABER
+3-6-2021 23: 8 (926:13): ClientUserinfoChanged handling info: 2 \ip\95.155.127.134:29070\name\Shihan\rate\4000\snaps\20\model\rax_joris/default\forcepowers\7-1-333330000100000333\color1\5\color2\3\handicap\100\sex\male\cg_predictItems\1\saber1\dual_1\saber2\none\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+3-6-2021 23: 8 (926:13): ClientUserinfoChanged: 2 n\Shihan\t\0\model\rax_joris/default\c1\5\c2\3\hc\100\w\0\l\0\tt\0\tl\0\st\dual_1\st2\none\dt\0
+3-6-2021 23: 8 (926:13): ClientUserinfoChanged handling info: 2 \ip\95.155.127.134:29070\name\Shihan\rate\4000\snaps\20\model\rax_joris/default\forcepowers\7-1-333330000100000333\color1\5\color2\3\handicap\100\sex\male\cg_predictItems\1\saber1\dual_1\saber2\none\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+3-6-2021 23: 8 (926:13): ClientUserinfoChanged: 2 n\Shihan\t\0\model\rax_joris/default\c1\5\c2\3\hc\100\w\0\l\0\tt\0\tl\0\st\dual_1\st2\none\dt\0
+3-6-2021 23: 8 (926:22): ClientUserinfoChanged handling info: 0 \ip\92.151.205.89:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\none\saber1\dual_1\cg_predictItems\1\sex\male\handicap\100\color2\4\color1\1\forcepowers\7-2-030330123000000333\model\desann/default\snaps\20\rate\4000\name\Raspy\teamtask\0\teamoverlay\1
+3-6-2021 23: 8 (926:22): ClientUserinfoChanged: 0 n\Raspy\t\0\model\desann/default\c1\1\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\dual_1\st2\none\dt\0
+3-6-2021 23: 9 (926:57): Kill: 2 1 3: Shihan killed FISHER by MOD_SABER
+3-6-2021 23: 9 (926:58): ClientUserinfoChanged handling info: 1 \ip\195.150.52.28:29070\name\FISHER\rate\4000\snaps\20\model\tusken/default\forcepowers\7-2-030330330000000333\color1\0\color2\0\handicap\100\sex\male\cg_predictItems\1\saber1\single_1\saber2\single_1\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+3-6-2021 23: 9 (926:58): ClientUserinfoChanged: 1 n\FISHER\t\0\model\tusken/default\c1\0\c2\0\hc\100\w\0\l\0\tt\0\tl\0\st\single_1\st2\single_1\dt\0
+3-6-2021 23: 9 (927:21): Kill: 1 0 3: FISHER killed Raspy by MOD_SABER
+3-6-2021 23: 9 (927:22): Kill: 1 2 3: FISHER killed Shihan by MOD_SABER
+3-6-2021 23: 9 (927:23): ClientUserinfoChanged handling info: 2 \ip\95.155.127.134:29070\name\Shihan\rate\4000\snaps\20\model\rax_joris/default\forcepowers\7-1-333330000100000333\color1\5\color2\3\handicap\100\sex\male\cg_predictItems\1\saber1\dual_1\saber2\none\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+3-6-2021 23: 9 (927:23): ClientUserinfoChanged: 2 n\Shihan\t\0\model\rax_joris/default\c1\5\c2\3\hc\100\w\0\l\0\tt\0\tl\0\st\dual_1\st2\none\dt\0
+3-6-2021 23: 9 (927:23): ClientUserinfoChanged handling info: 0 \ip\92.151.205.89:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\none\saber1\dual_1\cg_predictItems\1\sex\male\handicap\100\color2\4\color1\1\forcepowers\7-2-030330123000000333\model\desann/default\snaps\20\rate\4000\name\Raspy\teamtask\0\teamoverlay\1
+3-6-2021 23: 9 (927:23): ClientUserinfoChanged: 0 n\Raspy\t\0\model\desann/default\c1\1\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\dual_1\st2\none\dt\0
+3-6-2021 23: 9 (927:35): Kill: 1 2 3: FISHER killed Shihan by MOD_SABER
+3-6-2021 23: 9 (927:37): ClientUserinfoChanged handling info: 2 \ip\95.155.127.134:29070\name\Shihan\rate\4000\snaps\20\model\rax_joris/default\forcepowers\7-1-333330000100000333\color1\5\color2\3\handicap\100\sex\male\cg_predictItems\1\saber1\dual_1\saber2\none\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+3-6-2021 23: 9 (927:37): ClientUserinfoChanged: 2 n\Shihan\t\0\model\rax_joris/default\c1\5\c2\3\hc\100\w\0\l\0\tt\0\tl\0\st\dual_1\st2\none\dt\0
+3-6-2021 23:10 (927:56): Kill: 2 1 3: Shihan killed FISHER by MOD_SABER
+3-6-2021 23:10 (927:58): Kill: 2 0 3: Shihan killed Raspy by MOD_SABER
+3-6-2021 23:10 (927:58): ClientUserinfoChanged handling info: 1 \ip\195.150.52.28:29070\name\FISHER\rate\4000\snaps\20\model\tusken/default\forcepowers\7-2-030330330000000333\color1\0\color2\0\handicap\100\sex\male\cg_predictItems\1\saber1\single_1\saber2\single_1\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+3-6-2021 23:10 (927:58): ClientUserinfoChanged: 1 n\FISHER\t\0\model\tusken/default\c1\0\c2\0\hc\100\w\0\l\0\tt\0\tl\0\st\single_1\st2\single_1\dt\0
+3-6-2021 23:10 (928:01): ClientUserinfoChanged handling info: 0 \ip\92.151.205.89:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\none\saber1\dual_1\cg_predictItems\1\sex\male\handicap\100\color2\4\color1\1\forcepowers\7-2-030330123000000333\model\desann/default\snaps\20\rate\4000\name\Raspy\teamtask\0\teamoverlay\1
+3-6-2021 23:10 (928:01): ClientUserinfoChanged: 0 n\Raspy\t\0\model\desann/default\c1\1\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\dual_1\st2\none\dt\0
+3-6-2021 23:10 (928:34): Kill: 1 0 3: FISHER killed Raspy by MOD_SABER
+3-6-2021 23:10 (928:36): ClientUserinfoChanged handling info: 0 \ip\92.151.205.89:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\none\saber1\dual_1\cg_predictItems\1\sex\male\handicap\100\color2\4\color1\1\forcepowers\7-2-030330123000000333\model\desann/default\snaps\20\rate\4000\name\Raspy\teamtask\0\teamoverlay\1
+3-6-2021 23:10 (928:36): ClientUserinfoChanged: 0 n\Raspy\t\0\model\desann/default\c1\1\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\dual_1\st2\none\dt\0
+3-6-2021 23:11 (929:04): Kill: 1 0 3: FISHER killed Raspy by MOD_SABER
+3-6-2021 23:11 (929:06): ClientUserinfoChanged handling info: 0 \ip\92.151.205.89:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\none\saber1\dual_1\cg_predictItems\1\sex\male\handicap\100\color2\4\color1\1\forcepowers\7-2-030330123000000333\model\desann/default\snaps\20\rate\4000\name\Raspy\teamtask\0\teamoverlay\1
+3-6-2021 23:11 (929:06): ClientUserinfoChanged: 0 n\Raspy\t\0\model\desann/default\c1\1\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\dual_1\st2\none\dt\0
+3-6-2021 23:11 (929:28): ClientUserinfoChanged handling info: 0 \ip\92.151.205.89:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\none\saber1\dual_1\cg_predictItems\1\sex\male\handicap\100\color2\4\color1\1\forcepowers\7-2-033330010000030333\model\desann/default\snaps\20\rate\4000\name\Raspy\teamtask\0\teamoverlay\1
+3-6-2021 23:11 (929:28): ClientUserinfoChanged: 0 n\Raspy\t\0\model\desann/default\c1\1\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\dual_1\st2\none\dt\0
+3-6-2021 23:12 (930:25): Kill: 1 0 3: FISHER killed Raspy by MOD_SABER
+3-6-2021 23:12 (930:28): ClientUserinfoChanged handling info: 0 \ip\92.151.205.89:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\none\saber1\dual_1\cg_predictItems\1\sex\male\handicap\100\color2\4\color1\1\forcepowers\7-2-033330010000030333\model\desann/default\snaps\20\rate\4000\name\Raspy\teamtask\0\teamoverlay\1
+3-6-2021 23:12 (930:28): ClientUserinfoChanged: 0 n\Raspy\t\0\model\desann/default\c1\1\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\dual_1\st2\none\dt\0
+3-6-2021 23:12 (930:42): Kill: 1 2 3: FISHER killed Shihan by MOD_SABER
+3-6-2021 23:12 (930:43): ClientUserinfoChanged handling info: 2 \ip\95.155.127.134:29070\name\Shihan\rate\4000\snaps\20\model\rax_joris/default\forcepowers\7-1-333330000100000333\color1\5\color2\3\handicap\100\sex\male\cg_predictItems\1\saber1\dual_1\saber2\none\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+3-6-2021 23:12 (930:43): ClientUserinfoChanged: 2 n\Shihan\t\0\model\rax_joris/default\c1\5\c2\3\hc\100\w\0\l\0\tt\0\tl\0\st\dual_1\st2\none\dt\0
+3-6-2021 23:13 (930:53): Kill: 0 1 3: Raspy killed FISHER by MOD_SABER
+3-6-2021 23:13 (930:57): ClientUserinfoChanged handling info: 1 \ip\195.150.52.28:29070\name\FISHER\rate\4000\snaps\20\model\tusken/default\forcepowers\7-2-030330330000000333\color1\0\color2\0\handicap\100\sex\male\cg_predictItems\1\saber1\single_1\saber2\single_1\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+3-6-2021 23:13 (930:57): ClientUserinfoChanged: 1 n\FISHER\t\0\model\tusken/default\c1\0\c2\0\hc\100\w\0\l\0\tt\0\tl\0\st\single_1\st2\single_1\dt\0
+3-6-2021 23:13 (931:12): Kill: 1 2 3: FISHER killed Shihan by MOD_SABER
+3-6-2021 23:13 (931:13): ClientUserinfoChanged handling info: 2 \ip\95.155.127.134:29070\name\Shihan\rate\4000\snaps\20\model\rax_joris/default\forcepowers\7-1-333330000100000333\color1\5\color2\3\handicap\100\sex\male\cg_predictItems\1\saber1\dual_1\saber2\none\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+3-6-2021 23:13 (931:13): ClientUserinfoChanged: 2 n\Shihan\t\0\model\rax_joris/default\c1\5\c2\3\hc\100\w\0\l\0\tt\0\tl\0\st\dual_1\st2\none\dt\0
+3-6-2021 23:13 (931:28): Kill: 0 2 3: Raspy killed Shihan by MOD_SABER
+3-6-2021 23:14 (932:13): ClientUserinfoChanged handling info: 2 \ip\95.155.127.134:29070\name\Shihan\rate\4000\snaps\20\model\reelo/default\forcepowers\7-2-033200331000000333\color1\4\color2\3\handicap\100\sex\male\cg_predictItems\1\saber1\single_1\saber2\none\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+3-6-2021 23:14 (932:13): ClientUserinfoChanged: 2 n\Shihan\t\0\model\reelo/default\c1\4\c2\3\hc\100\w\0\l\0\tt\0\tl\0\st\dual_1\st2\none\dt\0
+3-6-2021 23:14 (932:17): ClientUserinfoChanged handling info: 2 \ip\95.155.127.134:29070\name\Shihan\rate\4000\snaps\20\model\reelo/default\forcepowers\7-2-033200331000000333\color1\4\color2\3\handicap\100\sex\male\cg_predictItems\1\saber1\single_1\saber2\none\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+3-6-2021 23:14 (932:17): ClientUserinfoChanged: 2 n\Shihan\t\0\model\reelo/default\c1\4\c2\3\hc\100\w\0\l\0\tt\0\tl\0\st\single_1\st2\none\dt\0
+3-6-2021 23:14 (932:17): ClientUserinfoChanged handling info: 2 \ip\95.155.127.134:29070\name\Shihan\rate\4000\snaps\20\model\reelo/default\forcepowers\7-2-033200331000000333\color1\4\color2\3\handicap\100\sex\male\cg_predictItems\1\saber1\single_1\saber2\none\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+3-6-2021 23:14 (932:17): ClientUserinfoChanged: 2 n\Shihan\t\0\model\reelo/default\c1\4\c2\3\hc\100\w\0\l\0\tt\0\tl\0\st\single_1\st2\none\dt\0
+3-6-2021 23:14 (932:46): Kill: 1 0 3: FISHER killed Raspy by MOD_SABER
+3-6-2021 23:14 (932:48): ClientUserinfoChanged handling info: 0 \ip\92.151.205.89:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\none\saber1\dual_1\cg_predictItems\1\sex\male\handicap\100\color2\4\color1\1\forcepowers\7-2-033330010000030333\model\desann/default\snaps\20\rate\4000\name\Raspy\teamtask\0\teamoverlay\1
+3-6-2021 23:14 (932:48): ClientUserinfoChanged: 0 n\Raspy\t\0\model\desann/default\c1\1\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\dual_1\st2\none\dt\0
+3-6-2021 23:15 (933:07): Kill: 1 2 10: FISHER killed Shihan by MOD_DISRUPTOR_SNIPER
+3-6-2021 23:15 (933:10): ClientUserinfoChanged handling info: 2 \ip\95.155.127.134:29070\name\Shihan\rate\4000\snaps\20\model\reelo/default\forcepowers\7-2-033200331000000333\color1\4\color2\3\handicap\100\sex\male\cg_predictItems\1\saber1\single_1\saber2\none\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+3-6-2021 23:15 (933:10): ClientUserinfoChanged: 2 n\Shihan\t\0\model\reelo/default\c1\4\c2\3\hc\100\w\0\l\0\tt\0\tl\0\st\single_1\st2\none\dt\0
+3-6-2021 23:15 (933:35): Kill: 1 2 3: FISHER killed Shihan by MOD_SABER
+3-6-2021 23:15 (933:37): ClientUserinfoChanged handling info: 2 \ip\95.155.127.134:29070\name\Shihan\rate\4000\snaps\20\model\reelo/default\forcepowers\7-2-033200331000000333\color1\4\color2\3\handicap\100\sex\male\cg_predictItems\1\saber1\single_1\saber2\none\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+3-6-2021 23:15 (933:37): ClientUserinfoChanged: 2 n\Shihan\t\0\model\reelo/default\c1\4\c2\3\hc\100\w\0\l\0\tt\0\tl\0\st\single_1\st2\none\dt\0
+3-6-2021 23:16 (933:53): ClientUserinfoChanged handling info: 2 \ip\95.155.127.134:29070\name\Shihan\rate\4000\snaps\20\model\reelo/default\forcepowers\7-2-033200331000000333\color1\2\color2\3\handicap\100\sex\male\cg_predictItems\1\saber1\single_6\saber2\single_7\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+3-6-2021 23:16 (933:53): ClientUserinfoChanged: 2 n\Shihan\t\0\model\reelo/default\c1\2\c2\3\hc\100\w\0\l\0\tt\0\tl\0\st\single_1\st2\none\dt\0
+3-6-2021 23:16 (934:01): Kill: 2 1 5: Shihan killed FISHER by MOD_BRYAR_PISTOL_ALT
+3-6-2021 23:16 (934:05): ClientUserinfoChanged handling info: 1 \ip\195.150.52.28:29070\name\FISHER\rate\4000\snaps\20\model\tusken/default\forcepowers\7-2-030330330000000333\color1\0\color2\0\handicap\100\sex\male\cg_predictItems\1\saber1\single_1\saber2\single_1\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+3-6-2021 23:16 (934:05): ClientUserinfoChanged: 1 n\FISHER\t\0\model\tusken/default\c1\0\c2\0\hc\100\w\0\l\0\tt\0\tl\0\st\single_1\st2\single_1\dt\0
+3-6-2021 23:17 (935:33): Kill: 1 0 3: FISHER killed Raspy by MOD_SABER
+3-6-2021 23:17 (935:34): ClientUserinfoChanged handling info: 0 \ip\92.151.205.89:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\none\saber1\dual_1\cg_predictItems\1\sex\male\handicap\100\color2\4\color1\1\forcepowers\7-2-033330010000030333\model\desann/default\snaps\20\rate\4000\name\Raspy\teamtask\0\teamoverlay\1
+3-6-2021 23:17 (935:34): ClientUserinfoChanged: 0 n\Raspy\t\0\model\desann/default\c1\1\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\dual_1\st2\none\dt\0
+3-6-2021 23:17 (935:37): Kill: 1 2 3: FISHER killed Shihan by MOD_SABER
+3-6-2021 23:17 (935:39): ClientUserinfoChanged handling info: 2 \ip\95.155.127.134:29070\name\Shihan\rate\4000\snaps\20\model\reelo/default\forcepowers\7-2-033200331000000333\color1\2\color2\3\handicap\100\sex\male\cg_predictItems\1\saber1\single_6\saber2\single_7\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+3-6-2021 23:17 (935:39): ClientUserinfoChanged: 2 n\Shihan\t\0\model\reelo/default\c1\2\c2\3\hc\100\w\0\l\0\tt\0\tl\0\st\single_6\st2\single_7\dt\0
+3-6-2021 23:17 (935:39): ClientUserinfoChanged handling info: 2 \ip\95.155.127.134:29070\name\Shihan\rate\4000\snaps\20\model\reelo/default\forcepowers\7-2-033200331000000333\color1\2\color2\3\handicap\100\sex\male\cg_predictItems\1\saber1\single_6\saber2\single_7\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+3-6-2021 23:17 (935:39): ClientUserinfoChanged: 2 n\Shihan\t\0\model\reelo/default\c1\2\c2\3\hc\100\w\0\l\0\tt\0\tl\0\st\single_6\st2\single_7\dt\0
+3-6-2021 23:17 (935:47): Kill: 2 0 3: Shihan killed Raspy by MOD_SABER
+3-6-2021 23:17 (935:48): ClientUserinfoChanged handling info: 0 \ip\92.151.205.89:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\none\saber1\dual_1\cg_predictItems\1\sex\male\handicap\100\color2\4\color1\1\forcepowers\7-2-033330010000030333\model\desann/default\snaps\20\rate\4000\name\Raspy\teamtask\0\teamoverlay\1
+3-6-2021 23:17 (935:48): ClientUserinfoChanged: 0 n\Raspy\t\0\model\desann/default\c1\1\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\dual_1\st2\none\dt\0
+3-6-2021 23:18 (935:53): Kill: 1 2 3: FISHER killed Shihan by MOD_SABER
+3-6-2021 23:18 (935:57): ClientUserinfoChanged handling info: 2 \ip\95.155.127.134:29070\name\Shihan\rate\4000\snaps\20\model\reelo/default\forcepowers\7-2-033200331000000333\color1\2\color2\3\handicap\100\sex\male\cg_predictItems\1\saber1\single_6\saber2\single_7\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+3-6-2021 23:18 (935:57): ClientUserinfoChanged: 2 n\Shihan\t\0\model\reelo/default\c1\2\c2\3\hc\100\w\0\l\0\tt\0\tl\0\st\single_6\st2\single_7\dt\0
+3-6-2021 23:18 (936:11): Kill: 1 0 3: FISHER killed Raspy by MOD_SABER
+3-6-2021 23:18 (936:18): ClientDisconnect: 1
+3-6-2021 23:18 (936:18): ClientUserinfoChanged handling info: 0 \ip\92.151.205.89:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\none\saber1\dual_1\cg_predictItems\1\sex\male\handicap\100\color2\4\color1\1\forcepowers\7-2-033330010000030333\model\desann/default\snaps\20\rate\4000\name\Raspy\teamtask\0\teamoverlay\1
+3-6-2021 23:18 (936:18): ClientUserinfoChanged: 0 n\Raspy\t\0\model\desann/default\c1\1\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\dual_1\st2\none\dt\0
+3-6-2021 23:18 (936:22): ClientDisconnect: 2
+3-6-2021 23:18 (936:30): ClientConnect: 1
+3-6-2021 23:18 (936:30): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/astupidbot.jkb\saber2\none\saber1\kyle\color2\4\color1\4\sex\male\model\jawa\snaps\20\rate\25000\name\astupidbot
+3-6-2021 23:18 (936:30): ClientUserinfoChanged: 1 n\astupidbot\t\0\model\jawa\c1\4\c2\4\hc\0\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\\st2\\dt\0\sdt\0
+3-6-2021 23:18 (936:30): IP: localhost astupidbot
+3-6-2021 23:18 (936:30): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/astupidbot.jkb\saber2\none\saber1\kyle\color2\4\color1\4\sex\male\model\jawa\snaps\20\rate\25000\name\astupidbot
+3-6-2021 23:18 (936:30): ClientUserinfoChanged: 1 n\astupidbot\t\0\model\jawa\c1\4\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+3-6-2021 23:18 (936:30): ClientBegin: 1
+3-6-2021 23:19 (937:27): ClientUserinfoChanged handling info: 0 \ip\92.151.205.89:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\none\saber1\single_1\cg_predictItems\1\sex\male\handicap\100\color2\4\color1\1\forcepowers\7-1-033000000320003333\model\desann/default\snaps\20\rate\4000\name\Raspy\teamtask\0\teamoverlay\1
+3-6-2021 23:19 (937:27): ClientUserinfoChanged: 0 n\Raspy\t\0\model\desann/default\c1\1\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\dual_1\st2\none\dt\0
+3-6-2021 23:20 (937:49): ClientDisconnect: 0
+3-6-2021 23:20 (938:03): ClientConnect: 0
+3-6-2021 23:20 (938:03): ClientUserinfoChanged handling info: 0 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+3-6-2021 23:20 (938:03): ClientUserinfoChanged: 0 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\0\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\\st2\\dt\0\sdt\0
+3-6-2021 23:20 (938:03): IP: localhost Kyle
+3-6-2021 23:20 (938:03): ClientUserinfoChanged handling info: 0 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+3-6-2021 23:20 (938:03): ClientUserinfoChanged: 0 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+3-6-2021 23:20 (938:03): ClientBegin: 0
+3-7-2021 4: 6 (1224:27): ClientConnect: 2
+3-7-2021 4: 6 (1224:27): ClientUserinfoChanged handling info: 2 \ip\24.201.24.132:29070\challenge\2019387227\qport\47814\protocol\26\snaps\40\sex\male\saber2\none\saber1\dual_4\rate\25000\name\^4C^7or\model\rodian/blue\handicap\100\forcepowers\6-1-010001000030003333\color2\4\color1\2\char_color_red\255\char_color_green\255\char_color_blue\255\cg_predictItems\1\teamtask\0\teamoverlay\1
+3-7-2021 4: 6 (1224:27): ClientUserinfoChanged: 2 n\^4C^7or\t\0\model\rodian/blue\c1\2\c2\4\hc\0\w\0\l\0\tt\0\tl\0\st\\st2\\dt\0
+3-7-2021 4: 6 (1224:27): IP: 24.201.24.132 ^4C^7or
+3-7-2021 4: 6 (1224:32): ClientUserinfoChanged handling info: 2 \ip\24.201.24.132:29070\snaps\40\sex\male\saber2\none\saber1\dual_4\rate\25000\name\^4C^7or\model\rodian/blue\handicap\100\forcepowers\6-1-010001000030003333\color2\4\color1\2\char_color_red\255\char_color_green\255\char_color_blue\255\cg_predictItems\1\teamtask\0\teamoverlay\1
+3-7-2021 4: 6 (1224:32): ClientUserinfoChanged: 2 n\^4C^7or\t\0\model\rodian/blue\c1\2\c2\4\hc\0\w\0\l\0\tt\0\tl\0\st\dual_4\st2\none\dt\0
+3-7-2021 4: 6 (1224:32): ClientUserinfoChanged handling info: 2 \ip\24.201.24.132:29070\snaps\40\sex\male\saber2\none\saber1\dual_4\rate\25000\name\^4C^7or\model\rodian/blue\handicap\100\forcepowers\6-1-010001000030003333\color2\4\color1\2\char_color_red\255\char_color_green\255\char_color_blue\255\cg_predictItems\1\teamtask\0\teamoverlay\1
+3-7-2021 4: 6 (1224:32): ClientUserinfoChanged: 2 n\^4C^7or\t\0\model\rodian/blue\c1\2\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\dual_4\st2\none\dt\0
+3-7-2021 4: 6 (1224:32): ClientBegin: 2
+3-7-2021 4: 6 (1224:34): say: ^4C^7or: ^1Boba^0Fett's ^3Ultra Utility ^7v3 ^5Beta 17a ^7- ^5U^7ltra^7-^5U^7tility^5.^7com
+3-7-2021 4: 6 (1224:34): say: Kyle: cya
+3-7-2021 4: 6 (1224:34): ClientDisconnect: 0
+3-7-2021 4: 6 (1224:36): say: astupidbot: bye
+3-7-2021 4: 9 (1226:49): ClientUserinfoChanged handling info: 2 \name\^4C^7or\ip\24.201.24.132:29070\snaps\40\sex\male\saber2\none\saber1\dual_4\rate\25000\model\rodian/blue\handicap\100\forcepowers\6-1-010001000030003333\color2\4\color1\2\char_color_red\255\char_color_green\255\char_color_blue\255\cg_predictItems\1\teamtask\0\teamoverlay\1
+3-7-2021 4: 9 (1226:49): ClientUserinfoChanged: 2 n\^4C^7or\t\0\model\rodian/blue\c1\2\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\dual_4\st2\none\dt\0
+3-7-2021 4: 9 (1226:56): Kill: 2 2 39: ^4C^7or killed ^4C^7or by MOD_SUICIDE
+3-7-2021 4: 9 (1226:57): ClientUserinfoChanged handling info: 2 \name\^4C^7or\ip\24.201.24.132:29070\snaps\40\sex\male\saber2\none\saber1\dual_4\rate\25000\model\rodian/blue\handicap\100\forcepowers\6-1-010001000030003333\color2\4\color1\2\char_color_red\255\char_color_green\255\char_color_blue\255\cg_predictItems\1\teamtask\0\teamoverlay\1
+3-7-2021 4: 9 (1226:57): ClientUserinfoChanged: 2 n\^4C^7or\t\0\model\rodian/blue\c1\2\c2\4\hc\105\w\0\l\0\tt\0\tl\0\st\dual_4\st2\none\dt\0
+3-7-2021 4: 9 (1227:49): Kill: 2 1 10: ^4C^7or killed astupidbot by MOD_DISRUPTOR_SNIPER
+3-7-2021 4: 9 (1227:49): Exit: Timelimit hit.
+3-7-2021 4: 9 (1227:49): score: 1  ping: 30  client: 2 ^4C^7or
+3-7-2021 4: 9 (1227:49): score: 0  ping: 56  client: 1 astupidbot
+3-7-2021 4:10 (1227:50): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/astupidbot.jkb\saber2\none\saber1\kyle\color2\4\color1\4\sex\male\model\jawa\snaps\20\rate\25000\name\astupidbot
+3-7-2021 4:10 (1227:50): ClientUserinfoChanged: 1 n\astupidbot\t\0\model\jawa\c1\4\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+3-7-2021 4:10 (1227:55): ShutdownGame:
+3-7-2021 4:10 (1227:55): ------------------------------------------------------------

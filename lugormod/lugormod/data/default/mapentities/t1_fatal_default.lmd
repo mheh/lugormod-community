@@ -1,0 +1,128 @@
+{
+"classname" "info_player_deathmatch"
+"angle" "270"
+"target" "mefirst_trigger"
+"origin" "-2100 -2430 4662"
+}
+{
+"classname" "info_player_deathmatch"
+"angle" "270"
+"target" "mefirst_trigger"
+"origin" "-2370 -2430 4662"
+}
+{
+"classname" "info_player_deathmatch"
+"angle" "270"
+"target" "mefirst_trigger"
+"origin" "-2625 -2430 4662"
+}
+{
+"classname" "trigger_once"
+"targetname" "mefirst_trigger"
+"target" "activate_mefirst"
+}
+{
+"classname" "money_dispenser"
+"origin" "-2603 -2606 4512"
+}
+{
+"classname" "target_credits"
+"targetname" "Secrets"
+"count" "100"
+"random" "150"
+}
+{
+"classname" "fx_runner"
+"fxfile" "effects/mp/jedispawn"
+"wait" "1000"
+"targetname" "spawn_enter_fx_trig"
+"origin" "-2367 -3013 4512"
+}
+{
+"classname" "misc_model_breakable"
+"maxs" "100 1 150"
+"mins" "-100 0 0"
+"spawnflags" "1"
+"origin" "-2367 -3013 4512"
+}
+{
+"classname" "trigger_multiple"
+"maxs" "100 1 150"
+"mins" "-100 0 0"
+"target" "back_to_spawn"
+"spawnflags" "1"
+"level" "1"
+"origin" "-2367 -3028 4512"
+}
+{
+"classname" "target_position"
+"angle" "90"
+"targetname" "spawn_loc_pos"
+"origin" "-2368 -2764 4542"
+}
+{
+"classname" "target_teleporter"
+"targetname" "back_to_spawn"
+"target" "spawn_loc_pos"
+}
+{
+"classname" "fx_runner"
+"fxfile" "effects/env/btend"
+"angles" "0 90 90"
+"origin" "-2370 -2812 4567"
+}
+{
+"classname" "trigger_multiple"
+"maxs" "100 1 150"
+"mins" "-100 0 0"
+"target" "outside_tele"
+"spawnflags" "1"
+"level" "1"
+"origin" "-2369 -2814 4512"
+}
+{
+"classname" "trigger_multiple"
+"maxs" "100 1 150"
+"mins" "-100 0 0"
+"target" "outside_tele_higher"
+"spawnflags" "1"
+"level" "10"
+"origin" "-2369 -2802 4512"
+}
+{
+"classname" "target_position"
+"angle" "270"
+"targetname" "outside_tele_higher_pos"
+"origin" "-2369 -2857 4542"
+}
+{
+"classname" "target_position"
+"angle" "270"
+"targetname" "outside_tele_higher_pos"
+"origin" "-2366 -2858 4532"
+}
+{
+"classname" "trigger_multiple"
+"maxs" "100 1 150"
+"mins" "-100 0 0"
+"target" "outside_tele"
+"spawnflags" "1"
+"level" "1"
+"origin" "-2366 -2996 4512"
+}
+{
+"classname" "target_position"
+"angle" "270"
+"targetname" "outside_tele_pos"
+"origin" "-2368 -3149 4542"
+}
+{
+"classname" "target_teleporter"
+"targetname" "outside_tele"
+"target" "outside_tele_pos"
+}
+{
+"classname" "target_teleporter"
+"targetname" "outside_tele_higher"
+"target" "outside_tele_higher_pos"
+}

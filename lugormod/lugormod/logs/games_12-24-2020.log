@@ -1,0 +1,889 @@
+12-25-2020 0:15 (0:00): ------------------------------------------------------------
+12-25-2020 0:15 (0:00): InitGame: \version\JAmp: v1.0.1.0 linux-i386 Mar 14 2020\timelimit\45\sv_privateClients\0\sv_minRate\0\sv_minPing\0\sv_maxclients\32\sv_maxRate\0\sv_maxPing\999\sv_hostname\^7~^1~^7~ COMM SERVER ~^1~^7~\sv_fps\50\sv_floodProtectSlow\1\sv_floodProtect\1\sv_autoDemo\0\sv_allowDownload\0\serveruptime\45\protocol\26\mapname\mp/duel6\gamename\Lugormod\g_weaponDisable\0\g_stepSlideFix\0\g_siegeTeamSwitch\1\g_siegeTeam2\none\g_siegeTeam1\none\g_siegeRespawn\20\g_showDuelHealths\1\g_saberWallDamageScale\0.4\g_saberLocking\0\g_privateDuel\1535\g_noSpecMove\0\g_needpass\0\g_maxHolocronCarry\3\g_maxGameClients\0\g_maxForceRank\7\g_jediVmerc\0\g_gametype\0\g_gamemode\0\g_forceRegenTime\130\g_forcePowerDisable\0\g_forceBasedTeams\1\g_duelWeaponDisable\9\g_debugmelee\1\g_allowNPC\1\fs_game\lugormod\fraglimit\0\duel_fraglimit\10\dmflags\0\capturelimit\10\bot_minplayers\2\bg_fighterAltControl\0\Lugormod_Version\U#-0.0.0.91 Alpha
+12-25-2020 0:15 (0:00): ClientConnect: 0
+12-25-2020 0:15 (0:00): ClientUserinfoChanged handling info: 0 \ip\136.49.101.98:29070\snaps\50\sex\male\saber2\none\saber1\Kyle\rate\25000\name\chon\model\kyle/default\ja_guid\051864430A7EE524850A0B7FF5985240\handicap\100\forcepowers\6-1-030330000000000333\color2\4\color1\4\char_color_red\255\char_color_green\255\char_color_blue\255\cg_predictItems\1\teamoverlay\0
+12-25-2020 0:15 (0:00): ClientUserinfoChanged: 0 n\chon\t\0\model\kyle/default\c1\4\c2\4\hc\0\w\0\l\0\tt\0\tl\0\st\Kyle\st2\none\dt\0
+12-25-2020 0:15 (0:00): ClientConnect: 1
+12-25-2020 0:15 (0:00): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+12-25-2020 0:15 (0:00): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\0\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-25-2020 0:15 (0:00): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+12-25-2020 0:15 (0:00): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-25-2020 0:15 (0:00): ClientBegin: 1
+12-25-2020 0:15 (0:04): ClientUserinfoChanged handling info: 0 \ip\136.49.101.98:29070\teamoverlay\0\snaps\50\sex\male\saber2\none\saber1\Kyle\rate\25000\name\chon\model\kyle/default\ja_guid\051864430A7EE524850A0B7FF5985240\handicap\100\forcepowers\6-1-030330000000000333\color2\4\color1\4\char_color_red\255\char_color_green\255\char_color_blue\255\cg_predictItems\1
+12-25-2020 0:15 (0:04): ClientUserinfoChanged: 0 n\chon\t\0\model\kyle/default\c1\4\c2\4\hc\0\w\0\l\0\tt\0\tl\0\st\Kyle\st2\none\dt\0
+12-25-2020 0:15 (0:04): ClientUserinfoChanged handling info: 0 \ip\136.49.101.98:29070\teamoverlay\0\snaps\50\sex\male\saber2\none\saber1\Kyle\rate\25000\name\chon\model\kyle/default\ja_guid\051864430A7EE524850A0B7FF5985240\handicap\100\forcepowers\6-1-030330000000000333\color2\4\color1\4\char_color_red\255\char_color_green\255\char_color_blue\255\cg_predictItems\1
+12-25-2020 0:15 (0:04): ClientUserinfoChanged: 0 n\chon\t\0\model\kyle/default\c1\4\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\Kyle\st2\none\dt\0
+12-25-2020 0:15 (0:04): ClientBegin: 0
+12-25-2020 0:16 (0:32): say: Kyle: Fight me Chon
+12-25-2020 0:16 (1:07): ClientDisconnect: 0
+12-25-2020 0:16 (1:13): ClientConnect: 0
+12-25-2020 0:16 (1:13): ClientUserinfoChanged handling info: 0 \team\0\skill\ 5.00\personality\botfiles/astupidbot.jkb\saber2\none\saber1\kyle\color2\4\color1\4\sex\male\model\jawa\snaps\20\rate\25000\name\astupidbot
+12-25-2020 0:16 (1:13): ClientUserinfoChanged: 0 n\astupidbot\t\0\model\jawa\c1\4\c2\4\hc\0\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\\st2\\dt\0\sdt\0
+12-25-2020 0:16 (1:13): IP: localhost astupidbot
+12-25-2020 0:16 (1:13): ClientUserinfoChanged handling info: 0 \team\0\skill\ 5.00\personality\botfiles/astupidbot.jkb\saber2\none\saber1\kyle\color2\4\color1\4\sex\male\model\jawa\snaps\20\rate\25000\name\astupidbot
+12-25-2020 0:16 (1:13): ClientUserinfoChanged: 0 n\astupidbot\t\0\model\jawa\c1\4\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-25-2020 0:16 (1:13): ClientBegin: 0
+12-25-2020 1:27 (72:23): ClientConnect: 2
+12-25-2020 1:27 (72:23): ClientUserinfoChanged handling info: 2 \ip\136.49.101.98:29070\challenge\999478762\qport\21555\protocol\26\teamoverlay\0\snaps\40\sex\male\saber2\none\saber1\Kyle\rate\25000\name\chon\model\kyle/default\ja_guid\051864430A7EE524850A0B7FF5985240\handicap\100\forcepowers\7-1-030330000000003333\color2\4\color1\4\char_color_red\255\char_color_green\255\char_color_blue\255\cg_predictItems\1
+12-25-2020 1:27 (72:23): ClientUserinfoChanged: 2 n\chon\t\0\model\kyle/default\c1\4\c2\4\hc\0\w\0\l\0\tt\0\tl\0\st\\st2\\dt\0
+12-25-2020 1:27 (72:23): IP: 136.49.101.98 chon
+12-25-2020 1:27 (72:28): ClientUserinfoChanged handling info: 2 \ip\136.49.101.98:29070\teamoverlay\0\snaps\50\sex\male\saber2\none\saber1\Kyle\rate\25000\name\chon\model\kyle/default\ja_guid\051864430A7EE524850A0B7FF5985240\handicap\100\forcepowers\7-1-030330000000003333\color2\4\color1\4\char_color_red\255\char_color_green\255\char_color_blue\255\cg_predictItems\1
+12-25-2020 1:27 (72:28): ClientUserinfoChanged: 2 n\chon\t\0\model\kyle/default\c1\4\c2\4\hc\0\w\0\l\0\tt\0\tl\0\st\Kyle\st2\none\dt\0
+12-25-2020 1:27 (72:28): ClientUserinfoChanged handling info: 2 \ip\136.49.101.98:29070\teamoverlay\0\snaps\50\sex\male\saber2\none\saber1\Kyle\rate\25000\name\chon\model\kyle/default\ja_guid\051864430A7EE524850A0B7FF5985240\handicap\100\forcepowers\7-1-030330000000003333\color2\4\color1\4\char_color_red\255\char_color_green\255\char_color_blue\255\cg_predictItems\1
+12-25-2020 1:27 (72:28): ClientUserinfoChanged: 2 n\chon\t\0\model\kyle/default\c1\4\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\Kyle\st2\none\dt\0
+12-25-2020 1:27 (72:28): ClientBegin: 2
+12-25-2020 1:28 (72:40): say: astupidbot: bye all
+12-25-2020 1:28 (72:40): ClientDisconnect: 0
+12-25-2020 1:29 (73:32): Kill: 1 2 3: Kyle killed chon by MOD_SABER
+12-25-2020 1:29 (73:32): Exit: Timelimit hit.
+12-25-2020 1:29 (73:32): score: 1  ping: 50  client: 1 Kyle
+12-25-2020 1:29 (73:32): score: 0  ping: 30  client: 2 chon
+12-25-2020 1:29 (73:33): ClientUserinfoChanged handling info: 2 \ip\136.49.101.98:29070\teamoverlay\0\snaps\50\sex\male\saber2\none\saber1\Kyle\rate\25000\name\chon\model\kyle/default\ja_guid\051864430A7EE524850A0B7FF5985240\handicap\100\forcepowers\7-1-030330000000003333\color2\4\color1\4\char_color_red\255\char_color_green\255\char_color_blue\255\cg_predictItems\1
+12-25-2020 1:29 (73:33): ClientUserinfoChanged: 2 n\chon\t\0\model\kyle/default\c1\4\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\Kyle\st2\none\dt\0
+12-25-2020 1:29 (73:38): ShutdownGame:
+12-25-2020 1:29 (73:38): ------------------------------------------------------------
+12-25-2020 1:29 (0:00): ------------------------------------------------------------
+12-25-2020 1:29 (0:00): InitGame: \version\JAmp: v1.0.1.0 linux-i386 Mar 14 2020\timelimit\45\sv_privateClients\0\sv_minRate\0\sv_minPing\0\sv_maxclients\32\sv_maxRate\0\sv_maxPing\999\sv_hostname\^7~^1~^7~ COMM SERVER ~^1~^7~\sv_fps\50\sv_floodProtectSlow\1\sv_floodProtect\1\sv_autoDemo\0\sv_allowDownload\0\serveruptime\45\protocol\26\mapname\t3_stamp\gamename\Lugormod\g_weaponDisable\0\g_stepSlideFix\0\g_siegeTeamSwitch\1\g_siegeTeam2\none\g_siegeTeam1\none\g_siegeRespawn\20\g_showDuelHealths\1\g_saberWallDamageScale\0.4\g_saberLocking\0\g_privateDuel\1535\g_noSpecMove\0\g_needpass\1\g_maxHolocronCarry\3\g_maxGameClients\0\g_maxForceRank\7\g_jediVmerc\0\g_gametype\0\g_gamemode\0\g_forceRegenTime\130\g_forcePowerDisable\0\g_forceBasedTeams\1\g_duelWeaponDisable\9\g_debugmelee\1\g_allowNPC\1\fs_game\lugormod\fraglimit\0\duel_fraglimit\10\dmflags\0\capturelimit\10\bot_minplayers\2\bg_fighterAltControl\0\Lugormod_Version\U#-0.0.0.91 Alpha
+12-25-2020 1:29 (0:00): ClientConnect: 1
+12-25-2020 1:29 (0:00): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+12-25-2020 1:29 (0:00): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\0\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-25-2020 1:29 (0:00): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+12-25-2020 1:29 (0:00): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-25-2020 1:29 (0:00): ClientBegin: 1
+12-25-2020 1:29 (0:00): ClientDisconnect: 2
+12-25-2020 1:29 (0:05): ClientConnect: 0
+12-25-2020 1:29 (0:05): ClientUserinfoChanged handling info: 0 \ip\136.49.101.98:29070\challenge\-1874721302\qport\21555\protocol\26\teamoverlay\0\snaps\50\sex\male\saber2\none\saber1\Kyle\rate\25000\password\temppw\name\chon\model\kyle/default\ja_guid\051864430A7EE524850A0B7FF5985240\handicap\100\forcepowers\7-1-030330000000003333\color2\4\color1\4\char_color_red\255\char_color_green\255\char_color_blue\255\cg_predictItems\1
+12-25-2020 1:29 (0:05): ClientUserinfoChanged: 0 n\chon\t\0\model\kyle/default\c1\4\c2\4\hc\0\w\0\l\0\tt\0\tl\0\st\\st2\\dt\0
+12-25-2020 1:29 (0:05): IP: 136.49.101.98 chon
+12-25-2020 1:29 (0:10): ClientUserinfoChanged handling info: 0 \ip\136.49.101.98:29070\teamoverlay\0\snaps\50\sex\male\saber2\none\saber1\Kyle\rate\25000\password\temppw\name\chon\model\kyle/default\ja_guid\051864430A7EE524850A0B7FF5985240\handicap\100\forcepowers\7-1-030330000000003333\color2\4\color1\4\char_color_red\255\char_color_green\255\char_color_blue\255\cg_predictItems\1
+12-25-2020 1:29 (0:10): ClientUserinfoChanged: 0 n\chon\t\0\model\kyle/default\c1\4\c2\4\hc\0\w\0\l\0\tt\0\tl\0\st\Kyle\st2\none\dt\0
+12-25-2020 1:29 (0:10): ClientUserinfoChanged handling info: 0 \ip\136.49.101.98:29070\teamoverlay\0\snaps\50\sex\male\saber2\none\saber1\Kyle\rate\25000\password\temppw\name\chon\model\kyle/default\ja_guid\051864430A7EE524850A0B7FF5985240\handicap\100\forcepowers\7-1-030330000000003333\color2\4\color1\4\char_color_red\255\char_color_green\255\char_color_blue\255\cg_predictItems\1
+12-25-2020 1:29 (0:10): ClientUserinfoChanged: 0 n\chon\t\0\model\kyle/default\c1\4\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\Kyle\st2\none\dt\0
+12-25-2020 1:29 (0:10): ClientBegin: 0
+12-25-2020 1:32 (3:16): say: Kyle: Hey!
+12-25-2020 1:36 (7:15): ClientUserinfoChanged handling info: 0 \ip\136.49.101.98:29070\teamoverlay\0\snaps\50\sex\male\saber2\none\saber1\Kyle\rate\25000\password\temppw\name\chon\model\kyle/default\ja_guid\051864430A7EE524850A0B7FF5985240\handicap\100\forcepowers\7-1-030330000000003333\color2\4\color1\4\char_color_red\255\char_color_green\255\char_color_blue\255\cg_predictItems\1
+12-25-2020 1:36 (7:15): ClientUserinfoChanged: 0 n\chon\t\0\model\kyle/default\c1\4\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\Kyle\st2\none\dt\0
+12-25-2020 1:36 (7:16): ClientUserinfoChanged handling info: 0 \name\chains\ip\136.49.101.98:29070\teamoverlay\0\snaps\50\sex\male\saber2\none\saber1\Kyle\rate\25000\password\temppw\model\kyle/default\ja_guid\051864430A7EE524850A0B7FF5985240\handicap\100\forcepowers\7-1-030330000000003333\colr1\4\ccolor1\4\char_color_red\255\char_color_green\255\char_color_blue\255\cg_predictItems\1
+12-25-2020 1:36 (7:16): ClientUserinfoChanged: 0 n\chains\t\0\model\kyle/default\c1\\c2\\hc\100\w\0\l\0\tt\0\tl\0\st\Kyle\st2\none\dt\0
+12-25-2020 1:37 (8:36): Kill: 0 0 39: chains killed chains by MOD_SUICIDE
+12-25-2020 1:37 (8:38): ClientUserinfoChanged handling info: 0 \name\chains\ip\136.49.101.98:29070\teamoverlay\0\snaps\50\sex\male\saber2\none\saber1\Kyle\rate\25000\password\temppw\model\kyle/default\ja_guid\051864430A7EE524850A0B7FF5985240\handicap\100\forcepowers\7-1-030330000000003333\colr1\4\ccolor1\4\char_color_red\255\char_color_green\255\char_color_blue\255\cg_predictItems\1
+12-25-2020 1:37 (8:38): ClientUserinfoChanged: 0 n\chains\t\0\model\kyle/default\c1\\c2\\hc\105\w\0\l\0\tt\0\tl\0\st\Kyle\st2\none\dt\0
+12-25-2020 1:41 (11:57): ClientDisconnect: 0
+12-25-2020 1:41 (12:07): ClientConnect: 0
+12-25-2020 1:41 (12:07): ClientUserinfoChanged handling info: 0 \team\0\skill\ 5.00\personality\botfiles/astupidbot.jkb\saber2\none\saber1\kyle\color2\4\color1\4\sex\male\model\jawa\snaps\20\rate\25000\name\astupidbot
+12-25-2020 1:41 (12:07): ClientUserinfoChanged: 0 n\astupidbot\t\0\model\jawa\c1\4\c2\4\hc\0\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\\st2\\dt\0\sdt\0
+12-25-2020 1:41 (12:07): IP: localhost astupidbot
+12-25-2020 1:41 (12:07): ClientUserinfoChanged handling info: 0 \team\0\skill\ 5.00\personality\botfiles/astupidbot.jkb\saber2\none\saber1\kyle\color2\4\color1\4\sex\male\model\jawa\snaps\20\rate\25000\name\astupidbot
+12-25-2020 1:41 (12:07): ClientUserinfoChanged: 0 n\astupidbot\t\0\model\jawa\c1\4\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-25-2020 1:41 (12:07): ClientBegin: 0
+12-25-2020 1:50 (20:54): ClientConnect: 2
+12-25-2020 1:50 (20:54): ClientUserinfoChanged handling info: 2 \ip\136.49.101.98:29070\challenge\-1273008842\qport\21555\protocol\26\teamoverlay\0\snaps\50\sex\male\saber2\none\saber1\Kyle\rate\25000\password\temppw\name\chon\model\kyle/default\ja_guid\051864430A7EE524850A0B7FF5985240\handicap\100\forcepowers\1-1-010000000000000100\color2\4\color1\4\char_color_red\255\char_color_green\255\char_color_blue\255\cg_predictItems\1
+12-25-2020 1:50 (20:54): ClientUserinfoChanged: 2 n\chon\t\0\model\kyle/default\c1\4\c2\4\hc\0\w\0\l\0\tt\0\tl\0\st\\st2\\dt\0
+12-25-2020 1:50 (20:54): IP: 136.49.101.98 chon
+12-25-2020 1:50 (20:58): ClientUserinfoChanged handling info: 2 \ip\136.49.101.98:29070\teamoverlay\0\snaps\50\sex\male\saber2\none\saber1\Kyle\rate\25000\password\temppw\name\chon\model\kyle/default\ja_guid\051864430A7EE524850A0B7FF5985240\handicap\100\forcepowers\1-1-010000000000000100\color2\4\color1\4\char_color_red\255\char_color_green\255\char_color_blue\255\cg_predictItems\1
+12-25-2020 1:50 (20:58): ClientUserinfoChanged: 2 n\chon\t\0\model\kyle/default\c1\4\c2\4\hc\0\w\0\l\0\tt\0\tl\0\st\Kyle\st2\none\dt\0
+12-25-2020 1:50 (20:58): ClientUserinfoChanged handling info: 2 \ip\136.49.101.98:29070\teamoverlay\0\snaps\50\sex\male\saber2\none\saber1\Kyle\rate\25000\password\temppw\name\chon\model\kyle/default\ja_guid\051864430A7EE524850A0B7FF5985240\handicap\100\forcepowers\1-1-010000000000000100\color2\4\color1\4\char_color_red\255\char_color_green\255\char_color_blue\255\cg_predictItems\1
+12-25-2020 1:50 (20:58): ClientUserinfoChanged: 2 n\chon\t\0\model\kyle/default\c1\4\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\Kyle\st2\none\dt\0
+12-25-2020 1:50 (20:58): ClientBegin: 2
+12-25-2020 1:50 (21:04): say: astupidbot: g2g
+12-25-2020 1:50 (21:04): ClientDisconnect: 0
+12-25-2020 1:50 (21:08): ClientUserinfoChanged handling info: 2 \ip\136.49.101.98:29070\teamoverlay\0\snaps\50\sex\male\saber2\none\saber1\Kyle\rate\25000\password\temppw\name\chon\model\kyle/default\ja_guid\051864430A7EE524850A0B7FF5985240\handicap\100\forcepowers\1-1-010000000000000100\color2\4\color1\4\char_color_red\255\char_color_green\255\char_color_blue\255\cg_predictItems\1
+12-25-2020 1:50 (21:08): ClientUserinfoChanged: 2 n\chon\t\0\model\kyle/default\c1\4\c2\4\hc\129\w\0\l\0\tt\0\tl\0\st\Kyle\st2\none\dt\0
+12-25-2020 1:50 (21:09): ClientUserinfoChanged handling info: 2 \name\chains\ip\136.49.101.98:29070\teamoverlay\0\snaps\50\sex\male\saber2\none\saber1\Kyle\rate\25000\password\temppw\model\kyle/default\ja_guid\051864430A7EE524850A0B7FF5985240\handicap\100\forcepowers\1-1-010000000000000100\colr1\4\ccolor1\4\char_color_red\255\char_color_green\255\char_color_blue\255\cg_predictItems\1
+12-25-2020 1:50 (21:09): ClientUserinfoChanged: 2 n\chains\t\0\model\kyle/default\c1\\c2\\hc\129\w\0\l\0\tt\0\tl\0\st\Kyle\st2\none\dt\0
+12-25-2020 1:50 (21:13): Kill: 2 2 39: chains killed chains by MOD_SUICIDE
+12-25-2020 1:50 (21:14): ClientUserinfoChanged handling info: 2 \name\chains\ip\136.49.101.98:29070\teamoverlay\0\snaps\50\sex\male\saber2\none\saber1\Kyle\rate\25000\password\temppw\model\kyle/default\ja_guid\051864430A7EE524850A0B7FF5985240\handicap\100\forcepowers\1-1-010000000000000100\colr1\4\ccolor1\4\char_color_red\255\char_color_green\255\char_color_blue\255\cg_predictItems\1
+12-25-2020 1:50 (21:14): ClientUserinfoChanged: 2 n\chains\t\0\model\kyle/default\c1\\c2\\hc\100\w\0\l\0\tt\0\tl\0\st\Kyle\st2\none\dt\0
+12-25-2020 1:52 (23:27): Kill: 1022 2 3: <world> killed chains by MOD_SABER
+12-25-2020 1:52 (23:28): ClientUserinfoChanged handling info: 2 \name\chains\ip\136.49.101.98:29070\teamoverlay\0\snaps\50\sex\male\saber2\none\saber1\Kyle\rate\25000\password\temppw\model\kyle/default\ja_guid\051864430A7EE524850A0B7FF5985240\handicap\100\forcepowers\1-1-010000000000000100\colr1\4\ccolor1\4\char_color_red\255\char_color_green\255\char_color_blue\255\cg_predictItems\1
+12-25-2020 1:52 (23:28): ClientUserinfoChanged: 2 n\chains\t\0\model\kyle/default\c1\\c2\\hc\100\w\0\l\0\tt\0\tl\0\st\Kyle\st2\none\dt\0
+12-25-2020 1:53 (24:22): Kill: 1022 607 37: <world> killed  by MOD_TELEFRAG
+12-25-2020 1:53 (24:38): Kill: 1022 2 3: <world> killed chains by MOD_SABER
+12-25-2020 1:53 (24:39): ClientUserinfoChanged handling info: 2 \name\chains\ip\136.49.101.98:29070\teamoverlay\0\snaps\50\sex\male\saber2\none\saber1\Kyle\rate\25000\password\temppw\model\kyle/default\ja_guid\051864430A7EE524850A0B7FF5985240\handicap\100\forcepowers\1-1-010000000000000100\colr1\4\ccolor1\4\char_color_red\255\char_color_green\255\char_color_blue\255\cg_predictItems\1
+12-25-2020 1:53 (24:39): ClientUserinfoChanged: 2 n\chains\t\0\model\kyle/default\c1\\c2\\hc\100\w\0\l\0\tt\0\tl\0\st\Kyle\st2\none\dt\0
+12-25-2020 1:53 (24:45): say: Kyle: Come on Chains
+12-25-2020 1:54 (25:34): Kill: 1022 608 37: <world> killed  by MOD_TELEFRAG
+12-25-2020 1:59 (30:10): ShutdownGame:
+12-25-2020 1:59 (30:10): ------------------------------------------------------------
+12-25-2020 1:59 (0:00): ------------------------------------------------------------
+12-25-2020 1:59 (0:00): InitGame: \version\JAmp: v1.0.1.0 linux-i386 Mar 14 2020\timelimit\45\sv_privateClients\0\sv_minRate\0\sv_minPing\0\sv_maxclients\32\sv_maxRate\0\sv_maxPing\999\sv_hostname\^7~^1~^7~ COMM SERVER ~^1~^7~\sv_fps\50\sv_floodProtectSlow\1\sv_floodProtect\1\sv_autoDemo\0\sv_allowDownload\0\serveruptime\45\protocol\26\mapname\t3_stamp\gamename\Lugormod\g_weaponDisable\0\g_stepSlideFix\0\g_siegeTeamSwitch\1\g_siegeTeam2\none\g_siegeTeam1\none\g_siegeRespawn\20\g_showDuelHealths\1\g_saberWallDamageScale\0.4\g_saberLocking\0\g_privateDuel\1535\g_noSpecMove\0\g_needpass\1\g_maxHolocronCarry\3\g_maxGameClients\0\g_maxForceRank\7\g_jediVmerc\0\g_gametype\0\g_gamemode\0\g_forceRegenTime\200\g_forcePowerDisable\0\g_forceBasedTeams\1\g_duelWeaponDisable\9\g_debugmelee\1\g_allowNPC\1\fs_game\lugormod\fraglimit\0\duel_fraglimit\10\dmflags\0\capturelimit\10\bot_minplayers\2\bg_fighterAltControl\0\Lugormod_Version\U#-0.0.0.91 Alpha
+12-25-2020 1:59 (0:00): ClientConnect: 2
+12-25-2020 1:59 (0:00): ClientUserinfoChanged handling info: 2 \name\chains\ip\136.49.101.98:29070\teamoverlay\0\snaps\50\sex\male\saber2\none\saber1\Kyle\rate\25000\password\temppw\model\kyle/default\ja_guid\051864430A7EE524850A0B7FF5985240\handicap\100\forcepowers\1-1-010000000000000100\colr1\4\ccolor1\4\char_color_red\255\char_color_green\255\char_color_blue\255\cg_predictItems\1
+12-25-2020 1:59 (0:00): ClientUserinfoChanged: 2 n\Padawan\t\0\model\kyle/default\c1\\c2\\hc\0\w\0\l\0\tt\0\tl\0\st\Kyle\st2\none\dt\0
+12-25-2020 1:59 (0:06): ClientUserinfoChanged handling info: 2 \ip\136.49.101.98:29070\teamoverlay\0\snaps\50\sex\male\saber2\none\saber1\Kyle\rate\25000\password\temppw\name\chon\model\kyle/default\ja_guid\051864430A7EE524850A0B7FF5985240\handicap\100\forcepowers\1-1-010000000000000100\color2\4\color1\4\char_color_red\255\char_color_green\255\char_color_blue\255\cg_predictItems\1
+12-25-2020 1:59 (0:06): ClientNamechange: Padawan is now chon
+12-25-2020 1:59 (0:06): ClientUserinfoChanged: 2 n\chon\t\0\model\kyle/default\c1\4\c2\4\hc\0\w\0\l\0\tt\0\tl\0\st\Kyle\st2\none\dt\0
+12-25-2020 1:59 (0:06): ClientUserinfoChanged handling info: 2 \ip\136.49.101.98:29070\teamoverlay\0\snaps\50\sex\male\saber2\none\saber1\Kyle\rate\25000\password\temppw\name\chon\model\kyle/default\ja_guid\051864430A7EE524850A0B7FF5985240\handicap\100\forcepowers\1-1-010000000000000100\color2\4\color1\4\char_color_red\255\char_color_green\255\char_color_blue\255\cg_predictItems\1
+12-25-2020 1:59 (0:06): ClientUserinfoChanged: 2 n\chon\t\0\model\kyle/default\c1\4\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\Kyle\st2\none\dt\0
+12-25-2020 1:59 (0:06): ClientUserinfoChanged handling info: 2 \name\chon\ip\136.49.101.98:29070\teamoverlay\0\snaps\50\sex\male\saber2\none\saber1\Kyle\rate\25000\password\temppw\model\kyle/default\ja_guid\051864430A7EE524850A0B7FF5985240\handicap\100\forcepowers\1-1-01000000\color2\4\color1\4\ccolor1\4\char_color_red\255\char_color_green\255\char_color_blue\255\cg_predictItems\1
+12-25-2020 1:59 (0:06): ClientUserinfoChanged: 2 n\chon\t\0\model\kyle/default\c1\4\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\Kyle\st2\none\dt\0
+12-25-2020 1:59 (0:06): ClientBegin: 2
+12-25-2020 1:59 (0:30): ClientConnect: 0
+12-25-2020 1:59 (0:30): ClientUserinfoChanged handling info: 0 \team\0\skill\ 5.00\personality\botfiles/astupidbot.jkb\saber2\none\saber1\kyle\color2\4\color1\4\sex\male\model\jawa\snaps\20\rate\25000\name\astupidbot
+12-25-2020 1:59 (0:30): ClientUserinfoChanged: 0 n\astupidbot\t\0\model\jawa\c1\4\c2\4\hc\0\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\\st2\\dt\0\sdt\0
+12-25-2020 1:59 (0:30): IP: localhost astupidbot
+12-25-2020 1:59 (0:30): ClientUserinfoChanged handling info: 0 \team\0\skill\ 5.00\personality\botfiles/astupidbot.jkb\saber2\none\saber1\kyle\color2\4\color1\4\sex\male\model\jawa\snaps\20\rate\25000\name\astupidbot
+12-25-2020 1:59 (0:30): ClientUserinfoChanged: 0 n\astupidbot\t\0\model\jawa\c1\4\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-25-2020 1:59 (0:30): ClientBegin: 0
+12-25-2020 2: 0 (0:43): Kill: 1022 2 3: <world> killed chon by MOD_SABER
+12-25-2020 2: 0 (0:44): ClientUserinfoChanged handling info: 2 \name\chon\ip\136.49.101.98:29070\teamoverlay\0\snaps\50\sex\male\saber2\none\saber1\Kyle\rate\25000\password\temppw\model\kyle/default\ja_guid\051864430A7EE524850A0B7FF5985240\handicap\100\forcepowers\1-1-01000000\color2\4\color1\4\ccolor1\4\char_color_red\255\char_color_green\255\char_color_blue\255\cg_predictItems\1
+12-25-2020 2: 0 (0:44): ClientUserinfoChanged: 2 n\chon\t\0\model\kyle/default\c1\4\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\Kyle\st2\none\dt\0
+12-25-2020 2: 0 (1:10): ShutdownGame:
+12-25-2020 2: 0 (1:10): ------------------------------------------------------------
+12-25-2020 2: 0 (0:00): ------------------------------------------------------------
+12-25-2020 2: 0 (0:00): InitGame: \version\JAmp: v1.0.1.0 linux-i386 Mar 14 2020\timelimit\45\sv_privateClients\0\sv_minRate\0\sv_minPing\0\sv_maxclients\32\sv_maxRate\0\sv_maxPing\999\sv_hostname\^7~^1~^7~ COMM SERVER ~^1~^7~\sv_fps\50\sv_floodProtectSlow\1\sv_floodProtect\1\sv_autoDemo\0\sv_allowDownload\0\serveruptime\45\protocol\26\mapname\mp/ffa3\gamename\Lugormod\g_weaponDisable\0\g_stepSlideFix\0\g_siegeTeamSwitch\1\g_siegeTeam2\none\g_siegeTeam1\none\g_siegeRespawn\20\g_showDuelHealths\1\g_saberWallDamageScale\0.4\g_saberLocking\0\g_privateDuel\1535\g_noSpecMove\0\g_needpass\1\g_maxHolocronCarry\3\g_maxGameClients\0\g_maxForceRank\7\g_jediVmerc\0\g_gametype\0\g_gamemode\0\g_forceRegenTime\200\g_forcePowerDisable\0\g_forceBasedTeams\1\g_duelWeaponDisable\9\g_debugmelee\1\g_allowNPC\1\fs_game\lugormod\fraglimit\0\duel_fraglimit\10\dmflags\0\capturelimit\10\bot_minplayers\2\bg_fighterAltControl\0\Lugormod_Version\U#-0.0.0.91 Alpha
+12-25-2020 2: 0 (0:00): ClientConnect: 2
+12-25-2020 2: 0 (0:00): ClientUserinfoChanged handling info: 2 \name\chon\ip\136.49.101.98:29070\teamoverlay\0\snaps\50\sex\male\saber2\none\saber1\Kyle\rate\25000\password\temppw\model\kyle/default\ja_guid\051864430A7EE524850A0B7FF5985240\handicap\100\forcepowers\1-1-01000000\color2\4\color1\4\ccolor1\4\char_color_red\255\char_color_green\255\char_color_blue\255\cg_predictItems\1
+12-25-2020 2: 0 (0:00): ClientUserinfoChanged: 2 n\Padawan\t\0\model\kyle/default\c1\4\c2\4\hc\0\w\0\l\0\tt\0\tl\0\st\Kyle\st2\none\dt\0
+12-25-2020 2: 0 (0:05): ClientUserinfoChanged handling info: 2 \ip\136.49.101.98:29070\teamoverlay\0\snaps\50\sex\male\saber2\none\saber1\Kyle\rate\25000\password\temppw\name\chon\model\kyle/default\ja_guid\051864430A7EE524850A0B7FF5985240\handicap\100\forcepowers\1-1-010000000000000100\color2\4\color1\4\char_color_red\255\char_color_green\255\char_color_blue\255\cg_predictItems\1
+12-25-2020 2: 0 (0:05): ClientNamechange: Padawan is now chon
+12-25-2020 2: 0 (0:05): ClientUserinfoChanged: 2 n\chon\t\0\model\kyle/default\c1\4\c2\4\hc\0\w\0\l\0\tt\0\tl\0\st\Kyle\st2\none\dt\0
+12-25-2020 2: 0 (0:05): ClientUserinfoChanged handling info: 2 \ip\136.49.101.98:29070\teamoverlay\0\snaps\50\sex\male\saber2\none\saber1\Kyle\rate\25000\password\temppw\name\chon\model\kyle/default\ja_guid\051864430A7EE524850A0B7FF5985240\handicap\100\forcepowers\1-1-010000000000000100\color2\4\color1\4\char_color_red\255\char_color_green\255\char_color_blue\255\cg_predictItems\1
+12-25-2020 2: 0 (0:05): ClientUserinfoChanged: 2 n\chon\t\0\model\kyle/default\c1\4\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\Kyle\st2\none\dt\0
+12-25-2020 2: 0 (0:05): ClientUserinfoChanged handling info: 2 \name\chon\ip\136.49.101.98:29070\teamoverlay\0\snaps\50\sex\male\saber2\none\saber1\Kyle\rate\25000\password\temppw\model\kyle/default\ja_guid\051864430A7EE524850A0B7FF5985240\handicap\100\forcepowers\1-1-01000000\color2\4\color1\4\ccolor1\4\char_color_red\255\char_color_green\255\char_color_blue\255\cg_predictItems\1
+12-25-2020 2: 0 (0:05): ClientUserinfoChanged: 2 n\chon\t\0\model\kyle/default\c1\4\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\Kyle\st2\none\dt\0
+12-25-2020 2: 0 (0:05): ClientBegin: 2
+12-25-2020 2: 0 (0:23): ClientConnect: 0
+12-25-2020 2: 0 (0:23): ClientUserinfoChanged handling info: 0 \team\red\skill\ 4.00\personality\botfiles/astupidbot.jkb\saber2\none\saber1\kyle\color2\4\color1\4\sex\male\model\jawa\snaps\20\rate\25000\name\astupidbot
+12-25-2020 2: 0 (0:23): ClientUserinfoChanged: 0 n\astupidbot\t\0\model\jawa\c1\4\c2\4\hc\0\w\0\l\0\skill\ 4.00\tt\0\tl\0\siegeclass\none\st\\st2\\dt\0\sdt\0
+12-25-2020 2: 0 (0:23): IP: localhost astupidbot
+12-25-2020 2: 0 (0:23): ClientUserinfoChanged handling info: 0 \team\red\skill\ 4.00\personality\botfiles/astupidbot.jkb\saber2\none\saber1\kyle\color2\4\color1\4\sex\male\model\jawa\snaps\20\rate\25000\name\astupidbot
+12-25-2020 2: 0 (0:23): ClientUserinfoChanged: 0 n\astupidbot\t\0\model\jawa\c1\4\c2\4\hc\100\w\0\l\0\skill\ 4.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-25-2020 2: 0 (0:23): ClientBegin: 0
+12-25-2020 2: 1 (0:41): Kill: 0 2 3: astupidbot killed chon by MOD_SABER
+12-25-2020 2: 1 (0:41): duel: astupidbot won a duel against chon
+12-25-2020 2: 1 (0:42): ClientUserinfoChanged handling info: 2 \name\chon\ip\136.49.101.98:29070\teamoverlay\0\snaps\50\sex\male\saber2\none\saber1\Kyle\rate\25000\password\temppw\model\kyle/default\ja_guid\051864430A7EE524850A0B7FF5985240\handicap\100\forcepowers\1-1-01000000\color2\4\color1\4\ccolor1\4\char_color_red\255\char_color_green\255\char_color_blue\255\cg_predictItems\1
+12-25-2020 2: 1 (0:42): ClientUserinfoChanged: 2 n\chon\t\0\model\kyle/default\c1\4\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\Kyle\st2\none\dt\0
+12-25-2020 2: 1 (1:12): Kill: 0 2 3: astupidbot killed chon by MOD_SABER
+12-25-2020 2: 1 (1:12): duel: astupidbot won a duel against chon
+12-25-2020 2: 1 (1:13): ClientUserinfoChanged handling info: 2 \name\chon\ip\136.49.101.98:29070\teamoverlay\0\snaps\50\sex\male\saber2\none\saber1\Kyle\rate\25000\password\temppw\model\kyle/default\ja_guid\051864430A7EE524850A0B7FF5985240\handicap\100\forcepowers\1-1-01000000\color2\4\color1\4\ccolor1\4\char_color_red\255\char_color_green\255\char_color_blue\255\cg_predictItems\1
+12-25-2020 2: 1 (1:13): ClientUserinfoChanged: 2 n\chon\t\0\model\kyle/default\c1\4\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\Kyle\st2\none\dt\0
+12-25-2020 2: 1 (1:14): say: astupidbot: Good Fight
+12-25-2020 2: 2 (2:02): Kill: 0 2 3: astupidbot killed chon by MOD_SABER
+12-25-2020 2: 2 (2:02): duel: astupidbot won a duel against chon
+12-25-2020 2: 2 (2:03): ClientUserinfoChanged handling info: 2 \name\chon\ip\136.49.101.98:29070\teamoverlay\0\snaps\50\sex\male\saber2\none\saber1\Kyle\rate\25000\password\temppw\model\kyle/default\ja_guid\051864430A7EE524850A0B7FF5985240\handicap\100\forcepowers\1-1-01000000\color2\4\color1\4\ccolor1\4\char_color_red\255\char_color_green\255\char_color_blue\255\cg_predictItems\1
+12-25-2020 2: 2 (2:03): ClientUserinfoChanged: 2 n\chon\t\0\model\kyle/default\c1\4\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\Kyle\st2\none\dt\0
+12-25-2020 2: 2 (2:03): say: astupidbot: hehe!
+12-25-2020 2: 2 (2:18): Kill: 0 2 3: astupidbot killed chon by MOD_SABER
+12-25-2020 2: 2 (2:18): duel: astupidbot won a duel against chon
+12-25-2020 2: 2 (2:19): ClientUserinfoChanged handling info: 2 \name\chon\ip\136.49.101.98:29070\teamoverlay\0\snaps\50\sex\male\saber2\none\saber1\Kyle\rate\25000\password\temppw\model\kyle/default\ja_guid\051864430A7EE524850A0B7FF5985240\handicap\100\forcepowers\1-1-01000000\color2\4\color1\4\ccolor1\4\char_color_red\255\char_color_green\255\char_color_blue\255\cg_predictItems\1
+12-25-2020 2: 2 (2:19): ClientUserinfoChanged: 2 n\chon\t\0\model\kyle/default\c1\4\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\Kyle\st2\none\dt\0
+12-25-2020 2: 2 (2:27): Kill: 2 0 3: chon killed astupidbot by MOD_SABER
+12-25-2020 2: 2 (2:29): ClientUserinfoChanged handling info: 0 \team\red\skill\ 4.00\personality\botfiles/astupidbot.jkb\saber2\none\saber1\kyle\color2\4\color1\4\sex\male\model\jawa\snaps\20\rate\25000\name\astupidbot
+12-25-2020 2: 2 (2:29): ClientUserinfoChanged: 0 n\astupidbot\t\0\model\jawa\c1\4\c2\4\hc\100\w\0\l\0\skill\ 4.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-25-2020 2: 2 (2:29): say: astupidbot: Good Fight
+12-25-2020 2: 3 (2:41): Kill: 0 2 3: astupidbot killed chon by MOD_SABER
+12-25-2020 2: 3 (2:42): ClientUserinfoChanged handling info: 2 \name\chon\ip\136.49.101.98:29070\teamoverlay\0\snaps\50\sex\male\saber2\none\saber1\Kyle\rate\25000\password\temppw\model\kyle/default\ja_guid\051864430A7EE524850A0B7FF5985240\handicap\100\forcepowers\1-1-01000000\color2\4\color1\4\ccolor1\4\char_color_red\255\char_color_green\255\char_color_blue\255\cg_predictItems\1
+12-25-2020 2: 3 (2:42): ClientUserinfoChanged: 2 n\chon\t\0\model\kyle/default\c1\4\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\Kyle\st2\none\dt\0
+12-25-2020 2: 3 (2:43): say: astupidbot: Good Fight
+12-25-2020 2: 3 (2:46): Kill: 2 0 3: chon killed astupidbot by MOD_SABER
+12-25-2020 2: 3 (2:47): ClientUserinfoChanged handling info: 0 \team\red\skill\ 4.00\personality\botfiles/astupidbot.jkb\saber2\none\saber1\kyle\color2\4\color1\4\sex\male\model\jawa\snaps\20\rate\25000\name\astupidbot
+12-25-2020 2: 3 (2:47): ClientUserinfoChanged: 0 n\astupidbot\t\0\model\jawa\c1\4\c2\4\hc\100\w\0\l\0\skill\ 4.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-25-2020 2: 3 (3:00): Kill: 0 2 3: astupidbot killed chon by MOD_SABER
+12-25-2020 2: 3 (3:01): ClientUserinfoChanged handling info: 2 \name\chon\ip\136.49.101.98:29070\teamoverlay\0\snaps\50\sex\male\saber2\none\saber1\Kyle\rate\25000\password\temppw\model\kyle/default\ja_guid\051864430A7EE524850A0B7FF5985240\handicap\100\forcepowers\1-1-01000000\color2\4\color1\4\ccolor1\4\char_color_red\255\char_color_green\255\char_color_blue\255\cg_predictItems\1
+12-25-2020 2: 3 (3:01): ClientUserinfoChanged: 2 n\chon\t\0\model\kyle/default\c1\4\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\Kyle\st2\none\dt\0
+12-25-2020 2: 3 (3:20): Kill: 0 0 20: astupidbot killed astupidbot by MOD_ROCKET_SPLASH
+12-25-2020 2: 3 (3:20): Kill: 0 2 20: astupidbot killed chon by MOD_ROCKET_SPLASH
+12-25-2020 2: 3 (3:21): ClientUserinfoChanged handling info: 0 \team\red\skill\ 4.00\personality\botfiles/astupidbot.jkb\saber2\none\saber1\kyle\color2\4\color1\4\sex\male\model\jawa\snaps\20\rate\25000\name\astupidbot
+12-25-2020 2: 3 (3:21): ClientUserinfoChanged: 0 n\astupidbot\t\0\model\jawa\c1\4\c2\4\hc\100\w\0\l\0\skill\ 4.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-25-2020 2: 3 (3:22): ClientUserinfoChanged handling info: 2 \name\chon\ip\136.49.101.98:29070\teamoverlay\0\snaps\50\sex\male\saber2\none\saber1\Kyle\rate\25000\password\temppw\model\kyle/default\ja_guid\051864430A7EE524850A0B7FF5985240\handicap\100\forcepowers\1-1-01000000\color2\4\color1\4\ccolor1\4\char_color_red\255\char_color_green\255\char_color_blue\255\cg_predictItems\1
+12-25-2020 2: 3 (3:22): ClientUserinfoChanged: 2 n\chon\t\0\model\kyle/default\c1\4\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\Kyle\st2\none\dt\0
+12-25-2020 2: 3 (3:30): Kill: 0 2 3: astupidbot killed chon by MOD_SABER
+12-25-2020 2: 3 (3:31): ClientUserinfoChanged handling info: 2 \name\chon\ip\136.49.101.98:29070\teamoverlay\0\snaps\50\sex\male\saber2\none\saber1\Kyle\rate\25000\password\temppw\model\kyle/default\ja_guid\051864430A7EE524850A0B7FF5985240\handicap\100\forcepowers\1-1-01000000\color2\4\color1\4\ccolor1\4\char_color_red\255\char_color_green\255\char_color_blue\255\cg_predictItems\1
+12-25-2020 2: 3 (3:31): ClientUserinfoChanged: 2 n\chon\t\0\model\kyle/default\c1\4\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\Kyle\st2\none\dt\0
+12-25-2020 2: 3 (3:31): say: astupidbot: hehe!
+12-25-2020 2: 4 (3:37): Kill: 0 2 3: astupidbot killed chon by MOD_SABER
+12-25-2020 2: 4 (3:38): ClientUserinfoChanged handling info: 2 \name\chon\ip\136.49.101.98:29070\teamoverlay\0\snaps\50\sex\male\saber2\none\saber1\Kyle\rate\25000\password\temppw\model\kyle/default\ja_guid\051864430A7EE524850A0B7FF5985240\handicap\100\forcepowers\1-1-01000000\color2\4\color1\4\ccolor1\4\char_color_red\255\char_color_green\255\char_color_blue\255\cg_predictItems\1
+12-25-2020 2: 4 (3:38): ClientUserinfoChanged: 2 n\chon\t\0\model\kyle/default\c1\4\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\Kyle\st2\none\dt\0
+12-25-2020 2: 4 (3:41): Kill: 0 2 3: astupidbot killed chon by MOD_SABER
+12-25-2020 2: 4 (3:44): ClientUserinfoChanged handling info: 2 \name\chon\ip\136.49.101.98:29070\teamoverlay\0\snaps\50\sex\male\saber2\none\saber1\Kyle\rate\25000\password\temppw\model\kyle/default\ja_guid\051864430A7EE524850A0B7FF5985240\handicap\100\forcepowers\1-1-01000000\color2\4\color1\4\ccolor1\4\char_color_red\255\char_color_green\255\char_color_blue\255\cg_predictItems\1
+12-25-2020 2: 4 (3:44): ClientUserinfoChanged: 2 n\chon\t\0\model\kyle/default\c1\4\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\Kyle\st2\none\dt\0
+12-25-2020 2: 4 (3:53): Kill: 0 2 3: astupidbot killed chon by MOD_SABER
+12-25-2020 2: 4 (3:55): ClientUserinfoChanged handling info: 2 \name\chon\ip\136.49.101.98:29070\teamoverlay\0\snaps\50\sex\male\saber2\none\saber1\Kyle\rate\25000\password\temppw\model\kyle/default\ja_guid\051864430A7EE524850A0B7FF5985240\handicap\100\forcepowers\1-1-01000000\color2\4\color1\4\ccolor1\4\char_color_red\255\char_color_green\255\char_color_blue\255\cg_predictItems\1
+12-25-2020 2: 4 (3:55): ClientUserinfoChanged: 2 n\chon\t\0\model\kyle/default\c1\4\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\Kyle\st2\none\dt\0
+12-25-2020 2: 4 (3:59): Kill: 0 2 3: astupidbot killed chon by MOD_SABER
+12-25-2020 2: 4 (4:00): ClientUserinfoChanged handling info: 2 \name\chon\ip\136.49.101.98:29070\teamoverlay\0\snaps\50\sex\male\saber2\none\saber1\Kyle\rate\25000\password\temppw\model\kyle/default\ja_guid\051864430A7EE524850A0B7FF5985240\handicap\100\forcepowers\1-1-01000000\color2\4\color1\4\ccolor1\4\char_color_red\255\char_color_green\255\char_color_blue\255\cg_predictItems\1
+12-25-2020 2: 4 (4:00): ClientUserinfoChanged: 2 n\chon\t\0\model\kyle/default\c1\4\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\Kyle\st2\none\dt\0
+12-25-2020 2: 4 (4:03): Kill: 2 0 3: chon killed astupidbot by MOD_SABER
+12-25-2020 2: 4 (4:04): ClientUserinfoChanged handling info: 0 \team\red\skill\ 4.00\personality\botfiles/astupidbot.jkb\saber2\none\saber1\kyle\color2\4\color1\4\sex\male\model\jawa\snaps\20\rate\25000\name\astupidbot
+12-25-2020 2: 4 (4:04): ClientUserinfoChanged: 0 n\astupidbot\t\0\model\jawa\c1\4\c2\4\hc\100\w\0\l\0\skill\ 4.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-25-2020 2: 5 (4:55): Kill: 2 0 3: chon killed astupidbot by MOD_SABER
+12-25-2020 2: 5 (4:57): ClientUserinfoChanged handling info: 0 \team\red\skill\ 4.00\personality\botfiles/astupidbot.jkb\saber2\none\saber1\kyle\color2\4\color1\4\sex\male\model\jawa\snaps\20\rate\25000\name\astupidbot
+12-25-2020 2: 5 (4:57): ClientUserinfoChanged: 0 n\astupidbot\t\0\model\jawa\c1\4\c2\4\hc\100\w\0\l\0\skill\ 4.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-25-2020 2: 5 (4:59): Kill: 0 2 3: astupidbot killed chon by MOD_SABER
+12-25-2020 2: 5 (5:00): ClientUserinfoChanged handling info: 2 \name\chon\ip\136.49.101.98:29070\teamoverlay\0\snaps\50\sex\male\saber2\none\saber1\Kyle\rate\25000\password\temppw\model\kyle/default\ja_guid\051864430A7EE524850A0B7FF5985240\handicap\100\forcepowers\1-1-01000000\color2\4\color1\4\ccolor1\4\char_color_red\255\char_color_green\255\char_color_blue\255\cg_predictItems\1
+12-25-2020 2: 5 (5:00): ClientUserinfoChanged: 2 n\chon\t\0\model\kyle/default\c1\4\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\Kyle\st2\none\dt\0
+12-25-2020 2: 5 (5:04): Kill: 2 0 3: chon killed astupidbot by MOD_SABER
+12-25-2020 2: 5 (5:06): ClientUserinfoChanged handling info: 0 \team\red\skill\ 4.00\personality\botfiles/astupidbot.jkb\saber2\none\saber1\kyle\color2\4\color1\4\sex\male\model\jawa\snaps\20\rate\25000\name\astupidbot
+12-25-2020 2: 5 (5:06): ClientUserinfoChanged: 0 n\astupidbot\t\0\model\jawa\c1\4\c2\4\hc\100\w\0\l\0\skill\ 4.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-25-2020 2: 5 (5:06): say: astupidbot: Good Fight
+12-25-2020 2: 5 (5:10): Kill: 0 2 3: astupidbot killed chon by MOD_SABER
+12-25-2020 2: 5 (5:11): ClientUserinfoChanged handling info: 2 \name\chon\ip\136.49.101.98:29070\teamoverlay\0\snaps\50\sex\male\saber2\none\saber1\Kyle\rate\25000\password\temppw\model\kyle/default\ja_guid\051864430A7EE524850A0B7FF5985240\handicap\100\forcepowers\1-1-01000000\color2\4\color1\4\ccolor1\4\char_color_red\255\char_color_green\255\char_color_blue\255\cg_predictItems\1
+12-25-2020 2: 5 (5:11): ClientUserinfoChanged: 2 n\chon\t\0\model\kyle/default\c1\4\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\Kyle\st2\none\dt\0
+12-25-2020 2: 5 (5:16): Kill: 2 0 3: chon killed astupidbot by MOD_SABER
+12-25-2020 2: 5 (5:18): ClientUserinfoChanged handling info: 0 \team\red\skill\ 4.00\personality\botfiles/astupidbot.jkb\saber2\none\saber1\kyle\color2\4\color1\4\sex\male\model\jawa\snaps\20\rate\25000\name\astupidbot
+12-25-2020 2: 5 (5:18): ClientUserinfoChanged: 0 n\astupidbot\t\0\model\jawa\c1\4\c2\4\hc\100\w\0\l\0\skill\ 4.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-25-2020 2: 5 (5:18): say: astupidbot: gf
+12-25-2020 2: 6 (5:33): Kill: 0 2 3: astupidbot killed chon by MOD_SABER
+12-25-2020 2: 6 (5:37): ClientUserinfoChanged handling info: 2 \name\chon\ip\136.49.101.98:29070\teamoverlay\0\snaps\50\sex\male\saber2\none\saber1\Kyle\rate\25000\password\temppw\model\kyle/default\ja_guid\051864430A7EE524850A0B7FF5985240\handicap\100\forcepowers\1-1-01000000\color2\4\color1\4\ccolor1\4\char_color_red\255\char_color_green\255\char_color_blue\255\cg_predictItems\1
+12-25-2020 2: 6 (5:37): ClientUserinfoChanged: 2 n\chon\t\0\model\kyle/default\c1\4\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\Kyle\st2\none\dt\0
+12-25-2020 2: 6 (5:46): Kill: 2 0 3: chon killed astupidbot by MOD_SABER
+12-25-2020 2: 6 (5:47): ClientUserinfoChanged handling info: 0 \team\red\skill\ 4.00\personality\botfiles/astupidbot.jkb\saber2\none\saber1\kyle\color2\4\color1\4\sex\male\model\jawa\snaps\20\rate\25000\name\astupidbot
+12-25-2020 2: 6 (5:47): ClientUserinfoChanged: 0 n\astupidbot\t\0\model\jawa\c1\4\c2\4\hc\100\w\0\l\0\skill\ 4.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-25-2020 2:12 (11:44): Kill: 0 2 3: astupidbot killed chon by MOD_SABER
+12-25-2020 2:12 (11:52): ClientUserinfoChanged handling info: 2 \name\chon\ip\136.49.101.98:29070\teamoverlay\0\snaps\50\sex\male\saber2\none\saber1\Kyle\rate\25000\password\temppw\model\kyle/default\ja_guid\051864430A7EE524850A0B7FF5985240\handicap\100\forcepowers\1-1-01000000\color2\4\color1\4\ccolor1\4\char_color_red\255\char_color_green\255\char_color_blue\255\cg_predictItems\1
+12-25-2020 2:12 (11:52): ClientUserinfoChanged: 2 n\chon\t\0\model\kyle/default\c1\4\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\Kyle\st2\none\dt\0
+12-25-2020 2:12 (11:54): Kill: 2 0 3: chon killed astupidbot by MOD_SABER
+12-25-2020 2:12 (11:55): ClientUserinfoChanged handling info: 0 \team\red\skill\ 4.00\personality\botfiles/astupidbot.jkb\saber2\none\saber1\kyle\color2\4\color1\4\sex\male\model\jawa\snaps\20\rate\25000\name\astupidbot
+12-25-2020 2:12 (11:55): ClientUserinfoChanged: 0 n\astupidbot\t\0\model\jawa\c1\4\c2\4\hc\100\w\0\l\0\skill\ 4.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-25-2020 2:12 (11:58): Kill: 0 2 3: astupidbot killed chon by MOD_SABER
+12-25-2020 2:12 (12:01): ClientUserinfoChanged handling info: 2 \name\chon\ip\136.49.101.98:29070\teamoverlay\0\snaps\50\sex\male\saber2\none\saber1\Kyle\rate\25000\password\temppw\model\kyle/default\ja_guid\051864430A7EE524850A0B7FF5985240\handicap\100\forcepowers\1-1-01000000\color2\4\color1\4\ccolor1\4\char_color_red\255\char_color_green\255\char_color_blue\255\cg_predictItems\1
+12-25-2020 2:12 (12:01): ClientUserinfoChanged: 2 n\chon\t\0\model\kyle/default\c1\4\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\Kyle\st2\none\dt\0
+12-25-2020 2:12 (12:11): Kill: 0 2 3: astupidbot killed chon by MOD_SABER
+12-25-2020 2:12 (12:14): ClientUserinfoChanged handling info: 2 \name\chon\ip\136.49.101.98:29070\teamoverlay\0\snaps\50\sex\male\saber2\none\saber1\Kyle\rate\25000\password\temppw\model\kyle/default\ja_guid\051864430A7EE524850A0B7FF5985240\handicap\100\forcepowers\1-1-01000000\color2\4\color1\4\ccolor1\4\char_color_red\255\char_color_green\255\char_color_blue\255\cg_predictItems\1
+12-25-2020 2:12 (12:14): ClientUserinfoChanged: 2 n\chon\t\0\model\kyle/default\c1\4\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\Kyle\st2\none\dt\0
+12-25-2020 2:12 (12:25): Kill: 0 2 3: astupidbot killed chon by MOD_SABER
+12-25-2020 2:12 (12:27): say: astupidbot: ^0Good ^1Fight
+12-25-2020 2:12 (12:28): ClientUserinfoChanged handling info: 2 \name\chon\ip\136.49.101.98:29070\teamoverlay\0\snaps\50\sex\male\saber2\none\saber1\Kyle\rate\25000\password\temppw\model\kyle/default\ja_guid\051864430A7EE524850A0B7FF5985240\handicap\100\forcepowers\1-1-01000000\color2\4\color1\4\ccolor1\4\char_color_red\255\char_color_green\255\char_color_blue\255\cg_predictItems\1
+12-25-2020 2:12 (12:28): ClientUserinfoChanged: 2 n\chon\t\0\model\kyle/default\c1\4\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\Kyle\st2\none\dt\0
+12-25-2020 2:13 (12:42): Kill: 2 0 3: chon killed astupidbot by MOD_SABER
+12-25-2020 2:13 (12:44): ClientUserinfoChanged handling info: 0 \team\red\skill\ 4.00\personality\botfiles/astupidbot.jkb\saber2\none\saber1\kyle\co12-25-2020 2:16 (0:00): ------------------------------------------------------------
+12-25-2020 2:16 (0:00): InitGame: \version\JAmp: v1.0.1.0 linux-i386 Mar 14 2020\timelimit\45\sv_privateClients\0\sv_minRate\0\sv_minPing\0\sv_maxclients\32\sv_maxRate\0\sv_maxPing\999\sv_hostname\^7~^1~^7~ COMM SERVER ~^1~^7~\sv_fps\50\sv_floodProtectSlow\1\sv_floodProtect\1\sv_autoDemo\0\sv_allowDownload\0\protocol\26\mapname\mp/duel5\g_weaponDisable\0\g_stepSlideFix\0\g_siegeTeamSwitch\1\g_siegeTeam2\none\g_siegeTeam1\none\g_siegeRespawn\20\g_showDuelHealths\1\g_saberLocking\0\g_privateDuel\1535\g_noSpecMove\0\g_needpass\0\g_maxHolocronCarry\3\g_maxGameClients\0\g_maxForceRank\7\g_jediVmerc\0\g_gametype\0\g_gamemode\0\g_forceRegenTime\160\g_forcePowerDisable\0\g_forceBasedTeams\1\g_duelWeaponDisable\9\g_debugmelee\1\g_allowNPC\1\fraglimit\0\duel_fraglimit\10\dmflags\0\capturelimit\10\gamename\Lugormod\Lugormod_Version\U#-0.0.0.91 Alpha\serveruptime\0\g_saberWallDamageScale\0.4\bg_fighterAltControl\0
+12-25-2020 2:16 (0:08): ClientConnect: 0
+12-25-2020 2:16 (0:08): ClientUserinfoChanged handling info: 0 \ip\136.49.101.98:29070\challenge\1054035117\qport\15844\protocol\26\snaps\40\sex\male\saber2\none\saber1\Kyle\rate\4000\name\^3chains\model\kyle/default\ja_guid\051864430A7EE524850A0B7FF5985240\handicap\100\forcepowers\7-1-032330000000001333\color2\4\color1\4\char_color_red\255\char_color_green\255\char_color_blue\255\cg_predictItems\1
+12-25-2020 2:16 (0:08): ClientUserinfoChanged: 0 n\^3chains\t\0\model\kyle/default\c1\4\c2\4\hc\0\w\0\l\0\tt\0\tl\0\st\\st2\\dt\0
+12-25-2020 2:16 (0:08): IP: 136.49.101.98 ^3chains
+12-25-2020 2:16 (0:13): ClientUserinfoChanged handling info: 0 \ip\136.49.101.98:29070\snaps\50\sex\male\saber2\none\saber1\Kyle\rate\25000\name\chon\model\kyle/default\ja_guid\051864430A7EE524850A0B7FF5985240\handicap\100\forcepowers\1-1-010000000000000100\color2\4\color1\4\char_color_red\255\char_color_green\255\char_color_blue\255\cg_predictItems\1\teamoverlay\0
+12-25-2020 2:16 (0:13): ClientUserinfoChanged: 0 n\^3chains\t\0\model\kyle/default\c1\4\c2\4\hc\0\w\0\l\0\tt\0\tl\0\st\Kyle\st2\none\dt\0
+12-25-2020 2:16 (0:13): ClientUserinfoChanged handling info: 0 \ip\136.49.101.98:29070\snaps\50\sex\male\saber2\none\saber1\Kyle\rate\25000\name\chon\model\kyle/default\ja_guid\051864430A7EE524850A0B7FF5985240\handicap\100\forcepowers\1-1-010000000000000100\color2\4\color1\4\char_color_red\255\char_color_green\255\char_color_blue\255\cg_predictItems\1\teamoverlay\0
+12-25-2020 2:16 (0:13): ClientUserinfoChanged: 0 n\^3chains\t\0\model\kyle/default\c1\4\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\Kyle\st2\none\dt\0
+12-25-2020 2:16 (0:13): ClientBegin: 0
+12-25-2020 2:16 (0:30): ClientConnect: 1
+12-25-2020 2:16 (0:30): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/astupidbot.jkb\saber2\none\saber1\kyle\color2\4\color1\4\sex\male\model\jawa\snaps\20\rate\25000\name\astupidbot
+12-25-2020 2:16 (0:30): ClientUserinfoChanged: 1 n\astupidbot\t\0\model\jawa\c1\4\c2\4\hc\0\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\\st2\\dt\0\sdt\0
+12-25-2020 2:16 (0:30): IP: localhost astupidbot
+12-25-2020 2:16 (0:30): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/astupidbot.jkb\saber2\none\saber1\kyle\color2\4\color1\4\sex\male\model\jawa\snaps\20\rate\25000\name\astupidbot
+12-25-2020 2:16 (0:30): ClientUserinfoChanged: 1 n\astupidbot\t\0\model\jawa\c1\4\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-25-2020 2:16 (0:30): ClientBegin: 1
+12-25-2020 2:17 (1:15): Kill: 1 0 3: astupidbot killed ^3chains by MOD_SABER
+12-25-2020 2:17 (1:16): ClientUserinfoChanged handling info: 0 \ip\136.49.101.98:29070\snaps\50\sex\male\saber2\none\saber1\Kyle\rate\25000\name\chon\model\kyle/default\ja_guid\051864430A7EE524850A0B7FF5985240\handicap\100\forcepowers\1-1-010000000000000100\color2\4\color1\4\char_color_red\255\char_color_green\255\char_color_blue\255\cg_predictItems\1\teamoverlay\0
+12-25-2020 2:17 (1:16): ClientUserinfoChanged: 0 n\^3chains\t\0\model\kyle/default\c1\4\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\Kyle\st2\none\dt\0
+12-25-2020 2:17 (1:25): ClientUserinfoChanged handling info: 0 \ip\136.49.101.98:29070\teamoverlay\0\snaps\50\sex\male\saber2\none\saber1\Kyle\rate\25000\name\chon\model\kyle/default\ja_guid\051864430A7EE524850A0B7FF5985240\handicap\100\forcepowers\7-1-032330000000001333\color2\4\color1\4\char_color_red\255\char_color_green\255\char_color_blue\255\cg_predictItems\1
+12-25-2020 2:17 (1:25): ClientUserinfoChanged: 0 n\^3chains\t\0\model\kyle/default\c1\4\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\Kyle\st2\none\dt\0
+12-25-2020 2:17 (1:28): Kill: 0 0 39: ^3chains killed ^3chains by MOD_SUICIDE
+12-25-2020 2:17 (1:29): ClientUserinfoChanged handling info: 0 \ip\136.49.101.98:29070\teamoverlay\0\snaps\50\sex\male\saber2\none\saber1\Kyle\rate\25000\name\chon\model\kyle/default\ja_guid\051864430A7EE524850A0B7FF5985240\handicap\100\forcepowers\7-1-032330000000001333\color2\4\color1\4\char_color_red\255\char_color_green\255\char_color_blue\255\cg_predictItems\1
+12-25-2020 2:17 (1:29): ClientUserinfoChanged: 0 n\^3chains\t\0\model\kyle/default\c1\4\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\Kyle\st2\none\dt\0
+12-25-2020 2:18 (1:52): Kill: 0 1 3: ^3chains killed astupidbot by MOD_SABER
+12-25-2020 2:18 (1:54): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/astupidbot.jkb\saber2\none\saber1\kyle\color2\4\color1\4\sex\male\model\jawa\snaps\20\rate\25000\name\astupidbot
+12-25-2020 2:18 (1:54): ClientUserinfoChanged: 1 n\astupidbot\t\0\model\jawa\c1\4\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-25-2020 2:18 (1:54): say: astupidbot: Good Fight
+12-25-2020 2:18 (2:01): ClientUserinfoChanged handling info: 0 \ip\136.49.101.98:29070\teamoverlay\0\snaps\50\sex\male\saber2\none\saber1\Kyle\rate\25000\name\chon\model\kyle/default\ja_guid\051864430A7EE524850A0B7FF5985240\handicap\100\forcepowers\7-1-032330000000001333\color2\4\color1\4\char_color_red\255\char_color_green\255\char_color_blue\255\cg_predictItems\1
+12-25-2020 2:18 (2:01): ClientNamechange: ^3chains is now chon
+12-25-2020 2:18 (2:01): ClientUserinfoChanged: 0 n\chon\t\0\model\kyle/default\c1\4\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\Kyle\st2\none\dt\0
+12-25-2020 2:18 (2:02): ClientUserinfoChanged handling info: 0 \name\chon\ip\136.49.101.98:29070\teamoverlay\0\snaps\50\sex\male\saber2\none\saber1\Kyle\rate\25000\model\kyle/default\ja_guid\051864430A7EE524850A0B7FF5985240\handicap\100\forcep032330000000001333\color2\4\color1\4\ccolor1\4\char_color_red\255\char_color_green\255\char_color_blue\255\cg_predictItems\1
+12-25-2020 2:18 (2:02): ClientUserinfoChanged: 0 n\chon\t\0\model\kyle/default\c1\\c2\\hc\100\w\0\l\0\tt\0\tl\0\st\Kyle\st2\none\dt\0
+12-25-2020 2:18 (2:26): Kill: 0 1 3: chon killed astupidbot by MOD_SABER
+12-25-2020 2:18 (2:27): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/astupidbot.jkb\saber2\none\saber1\kyle\color2\4\color1\4\sex\male\model\jawa\snaps\20\rate\25000\name\astupidbot
+12-25-2020 2:18 (2:27): ClientUserinfoChanged: 1 n\astupidbot\t\0\model\jawa\c1\4\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-25-2020 2:19 (3:36): Kill: 1022 1 41: <world> killed astupidbot by MOD_TRIGGER_HURT
+12-25-2020 2:19 (3:37): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/astupidbot.jkb\saber2\none\saber1\kyle\color2\4\color1\4\sex\male\model\jawa\snaps\20\rate\25000\name\astupidbot
+12-25-2020 2:19 (3:37): ClientUserinfoChanged: 1 n\astupidbot\t\0\model\jawa\c1\4\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-25-2020 2:20 (4:18): Kill: 0 1 3: chon killed astupidbot by MOD_SABER
+12-25-2020 2:20 (4:20): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/astupidbot.jkb\saber2\none\saber1\kyle\color2\4\color1\4\sex\male\model\jawa\snaps\20\rate\25000\name\astupidbot
+12-25-2020 2:20 (4:20): ClientUserinfoChanged: 1 n\astupidbot\t\0\model\jawa\c1\4\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-25-2020 2:21 (4:54): Kill: 1 0 3: astupidbot killed chon by MOD_SABER
+12-25-2020 2:21 (4:55): ClientUserinfoChanged handling info: 0 \name\chon\ip\136.49.101.98:29070\teamoverlay\0\snaps\50\sex\male\saber2\none\saber1\Kyle\rate\25000\model\kyle/default\ja_guid\051864430A7EE524850A0B7FF5985240\handicap\100\forcep032330000000001333\color2\4\color1\4\ccolor1\4\char_color_red\255\char_color_green\255\char_color_blue\255\cg_predictItems\1
+12-25-2020 2:21 (4:55): ClientUserinfoChanged: 0 n\chon\t\0\model\kyle/default\c1\\c2\\hc\100\w\0\l\0\tt\0\tl\0\st\Kyle\st2\none\dt\0
+12-25-2020 2:21 (5:06): ClientDisconnect: 0
+12-25-2020 2:21 (5:19): ClientConnect: 0
+12-25-2020 2:21 (5:19): ClientUserinfoChanged handling info: 0 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+12-25-2020 2:21 (5:19): ClientUserinfoChanged: 0 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\0\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\\st2\\dt\0\sdt\0
+12-25-2020 2:21 (5:19): ClientUserinfoChanged handling info: 0 \name\Kyle\team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000
+12-25-2020 2:21 (5:19): ClientUserinfoChanged: 0 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\0\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\\st2\\dt\0\sdt\0
+12-25-2020 2:21 (5:19): IP: localhost Kyle
+12-25-2020 2:21 (5:19): ClientUserinfoChanged handling info: 0 \name\Kyle\team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000
+12-25-2020 2:21 (5:19): ClientUserinfoChanged: 0 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\0\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\\st2\\dt\0\sdt\0
+12-25-2020 2:21 (5:19): ClientUserinfoChanged handling info: 0 \name\Kyle\team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000
+12-25-2020 2:21 (5:19): ClientUserinfoChanged: 0 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-25-2020 2:21 (5:19): ClientBegin: 0
+12-25-2020 3: 1 (45:00): Exit: Timelimit hit.
+12-25-2020 3: 1 (45:00): score: 1  ping: 57  client: 1 astupidbot
+12-25-2020 3: 1 (45:00): score: 0  ping: 47  client: 0 Kyle
+12-25-2020 18:22 (966:19): ClientConnect: 2
+12-25-2020 18:22 (966:19): ClientUserinfoChanged handling info: 2 \ip\179.220.242.65:29070\challenge\1327732097\qport\40946\protocol\26\name\Padawan\rate\4000\snaps\20\model\jedi_hm/head_b1|torso_a1|lower_a1\forcepowers\7-1-030000000000000120\color1\4\color2\4\handicap\100\sex\male\cg_predictItems\1\saber1\single_1\saber2\none\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+12-25-2020 18:22 (966:19): ClientUserinfoChanged: 2 n\Padawan\t\0\model\jedi_hm/head_b1|torso_a1|lower_a1\c1\4\c2\4\hc\0\w\0\l\0\tt\0\tl\0\st\\st2\\dt\0
+12-25-2020 18:22 (966:19): IP: 179.220.242.65 Padawan
+12-25-2020 18:22 (966:25): ClientUserinfoChanged handling info: 2 \ip\179.220.242.65:29070\name\Padawan\rate\4000\snaps\20\model\bespin_cop/default\forcepowers\6-1-030330000000000333\color1\4\color2\4\handicap\100\sex\male\cg_predictItems\1\saber1\single_1\saber2\none\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+12-25-2020 18:22 (966:25): ClientUserinfoChanged: 2 n\Padawan\t\0\model\bespin_cop/default\c1\4\c2\4\hc\0\w\0\l\0\tt\0\tl\0\st\single_1\st2\none\dt\0
+12-25-2020 18:22 (966:25): ClientUserinfoChanged handling info: 2 \ip\179.220.242.65:29070\name\Padawan\rate\4000\snaps\20\model\bespin_cop/default\forcepowers\6-1-030330000000000333\color1\4\color2\4\handicap\100\sex\male\cg_predictItems\1\saber1\single_1\saber2\none\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+12-25-2020 18:22 (966:25): ClientUserinfoChanged: 2 n\Padawan\t\0\model\bespin_cop/default\c1\4\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\single_1\st2\none\dt\0
+12-25-2020 18:22 (966:25): ClientBegin: 2
+12-25-2020 18:22 (966:27): ShutdownGame:
+12-25-2020 18:22 (966:27): ------------------------------------------------------------
+12-25-2020 18:22 (0:00): ------------------------------------------------------------
+12-25-2020 18:22 (0:00): InitGame: \version\JAmp: v1.0.1.0 linux-i386 Mar 14 2020\timelimit\45\sv_privateClients\0\sv_minRate\0\sv_minPing\0\sv_maxclients\32\sv_maxRate\0\sv_maxPing\999\sv_hostname\^7~^1~^7~ COMM SERVER ~^1~^7~\sv_fps\50\sv_floodProtectSlow\1\sv_floodProtect\1\sv_autoDemo\0\sv_allowDownload\0\serveruptime\16\protocol\26\mapname\mp/duel6\gamename\Lugormod\g_weaponDisable\0\g_stepSlideFix\0\g_siegeTeamSwitch\1\g_siegeTeam2\none\g_siegeTeam1\none\g_siegeRespawn\20\g_showDuelHealths\1\g_saberWallDamageScale\0.4\g_saberLocking\0\g_privateDuel\1535\g_noSpecMove\0\g_needpass\0\g_maxHolocronCarry\3\g_maxGameClients\0\g_maxForceRank\7\g_jediVmerc\0\g_gametype\0\g_gamemode\0\g_forceRegenTime\160\g_forcePowerDisable\0\g_forceBasedTeams\1\g_duelWeaponDisable\9\g_debugmelee\1\g_allowNPC\1\fs_game\lugormod\fraglimit\0\duel_fraglimit\10\dmflags\0\capturelimit\10\bot_minplayers\2\bg_fighterAltControl\0\Lugormod_Version\U#-0.0.0.91 Alpha
+12-25-2020 18:22 (0:00): ClientConnect: 0
+12-25-2020 18:22 (0:00): ClientUserinfoChanged handling info: 0 \name\Kyle\team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000
+12-25-2020 18:22 (0:00): ClientUserinfoChanged: 0 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\0\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-25-2020 18:22 (0:00): ClientUserinfoChanged handling info: 0 \name\Kyle\team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000
+12-25-2020 18:22 (0:00): ClientUserinfoChanged: 0 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\0\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-25-2020 18:22 (0:00): ClientUserinfoChanged handling info: 0 \name\Kyle\team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000
+12-25-2020 18:22 (0:00): ClientUserinfoChanged: 0 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-25-2020 18:22 (0:00): ClientBegin: 0
+12-25-2020 18:22 (0:00): ClientConnect: 1
+12-25-2020 18:22 (0:00): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/astupidbot.jkb\saber2\none\saber1\kyle\color2\4\color1\4\sex\male\model\jawa\snaps\20\rate\25000\name\astupidbot
+12-25-2020 18:22 (0:00): ClientUserinfoChanged: 1 n\astupidbot\t\0\model\jawa\c1\4\c2\4\hc\0\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-25-2020 18:22 (0:00): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/astupidbot.jkb\saber2\none\saber1\kyle\color2\4\color1\4\sex\male\model\jawa\snaps\20\rate\25000\name\astupidbot
+12-25-2020 18:22 (0:00): ClientUserinfoChanged: 1 n\astupidbot\t\0\model\jawa\c1\4\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-25-2020 18:22 (0:00): ClientBegin: 1
+12-25-2020 18:22 (0:00): ClientConnect: 2
+12-25-2020 18:22 (0:00): ClientUserinfoChanged handling info: 2 \ip\179.220.242.65:29070\name\Padawan\rate\4000\snaps\20\model\bespin_cop/default\forcepowers\6-1-030330000000000333\color1\4\color2\4\handicap\100\sex\male\cg_predictItems\1\saber1\single_1\saber2\none\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+12-25-2020 18:22 (0:00): ClientUserinfoChanged: 2 n\Padawan\t\0\model\bespin_cop/default\c1\4\c2\4\hc\0\w\0\l\0\tt\0\tl\0\st\single_1\st2\none\dt\0
+12-25-2020 18:22 (0:02): ClientDisconnect: 2
+12-25-2020 18:22 (0:09): ClientConnect: 2
+12-25-2020 18:22 (0:09): ClientUserinfoChanged handling info: 2 \ip\179.220.242.65:29070\challenge\-229950578\qport\40946\protocol\26\name\Padawan\rate\4000\snaps\20\model\bespin_cop/default\forcepowers\6-1-030330000000000333\color1\4\color2\4\handicap\100\sex\male\cg_predictItems\1\saber1\single_1\saber2\none\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+12-25-2020 18:22 (0:09): ClientUserinfoChanged: 2 n\Padawan\t\0\model\bespin_cop/default\c1\4\c2\4\hc\0\w\0\l\0\tt\0\tl\0\st\\st2\\dt\0
+12-25-2020 18:22 (0:09): IP: 179.220.242.65 Padawan
+12-25-2020 18:22 (0:14): ClientUserinfoChanged handling info: 2 \ip\179.220.242.65:29070\name\Padawan\rate\4000\snaps\20\model\bespin_cop/default\forcepowers\6-1-030330000000000333\color1\4\color2\4\handicap\100\sex\male\cg_predictItems\1\saber1\single_1\saber2\none\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+12-25-2020 18:22 (0:14): ClientUserinfoChanged: 2 n\Padawan\t\0\model\bespin_cop/default\c1\4\c2\4\hc\0\w\0\l\0\tt\0\tl\0\st\single_1\st2\none\dt\0
+12-25-2020 18:22 (0:14): ClientUserinfoChanged handling info: 2 \ip\179.220.242.65:29070\name\Padawan\rate\4000\snaps\20\model\bespin_cop/default\forcepowers\6-1-030330000000000333\color1\4\color2\4\handicap\100\sex\male\cg_predictItems\1\saber1\single_1\saber2\none\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+12-25-2020 18:22 (0:14): ClientUserinfoChanged: 2 n\Padawan\t\0\model\bespin_cop/default\c1\4\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\single_1\st2\none\dt\0
+12-25-2020 18:22 (0:14): ClientBegin: 2
+12-25-2020 18:23 (0:30): say: Kyle: bye all
+12-25-2020 18:23 (0:30): ClientDisconnect: 0
+12-25-2020 18:23 (0:40): Kill: 1 2 3: astupidbot killed Padawan by MOD_SABER
+12-25-2020 18:23 (0:42): ClientUserinfoChanged handling info: 2 \ip\179.220.242.65:29070\name\Padawan\rate\4000\snaps\20\model\bespin_cop/default\forcepowers\6-1-030330000000000333\color1\4\color2\4\handicap\100\sex\male\cg_predictItems\1\saber1\single_1\saber2\none\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+12-25-2020 18:23 (0:42): ClientUserinfoChanged: 2 n\Padawan\t\0\model\bespin_cop/default\c1\4\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\single_1\st2\none\dt\0
+12-25-2020 18:24 (1:28): Kill: 1 2 3: astupidbot killed Padawan by MOD_SABER
+12-25-2020 18:24 (1:30): ClientUserinfoChanged handling info: 2 \ip\179.220.242.65:29070\name\Padawan\rate\4000\snaps\20\model\bespin_cop/default\forcepowers\6-1-030330000000000333\color1\4\color2\4\handicap\100\sex\male\cg_predictItems\1\saber1\single_1\saber2\none\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+12-25-2020 18:24 (1:30): ClientUserinfoChanged: 2 n\Padawan\t\0\model\bespin_cop/default\c1\4\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\single_1\st2\none\dt\0
+12-25-2020 18:24 (2:02): ClientUserinfoChanged handling info: 2 \ip\179.220.242.65:29070\name\Padawan\rate\4000\snaps\20\model\bespin_cop/default\forcepowers\7-1-333003000310003120\color1\4\color2\4\handicap\100\sex\male\cg_predictItems\1\saber1\single_1\saber2\none\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+12-25-2020 18:24 (2:02): ClientUserinfoChanged: 2 n\Padawan\t\0\model\bespin_cop/default\c1\4\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\single_1\st2\none\dt\0
+12-25-2020 18:24 (2:12): Kill: 2 1 3: Padawan killed astupidbot by MOD_SABER
+12-25-2020 18:24 (2:13): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/astupidbot.jkb\saber2\none\saber1\kyle\color2\4\color1\4\sex\male\model\jawa\snaps\20\rate\25000\name\astupidbot
+12-25-2020 18:24 (2:13): ClientUserinfoChanged: 1 n\astupidbot\t\0\model\jawa\c1\4\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-25-2020 18:25 (3:14): Kill: 1 2 3: astupidbot killed Padawan by MOD_SABER
+12-25-2020 18:25 (3:16): ClientUserinfoChanged handling info: 2 \ip\179.220.242.65:29070\name\Padawan\rate\4000\snaps\20\model\bespin_cop/default\forcepowers\7-1-333003000310003120\color1\4\color2\4\handicap\100\sex\male\cg_predictItems\1\saber1\single_1\saber2\none\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+12-25-2020 18:25 (3:16): ClientUserinfoChanged: 2 n\Padawan\t\0\model\bespin_cop/default\c1\4\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\single_1\st2\none\dt\0
+12-25-2020 18:25 (3:16): say: astupidbot: hehe!
+12-25-2020 18:26 (3:42): Kill: 1 2 3: astupidbot killed Padawan by MOD_SABER
+12-25-2020 18:26 (3:43): ClientUserinfoChanged handling info: 2 \ip\179.220.242.65:29070\name\Padawan\rate\4000\snaps\20\model\bespin_cop/default\forcepowers\7-1-333003000310003120\color1\4\color2\4\handicap\100\sex\male\cg_predictItems\1\saber1\single_1\saber2\none\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+12-25-2020 18:26 (3:43): ClientUserinfoChanged: 2 n\Padawan\t\0\model\bespin_cop/default\c1\4\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\single_1\st2\none\dt\0
+12-25-2020 18:26 (4:11): Kill: 2 1 3: Padawan killed astupidbot by MOD_SABER
+12-25-2020 18:26 (4:12): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/astupidbot.jkb\saber2\none\saber1\kyle\color2\4\color1\4\sex\male\model\jawa\snaps\20\rate\25000\name\astupidbot
+12-25-2020 18:26 (4:12): ClientUserinfoChanged: 1 n\astupidbot\t\0\model\jawa\c1\4\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-25-2020 18:27 (5:06): Kill: 1 2 3: astupidbot killed Padawan by MOD_SABER
+12-25-2020 18:27 (5:07): ClientUserinfoChanged handling info: 2 \ip\179.220.242.65:29070\name\Padawan\rate\4000\snaps\20\model\bespin_cop/default\forcepowers\7-1-333003000310003120\color1\4\color2\4\handicap\100\sex\male\cg_predictItems\1\saber1\single_1\saber2\none\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+12-25-2020 18:27 (5:07): ClientUserinfoChanged: 2 n\Padawan\t\0\model\bespin_cop/default\c1\4\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\single_1\st2\none\dt\0
+12-25-2020 18:29 (6:52): Kill: 1 2 3: astupidbot killed Padawan by MOD_SABER
+12-25-2020 18:29 (6:53): ClientUserinfoChanged handling info: 2 \ip\179.220.242.65:29070\name\Padawan\rate\4000\snaps\20\model\bespin_cop/default\forcepowers\7-1-333003000310003120\color1\4\color2\4\handicap\100\sex\male\cg_predictItems\1\saber1\single_1\saber2\none\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+12-25-2020 18:29 (6:53): ClientUserinfoChanged: 2 n\Padawan\t\0\model\bespin_cop/default\c1\4\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\single_1\st2\none\dt\0
+12-25-2020 18:30 (7:28): Kill: 1 2 3: astupidbot killed Padawan by MOD_SABER
+12-25-2020 18:30 (7:29): ClientUserinfoChanged handling info: 2 \ip\179.220.242.65:29070\name\Padawan\rate\4000\snaps\20\model\bespin_cop/default\forcepowers\7-1-333003000310003120\color1\4\color2\4\handicap\100\sex\male\cg_predictItems\1\saber1\single_1\saber2\none\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+12-25-2020 18:30 (7:29): ClientUserinfoChanged: 2 n\Padawan\t\0\model\bespin_cop/default\c1\4\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\single_1\st2\none\dt\0
+12-25-2020 18:31 (8:18): Kill: 1 2 3: astupidbot killed Padawan by MOD_SABER
+12-25-2020 18:31 (8:19): ClientUserinfoChanged handling info: 2 \ip\179.220.242.65:29070\name\Padawan\rate\4000\snaps\20\model\bespin_cop/default\forcepowers\7-1-333003000310003120\color1\4\color2\4\handicap\100\sex\male\cg_predictItems\1\saber1\single_1\saber2\none\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+12-25-2020 18:31 (8:19): ClientUserinfoChanged: 2 n\Padawan\t\0\model\bespin_cop/default\c1\4\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\single_1\st2\none\dt\0
+12-25-2020 18:31 (8:36): Kill: 2 1 6: Padawan killed astupidbot by MOD_BLASTER
+12-25-2020 18:31 (8:37): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/astupidbot.jkb\saber2\none\saber1\kyle\color2\4\color1\4\sex\male\model\jawa\snaps\20\rate\25000\name\astupidbot
+12-25-2020 18:31 (8:37): ClientUserinfoChanged: 1 n\astupidbot\t\0\model\jawa\c1\4\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-25-2020 18:31 (9:02): Kill: 1 2 3: astupidbot killed Padawan by MOD_SABER
+12-25-2020 18:31 (9:04): ClientUserinfoChanged handling info: 2 \ip\179.220.242.65:29070\name\Padawan\rate\4000\snaps\20\model\bespin_cop/default\forcepowers\7-1-333003000310003120\color1\4\color2\4\handicap\100\sex\male\cg_predictItems\1\saber1\single_1\saber2\none\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+12-25-2020 18:31 (9:04): ClientUserinfoChanged: 2 n\Padawan\t\0\model\bespin_cop/default\c1\4\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\single_1\st2\none\dt\0
+12-25-2020 18:32 (9:30): Kill: 1 2 3: astupidbot killed Padawan by MOD_SABER
+12-25-2020 18:32 (9:31): ClientUserinfoChanged handling info: 2 \ip\179.220.242.65:29070\name\Padawan\rate\4000\snaps\20\model\bespin_cop/default\forcepowers\7-1-333003000310003120\color1\4\color2\4\handicap\100\sex\male\cg_predictItems\1\saber1\single_1\saber2\none\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+12-25-2020 18:32 (9:31): ClientUserinfoChanged: 2 n\Padawan\t\0\model\bespin_cop/default\c1\4\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\single_1\st2\none\dt\0
+12-25-2020 18:32 (10:07): Kill: 2 1 3: Padawan killed astupidbot by MOD_SABER
+12-25-2020 18:32 (10:08): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/astupidbot.jkb\saber2\none\saber1\kyle\color2\4\color1\4\sex\male\model\jawa\snaps\20\rate\25000\name\astupidbot
+12-25-2020 18:32 (10:08): ClientUserinfoChanged: 1 n\astupidbot\t\0\model\jawa\c1\4\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-25-2020 18:33 (10:44): Kill: 1 2 3: astupidbot killed Padawan by MOD_SABER
+12-25-2020 18:33 (10:45): ClientUserinfoChanged handling info: 2 \ip\179.220.242.65:29070\name\Padawan\rate\4000\snaps\20\model\bespin_cop/default\forcepowers\7-1-333003000310003120\color1\4\color2\4\handicap\100\sex\male\cg_predictItems\1\saber1\single_1\saber2\none\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+12-25-2020 18:33 (10:45): ClientUserinfoChanged: 2 n\Padawan\t\0\model\bespin_cop/default\c1\4\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\single_1\st2\none\dt\0
+12-25-2020 18:33 (10:46): say: astupidbot: Good Fight
+12-25-2020 18:33 (10:49): say: Padawan: gg
+12-25-2020 18:33 (11:15): Kill: 1 2 3: astupidbot killed Padawan by MOD_SABER
+12-25-2020 18:34 (11:18): ClientUserinfoChanged handling info: 2 \ip\179.220.242.65:29070\name\Padawan\rate\4000\snaps\20\model\bespin_cop/default\forcepowers\7-1-333003000310003120\color1\4\color2\4\handicap\100\sex\male\cg_predictItems\1\saber1\single_1\saber2\none\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+12-25-2020 18:34 (11:18): ClientUserinfoChanged: 2 n\Padawan\t\0\model\bespin_cop/default\c1\4\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\single_1\st2\none\dt\0
+12-25-2020 18:34 (11:48): Kill: 2 1 4: Padawan killed astupidbot by MOD_BRYAR_PISTOL
+12-25-2020 18:34 (11:49): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/astupidbot.jkb\saber2\none\saber1\kyle\color2\4\color1\4\sex\male\model\jawa\snaps\20\rate\25000\name\astupidbot
+12-25-2020 18:34 (11:49): ClientUserinfoChanged: 1 n\astupidbot\t\0\model\jawa\c1\4\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-25-2020 18:35 (12:19): say: Padawan: e
+12-25-2020 18:36 (13:19): Kill: 1 2 3: astupidbot killed Padawan by MOD_SABER
+12-25-2020 18:36 (13:20): ClientUserinfoChanged handling info: 2 \ip\179.220.242.65:29070\name\Padawan\rate\4000\snaps\20\model\bespin_cop/default\forcepowers\7-1-333003000310003120\color1\4\color2\4\handicap\100\sex\male\cg_predictItems\1\saber1\single_1\saber2\none\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+12-25-2020 18:36 (13:20): ClientUserinfoChanged: 2 n\Padawan\t\0\model\bespin_cop/default\c1\4\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\single_1\st2\none\dt\0
+12-25-2020 18:36 (14:10): Kill: 1 2 3: astupidbot killed Padawan by MOD_SABER
+12-25-2020 18:36 (14:11): ClientUserinfoChanged handling info: 2 \ip\179.220.242.65:29070\name\Padawan\rate\4000\snaps\20\model\bespin_cop/default\forcepowers\7-1-333003000310003120\color1\4\color2\4\handicap\100\sex\male\cg_predictItems\1\saber1\single_1\saber2\none\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+12-25-2020 18:36 (14:11): ClientUserinfoChanged: 2 n\Padawan\t\0\model\bespin_cop/default\c1\4\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\single_1\st2\none\dt\0
+12-25-2020 18:36 (14:12): say: astupidbot: hehe!
+12-25-2020 18:37 (14:27): Kill: 2 1 3: Padawan killed astupidbot by MOD_SABER
+12-25-2020 18:37 (14:28): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/astupidbot.jkb\saber2\none\saber1\kyle\color2\4\color1\4\sex\male\model\jawa\snaps\20\rate\25000\name\astupidbot
+12-25-2020 18:37 (14:28): ClientUserinfoChanged: 1 n\astupidbot\t\0\model\jawa\c1\4\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-25-2020 18:37 (14:28): say: astupidbot: gf
+12-25-2020 18:37 (14:36): say: Padawan: i have a jetpack now
+12-25-2020 18:38 (15:21): Kill: 1 2 3: astupidbot killed Padawan by MOD_SABER
+12-25-2020 18:38 (15:23): ClientUserinfoChanged handling info: 2 \ip\179.220.242.65:29070\name\Padawan\rate\4000\snaps\20\model\bespin_cop/default\forcepowers\7-1-333003000310003120\color1\4\color2\4\handicap\100\sex\male\cg_predictItems\1\saber1\single_1\saber2\none\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+12-25-2020 18:38 (15:23): ClientUserinfoChanged: 2 n\Padawan\t\0\model\bespin_cop/default\c1\4\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\single_1\st2\none\dt\0
+12-25-2020 18:38 (15:38): Kill: 1 2 3: astupidbot killed Padawan by MOD_SABER
+12-25-2020 18:38 (15:40): ClientUserinfoChanged handling info: 2 \ip\179.220.242.65:29070\name\Padawan\rate\4000\snaps\20\model\bespin_cop/default\forcepowers\7-1-333003000310003120\color1\4\color2\4\handicap\100\sex\male\cg_predictItems\1\saber1\single_1\saber2\none\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+12-25-2020 18:38 (15:40): ClientUserinfoChanged: 2 n\Padawan\t\0\model\bespin_cop/default\c1\4\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\single_1\st2\none\dt\0
+12-25-2020 18:38 (15:58): Kill: 1 2 3: astupidbot killed Padawan by MOD_SABER
+12-25-2020 18:38 (15:59): ClientUserinfoChanged handling info: 2 \ip\179.220.242.65:29070\name\Padawan\rate\4000\snaps\20\model\bespin_cop/default\forcepowers\7-1-333003000310003120\color1\4\color2\4\handicap\100\sex\male\cg_predictItems\1\saber1\single_1\saber2\none\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+12-25-2020 18:38 (15:59): ClientUserinfoChanged: 2 n\Padawan\t\0\model\bespin_cop/default\c1\4\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\single_1\st2\none\dt\0
+12-25-2020 18:38 (16:00): say: astupidbot: ^0Good ^1Fight
+12-25-2020 18:38 (16:04): say: Padawan: good fight
+12-25-2020 18:38 (16:15): Kill: 1 2 3: astupidbot killed Padawan by MOD_SABER
+12-25-2020 18:38 (16:16): ClientUserinfoChanged handling info: 2 \ip\179.220.242.65:29070\name\Padawan\rate\4000\snaps\20\model\bespin_cop/default\forcepowers\7-1-333003000310003120\color1\4\color2\4\handicap\100\sex\male\cg_predictItems\1\saber1\single_1\saber2\none\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+12-25-2020 18:38 (16:16): ClientUserinfoChanged: 2 n\Padawan\t\0\model\bespin_cop/default\c1\4\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\single_1\st2\none\dt\0
+12-25-2020 18:39 (16:36): Kill: 1 2 3: astupidbot killed Padawan by MOD_SABER
+12-25-2020 18:39 (16:37): ClientUserinfoChanged handling info: 2 \ip\179.220.242.65:29070\name\Padawan\rate\4000\snaps\20\model\bespin_cop/default\forcepowers\7-1-333003000310003120\color1\4\color2\4\handicap\100\sex\male\cg_predictItems\1\saber1\single_1\saber2\none\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+12-25-2020 18:39 (16:37): ClientUserinfoChanged: 2 n\Padawan\t\0\model\bespin_cop/default\c1\4\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\single_1\st2\none\dt\0
+12-25-2020 18:39 (16:56): ClientUserinfoChanged handling info: 2 \ip\179.220.242.65:29070\name\Padawan\rate\4000\snaps\20\model\bespin_cop/default\forcepowers\7-1-331322000200003322\color1\4\color2\4\handicap\100\sex\male\cg_predictItems\1\saber1\single_1\saber2\none\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+12-25-2020 18:39 (16:56): ClientUserinfoChanged: 2 n\Padawan\t\0\model\bespin_cop/default\c1\4\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\single_1\st2\none\dt\0
+12-25-2020 18:39 (17:10): Kill: 1 2 3: astupidbot killed Padawan by MOD_SABER
+12-25-2020 18:39 (17:11): ClientUserinfoChanged handling info: 2 \ip\179.220.242.65:29070\name\Padawan\rate\4000\snaps\20\model\bespin_cop/default\forcepowers\7-1-331322000200003322\color1\4\color2\4\handicap\100\sex\male\cg_predictItems\1\saber1\single_1\saber2\none\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+12-25-2020 18:39 (17:11): ClientUserinfoChanged: 2 n\Padawan\t\0\model\bespin_cop/default\c1\4\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\single_1\st2\none\dt\0
+12-25-2020 18:40 (17:44): Kill: 1 2 3: astupidbot killed Padawan by MOD_SABER
+12-25-2020 18:40 (17:46): ClientUserinfoChanged handling info: 2 \ip\179.220.242.65:29070\name\Padawan\rate\4000\snaps\20\model\bespin_cop/default\forcepowers\7-1-331322000200003322\color1\4\color2\4\handicap\100\sex\male\cg_predictItems\1\saber1\single_1\saber2\none\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+12-25-2020 18:40 (17:46): ClientUserinfoChanged: 2 n\Padawan\t\0\model\bespin_cop/default\c1\4\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\single_1\st2\none\dt\0
+12-25-2020 18:40 (17:46): say: astupidbot: hehe!
+12-25-2020 18:40 (17:58): ClientUserinfoChanged handling info: 2 \ip\179.220.242.65:29070\name\Padawan\rate\4000\snaps\20\model\bespin_cop/default\forcepowers\7-1-332300000330003230\color1\4\color2\4\handicap\100\sex\male\cg_predictItems\1\saber1\single_1\saber2\none\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+12-25-2020 18:40 (17:58): ClientUserinfoChanged: 2 n\Padawan\t\0\model\bespin_cop/default\c1\4\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\single_1\st2\none\dt\0
+12-25-2020 18:41 (18:20): ClientUserinfoChanged handling info: 2 \ip\179.220.242.65:29070\name\Padawan\rate\4000\snaps\20\model\bespin_cop/default\forcepowers\7-1-331322000200003322\color1\4\color2\4\handicap\100\sex\male\cg_predictItems\1\saber1\single_1\saber2\none\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+12-25-2020 18:41 (18:20): ClientUserinfoChanged: 2 n\Padawan\t\0\model\bespin_cop/default\c1\4\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\single_1\st2\none\dt\0
+12-25-2020 18:41 (18:25): Kill: 2 1 3: Padawan killed astupidbot by MOD_SABER
+12-25-2020 18:41 (18:26): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/astupidbot.jkb\saber2\none\saber1\kyle\color2\4\color1\4\sex\male\model\jawa\snaps\20\rate\25000\name\astupidbot
+12-25-2020 18:41 (18:26): ClientUserinfoChanged: 1 n\astupidbot\t\0\model\jawa\c1\4\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-25-2020 18:41 (18:37): Kill: 1 2 3: astupidbot killed Padawan by MOD_SABER
+12-25-2020 18:41 (18:39): ClientUserinfoChanged handling info: 2 \ip\179.220.242.65:29070\name\Padawan\rate\4000\snaps\20\model\bespin_cop/default\forcepowers\7-1-331322000200003322\color1\4\color2\4\handicap\100\sex\male\cg_predictItems\1\saber1\single_1\saber2\none\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+12-25-2020 18:41 (18:39): ClientUserinfoChanged: 2 n\Padawan\t\0\model\bespin_cop/default\c1\4\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\single_1\st2\none\dt\0
+12-25-2020 18:41 (18:54): Kill: 1 2 3: astupidbot killed Padawan by MOD_SABER
+12-25-2020 18:41 (18:55): ClientUserinfoChanged handling info: 2 \ip\179.220.242.65:29070\name\Padawan\rate\4000\snaps\20\model\bespin_cop/default\forcepowers\7-1-331322000200003322\color1\4\color2\4\handicap\100\sex\male\cg_predictItems\1\saber1\single_1\saber2\none\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+12-25-2020 18:41 (18:55): ClientUserinfoChanged: 2 n\Padawan\t\0\model\bespin_cop/default\c1\4\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\single_1\st2\none\dt\0
+12-25-2020 18:41 (18:55): say: astupidbot: hehe!
+12-25-2020 18:41 (19:17): Kill: 1 2 3: astupidbot killed Padawan by MOD_SABER
+12-25-2020 18:42 (19:20): ClientDisconnect: 2
+12-25-2020 18:42 (19:25): ClientConnect: 0
+12-25-2020 18:42 (19:25): ClientUserinfoChanged handling info: 0 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+12-25-2020 18:42 (19:25): ClientUserinfoChanged: 0 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\0\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\\st2\\dt\0\sdt\0
+12-25-2020 18:42 (19:25): IP: localhost Kyle
+12-25-2020 18:42 (19:25): ClientUserinfoChanged handling info: 0 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+12-25-2020 18:42 (19:25): ClientUserinfoChanged: 0 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-25-2020 18:42 (19:25): ClientBegin: 0
+12-25-2020 19: 7 (45:00): Exit: Timelimit hit.
+12-25-2020 19: 7 (45:00): score: 24  ping: 44  client: 1 astupidbot
+12-25-2020 19: 7 (45:00): score: 0  ping: 48  client: 0 Kyle
+12-25-2020 23:57 (334:19): ClientConnect: 2
+12-25-2020 23:57 (334:19): ClientUserinfoChanged handling info: 2 \ip\104.32.44.176:29070\challenge\-414296334\qport\16561\protocol\26\char_color_blue\255\char_color_green\120\char_color_red\85\saber2\none\saber1\single_6\cg_predictItems\1\sex\male\handicap\100\color2\4\color1\4\forcepowers\6-1-030330000000000333\model\jedi_kdm/head_b1|torso_e1|lower_c1\snaps\20\rate\4000\name\Padawan\teamtask\0\teamoverlay\1
+12-25-2020 23:57 (334:19): ClientUserinfoChanged: 2 n\Padawan\t\0\model\jedi_kdm/head_b1|torso_e1|lower_c1\c1\4\c2\4\hc\0\w\0\l\0\tt\0\tl\0\st\\st2\\dt\0
+12-25-2020 23:57 (334:19): IP: 104.32.44.176 Padawan
+12-25-2020 23:57 (334:19): say: Kyle: Hello
+12-25-2020 23:57 (334:21): ClientConnect: 3
+12-25-2020 23:57 (334:21): ClientUserinfoChanged handling info: 3 \ip\74.213.218.3:29070\challenge\-1456886250\qport\28274\protocol\26\name\Justin Nickels\rate\4000\snaps\20\model\imperial/default\forcepowers\6-1-030330000000000333\color1\5\color2\4\handicap\100\sex\male\cg_predictItems\1\saber1\dual_4\saber2\none\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\0
+12-25-2020 23:57 (334:21): ClientUserinfoChanged: 3 n\Justin Nickels\t\0\model\imperial/default\c1\5\c2\4\hc\0\w\0\l\0\tt\0\tl\0\st\\st2\\dt\0
+12-25-2020 23:57 (334:21): IP: 74.213.218.3 Justin Nickels
+12-25-2020 23:57 (334:22): ClientConnect: 4
+12-25-2020 23:57 (334:22): ClientUserinfoChanged handling info: 4 \ip\73.94.135.217:29070\challenge\-1944567042\qport\62155\protocol\26\name\MrButton\rate\4000\snaps\20\model\imperial_worker/default\forcepowers\7-2-030000000000000330\color1\5\color2\5\handicap\100\sex\male\cg_predictItems\1\saber1\single_1\saber2\single_1\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+12-25-2020 23:57 (334:22): ClientUserinfoChanged: 4 n\MrButton\t\0\model\imperial_worker/default\c1\5\c2\5\hc\0\w\0\l\0\tt\0\tl\0\st\\st2\\dt\0
+12-25-2020 23:57 (334:22): IP: 73.94.135.217 MrButton
+12-25-2020 23:57 (334:25): ClientUserinfoChanged handling info: 2 \ip\104.32.44.176:29070\char_color_blue\255\char_color_green\120\char_color_red\85\saber2\none\saber1\single_2\cg_predictItems\1\sex\male\handicap\100\color2\4\color1\4\forcepowers\6-1-030330000000000333\model\jedi_kdm/head_b1|torso_d1|lower_c1\snaps\20\rate\4000\name\BobSaget\teamtask\0\teamoverlay\1
+12-25-2020 23:57 (334:25): ClientNamechange: Padawan is now BobSaget
+12-25-2020 23:57 (334:25): ClientUserinfoChanged: 2 n\BobSaget\t\0\model\jedi_kdm/head_b1|torso_d1|lower_c1\c1\4\c2\4\hc\0\w\0\l\0\tt\0\tl\0\st\single_2\st2\none\dt\0
+12-25-2020 23:57 (334:25): ClientUserinfoChanged handling info: 2 \ip\104.32.44.176:29070\char_color_blue\255\char_color_green\120\char_color_red\85\saber2\none\saber1\single_2\cg_predictItems\1\sex\male\handicap\100\color2\4\color1\4\forcepowers\6-1-030330000000000333\model\jedi_kdm/head_b1|torso_d1|lower_c1\snaps\20\rate\4000\name\BobSaget\teamtask\0\teamoverlay\1
+12-25-2020 23:57 (334:25): ClientUserinfoChanged: 2 n\BobSaget\t\0\model\jedi_kdm/head_b1|torso_d1|lower_c1\c1\4\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\single_2\st2\none\dt\0
+12-25-2020 23:57 (334:25): ClientBegin: 2
+12-25-2020 23:57 (334:26): ClientUserinfoChanged handling info: 4 \ip\73.94.135.217:29070\name\MrButton\rate\4000\snaps\20\model\rax_joris/default\forcepowers\6-2-033110000000001333\color1\5\color2\5\handicap\100\sex\male\cg_predictItems\1\saber1\single_1\saber2\single_1\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+12-25-2020 23:57 (334:26): ClientUserinfoChanged: 4 n\MrButton\t\0\model\rax_joris/default\c1\5\c2\5\hc\0\w\0\l\0\tt\0\tl\0\st\single_1\st2\single_1\dt\0
+12-25-2020 23:57 (334:26): ClientUserinfoChanged handling info: 4 \ip\73.94.135.217:29070\name\MrButton\rate\4000\snaps\20\model\rax_joris/default\forcepowers\6-2-033110000000001333\color1\5\color2\5\handicap\100\sex\male\cg_predictItems\1\saber1\single_1\saber2\single_1\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+12-25-2020 23:57 (334:26): ClientUserinfoChanged: 4 n\MrButton\t\0\model\rax_joris/default\c1\5\c2\5\hc\100\w\0\l\0\tt\0\tl\0\st\single_1\st2\single_1\dt\0
+12-25-2020 23:57 (334:26): ClientBegin: 4
+12-25-2020 23:57 (334:32): ClientUserinfoChanged handling info: 3 \ip\74.213.218.3:29070\name\Justin Nickels\rate\4000\snaps\20\model\imperial/default\forcepowers\6-1-030330000000000333\color1\5\color2\4\handicap\100\sex\male\cg_predictItems\1\saber1\dual_4\saber2\none\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+12-25-2020 23:57 (334:32): ClientUserinfoChanged: 3 n\Justin Nickels\t\0\model\imperial/default\c1\5\c2\4\hc\0\w\0\l\0\tt\0\tl\0\st\dual_4\st2\none\dt\0
+12-25-2020 23:57 (334:32): ClientUserinfoChanged handling info: 3 \ip\74.213.218.3:29070\name\Justin Nickels\rate\4000\snaps\20\model\imperial/default\forcepowers\6-1-030330000000000333\color1\5\color2\4\handicap\100\sex\male\cg_predictItems\1\saber1\dual_4\saber2\none\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+12-25-2020 23:57 (334:32): ClientUserinfoChanged: 3 n\Justin Nickels\t\0\model\imperial/default\c1\5\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\dual_4\st2\none\dt\0
+12-25-2020 23:57 (334:32): ClientBegin: 3
+12-25-2020 23:57 (334:42): ShutdownGame:
+12-25-2020 23:57 (334:42): ------------------------------------------------------------
+12-25-2020 23:57 (0:00): ------------------------------------------------------------
+12-25-2020 23:57 (0:00): InitGame: \version\JAmp: v1.0.1.0 linux-i386 Mar 14 2020\timelimit\45\sv_privateClients\0\sv_minRate\0\sv_minPing\0\sv_maxclients\32\sv_maxRate\0\sv_maxPing\999\sv_hostname\^7~^1~^7~ COMM SERVER ~^1~^7~\sv_fps\50\sv_floodProtectSlow\1\sv_floodProtect\1\sv_autoDemo\0\sv_allowDownload\0\serveruptime\16\protocol\26\mapname\t3_stamp\gamename\Lugormod\g_weaponDisable\0\g_stepSlideFix\0\g_siegeTeamSwitch\1\g_siegeTeam2\none\g_siegeTeam1\none\g_siegeRespawn\20\g_showDuelHealths\1\g_saberWallDamageScale\0.4\g_saberLocking\0\g_privateDuel\1535\g_noSpecMove\0\g_needpass\0\g_maxHolocronCarry\3\g_maxGameClients\0\g_maxForceRank\7\g_jediVmerc\0\g_gametype\0\g_gamemode\0\g_forceRegenTime\160\g_forcePowerDisable\0\g_forceBasedTeams\1\g_duelWeaponDisable\9\g_debugmelee\1\g_allowNPC\1\fs_game\lugormod\fraglimit\0\duel_fraglimit\10\dmflags\0\capturelimit\10\bot_minplayers\2\bg_fighterAltControl\0\Lugormod_Version\U#-0.0.0.91 Alpha
+12-25-2020 23:57 (0:00): ClientConnect: 0
+12-25-2020 23:57 (0:00): ClientUserinfoChanged handling info: 0 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+12-25-2020 23:57 (0:00): ClientUserinfoChanged: 0 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\0\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-25-2020 23:57 (0:00): ClientUserinfoChanged handling info: 0 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+12-25-2020 23:57 (0:00): ClientUserinfoChanged: 0 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-25-2020 23:57 (0:00): ClientBegin: 0
+12-25-2020 23:57 (0:00): ClientConnect: 1
+12-25-2020 23:57 (0:00): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/astupidbot.jkb\saber2\none\saber1\kyle\color2\4\color1\4\sex\male\model\jawa\snaps\20\rate\25000\name\astupidbot
+12-25-2020 23:57 (0:00): ClientUserinfoChanged: 1 n\astupidbot\t\0\model\jawa\c1\4\c2\4\hc\0\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-25-2020 23:57 (0:00): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/astupidbot.jkb\saber2\none\saber1\kyle\color2\4\color1\4\sex\male\model\jawa\snaps\20\rate\25000\name\astupidbot
+12-25-2020 23:57 (0:00): ClientUserinfoChanged: 1 n\astupidbot\t\0\model\jawa\c1\4\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-25-2020 23:57 (0:00): ClientBegin: 1
+12-25-2020 23:57 (0:00): ClientConnect: 2
+12-25-2020 23:57 (0:00): ClientUserinfoChanged handling info: 2 \ip\104.32.44.176:29070\char_color_blue\255\char_color_green\120\char_color_red\85\saber2\none\saber1\single_2\cg_predictItems\1\sex\male\handicap\100\color2\4\color1\4\forcepowers\6-1-030330000000000333\model\jedi_kdm/head_b1|torso_d1|lower_c1\snaps\20\rate\4000\name\BobSaget\teamtask\0\teamoverlay\1
+12-25-2020 23:57 (0:00): ClientUserinfoChanged: 2 n\BobSaget\t\0\model\jedi_kdm/head_b1|torso_d1|lower_c1\c1\4\c2\4\hc\0\w\0\l\0\tt\0\tl\0\st\single_2\st2\none\dt\0
+12-25-2020 23:57 (0:00): ClientConnect: 3
+12-25-2020 23:57 (0:00): ClientUserinfoChanged handling info: 3 \ip\74.213.218.3:29070\name\Justin Nickels\rate\4000\snaps\20\model\imperial/default\forcepowers\6-1-030330000000000333\color1\5\color2\4\handicap\100\sex\male\cg_predictItems\1\saber1\dual_4\saber2\none\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+12-25-2020 23:57 (0:00): ClientUserinfoChanged: 3 n\Justin Nickels\t\0\model\imperial/default\c1\5\c2\4\hc\0\w\0\l\0\tt\0\tl\0\st\dual_4\st2\none\dt\0
+12-25-2020 23:57 (0:00): ClientConnect: 4
+12-25-2020 23:57 (0:00): ClientUserinfoChanged handling info: 4 \ip\73.94.135.217:29070\name\MrButton\rate\4000\snaps\20\model\rax_joris/default\forcepowers\6-2-033110000000001333\color1\5\color2\5\handicap\100\sex\male\cg_predictItems\1\saber1\single_1\saber2\single_1\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+12-25-2020 23:57 (0:00): ClientUserinfoChanged: 4 n\MrButton\t\0\model\rax_joris/default\c1\5\c2\5\hc\0\w\0\l\0\tt\0\tl\0\st\single_1\st2\single_1\dt\0
+12-25-2020 23:57 (0:07): ClientUserinfoChanged handling info: 4 \ip\73.94.135.217:29070\name\MrButton\rate\4000\snaps\20\model\rax_joris/default\forcepowers\6-2-033110000000001333\color1\5\color2\5\handicap\100\sex\male\cg_predictItems\1\saber1\single_1\saber2\none\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+12-25-2020 23:57 (0:07): ClientUserinfoChanged: 4 n\MrButton\t\0\model\rax_joris/default\c1\5\c2\5\hc\0\w\0\l\0\tt\0\tl\0\st\single_1\st2\none\dt\0
+12-25-2020 23:57 (0:07): ClientUserinfoChanged handling info: 4 \ip\73.94.135.217:29070\name\MrButton\rate\4000\snaps\20\model\rax_joris/default\forcepowers\6-2-033110000000001333\color1\5\color2\5\handicap\100\sex\male\cg_predictItems\1\saber1\single_1\saber2\none\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+12-25-2020 23:57 (0:07): ClientUserinfoChanged: 4 n\MrButton\t\0\model\rax_joris/default\c1\5\c2\5\hc\100\w\0\l\0\tt\0\tl\0\st\single_1\st2\none\dt\0
+12-25-2020 23:57 (0:07): ClientBegin: 4
+12-25-2020 23:57 (0:07): ClientUserinfoChanged handling info: 2 \ip\104.32.44.176:29070\char_color_blue\255\char_color_green\120\char_color_red\85\saber2\none\saber1\single_2\cg_predictItems\1\sex\male\handicap\100\color2\4\color1\4\forcepowers\6-1-030330000000000333\model\jedi_kdm/head_b1|torso_d1|lower_c1\snaps\20\rate\4000\name\BobSaget\teamtask\0\teamoverlay\1
+12-25-2020 23:57 (0:07): ClientUserinfoChanged: 2 n\BobSaget\t\0\model\jedi_kdm/head_b1|torso_d1|lower_c1\c1\4\c2\4\hc\0\w\0\l\0\tt\0\tl\0\st\single_2\st2\none\dt\0
+12-25-2020 23:57 (0:07): ClientUserinfoChanged handling info: 2 \ip\104.32.44.176:29070\char_color_blue\255\char_color_green\120\char_color_red\85\saber2\none\saber1\single_2\cg_predictItems\1\sex\male\handicap\100\color2\4\color1\4\forcepowers\6-1-030330000000000333\model\jedi_kdm/head_b1|torso_d1|lower_c1\snaps\20\rate\4000\name\BobSaget\teamtask\0\teamoverlay\1
+12-25-2020 23:57 (0:07): ClientUserinfoChanged: 2 n\BobSaget\t\0\model\jedi_kdm/head_b1|torso_d1|lower_c1\c1\4\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\single_2\st2\none\dt\0
+12-25-2020 23:57 (0:07): ClientBegin: 2
+12-25-2020 23:57 (0:09): ClientUserinfoChanged handling info: 3 \ip\74.213.218.3:29070\name\Justin Nickels\rate\4000\snaps\20\model\imperial/default\forcepowers\6-1-030330000000000333\color1\5\color2\4\handicap\100\sex\male\cg_predictItems\1\saber1\dual_4\saber2\none\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+12-25-2020 23:57 (0:09): ClientUserinfoChanged: 3 n\Justin Nickels\t\0\model\imperial/default\c1\5\c2\4\hc\0\w\0\l\0\tt\0\tl\0\st\dual_4\st2\none\dt\0
+12-25-2020 23:57 (0:09): ClientUserinfoChanged handling info: 3 \ip\74.213.218.3:29070\name\Justin Nickels\rate\4000\snaps\20\model\imperial/default\forcepowers\6-1-030330000000000333\color1\5\color2\4\handicap\100\sex\male\cg_predictItems\1\saber1\dual_4\saber2\none\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+12-25-2020 23:57 (0:09): ClientUserinfoChanged: 3 n\Justin Nickels\t\0\model\imperial/default\c1\5\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\dual_4\st2\none\dt\0
+12-25-2020 23:57 (0:09): ClientBegin: 3
+12-25-2020 23:57 (0:30): say: Kyle: cya
+12-25-2020 23:57 (0:30): ClientDisconnect: 0
+12-25-2020 23:57 (0:35): Kill: 3 2 3: Justin Nickels killed BobSaget by MOD_SABER
+12-25-2020 23:58 (0:37): ClientUserinfoChanged handling info: 2 \ip\104.32.44.176:29070\char_color_blue\255\char_color_green\120\char_color_red\85\saber2\none\saber1\single_2\cg_predictItems\1\sex\male\handicap\100\color2\4\color1\4\forcepowers\6-1-030330000000000333\model\jedi_kdm/head_b1|torso_d1|lower_c1\snaps\20\rate\4000\name\BobSaget\teamtask\0\teamoverlay\1
+12-25-2020 23:58 (0:37): ClientUserinfoChanged: 2 n\BobSaget\t\0\model\jedi_kdm/head_b1|torso_d1|lower_c1\c1\4\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\single_2\st2\none\dt\0
+12-25-2020 23:58 (0:39): Kill: 2 4 3: BobSaget killed MrButton by MOD_SABER
+12-25-2020 23:58 (0:43): ClientUserinfoChanged handling info: 4 \ip\73.94.135.217:29070\name\MrButton\rate\4000\snaps\20\model\rax_joris/default\forcepowers\6-2-033110000000001333\color1\5\color2\5\handicap\100\sex\male\cg_predictItems\1\saber1\single_1\saber2\none\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+12-25-2020 23:58 (0:43): ClientUserinfoChanged: 4 n\MrButton\t\0\model\rax_joris/default\c1\5\c2\5\hc\100\w\0\l\0\tt\0\tl\0\st\single_1\st2\none\dt\0
+12-25-2020 23:58 (0:43): say: astupidbot: bye all
+12-25-2020 23:58 (0:43): ClientDisconnect: 1
+12-25-2020 23:58 (0:50): Kill: 3 2 3: Justin Nickels killed BobSaget by MOD_SABER
+12-25-2020 23:58 (0:52): ClientUserinfoChanged handling info: 2 \ip\104.32.44.176:29070\char_color_blue\255\char_color_green\120\char_color_red\85\saber2\none\saber1\single_2\cg_predictItems\1\sex\male\handicap\100\color2\4\color1\4\forcepowers\6-1-030330000000000333\model\jedi_kdm/head_b1|torso_d1|lower_c1\snaps\20\rate\4000\name\BobSaget\teamtask\0\teamoverlay\1
+12-25-2020 23:58 (0:52): ClientUserinfoChanged: 2 n\BobSaget\t\0\model\jedi_kdm/head_b1|torso_d1|lower_c1\c1\4\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\single_2\st2\none\dt\0
+12-25-2020 23:58 (0:59): Kill: 2 3 3: BobSaget killed Justin Nickels by MOD_SABER
+12-25-2020 23:59 (2:00): ClientUserinfoChanged handling info: 3 \ip\74.213.218.3:29070\name\Justin Nickels\rate\4000\snaps\20\model\imperial/default\forcepowers\6-1-030330000000000333\color1\5\color2\4\handicap\100\sex\male\cg_predictItems\1\saber1\dual_4\saber2\none\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+12-25-2020 23:59 (2:00): ClientUserinfoChanged: 3 n\Justin Nickels\t\0\model\imperial/default\c1\5\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\dual_4\st2\none\dt\0
+12-25-2020 23:59 (2:08): Kill: 2 4 3: BobSaget killed MrButton by MOD_SABER
+12-25-2020 23:59 (2:13): ClientUserinfoChanged handling info: 4 \ip\73.94.135.217:29070\name\MrButton\rate\4000\snaps\20\model\rax_joris/default\forcepowers\6-2-033110000000001333\color1\5\color2\5\handicap\100\sex\male\cg_predictItems\1\saber1\single_1\saber2\none\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+12-25-2020 23:59 (2:13): ClientUserinfoChanged: 4 n\MrButton\t\0\model\rax_joris/default\c1\5\c2\5\hc\100\w\0\l\0\tt\0\tl\0\st\single_1\st2\none\dt\0
+12-25-2020 23:59 (2:23): Kill: 4 3 3: MrButton killed Justin Nickels by MOD_SABER
+12-25-2020 23:59 (2:32): Kill: 4 2 3: MrButton killed BobSaget by MOD_SABER
+12-25-2020 23:59 (2:34): ClientUserinfoChanged handling info: 2 \ip\104.32.44.176:29070\char_color_blue\255\char_color_green\120\char_color_red\85\saber2\none\saber1\single_2\cg_predictItems\1\sex\male\handicap\100\color2\4\color1\4\forcepowers\6-1-030330000000000333\model\jedi_kdm/head_b1|torso_d1|lower_c1\snaps\20\rate\4000\name\BobSaget\teamtask\0\teamoverlay\1
+12-25-2020 23:59 (2:34): ClientUserinfoChanged: 2 n\BobSaget\t\0\model\jedi_kdm/head_b1|torso_d1|lower_c1\c1\4\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\single_2\st2\none\dt\0
+12-26-2020 0: 0 (2:54): Kill: 2 4 3: BobSaget killed MrButton by MOD_SABER
+12-26-2020 0: 0 (3:00): ClientUserinfoChanged handling info: 4 \ip\73.94.135.217:29070\name\MrButton\rate\4000\snaps\20\model\rax_joris/default\forcepowers\6-2-033110000000001333\color1\5\color2\5\handicap\100\sex\male\cg_predictItems\1\saber1\single_1\saber2\none\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+12-26-2020 0: 0 (3:00): ClientUserinfoChanged: 4 n\MrButton\t\0\model\rax_joris/default\c1\5\c2\5\hc\100\w\0\l\0\tt\0\tl\0\st\single_1\st2\none\dt\0
+12-26-2020 0: 0 (3:05): ClientUserinfoChanged handling info: 3 \ip\74.213.218.3:29070\name\Justin Nickels\rate\4000\snaps\20\model\imperial/default\forcepowers\6-1-030330000000000333\color1\5\color2\4\handicap\100\sex\male\cg_predictItems\1\saber1\dual_4\saber2\none\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+12-26-2020 0: 0 (3:05): ClientUserinfoChanged: 3 n\Justin Nickels\t\0\model\imperial/default\c1\5\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\dual_4\st2\none\dt\0
+12-26-2020 0: 1 (3:45): Kill: 3 4 3: Justin Nickels killed MrButton by MOD_SABER
+12-26-2020 0: 1 (3:48): ClientUserinfoChanged handling info: 4 \ip\73.94.135.217:29070\name\MrButton\rate\4000\snaps\20\model\rax_joris/default\forcepowers\6-2-033110000000001333\color1\5\color2\5\handicap\100\sex\male\cg_predictItems\1\saber1\single_1\saber2\none\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+12-26-2020 0: 1 (3:48): ClientUserinfoChanged: 4 n\MrButton\t\0\model\rax_joris/default\c1\5\c2\5\hc\100\w\0\l\0\tt\0\tl\0\st\single_1\st2\none\dt\0
+12-26-2020 0: 1 (4:31): Kill: 2 3 3: BobSaget killed Justin Nickels by MOD_SABER
+12-26-2020 0: 2 (4:39): ClientUserinfoChanged handling info: 3 \ip\74.213.218.3:29070\name\Justin Nickels\rate\4000\snaps\20\model\imperial/default\forcepowers\6-1-030330000000000333\color1\5\color2\4\handicap\100\sex\male\cg_predictItems\1\saber1\dual_4\saber2\none\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+12-26-2020 0: 2 (4:39): ClientUserinfoChanged: 3 n\Justin Nickels\t\0\model\imperial/default\c1\5\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\dual_4\st2\none\dt\0
+12-26-2020 0: 2 (4:40): Kill: 4 2 3: MrButton killed BobSaget by MOD_SABER
+12-26-2020 0: 2 (4:43): ClientUserinfoChanged handling info: 2 \ip\104.32.44.176:29070\char_color_blue\255\char_color_green\120\char_color_red\85\saber2\none\saber1\single_2\cg_predictItems\1\sex\male\handicap\100\color2\4\color1\4\forcepowers\6-1-030330000000000333\model\jedi_kdm/head_b1|torso_d1|lower_c1\snaps\20\rate\4000\name\BobSaget\teamtask\0\teamoverlay\1
+12-26-2020 0: 2 (4:43): ClientUserinfoChanged: 2 n\BobSaget\t\0\model\jedi_kdm/head_b1|torso_d1|lower_c1\c1\4\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\single_2\st2\none\dt\0
+12-26-2020 0: 2 (4:43): Kill: 4 3 3: MrButton killed Justin Nickels by MOD_SABER
+12-26-2020 0: 2 (4:51): ClientUserinfoChanged handling info: 3 \ip\74.213.218.3:29070\name\Justin Nickels\rate\4000\snaps\20\model\imperial/default\forcepowers\6-1-030330000000000333\color1\5\color2\4\handicap\100\sex\male\cg_predictItems\1\saber1\dual_4\saber2\none\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+12-26-2020 0: 2 (4:51): ClientUserinfoChanged: 3 n\Justin Nickels\t\0\model\imperial/default\c1\5\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\dual_4\st2\none\dt\0
+12-26-2020 0: 2 (5:09): Kill: 4 3 3: MrButton killed Justin Nickels by MOD_SABER
+12-26-2020 0: 2 (5:14): ClientUserinfoChanged handling info: 3 \ip\74.213.218.3:29070\name\Justin Nickels\rate\4000\snaps\20\model\imperial/default\forcepowers\6-1-030330000000000333\color1\5\color2\4\handicap\100\sex\male\cg_predictItems\1\saber1\dual_4\saber2\none\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+12-26-2020 0: 2 (5:14): ClientUserinfoChanged: 3 n\Justin Nickels\t\0\model\imperial/default\c1\5\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\dual_4\st2\none\dt\0
+12-26-2020 0: 2 (5:27): Kill: 4 3 3: MrButton killed Justin Nickels by MOD_SABER
+12-26-2020 0: 3 (5:35): ClientUserinfoChanged handling info: 3 \ip\74.213.218.3:29070\name\Justin Nickels\rate\4000\snaps\20\model\imperial/default\forcepowers\6-1-030330000000000333\color1\5\color2\4\handicap\100\sex\male\cg_predictItems\1\saber1\dual_4\saber2\none\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+12-26-2020 0: 3 (5:35): ClientUserinfoChanged: 3 n\Justin Nickels\t\0\model\imperial/default\c1\5\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\dual_4\st2\none\dt\0
+12-26-2020 0: 3 (5:55): Kill: 3 4 3: Justin Nickels killed MrButton by MOD_SABER
+12-26-2020 0: 3 (5:59): ClientUserinfoChanged handling info: 4 \ip\73.94.135.217:29070\name\MrButton\rate\4000\snaps\20\model\rax_joris/default\forcepowers\6-2-033110000000001333\color1\5\color2\5\handicap\100\sex\male\cg_predictItems\1\saber1\single_1\saber2\none\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+12-26-2020 0: 3 (5:59): ClientUserinfoChanged: 4 n\MrButton\t\0\model\rax_joris/default\c1\5\c2\5\hc\100\w\0\l\0\tt\0\tl\0\st\single_1\st2\none\dt\0
+12-26-2020 0: 3 (6:01): Kill: 3 2 3: Justin Nickels killed BobSaget by MOD_SABER
+12-26-2020 0: 3 (6:04): ClientUserinfoChanged handling info: 2 \ip\104.32.44.176:29070\char_color_blue\255\char_color_green\120\char_color_red\85\saber2\none\saber1\single_2\cg_predictItems\1\sex\male\handicap\100\color2\4\color1\4\forcepowers\6-1-030330000000000333\model\jedi_kdm/head_b1|torso_d1|lower_c1\snaps\20\rate\4000\name\BobSaget\teamtask\0\teamoverlay\1
+12-26-2020 0: 3 (6:04): ClientUserinfoChanged: 2 n\BobSaget\t\0\model\jedi_kdm/head_b1|torso_d1|lower_c1\c1\4\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\single_2\st2\none\dt\0
+12-26-2020 0: 3 (6:12): Kill: 3 2 3: Justin Nickels killed BobSaget by MOD_SABER
+12-26-2020 0: 3 (6:13): ClientUserinfoChanged handling info: 2 \ip\104.32.44.176:29070\char_color_blue\255\char_color_green\120\char_color_red\85\saber2\none\saber1\single_2\cg_predictItems\1\sex\male\handicap\100\color2\4\color1\4\forcepowers\6-1-030330000000000333\model\jedi_kdm/head_b1|torso_d1|lower_c1\snaps\20\rate\4000\name\BobSaget\teamtask\0\teamoverlay\1
+12-26-2020 0: 3 (6:13): ClientUserinfoChanged: 2 n\BobSaget\t\0\model\jedi_kdm/head_b1|torso_d1|lower_c1\c1\4\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\single_2\st2\none\dt\0
+12-26-2020 0: 3 (6:20): Kill: 3 4 3: Justin Nickels killed MrButton by MOD_SABER
+12-26-2020 0: 3 (6:21): Kill: 2 3 3: BobSaget killed Justin Nickels by MOD_SABER
+12-26-2020 0: 3 (6:28): ClientUserinfoChanged handling info: 3 \ip\74.213.218.3:29070\name\Justin Nickels\rate\4000\snaps\20\model\imperial/default\forcepowers\6-1-030330000000000333\color1\5\color2\4\handicap\100\sex\male\cg_predictItems\1\saber1\dual_4\saber2\none\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+12-26-2020 0: 3 (6:28): ClientUserinfoChanged: 3 n\Justin Nickels\t\0\model\imperial/default\c1\5\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\dual_4\st2\none\dt\0
+12-26-2020 0: 4 (6:41): ClientUserinfoChanged handling info: 4 \ip\73.94.135.217:29070\name\MrButton\rate\4000\snaps\20\model\rax_joris/default\forcepowers\7-2-012320333000030321\color1\5\color2\5\handicap\100\sex\male\cg_predictItems\1\saber1\single_1\saber2\single_1\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+12-26-2020 0: 4 (6:41): ClientUserinfoChanged: 4 n\MrButton\t\0\model\rax_joris/default\c1\5\c2\5\hc\100\w\0\l\0\tt\0\tl\0\st\single_1\st2\none\dt\0
+12-26-2020 0: 4 (6:46): ClientUserinfoChanged handling info: 4 \ip\73.94.135.217:29070\name\MrButton\rate\4000\snaps\20\model\rax_joris/default\forcepowers\7-2-012320333000030321\color1\5\color2\5\handicap\100\sex\male\cg_predictItems\1\saber1\single_1\saber2\single_1\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+12-26-2020 0: 4 (6:46): ClientUserinfoChanged: 4 n\MrButton\t\0\model\rax_joris/default\c1\5\c2\5\hc\100\w\0\l\0\tt\0\tl\0\st\single_1\st2\single_1\dt\0
+12-26-2020 0: 4 (6:46): ClientUserinfoChanged handling info: 4 \ip\73.94.135.217:29070\name\MrButton\rate\4000\snaps\20\model\rax_joris/default\forcepowers\7-2-012320333000030321\color1\5\color2\5\handicap\100\sex\male\cg_predictItems\1\saber1\single_1\saber2\single_1\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+12-26-2020 0: 4 (6:46): ClientUserinfoChanged: 4 n\MrButton\t\0\model\rax_joris/default\c1\5\c2\5\hc\100\w\0\l\0\tt\0\tl\0\st\single_1\st2\single_1\dt\0
+12-26-2020 0: 4 (6:53): Kill: 4 2 31: MrButton killed BobSaget by MOD_FORCE_DARK
+12-26-2020 0: 4 (6:55): ClientUserinfoChanged handling info: 2 \ip\104.32.44.176:29070\char_color_blue\255\char_color_green\120\char_color_red\85\saber2\none\saber1\single_2\cg_predictItems\1\sex\male\handicap\100\color2\4\color1\4\forcepowers\6-1-030330000000000333\model\jedi_kdm/head_b1|torso_d1|lower_c1\snaps\20\rate\4000\name\BobSaget\teamtask\0\teamoverlay\1
+12-26-2020 0: 4 (6:55): ClientUserinfoChanged: 2 n\BobSaget\t\0\model\jedi_kdm/head_b1|torso_d1|lower_c1\c1\4\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\single_2\st2\none\dt\0
+12-26-2020 0: 4 (6:58): Kill: 4 3 3: MrButton killed Justin Nickels by MOD_SABER
+12-26-2020 0: 4 (7:00): ClientUserinfoChanged handling info: 3 \ip\74.213.218.3:29070\name\Justin Nickels\rate\4000\snaps\20\model\imperial/default\forcepowers\6-1-030330000000000333\color1\5\color2\4\handicap\100\sex\male\cg_predictItems\1\saber1\dual_4\saber2\none\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+12-26-2020 0: 4 (7:00): ClientUserinfoChanged: 3 n\Justin Nickels\t\0\model\imperial/default\c1\5\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\dual_4\st2\none\dt\0
+12-26-2020 0: 4 (7:17): Kill: 4 3 3: MrButton killed Justin Nickels by MOD_SABER
+12-26-2020 0: 4 (7:19): Kill: 4 2 3: MrButton killed BobSaget by MOD_SABER
+12-26-2020 0: 4 (7:19): ClientUserinfoChanged handling info: 3 \ip\74.213.218.3:29070\name\Justin Nickels\rate\4000\snaps\20\model\imperial/default\forcepowers\6-1-030330000000000333\color1\5\color2\4\handicap\100\sex\male\cg_predictItems\1\saber1\dual_4\saber2\none\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+12-26-2020 0: 4 (7:19): ClientUserinfoChanged: 3 n\Justin Nickels\t\0\model\imperial/default\c1\5\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\dual_4\st2\none\dt\0
+12-26-2020 0: 4 (7:20): ClientUserinfoChanged handling info: 2 \ip\104.32.44.176:29070\char_color_blue\255\char_color_green\120\char_color_red\85\saber2\none\saber1\single_2\cg_predictItems\1\sex\male\handicap\100\color2\4\color1\4\forcepowers\6-1-030330000000000333\model\jedi_kdm/head_b1|torso_d1|lower_c1\snaps\20\rate\4000\name\BobSaget\teamtask\0\teamoverlay\1
+12-26-2020 0: 4 (7:20): ClientUserinfoChanged: 2 n\BobSaget\t\0\model\jedi_kdm/head_b1|torso_d1|lower_c1\c1\4\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\single_2\st2\none\dt\0
+12-26-2020 0: 4 (7:27): Kill: 2 3 3: BobSaget killed Justin Nickels by MOD_SABER
+12-26-2020 0: 4 (7:29): ClientUserinfoChanged handling info: 3 \ip\74.213.218.3:29070\name\Justin Nickels\rate\4000\snaps\20\model\imperial/default\forcepowers\6-1-030330000000000333\color1\5\color2\4\handicap\100\sex\male\cg_predictItems\1\saber1\dual_4\saber2\none\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+12-26-2020 0: 4 (7:29): ClientUserinfoChanged: 3 n\Justin Nickels\t\0\model\imperial/default\c1\5\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\dual_4\st2\none\dt\0
+12-26-2020 0: 5 (7:39): Kill: 4 3 3: MrButton killed Justin Nickels by MOD_SABER
+12-26-2020 0: 5 (7:41): ClientUserinfoChanged handling info: 3 \ip\74.213.218.3:29070\name\Justin Nickels\rate\4000\snaps\20\model\imperial/default\forcepowers\6-1-030330000000000333\color1\5\color2\4\handicap\100\sex\male\cg_predictItems\1\saber1\dual_4\saber2\none\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+12-26-2020 0: 5 (7:41): ClientUserinfoChanged: 3 n\Justin Nickels\t\0\model\imperial/default\c1\5\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\dual_4\st2\none\dt\0
+12-26-2020 0: 5 (7:49): Kill: 3 4 3: Justin Nickels killed MrButton by MOD_SABER
+12-26-2020 0: 5 (7:58): ClientUserinfoChanged handling info: 4 \ip\73.94.135.217:29070\name\MrButton\rate\4000\snaps\20\model\rax_joris/default\forcepowers\7-2-012320333000030321\color1\5\color2\5\handicap\100\sex\male\cg_predictItems\1\saber1\single_1\saber2\single_1\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+12-26-2020 0: 5 (7:58): ClientUserinfoChanged: 4 n\MrButton\t\0\model\rax_joris/default\c1\5\c2\5\hc\100\w\0\l\0\tt\0\tl\0\st\single_1\st2\single_1\dt\0
+12-26-2020 0: 5 (8:01): Kill: 4 2 3: MrButton killed BobSaget by MOD_SABER
+12-26-2020 0: 5 (8:03): ClientUserinfoChanged handling info: 2 \ip\104.32.44.176:29070\char_color_blue\255\char_color_green\120\char_color_red\85\saber2\none\saber1\single_2\cg_predictItems\1\sex\male\handicap\100\color2\4\color1\4\forcepowers\6-1-030330000000000333\model\jedi_kdm/head_b1|torso_d1|lower_c1\snaps\20\rate\4000\name\BobSaget\teamtask\0\teamoverlay\1
+12-26-2020 0: 5 (8:03): ClientUserinfoChanged: 2 n\BobSaget\t\0\model\jedi_kdm/head_b1|torso_d1|lower_c1\c1\4\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\single_2\st2\none\dt\0
+12-26-2020 0: 5 (8:15): Kill: 4 3 3: MrButton killed Justin Nickels by MOD_SABER
+12-26-2020 0: 5 (8:17): ClientUserinfoChanged handling info: 3 \ip\74.213.218.3:29070\name\Justin Nickels\rate\4000\snaps\20\model\imperial/default\forcepowers\6-1-030330000000000333\color1\5\color2\4\handicap\100\sex\male\cg_predictItems\1\saber1\dual_4\saber2\none\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+12-26-2020 0: 5 (8:17): ClientUserinfoChanged: 3 n\Justin Nickels\t\0\model\imperial/default\c1\5\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\dual_4\st2\none\dt\0
+12-26-2020 0: 5 (8:26): Kill: 3 2 3: Justin Nickels killed BobSaget by MOD_SABER
+12-26-2020 0: 5 (8:30): ClientUserinfoChanged handling info: 2 \ip\104.32.44.176:29070\char_color_blue\255\char_color_green\120\char_color_red\85\saber2\none\saber1\single_2\cg_predictItems\1\sex\male\handicap\100\color2\4\color1\4\forcepowers\6-1-030330000000000333\model\jedi_kdm/head_b1|torso_d1|lower_c1\snaps\20\rate\4000\name\BobSaget\teamtask\0\teamoverlay\1
+12-26-2020 0: 5 (8:30): ClientUserinfoChanged: 2 n\BobSaget\t\0\model\jedi_kdm/head_b1|torso_d1|lower_c1\c1\4\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\single_2\st2\none\dt\0
+12-26-2020 0: 5 (8:35): Kill: 3 4 3: Justin Nickels killed MrButton by MOD_SABER
+12-26-2020 0: 6 (8:43): ClientUserinfoChanged handling info: 4 \ip\73.94.135.217:29070\name\MrButton\rate\4000\snaps\20\model\rax_joris/default\forcepowers\7-2-012320333000030321\color1\5\color2\5\handicap\100\sex\male\cg_predictItems\1\saber1\single_1\saber2\single_1\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+12-26-2020 0: 6 (8:43): ClientUserinfoChanged: 4 n\MrButton\t\0\model\rax_joris/default\c1\5\c2\5\hc\100\w\0\l\0\tt\0\tl\0\st\single_1\st2\single_1\dt\0
+12-26-2020 0: 6 (8:54): Kill: 4 3 3: MrButton killed Justin Nickels by MOD_SABER
+12-26-2020 0: 6 (8:56): ClientUserinfoChanged handling info: 3 \ip\74.213.218.3:29070\name\Justin Nickels\rate\4000\snaps\20\model\imperial/default\forcepowers\6-1-030330000000000333\color1\5\color2\4\handicap\100\sex\male\cg_predictItems\1\saber1\dual_4\saber2\none\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+12-26-2020 0: 6 (8:56): ClientUserinfoChanged: 3 n\Justin Nickels\t\0\model\imperial/default\c1\5\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\dual_4\st2\none\dt\0
+12-26-2020 0: 6 (8:59): Kill: 4 2 3: MrButton killed BobSaget by MOD_SABER
+12-26-2020 0: 6 (9:01): ClientUserinfoChanged handling info: 2 \ip\104.32.44.176:29070\char_color_blue\255\char_color_green\120\char_color_red\85\saber2\none\saber1\single_2\cg_predictItems\1\sex\male\handicap\100\color2\4\color1\4\forcepowers\6-1-030330000000000333\model\jedi_kdm/head_b1|torso_d1|lower_c1\snaps\20\rate\4000\name\BobSaget\teamtask\0\teamoverlay\1
+12-26-2020 0: 6 (9:01): ClientUserinfoChanged: 2 n\BobSaget\t\0\model\jedi_kdm/head_b1|torso_d1|lower_c1\c1\4\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\single_2\st2\none\dt\0
+12-26-2020 0: 6 (9:08): Kill: 3 4 3: Justin Nickels killed MrButton by MOD_SABER
+12-26-2020 0: 6 (9:11): ClientUserinfoChanged handling info: 4 \ip\73.94.135.217:29070\name\MrButton\rate\4000\snaps\20\model\rax_joris/default\forcepowers\7-2-012320333000030321\color1\5\color2\5\handicap\100\sex\male\cg_predictItems\1\saber1\single_1\saber2\single_1\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+12-26-2020 0: 6 (9:11): ClientUserinfoChanged: 4 n\MrButton\t\0\model\rax_joris/default\c1\5\c2\5\hc\100\w\0\l\0\tt\0\tl\0\st\single_1\st2\single_1\dt\0
+12-26-2020 0: 6 (9:29): Kill: 2 3 5: BobSaget killed Justin Nickels by MOD_BRYAR_PISTOL_ALT
+12-26-2020 0: 6 (9:30): ClientUserinfoChanged handling info: 3 \ip\74.213.218.3:29070\name\Justin Nickels\rate\4000\snaps\20\model\imperial/default\forcepowers\6-1-030330000000000333\color1\5\color2\4\handicap\100\sex\male\cg_predictItems\1\saber1\dual_4\saber2\none\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+12-26-2020 0: 6 (9:30): ClientUserinfoChanged: 3 n\Justin Nickels\t\0\model\imperial/default\c1\5\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\dual_4\st2\none\dt\0
+12-26-2020 0: 7 (9:42): Kill: 3 4 3: Justin Nickels killed MrButton by MOD_SABER
+12-26-2020 0: 7 (9:44): ClientUserinfoChanged handling info: 4 \ip\73.94.135.217:29070\name\MrButton\rate\4000\snaps\20\model\rax_joris/default\forcepowers\7-2-012320333000030321\color1\5\color2\5\handicap\100\sex\male\cg_predictItems\1\saber1\single_1\saber2\single_1\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+12-26-2020 0: 7 (9:44): ClientUserinfoChanged: 4 n\MrButton\t\0\model\rax_joris/default\c1\5\c2\5\hc\100\w\0\l\0\tt\0\tl\0\st\single_1\st2\single_1\dt\0
+12-26-2020 0: 7 (9:46): Kill: 4 3 3: MrButton killed Justin Nickels by MOD_SABER
+12-26-2020 0: 7 (9:49): ClientUserinfoChanged handling info: 3 \ip\74.213.218.3:29070\name\Justin Nickels\rate\4000\snaps\20\model\imperial/default\forcepowers\6-1-030330000000000333\color1\5\color2\4\handicap\100\sex\male\cg_predictItems\1\saber1\dual_4\saber2\none\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+12-26-2020 0: 7 (9:49): ClientUserinfoChanged: 3 n\Justin Nickels\t\0\model\imperial/default\c1\5\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\dual_4\st2\none\dt\0
+12-26-2020 0: 7 (10:03): Kill: 4 3 3: MrButton killed Justin Nickels by MOD_SABER
+12-26-2020 0: 7 (10:05): ClientUserinfoChanged handling info: 3 \ip\74.213.218.3:29070\name\Justin Nickels\rate\4000\snaps\20\model\imperial/default\forcepowers\6-1-030330000000000333\color1\5\color2\4\handicap\100\sex\male\cg_predictItems\1\saber1\dual_4\saber2\none\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+12-26-2020 0: 7 (10:05): ClientUserinfoChanged: 3 n\Justin Nickels\t\0\model\imperial/default\c1\5\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\dual_4\st2\none\dt\0
+12-26-2020 0: 7 (10:21): Kill: 2 3 1: BobSaget killed Justin Nickels by MOD_STUN_BATON
+12-26-2020 0: 7 (10:23): ClientUserinfoChanged handling info: 3 \ip\74.213.218.3:29070\name\Justin Nickels\rate\4000\snaps\20\model\imperial/default\forcepowers\6-1-030330000000000333\color1\5\color2\4\handicap\100\sex\male\cg_predictItems\1\saber1\dual_4\saber2\none\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+12-26-2020 0: 7 (10:23): ClientUserinfoChanged: 3 n\Justin Nickels\t\0\model\imperial/default\c1\5\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\dual_4\st2\none\dt\0
+12-26-2020 0: 8 (10:42): Kill: 3 4 3: Justin Nickels killed MrButton by MOD_SABER
+12-26-2020 0: 8 (10:48): ClientUserinfoChanged handling info: 4 \ip\73.94.135.217:29070\name\MrButton\rate\4000\snaps\20\model\rax_joris/default\forcepowers\7-2-012320333000030321\color1\5\color2\5\handicap\100\sex\male\cg_predictItems\1\saber1\single_1\saber2\single_1\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+12-26-2020 0: 8 (10:48): ClientUserinfoChanged: 4 n\MrButton\t\0\model\rax_joris/default\c1\5\c2\5\hc\100\w\0\l\0\tt\0\tl\0\st\single_1\st2\single_1\dt\0
+12-26-2020 0: 8 (10:54): Kill: 4 3 3: MrButton killed Justin Nickels by MOD_SABER
+12-26-2020 0: 8 (10:55): Kill: 4 2 3: MrButton killed BobSaget by MOD_SABER
+12-26-2020 0: 8 (10:57): ClientUserinfoChanged handling info: 2 \ip\104.32.44.176:29070\char_color_blue\255\char_color_green\120\char_color_red\85\saber2\none\saber1\single_2\cg_predictItems\1\sex\male\handicap\100\color2\4\color1\4\forcepowers\6-1-030330000000000333\model\jedi_kdm/head_b1|torso_d1|lower_c1\snaps\20\rate\4000\name\BobSaget\teamtask\0\teamoverlay\1
+12-26-2020 0: 8 (10:57): ClientUserinfoChanged: 2 n\BobSaget\t\0\model\jedi_kdm/head_b1|torso_d1|lower_c1\c1\4\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\single_2\st2\none\dt\0
+12-26-2020 0: 8 (10:58): ClientUserinfoChanged handling info: 3 \ip\74.213.218.3:29070\name\Justin Nickels\rate\4000\snaps\20\model\imperial/default\forcepowers\6-1-030330000000000333\color1\5\color2\4\handicap\100\sex\male\cg_predictItems\1\saber1\dual_4\saber2\none\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+12-26-2020 0: 8 (10:58): ClientUserinfoChanged: 3 n\Justin Nickels\t\0\model\imperial/default\c1\5\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\dual_4\st2\none\dt\0
+12-26-2020 0: 8 (11:05): Kill: 3 2 3: Justin Nickels killed BobSaget by MOD_SABER
+12-26-2020 0: 8 (11:07): ClientUserinfoChanged handling info: 2 \ip\104.32.44.176:29070\char_color_blue\255\char_color_green\120\char_color_red\85\saber2\none\saber1\single_2\cg_predictItems\1\sex\male\handicap\100\color2\4\color1\4\forcepowers\6-1-030330000000000333\model\jedi_kdm/head_b1|torso_d1|lower_c1\snaps\20\rate\4000\name\BobSaget\teamtask\0\teamoverlay\1
+12-26-2020 0: 8 (11:07): ClientUserinfoChanged: 2 n\BobSaget\t\0\model\jedi_kdm/head_b1|torso_d1|lower_c1\c1\4\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\single_2\st2\none\dt\0
+12-26-2020 0: 8 (11:12): Kill: 3 4 3: Justin Nickels killed MrButton by MOD_SABER
+12-26-2020 0: 8 (11:14): ClientUserinfoChanged handling info: 4 \ip\73.94.135.217:29070\name\MrButton\rate\4000\snaps\20\model\rax_joris/default\forcepowers\7-2-012320333000030321\color1\5\color2\5\handicap\100\sex\male\cg_predictItems\1\saber1\single_1\saber2\single_1\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+12-26-2020 0: 8 (11:14): ClientUserinfoChanged: 4 n\MrButton\t\0\model\rax_joris/default\c1\5\c2\5\hc\100\w\0\l\0\tt\0\tl\0\st\single_1\st2\single_1\dt\0
+12-26-2020 0: 8 (11:16): Kill: 2 3 3: BobSaget killed Justin Nickels by MOD_SABER
+12-26-2020 0: 8 (11:17): ClientUserinfoChanged handling info: 3 \ip\74.213.218.3:29070\name\Justin Nickels\rate\4000\snaps\20\model\imperial/default\forcepowers\6-1-030330000000000333\color1\5\color2\4\handicap\100\sex\male\cg_predictItems\1\saber1\dual_4\saber2\none\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+12-26-2020 0: 8 (11:17): ClientUserinfoChanged: 3 n\Justin Nickels\t\0\model\imperial/default\c1\5\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\dual_4\st2\none\dt\0
+12-26-2020 0: 8 (11:22): Kill: 3 2 3: Justin Nickels killed BobSaget by MOD_SABER
+12-26-2020 0: 8 (11:25): ClientUserinfoChanged handling info: 2 \ip\104.32.44.176:29070\char_color_blue\255\char_color_green\120\char_color_red\85\saber2\none\saber1\single_2\cg_predictItems\1\sex\male\handicap\100\color2\4\color1\4\forcepowers\6-1-030330000000000333\model\jedi_kdm/head_b1|torso_d1|lower_c1\snaps\20\rate\4000\name\BobSaget\teamtask\0\teamoverlay\1
+12-26-2020 0: 8 (11:25): ClientUserinfoChanged: 2 n\BobSaget\t\0\model\jedi_kdm/head_b1|torso_d1|lower_c1\c1\4\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\single_2\st2\none\dt\0
+12-26-2020 0: 9 (11:38): Kill: 3 4 3: Justin Nickels killed MrButton by MOD_SABER
+12-26-2020 0: 9 (11:45): Kill: 3 2 5: Justin Nickels killed BobSaget by MOD_BRYAR_PISTOL_ALT
+12-26-2020 0: 9 (11:48): ClientUserinfoChanged handling info: 2 \ip\104.32.44.176:29070\char_color_blue\255\char_color_green\120\char_color_red\85\saber2\none\saber1\single_2\cg_predictItems\1\sex\male\handicap\100\color2\4\color1\4\forcepowers\6-1-030330000000000333\model\jedi_kdm/head_b1|torso_d1|lower_c1\snaps\20\rate\4000\name\BobSaget\teamtask\0\teamoverlay\1
+12-26-2020 0: 9 (11:48): ClientUserinfoChanged: 2 n\BobSaget\t\0\model\jedi_kdm/head_b1|torso_d1|lower_c1\c1\4\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\single_2\st2\none\dt\0
+12-26-2020 0: 9 (11:58): Kill: 3 2 3: Justin Nickels killed BobSaget by MOD_SABER
+12-26-2020 0: 9 (11:59): ClientUserinfoChanged handling info: 2 \ip\104.32.44.176:29070\char_color_blue\255\char_color_green\120\char_color_red\85\saber2\none\saber1\single_2\cg_predictItems\1\sex\male\handicap\100\color2\4\color1\4\forcepowers\6-1-030330000000000333\model\jedi_kdm/head_b1|torso_d1|lower_c1\snaps\20\rate\4000\name\BobSaget\teamtask\0\teamoverlay\1
+12-26-2020 0: 9 (11:59): ClientUserinfoChanged: 2 n\BobSaget\t\0\model\jedi_kdm/head_b1|torso_d1|lower_c1\c1\4\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\single_2\st2\none\dt\0
+12-26-2020 0: 9 (12:11): ClientUserinfoChanged handling info: 4 \ip\73.94.135.217:29070\name\MrButton\rate\4000\snaps\20\model\rax_joris/default\forcepowers\7-2-012320333000030321\color1\5\color2\5\handicap\100\sex\male\cg_predictItems\1\saber1\single_1\saber2\single_1\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+12-26-2020 0: 9 (12:11): ClientUserinfoChanged: 4 n\MrButton\t\0\model\rax_joris/default\c1\5\c2\5\hc\100\w\0\l\0\tt\0\tl\0\st\single_1\st2\single_1\dt\0
+12-26-2020 0: 9 (12:17): Kill: 3 2 3: Justin Nickels killed BobSaget by MOD_SABER
+12-26-2020 0: 9 (12:18): ClientUserinfoChanged handling info: 2 \ip\104.32.44.176:29070\char_color_blue\255\char_color_green\120\char_color_red\85\saber2\none\saber1\single_2\cg_predictItems\1\sex\male\handicap\100\color2\4\color1\4\forcepowers\6-1-030330000000000333\model\jedi_kdm/head_b1|torso_d1|lower_c1\snaps\20\rate\4000\name\BobSaget\teamtask\0\teamoverlay\1
+12-26-2020 0: 9 (12:18): ClientUserinfoChanged: 2 n\BobSaget\t\0\model\jedi_kdm/head_b1|torso_d1|lower_c1\c1\4\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\single_2\st2\none\dt\0
+12-26-2020 0: 9 (12:34): Kill: 3 2 3: Justin Nickels killed BobSaget by MOD_SABER
+12-26-2020 0:10 (12:37): ClientUserinfoChanged handling info: 2 \ip\104.32.44.176:29070\char_color_blue\255\char_color_green\120\char_color_red\85\saber2\none\saber1\single_2\cg_predictItems\1\sex\male\handicap\100\color2\4\color1\4\forcepowers\6-1-030330000000000333\model\jedi_kdm/head_b1|torso_d1|lower_c1\snaps\20\rate\4000\name\BobSaget\teamtask\0\teamoverlay\1
+12-26-2020 0:10 (12:37): ClientUserinfoChanged: 2 n\BobSaget\t\0\model\jedi_kdm/head_b1|torso_d1|lower_c1\c1\4\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\single_2\st2\none\dt\0
+12-26-2020 0:10 (12:53): Kill: 4 3 3: MrButton killed Justin Nickels by MOD_SABER
+12-26-2020 0:10 (12:55): ClientUserinfoChanged handling info: 3 \ip\74.213.218.3:29070\name\Justin Nickels\rate\4000\snaps\20\model\imperial/default\forcepowers\6-1-030330000000000333\color1\5\color2\4\handicap\100\sex\male\cg_predictItems\1\saber1\dual_4\saber2\none\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+12-26-2020 0:10 (12:55): ClientUserinfoChanged: 3 n\Justin Nickels\t\0\model\imperial/default\c1\5\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\dual_4\st2\none\dt\0
+12-26-2020 0:10 (13:14): Kill: 3 2 3: Justin Nickels killed BobSaget by MOD_SABER
+12-26-2020 0:10 (13:14): Kill: 3 4 3: Justin Nickels killed MrButton by MOD_SABER
+12-26-2020 0:10 (13:15): ClientUserinfoChanged handling info: 2 \ip\104.32.44.176:29070\char_color_blue\255\char_color_green\120\char_color_red\85\saber2\none\saber1\single_2\cg_predictItems\1\sex\male\handicap\100\color2\4\color1\4\forcepowers\6-1-030330000000000333\model\jedi_kdm/head_b1|torso_d1|lower_c1\snaps\20\rate\4000\name\BobSaget\teamtask\0\teamoverlay\1
+12-26-2020 0:10 (13:15): ClientUserinfoChanged: 2 n\BobSaget\t\0\model\jedi_kdm/head_b1|torso_d1|lower_c1\c1\4\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\single_2\st2\none\dt\0
+12-26-2020 0:10 (13:16): ClientUserinfoChanged handling info: 4 \ip\73.94.135.217:29070\name\MrButton\rate\4000\snaps\20\model\rax_joris/default\forcepowers\7-2-012320333000030321\color1\5\color2\5\handicap\100\sex\male\cg_predictItems\1\saber1\single_1\saber2\single_1\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+12-26-2020 0:10 (13:16): ClientUserinfoChanged: 4 n\MrButton\t\0\model\rax_joris/default\c1\5\c2\5\hc\100\w\0\l\0\tt\0\tl\0\st\single_1\st2\single_1\dt\0
+12-26-2020 0:10 (13:23): Kill: 3 4 3: Justin Nickels killed MrButton by MOD_SABER
+12-26-2020 0:11 (13:40): Kill: 2 3 3: BobSaget killed Justin Nickels by MOD_SABER
+12-26-2020 0:11 (13:43): ClientUserinfoChanged handling info: 3 \ip\74.213.218.3:29070\name\Justin Nickels\rate\4000\snaps\20\model\imperial/default\forcepowers\6-1-030330000000000333\color1\5\color2\4\handicap\100\sex\male\cg_predictItems\1\saber1\dual_4\saber2\none\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+12-26-2020 0:11 (13:43): ClientUserinfoChanged: 3 n\Justin Nickels\t\0\model\imperial/default\c1\5\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\dual_4\st2\none\dt\0
+12-26-2020 0:11 (13:51): ClientUserinfoChanged handling info: 4 \ip\73.94.135.217:29070\name\MrButton\rate\4000\snaps\20\model\rax_joris/default\forcepowers\7-2-012320333000030321\color1\5\color2\5\handicap\100\sex\male\cg_predictItems\1\saber1\single_1\saber2\single_1\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+12-26-2020 0:11 (13:51): ClientUserinfoChanged: 4 n\MrButton\t\0\model\rax_joris/default\c1\5\c2\5\hc\100\w\0\l\0\tt\0\tl\0\st\single_1\st2\single_1\dt\0
+12-26-2020 0:11 (13:52): Kill: 3 2 3: Justin Nickels killed BobSaget by MOD_SABER
+12-26-2020 0:11 (13:53): ClientUserinfoChanged handling info: 2 \ip\104.32.44.176:29070\char_color_blue\255\char_color_green\120\char_color_red\85\saber2\none\saber1\single_2\cg_predictItems\1\sex\male\handicap\100\color2\4\color1\4\forcepowers\6-1-030330000000000333\model\jedi_kdm/head_b1|torso_d1|lower_c1\snaps\20\rate\4000\name\BobSaget\teamtask\0\teamoverlay\1
+12-26-2020 0:11 (13:53): ClientUserinfoChanged: 2 n\BobSaget\t\0\model\jedi_kdm/head_b1|torso_d1|lower_c1\c1\4\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\single_2\st2\none\dt\0
+12-26-2020 0:11 (14:27): Kill: 4 3 3: MrButton killed Justin Nickels by MOD_SABER
+12-26-2020 0:11 (14:28): ClientUserinfoChanged handling info: 3 \ip\74.213.218.3:29070\name\Justin Nickels\rate\4000\snaps\20\model\imperial/default\forcepowers\6-1-030330000000000333\color1\5\color2\4\handicap\100\sex\male\cg_predictItems\1\saber1\dual_4\saber2\none\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+12-26-2020 0:11 (14:28): ClientUserinfoChanged: 3 n\Justin Nickels\t\0\model\imperial/default\c1\5\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\dual_4\st2\none\dt\0
+12-26-2020 0:12 (14:41): Kill: 3 4 3: Justin Nickels killed MrButton by MOD_SABER
+12-26-2020 0:12 (14:44): ClientUserinfoChanged handling info: 4 \ip\73.94.135.217:29070\name\MrButton\rate\4000\snaps\20\model\rax_joris/default\forcepowers\7-2-012320333000030321\color1\5\color2\5\handicap\100\sex\male\cg_predictItems\1\saber1\single_1\saber2\single_1\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+12-26-2020 0:12 (14:44): ClientUserinfoChanged: 4 n\MrButton\t\0\model\rax_joris/default\c1\5\c2\5\hc\100\w\0\l\0\tt\0\tl\0\st\single_1\st2\single_1\dt\0
+12-26-2020 0:12 (14:57): Kill: 3 2 3: Justin Nickels killed BobSaget by MOD_SABER
+12-26-2020 0:12 (14:59): ClientUserinfoChanged handling info: 2 \ip\104.32.44.176:29070\char_color_blue\255\char_color_green\120\char_color_red\85\saber2\none\saber1\single_2\cg_predictItems\1\sex\male\handicap\100\color2\4\color1\4\forcepowers\6-1-030330000000000333\model\jedi_kdm/head_b1|torso_d1|lower_c1\snaps\20\rate\4000\name\BobSaget\teamtask\0\teamoverlay\1
+12-26-2020 0:12 (14:59): ClientUserinfoChanged: 2 n\BobSaget\t\0\model\jedi_kdm/head_b1|torso_d1|lower_c1\c1\4\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\single_2\st2\none\dt\0
+12-26-2020 0:12 (15:04): Kill: 3 2 3: Justin Nickels killed BobSaget by MOD_SABER
+12-26-2020 0:12 (15:07): ClientUserinfoChanged handling info: 2 \ip\104.32.44.176:29070\char_color_blue\255\char_color_green\120\char_color_red\85\saber2\none\saber1\single_2\cg_predictItems\1\sex\male\handicap\100\color2\4\color1\4\forcepowers\6-1-030330000000000333\model\jedi_kdm/head_b1|torso_d1|lower_c1\snaps\20\rate\4000\name\BobSaget\teamtask\0\teamoverlay\1
+12-26-2020 0:12 (15:07): ClientUserinfoChanged: 2 n\BobSaget\t\0\model\jedi_kdm/head_b1|torso_d1|lower_c1\c1\4\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\single_2\st2\none\dt\0
+12-26-2020 0:12 (15:10): Kill: 2 3 3: BobSaget killed Justin Nickels by MOD_SABER
+12-26-2020 0:12 (15:14): ClientUserinfoChanged handling info: 3 \ip\74.213.218.3:29070\name\Justin Nickels\rate\4000\snaps\20\model\imperial/default\forcepowers\6-1-030330000000000333\color1\5\color2\4\handicap\100\sex\male\cg_predictItems\1\saber1\dual_4\saber2\none\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+12-26-2020 0:12 (15:14): ClientUserinfoChanged: 3 n\Justin Nickels\t\0\model\imperial/default\c1\5\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\dual_4\st2\none\dt\0
+12-26-2020 0:12 (15:16): Kill: 3 4 3: Justin Nickels killed MrButton by MOD_SABER
+12-26-2020 0:12 (15:20): Kill: 3 2 3: Justin Nickels killed BobSaget by MOD_SABER
+12-26-2020 0:12 (15:22): ClientUserinfoChanged handling info: 2 \ip\104.32.44.176:29070\char_color_blue\255\char_color_green\120\char_color_red\85\saber2\none\saber1\single_2\cg_predictItems\1\sex\male\handicap\100\color2\4\color1\4\forcepowers\6-1-030330000000000333\model\jedi_kdm/head_b1|torso_d1|lower_c1\snaps\20\rate\4000\name\BobSaget\teamtask\0\teamoverlay\1
+12-26-2020 0:12 (15:22): ClientUserinfoChanged: 2 n\BobSaget\t\0\model\jedi_kdm/head_b1|torso_d1|lower_c1\c1\4\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\single_2\st2\none\dt\0
+12-26-2020 0:12 (15:33): ClientUserinfoChanged handling info: 4 \ip\73.94.135.217:29070\name\MrButton\rate\4000\snaps\20\model\reelo/default\forcepowers\7-2-012320333000030321\color1\3\color2\5\handicap\100\sex\male\cg_predictItems\1\saber1\dual_5\saber2\none\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+12-26-2020 0:12 (15:33): ClientUserinfoChanged: 4 n\MrButton\t\0\model\reelo/default\c1\3\c2\5\hc\100\w\0\l\0\tt\0\tl\0\st\single_1\st2\single_1\dt\0
+12-26-2020 0:13 (15:36): ClientUserinfoChanged handling info: 4 \ip\73.94.135.217:29070\name\MrButton\rate\4000\snaps\20\model\reelo/default\forcepowers\7-2-012320333000030321\color1\3\color2\5\handicap\100\sex\male\cg_predictItems\1\saber1\dual_5\saber2\none\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+12-26-2020 0:13 (15:36): ClientUserinfoChanged: 4 n\MrButton\t\0\model\reelo/default\c1\3\c2\5\hc\100\w\0\l\0\tt\0\tl\0\st\dual_5\st2\none\dt\0
+12-26-2020 0:13 (15:36): ClientUserinfoChanged handling info: 4 \ip\73.94.135.217:29070\name\MrButton\rate\4000\snaps\20\model\reelo/default\forcepowers\7-2-012320333000030321\color1\3\color2\5\handicap\100\sex\male\cg_predictItems\1\saber1\dual_5\saber2\none\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+12-26-2020 0:13 (15:36): ClientUserinfoChanged: 4 n\MrButton\t\0\model\reelo/default\c1\3\c2\5\hc\100\w\0\l\0\tt\0\tl\0\st\dual_5\st2\none\dt\0
+12-26-2020 0:13 (15:40): Kill: 4 2 3: MrButton killed BobSaget by MOD_SABER
+12-26-2020 0:13 (15:43): ClientUserinfoChanged handling info: 2 \ip\104.32.44.176:29070\char_color_blue\255\char_color_green\120\char_color_red\85\saber2\none\saber1\single_2\cg_predictItems\1\sex\male\handicap\100\color2\4\color1\4\forcepowers\6-1-030330000000000333\model\jedi_kdm/head_b1|torso_d1|lower_c1\snaps\20\rate\4000\name\BobSaget\teamtask\0\teamoverlay\1
+12-26-2020 0:13 (15:43): ClientUserinfoChanged: 2 n\BobSaget\t\0\model\jedi_kdm/head_b1|torso_d1|lower_c1\c1\4\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\single_2\st2\none\dt\0
+12-26-2020 0:13 (15:45): Kill: 2 3 3: BobSaget killed Justin Nickels by MOD_SABER
+12-26-2020 0:13 (15:48): ClientUserinfoChanged handling info: 3 \ip\74.213.218.3:29070\name\Justin Nickels\rate\4000\snaps\20\model\imperial/default\forcepowers\6-1-030330000000000333\color1\5\color2\4\handicap\100\sex\male\cg_predictItems\1\saber1\dual_4\saber2\none\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+12-26-2020 0:13 (15:48): ClientUserinfoChanged: 3 n\Justin Nickels\t\0\model\imperial/default\c1\5\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\dual_4\st2\none\dt\0
+12-26-2020 0:13 (16:00): Kill: 4 3 31: MrButton killed Justin Nickels by MOD_FORCE_DARK
+12-26-2020 0:13 (16:01): ClientUserinfoChanged handling info: 3 \ip\74.213.218.3:29070\name\Justin Nickels\rate\4000\snaps\20\model\imperial/default\forcepowers\6-1-030330000000000333\color1\5\color2\4\handicap\100\sex\male\cg_predictItems\1\saber1\dual_4\saber2\none\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+12-26-2020 0:13 (16:01): ClientUserinfoChanged: 3 n\Justin Nickels\t\0\model\imperial/default\c1\5\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\dual_4\st2\none\dt\0
+12-26-2020 0:13 (16:20): Kill: 2 4 3: BobSaget killed MrButton by MOD_SABER
+12-26-2020 0:14 (16:49): Kill: 3 2 3: Justin Nickels killed BobSaget by MOD_SABER
+12-26-2020 0:14 (16:49): ClientUserinfoChanged handling info: 4 \ip\73.94.135.217:29070\name\MrButton\rate\4000\snaps\20\model\desann/default\forcepowers\7-2-033330002000011333\color1\3\color2\5\handicap\100\sex\male\cg_predictItems\1\saber1\dual_5\saber2\none\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+12-26-2020 0:14 (16:49): ClientUserinfoChanged: 4 n\MrButton\t\0\model\desann/default\c1\3\c2\5\hc\100\w\0\l\0\tt\0\tl\0\st\dual_5\st2\none\dt\0
+12-26-2020 0:14 (16:50): ClientUserinfoChanged handling info: 4 \ip\73.94.135.217:29070\name\MrButton\rate\4000\snaps\20\model\desann/default\forcepowers\7-2-033330002000011333\color1\3\color2\5\handicap\100\sex\male\cg_predictItems\1\saber1\dual_5\saber2\none\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+12-26-2020 0:14 (16:50): ClientUserinfoChanged: 4 n\MrButton\t\0\model\desann/default\c1\3\c2\5\hc\100\w\0\l\0\tt\0\tl\0\st\dual_5\st2\none\dt\0
+12-26-2020 0:14 (16:52): ClientUserinfoChanged handling info: 2 \ip\104.32.44.176:29070\char_color_blue\255\char_color_green\120\char_color_red\85\saber2\none\saber1\single_2\cg_predictItems\1\sex\male\handicap\100\color2\4\color1\4\forcepowers\6-1-030330000000000333\model\jedi_kdm/head_b1|torso_d1|lower_c1\snaps\20\rate\4000\name\BobSaget\teamtask\0\teamoverlay\1
+12-26-2020 0:14 (16:52): ClientUserinfoChanged: 2 n\BobSaget\t\0\model\jedi_kdm/head_b1|torso_d1|lower_c1\c1\4\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\single_2\st2\none\dt\0
+12-26-2020 0:14 (16:55): Kill: 2 3 3: BobSaget killed Justin Nickels by MOD_SABER
+12-26-2020 0:14 (16:58): ClientUserinfoChanged handling info: 3 \ip\74.213.218.3:29070\name\Justin Nickels\rate\4000\snaps\20\model\imperial/default\forcepowers\6-1-030330000000000333\color1\5\color2\4\handicap\100\sex\male\cg_predictItems\1\saber1\dual_4\saber2\none\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+12-26-2020 0:14 (16:58): ClientUserinfoChanged: 3 n\Justin Nickels\t\0\model\imperial/default\c1\5\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\dual_4\st2\none\dt\0
+12-26-2020 0:15 (17:45): Kill: 3 4 3: Justin Nickels killed MrButton by MOD_SABER
+12-26-2020 0:15 (17:51): Kill: 3 2 3: Justin Nickels killed BobSaget by MOD_SABER
+12-26-2020 0:15 (17:53): ClientUserinfoChanged handling info: 2 \ip\104.32.44.176:29070\char_color_blue\255\char_color_green\120\char_color_red\85\saber2\none\saber1\single_2\cg_predictItems\1\sex\male\handicap\100\color2\4\color1\4\forcepowers\6-1-030330000000000333\model\jedi_kdm/head_b1|torso_d1|lower_c1\snaps\20\rate\4000\name\BobSaget\teamtask\0\teamoverlay\1
+12-26-2020 0:15 (17:53): ClientUserinfoChanged: 2 n\BobSaget\t\0\model\jedi_kdm/head_b1|torso_d1|lower_c1\c1\4\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\single_2\st2\none\dt\0
+12-26-2020 0:15 (17:55): Kill: 2 3 3: BobSaget killed Justin Nickels by MOD_SABER
+12-26-2020 0:15 (17:56): ClientUserinfoChanged handling info: 4 \ip\73.94.135.217:29070\name\MrButton\rate\4000\snaps\20\model\desann/default\forcepowers\7-2-033330002000011333\color1\1\color2\5\handicap\100\sex\male\cg_predictItems\1\saber1\single_4\saber2\none\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+12-26-2020 0:15 (17:56): ClientUserinfoChanged: 4 n\MrButton\t\0\model\desann/default\c1\1\c2\5\hc\100\w\0\l\0\tt\0\tl\0\st\dual_5\st2\none\dt\0
+12-26-2020 0:15 (17:57): ClientUserinfoChanged handling info: 3 \ip\74.213.218.3:29070\name\Justin Nickels\rate\4000\snaps\20\model\imperial/default\forcepowers\6-1-030330000000000333\color1\5\color2\4\handicap\100\sex\male\cg_predictItems\1\saber1\dual_4\saber2\none\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+12-26-2020 0:15 (17:57): ClientUserinfoChanged: 3 n\Justin Nickels\t\0\model\imperial/default\c1\5\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\dual_4\st2\none\dt\0
+12-26-2020 0:15 (17:57): ClientUserinfoChanged handling info: 4 \ip\73.94.135.217:29070\name\MrButton\rate\4000\snaps\20\model\desann/default\forcepowers\7-2-033330002000011333\color1\1\color2\5\handicap\100\sex\male\cg_predictItems\1\saber1\single_4\saber2\none\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+12-26-2020 0:15 (17:57): ClientUserinfoChanged: 4 n\MrButton\t\0\model\desann/default\c1\1\c2\5\hc\100\w\0\l\0\tt\0\tl\0\st\single_4\st2\none\dt\0
+12-26-2020 0:15 (17:57): ClientUserinfoChanged handling info: 4 \ip\73.94.135.217:29070\name\MrButton\rate\4000\snaps\20\model\desann/default\forcepowers\7-2-033330002000011333\color1\1\color2\5\handicap\100\sex\male\cg_predictItems\1\saber1\single_4\saber2\none\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+12-26-2020 0:15 (17:57): ClientUserinfoChanged: 4 n\MrButton\t\0\model\desann/default\c1\1\c2\5\hc\100\w\0\l\0\tt\0\tl\0\st\single_4\st2\none\dt\0
+12-26-2020 0:16 (18:38): Kill: 3 4 3: Justin Nickels killed MrButton by MOD_SABER
+12-26-2020 0:16 (18:39): ClientUserinfoChanged handling info: 4 \ip\73.94.135.217:29070\name\MrButton\rate\4000\snaps\20\model\desann/default\forcepowers\7-2-033330002000011333\color1\1\color2\5\handicap\100\sex\male\cg_predictItems\1\saber1\single_4\saber2\none\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+12-26-2020 0:16 (18:39): ClientUserinfoChanged: 4 n\MrButton\t\0\model\desann/default\c1\1\c2\5\hc\100\w\0\l\0\tt\0\tl\0\st\single_4\st2\none\dt\0
+12-26-2020 0:16 (18:43): Kill: 3 2 3: Justin Nickels killed BobSaget by MOD_SABER
+12-26-2020 0:16 (18:46): ClientUserinfoChanged handling info: 2 \ip\104.32.44.176:29070\char_color_blue\255\char_color_green\120\char_color_red\85\saber2\none\saber1\single_2\cg_predictItems\1\sex\male\handicap\100\color2\4\color1\4\forcepowers\6-1-030330000000000333\model\jedi_kdm/head_b1|torso_d1|lower_c1\snaps\20\rate\4000\name\BobSaget\teamtask\0\teamoverlay\1
+12-26-2020 0:16 (18:46): ClientUserinfoChanged: 2 n\BobSaget\t\0\model\jedi_kdm/head_b1|torso_d1|lower_c1\c1\4\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\single_2\st2\none\dt\0
+12-26-2020 0:16 (18:51): Kill: 2 3 3: BobSaget killed Justin Nickels by MOD_SABER
+12-26-2020 0:16 (18:57): Kill: 2 4 3: BobSaget killed MrButton by MOD_SABER
+12-26-2020 0:16 (18:58): ClientUserinfoChanged handling info: 4 \ip\73.94.135.217:29070\name\MrButton\rate\4000\snaps\20\model\desann/default\forcepowers\7-2-033330002000011333\color1\1\color2\5\handicap\100\sex\male\cg_predictItems\1\saber1\single_4\saber2\none\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+12-26-2020 0:16 (18:58): ClientUserinfoChanged: 4 n\MrButton\t\0\model\desann/default\c1\1\c2\5\hc\100\w\0\l\0\tt\0\tl\0\st\single_4\st2\none\dt\0
+12-26-2020 0:16 (19:24): ClientUserinfoChanged handling info: 3 \ip\74.213.218.3:29070\name\Justin Nickels\rate\4000\snaps\20\model\imperial/default\forcepowers\6-1-030330000000000333\color1\5\color2\4\handicap\100\sex\male\cg_predictItems\1\saber1\dual_4\saber2\none\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+12-26-2020 0:16 (19:24): ClientUserinfoChanged: 3 n\Justin Nickels\t\0\model\imperial/default\c1\5\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\dual_4\st2\none\dt\0
+12-26-2020 0:17 (20:28): Kill: 4 3 3: MrButton killed Justin Nickels by MOD_SABER
+12-26-2020 0:17 (20:30): ClientUserinfoChanged handling info: 3 \ip\74.213.218.3:29070\name\Justin Nickels\rate\4000\snaps\20\model\imperial/default\forcepowers\6-1-030330000000000333\color1\5\color2\4\handicap\100\sex\male\cg_predictItems\1\saber1\dual_4\saber2\none\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+12-26-2020 0:17 (20:30): ClientUserinfoChanged: 3 n\Justin Nickels\t\0\model\imperial/default\c1\5\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\dual_4\st2\none\dt\0
+12-26-2020 0:18 (21:20): Kill: 4 3 5: MrButton killed Justin Nickels by MOD_BRYAR_PISTOL_ALT
+12-26-2020 0:18 (21:21): ClientUserinfoChanged handling info: 3 \ip\74.213.218.3:29070\name\Justin Nickels\rate\4000\snaps\20\model\imperial/default\forcepowers\6-1-030330000000000333\color1\5\color2\4\handicap\100\sex\male\cg_predictItems\1\saber1\dual_4\saber2\none\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+12-26-2020 0:18 (21:21): ClientUserinfoChanged: 3 n\Justin Nickels\t\0\model\imperial/default\c1\5\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\dual_4\st2\none\dt\0
+12-26-2020 0:18 (21:34): Kill: 2 4 3: BobSaget killed MrButton by MOD_SABER
+12-26-2020 0:19 (21:40): ClientUserinfoChanged handling info: 4 \ip\73.94.135.217:29070\name\MrButton\rate\4000\snaps\20\model\desann/default\forcepowers\7-2-033330002000011333\color1\1\color2\5\handicap\100\sex\male\cg_predictItems\1\saber1\single_4\saber2\none\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+12-26-2020 0:19 (21:40): ClientUserinfoChanged: 4 n\MrButton\t\0\model\desann/default\c1\1\c2\5\hc\100\w\0\l\0\tt\0\tl\0\st\single_4\st2\none\dt\0
+12-26-2020 0:19 (21:47): Kill: 4 3 5: MrButton killed Justin Nickels by MOD_BRYAR_PISTOL_ALT
+12-26-2020 0:19 (22:00): Kill: 4 2 3: MrButton killed BobSaget by MOD_SABER
+12-26-2020 0:19 (22:02): ClientUserinfoChanged handling info: 2 \ip\104.32.44.176:29070\char_color_blue\255\char_color_green\120\char_color_red\85\saber2\none\saber1\single_2\cg_predictItems\1\sex\male\handicap\100\color2\4\color1\4\forcepowers\6-1-030330000000000333\model\jedi_kdm/head_b1|torso_d1|lower_c1\snaps\20\rate\4000\name\BobSaget\teamtask\0\teamoverlay\1
+12-26-2020 0:19 (22:02): ClientUserinfoChanged: 2 n\BobSaget\t\0\model\jedi_kdm/head_b1|torso_d1|lower_c1\c1\4\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\single_2\st2\none\dt\0
+12-26-2020 0:19 (22:09): Kill: 4 2 3: MrButton killed BobSaget by MOD_SABER
+12-26-2020 0:19 (22:10): ClientUserinfoChanged handling info: 2 \ip\104.32.44.176:29070\char_color_blue\255\char_color_green\120\char_color_red\85\saber2\none\saber1\single_2\cg_predictItems\1\sex\male\handicap\100\color2\4\color1\4\forcepowers\6-1-030330000000000333\model\jedi_kdm/head_b1|torso_d1|lower_c1\snaps\20\rate\4000\name\BobSaget\teamtask\0\teamoverlay\1
+12-26-2020 0:19 (22:10): ClientUserinfoChanged: 2 n\BobSaget\t\0\model\jedi_kdm/head_b1|torso_d1|lower_c1\c1\4\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\single_2\st2\none\dt\0
+12-26-2020 0:20 (22:49): ClientUserinfoChanged handling info: 3 \ip\74.213.218.3:29070\name\Justin Nickels\rate\4000\snaps\20\model\imperial/default\forcepowers\6-1-030330000000000333\color1\5\color2\4\handicap\100\sex\male\cg_predictItems\1\saber1\dual_4\saber2\none\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+12-26-2020 0:20 (22:49): ClientUserinfoChanged: 3 n\Justin Nickels\t\0\model\imperial/default\c1\5\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\dual_4\st2\none\dt\0
+12-26-2020 0:20 (22:56): Kill: 3 2 3: Justin Nickels killed BobSaget by MOD_SABER
+12-26-2020 0:20 (22:57): ClientUserinfoChanged handling info: 2 \ip\104.32.44.176:29070\char_color_blue\255\char_color_green\120\char_color_red\85\saber2\none\saber1\single_2\cg_predictItems\1\sex\male\handicap\100\color2\4\color1\4\forcepowers\6-1-030330000000000333\model\jedi_kdm/head_b1|torso_d1|lower_c1\snaps\20\rate\4000\name\BobSaget\teamtask\0\teamoverlay\1
+12-26-2020 0:20 (22:57): ClientUserinfoChanged: 2 n\BobSaget\t\0\model\jedi_kdm/head_b1|torso_d1|lower_c1\c1\4\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\single_2\st2\none\dt\0
+12-26-2020 0:20 (23:17): Kill: 2 4 3: BobSaget killed MrButton by MOD_SABER
+12-26-2020 0:20 (23:23): ClientUserinfoChanged handling info: 4 \ip\73.94.135.217:29070\name\MrButton\rate\4000\snaps\20\model\desann/default\forcepowers\7-2-033330002000011333\color1\1\color2\5\handicap\100\sex\male\cg_predictItems\1\saber1\single_4\saber2\none\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+12-26-2020 0:20 (23:23): ClientUserinfoChanged: 4 n\MrButton\t\0\model\desann/default\c1\1\c2\5\hc\100\w\0\l\0\tt\0\tl\0\st\single_4\st2\none\dt\0
+12-26-2020 0:20 (23:26): Kill: 4 3 3: MrButton killed Justin Nickels by MOD_SABER
+12-26-2020 0:21 (23:58): ClientUserinfoChanged handling info: 3 \ip\74.213.218.3:29070\name\Justin Nickels\rate\4000\snaps\20\model\imperial/default\forcepowers\6-1-030330000000000333\color1\5\color2\4\handicap\100\sex\male\cg_predictItems\1\saber1\dual_4\saber2\none\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+12-26-2020 0:21 (23:58): ClientUserinfoChanged: 3 n\Justin Nickels\t\0\model\imperial/default\c1\5\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\dual_4\st2\none\dt\0
+12-26-2020 0:22 (24:58): Kill: 3 2 3: Justin Nickels killed BobSaget by MOD_SABER
+12-26-2020 0:22 (25:00): ClientUserinfoChanged handling info: 2 \ip\104.32.44.176:29070\char_color_blue\255\char_color_green\120\char_color_red\85\saber2\none\saber1\single_2\cg_predictItems\1\sex\male\handicap\100\color2\4\color1\4\forcepowers\6-1-030330000000000333\model\jedi_kdm/head_b1|torso_d1|lower_c1\snaps\20\rate\4000\name\BobSaget\teamtask\0\teamoverlay\1
+12-26-2020 0:22 (25:00): ClientUserinfoChanged: 2 n\BobSaget\t\0\model\jedi_kdm/head_b1|torso_d1|lower_c1\c1\4\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\single_2\st2\none\dt\0
+12-26-2020 0:22 (25:16): Kill: 2 3 3: BobSaget killed Justin Nickels by MOD_SABER
+12-26-2020 0:22 (25:18): ClientUserinfoChanged handling info: 3 \ip\74.213.218.3:29070\name\Justin Nickels\rate\4000\snaps\20\model\imperial/default\forcepowers\6-1-030330000000000333\color1\5\color2\4\handicap\100\sex\male\cg_predictItems\1\saber1\dual_4\saber2\none\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+12-26-2020 0:22 (25:18): ClientUserinfoChanged: 3 n\Justin Nickels\t\0\model\imperial/default\c1\5\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\dual_4\st2\none\dt\0
+12-26-2020 0:22 (25:25): Kill: 3 2 3: Justin Nickels killed BobSaget by MOD_SABER
+12-26-2020 0:22 (25:27): ClientUserinfoChanged handling info: 2 \ip\104.32.44.176:29070\char_color_blue\255\char_color_green\120\char_color_red\85\saber2\none\saber1\single_2\cg_predictItems\1\sex\male\handicap\100\color2\4\color1\4\forcepowers\6-1-030330000000000333\model\jedi_kdm/head_b1|torso_d1|lower_c1\snaps\20\rate\4000\name\BobSaget\teamtask\0\teamoverlay\1
+12-26-2020 0:22 (25:27): ClientUserinfoChanged: 2 n\BobSaget\t\0\model\jedi_kdm/head_b1|torso_d1|lower_c1\c1\4\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\single_2\st2\none\dt\0
+12-26-2020 0:23 (25:51): Kill: 2 3 3: BobSaget killed Justin Nickels by MOD_SABER
+12-26-2020 0:23 (25:52): ClientUserinfoChanged handling info: 3 \ip\74.213.218.3:29070\name\Justin Nickels\rate\4000\snaps\20\model\imperial/default\forcepowers\6-1-030330000000000333\color1\5\color2\4\handicap\100\sex\male\cg_predictItems\1\saber1\dual_4\saber2\none\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+12-26-2020 0:23 (25:52): ClientUserinfoChanged: 3 n\Justin Nickels\t\0\model\imperial/default\c1\5\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\dual_4\st2\none\dt\0
+12-26-2020 0:23 (25:55): Kill: 3 4 3: Justin Nickels killed MrButton by MOD_SABER
+12-26-2020 0:23 (25:58): ClientUserinfoChanged handling info: 4 \ip\73.94.135.217:29070\name\MrButton\rate\4000\snaps\20\model\desann/default\forcepowers\7-2-033330002000011333\color1\1\color2\5\handicap\100\sex\male\cg_predictItems\1\saber1\single_4\saber2\none\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+12-26-2020 0:23 (25:58): ClientUserinfoChanged: 4 n\MrButton\t\0\model\desann/default\c1\1\c2\5\hc\100\w\0\l\0\tt\0\tl\0\st\single_4\st2\none\dt\0
+12-26-2020 0:23 (26:06): Kill: 2 3 3: BobSaget killed Justin Nickels by MOD_SABER
+12-26-2020 0:23 (26:08): ClientUserinfoChanged handling info: 3 \ip\74.213.218.3:29070\name\Justin Nickels\rate\4000\snaps\20\model\imperial/default\forcepowers\6-1-030330000000000333\color1\5\color2\4\handicap\100\sex\male\cg_predictItems\1\saber1\dual_4\saber2\none\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+12-26-2020 0:23 (26:08): ClientUserinfoChanged: 3 n\Justin Nickels\t\0\model\imperial/default\c1\5\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\dual_4\st2\none\dt\0
+12-26-2020 0:23 (26:17): Kill: 2 4 3: BobSaget killed MrButton by MOD_SABER
+12-26-2020 0:23 (26:19): ClientUserinfoChanged handling info: 4 \ip\73.94.135.217:29070\name\MrButton\rate\4000\snaps\20\model\desann/default\forcepowers\7-2-033330002000011333\color1\1\color2\5\handicap\100\sex\male\cg_predictItems\1\saber1\single_4\saber2\none\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+12-26-2020 0:23 (26:19): ClientUserinfoChanged: 4 n\MrButton\t\0\model\desann/default\c1\1\c2\5\hc\100\w\0\l\0\tt\0\tl\0\st\single_4\st2\none\dt\0
+12-26-2020 0:23 (26:23): Kill: 3 2 3: Justin Nickels killed BobSaget by MOD_SABER
+12-26-2020 0:23 (26:25): ClientUserinfoChanged handling info: 2 \ip\104.32.44.176:29070\char_color_blue\255\char_color_green\120\char_color_red\85\saber2\none\saber1\single_2\cg_predictItems\1\sex\male\handicap\100\color2\4\color1\4\forcepowers\6-1-030330000000000333\model\jedi_kdm/head_b1|torso_d1|lower_c1\snaps\20\rate\4000\name\BobSaget\teamtask\0\teamoverlay\1
+12-26-2020 0:23 (26:25): ClientUserinfoChanged: 2 n\BobSaget\t\0\model\jedi_kdm/head_b1|torso_d1|lower_c1\c1\4\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\single_2\st2\none\dt\0
+12-26-2020 0:24 (26:47): Kill: 2 3 3: BobSaget killed Justin Nickels by MOD_SABER
+12-26-2020 0:24 (26:49): ClientUserinfoChanged handling info: 3 \ip\74.213.218.3:29070\name\Justin Nickels\rate\4000\snaps\20\model\imperial/default\forcepowers\6-1-030330000000000333\color1\5\color2\4\handicap\100\sex\male\cg_predictItems\1\saber1\dual_4\saber2\none\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+12-26-2020 0:24 (26:49): ClientUserinfoChanged: 3 n\Justin Nickels\t\0\model\imperial/default\c1\5\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\dual_4\st2\none\dt\0
+12-26-2020 0:24 (27:02): Kill: 3 4 3: Justin Nickels killed MrButton by MOD_SABER
+12-26-2020 0:24 (27:04): Kill: 2 3 3: BobSaget killed Justin Nickels by MOD_SABER
+12-26-2020 0:24 (27:06): ClientUserinfoChanged handling info: 3 \ip\74.213.218.3:29070\name\Justin Nickels\rate\4000\snaps\20\model\imperial/default\forcepowers\6-1-030330000000000333\color1\5\color2\4\handicap\100\sex\male\cg_predictItems\1\saber1\dual_4\saber2\none\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+12-26-2020 0:24 (27:06): ClientUserinfoChanged: 3 n\Justin Nickels\t\0\model\imperial/default\c1\5\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\dual_4\st2\none\dt\0
+12-26-2020 0:24 (27:06): ClientUserinfoChanged handling info: 4 \ip\73.94.135.217:29070\name\MrButton\rate\4000\snaps\20\model\desann/default\forcepowers\7-2-033330002000011333\color1\1\color2\5\handicap\100\sex\male\cg_predictItems\1\saber1\single_4\saber2\none\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+12-26-2020 0:24 (27:06): ClientUserinfoChanged: 4 n\MrButton\t\0\model\desann/default\c1\1\c2\5\hc\100\w\0\l\0\tt\0\tl\0\st\single_4\st2\none\dt\0
+12-26-2020 0:24 (27:17): Kill: 3 4 3: Justin Nickels killed MrButton by MOD_SABER
+12-26-2020 0:24 (27:21): Kill: 2 3 3: BobSaget killed Justin Nickels by MOD_SABER
+12-26-2020 0:24 (27:23): ClientUserinfoChanged handling info: 3 \ip\74.213.218.3:29070\name\Justin Nickels\rate\4000\snaps\20\model\imperial/default\forcepowers\6-1-030330000000000333\color1\5\color2\4\handicap\100\sex\male\cg_predictItems\1\saber1\dual_4\saber2\none\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+12-26-2020 0:24 (27:23): ClientUserinfoChanged: 3 n\Justin Nickels\t\0\model\imperial/default\c1\5\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\dual_4\st2\none\dt\0
+12-26-2020 0:24 (27:34): Kill: 3 2 3: Justin Nickels killed BobSaget by MOD_SABER
+12-26-2020 0:25 (27:35): ClientUserinfoChanged handling info: 2 \ip\104.32.44.176:29070\char_color_blue\255\char_color_green\120\char_color_red\85\saber2\none\saber1\single_2\cg_predictItems\1\sex\male\handicap\100\color2\4\color1\4\forcepowers\6-1-030330000000000333\model\jedi_kdm/head_b1|torso_d1|lower_c1\snaps\20\rate\4000\name\BobSaget\teamtask\0\teamoverlay\1
+12-26-2020 0:25 (27:35): ClientUserinfoChanged: 2 n\BobSaget\t\0\model\jedi_kdm/head_b1|torso_d1|lower_c1\c1\4\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\single_2\st2\none\dt\0
+12-26-2020 0:25 (27:53): Kill: 3 2 3: Justin Nickels killed BobSaget by MOD_SABER
+12-26-2020 0:25 (27:54): ClientUserinfoChanged handling info: 2 \ip\104.32.44.176:29070\char_color_blue\255\char_color_green\120\char_color_red\85\saber2\none\saber1\single_2\cg_predictItems\1\sex\male\handicap\100\color2\4\color1\4\forcepowers\6-1-030330000000000333\model\jedi_kdm/head_b1|torso_d1|lower_c1\snaps\20\rate\4000\name\BobSaget\teamtask\0\teamoverlay\1
+12-26-2020 0:25 (27:54): ClientUserinfoChanged: 2 n\BobSaget\t\0\model\jedi_kdm/head_b1|torso_d1|lower_c1\c1\4\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\single_2\st2\none\dt\0
+12-26-2020 0:25 (27:59): ClientDisconnect: 4
+12-26-2020 0:25 (28:17): ClientDisconnect: 2
+12-26-2020 0:25 (28:21): ClientDisconnect: 3
+12-26-2020 0:25 (28:34): ClientConnect: 0
+12-26-2020 0:25 (28:34): ClientUserinfoChanged handling info: 0 \team\0\skill\ 5.00\personality\botfiles/astupidbot.jkb\saber2\none\saber1\kyle\color2\4\color1\4\sex\male\model\jawa\snaps\20\rate\25000\name\astupidbot
+12-26-2020 0:25 (28:34): ClientUserinfoChanged: 0 n\astupidbot\t\0\model\jawa\c1\4\c2\4\hc\0\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\\st2\\dt\0\sdt\0
+12-26-2020 0:25 (28:34): IP: localhost astupidbot
+12-26-2020 0:25 (28:34): ClientUserinfoChanged handling info: 0 \team\0\skill\ 5.00\personality\botfiles/astupidbot.jkb\saber2\none\saber1\kyle\color2\4\color1\4\sex\male\model\jawa\snaps\20\rate\25000\name\astupidbot
+12-26-2020 0:25 (28:34): ClientUserinfoChanged: 0 n\astupidbot\t\0\model\jawa\c1\4\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-26-2020 0:25 (28:34): ClientBegin: 0
+12-26-2020 0:26 (29:01): ClientConnect: 1
+12-26-2020 0:26 (29:01): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+12-26-2020 0:26 (29:01): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\0\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\\st2\\dt\0\sdt\0
+12-26-2020 0:26 (29:01): IP: localhost Kyle
+12-26-2020 0:26 (29:01): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+12-26-2020 0:26 (29:01): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-26-2020 0:26 (29:01): ClientBegin: 1
+12-26-2020 1: 2 (65:26): ClientConnect: 2
+12-26-2020 1: 2 (65:26): ClientUserinfoChanged handling info: 2 \ip\136.49.101.98:29070\challenge\639860647\qport\59162\protocol\26\snaps\40\sex\male\saber2\none\saber1\Kyle\rate\4000\name\Padawan\model\kyle/default\ja_guid\EC4B4FC6940C82C3E45C303F842CA7B9\handicap\100\forcepowers\7-1-032330000000001333\color2\4\color1\4\char_color_red\255\char_color_green\255\char_color_blue\255\cg_predictItems\1
+12-26-2020 1: 2 (65:26): ClientUserinfoChanged: 2 n\Padawan\t\0\model\kyle/default\c1\4\c2\4\hc\0\w\0\l\0\tt\0\tl\0\st\\st2\\dt\0
+12-26-2020 1: 2 (65:26): IP: 136.49.101.98 Padawan
+12-26-2020 1: 2 (65:34): ClientUserinfoChanged handling info: 2 \ip\136.49.101.98:29070\snaps\40\sex\male\saber2\none\saber1\Kyle\rate\4000\name\Padawan\model\kyle/default\ja_guid\EC4B4FC6940C82C3E45C303F842CA7B9\handicap\100\forcepowers\7-1-032330000000001333\color2\4\color1\4\char_color_red\255\char_color_green\255\char_color_blue\255\cg_predictItems\1\teamoverlay\0
+12-26-2020 1: 2 (65:34): ClientUserinfoChanged: 2 n\Padawan\t\0\model\kyle/default\c1\4\c2\4\hc\0\w\0\l\0\tt\0\tl\0\st\Kyle\st2\none\dt\0
+12-26-2020 1: 2 (65:34): ClientUserinfoChanged handling info: 2 \ip\136.49.101.98:29070\snaps\40\sex\male\saber2\none\saber1\Kyle\rate\4000\name\Padawan\model\kyle/default\ja_guid\EC4B4FC6940C82C3E45C303F842CA7B9\handicap\100\forcepowers\7-1-032330000000001333\color2\4\color1\4\char_color_red\255\char_color_green\255\char_color_blue\255\cg_predictItems\1\teamoverlay\0
+12-26-2020 1: 2 (65:34): ClientUserinfoChanged: 2 n\Padawan\t\0\model\kyle/default\c1\4\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\Kyle\st2\none\dt\0
+12-26-2020 1: 2 (65:34): ClientBegin: 2
+12-26-2020 1: 2 (65:34): say: astupidbot: g2g
+12-26-2020 1: 2 (65:34): ClientDisconnect: 0
+12-26-2020 1: 3 (66:04): ShutdownGame:
+12-26-2020 1: 3 (66:04): ------------------------------------------------------------

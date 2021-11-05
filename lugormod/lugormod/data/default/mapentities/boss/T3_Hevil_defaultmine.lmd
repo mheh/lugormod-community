@@ -1,0 +1,3125 @@
+{
+"classname" "misc_model_breakable"
+"model" "map_objects/vjun/window"
+"spawnflags" "65"
+"modelscale" "1.2"
+"angle" "45"
+"origin" "100216 100344 100153"
+}
+{
+"classname" "func_static"
+"model" "*110"
+"angles" "180 0 -90"
+"origin" "513 -158 2464"
+}
+{
+"classname" "target_teleporter"
+"targetname" "snake"
+"origin" "1093 -446 -108"
+}
+{
+"modelscale" "1.6"
+"model" "models/map_objects/roof_top/mech1.md3"
+"origin" "2928 -128 -172"
+"classname" "misc_model_breakable"
+"spawnflags" "2"
+}
+{
+"classname" "misc_model_breakable"
+"origin" "2448 -128 -172"
+"model" "models/map_objects/roof_top/mech1.md3"
+"modelscale" "1.6"
+"spawnflags" "2"
+}
+{
+"classname" "misc_model_breakable"
+"model" "map_objects/ships/falcon2"
+"spawnflags" "65"
+"origin" "610 -2301 -606"
+"modelscale" "1.5"
+}
+{
+"classname" "misc_model_breakable"
+"model" "map_objects/factory/catw2_b"
+"spawnflags" "65"
+"modelscale" "4"
+"origin" "-10000 -10001 -10000"
+}
+{
+"classname" "misc_model_breakable"
+"model" "map_objects/factory/catw2_b"
+"spawnflags" "65"
+"modelscale" "4"
+"origin" "-10000 -10512 -10000"
+}
+{
+"classname" "misc_model_breakable"
+"model" "map_objects/factory/catw2_b"
+"spawnflags" "65"
+"modelscale" "4"
+"origin" "-10512 -10512 -10000"
+}
+{
+"classname" "misc_model_breakable"
+"model" "map_objects/factory/catw2_b"
+"spawnflags" "65"
+"modelscale" "4"
+"origin" "-10512 -10000 -10000"
+}
+{
+"classname" "misc_model_breakable"
+"model" "map_objects/factory/catw2_b"
+"spawnflags" "65"
+"modelscale" "4"
+"origin" "-10000 -9488 -10000"
+}
+{
+"classname" "misc_model_breakable"
+"model" "map_objects/factory/catw2_b"
+"spawnflags" "65"
+"modelscale" "4"
+"origin" "-9488 -9488 -10000"
+}
+{
+"classname" "misc_model_breakable"
+"model" "map_objects/factory/catw2_b"
+"spawnflags" "65"
+"modelscale" "4"
+"origin" "-9488 -10000 -10000"
+}
+{
+"classname" "misc_model_breakable"
+"model" "map_objects/factory/catw2_b"
+"spawnflags" "65"
+"modelscale" "4"
+"origin" "-9488 -10512 -10000"
+}
+{
+"spawnflags" "2"
+"modelscale" "1.5"
+"angle" "270"
+"model" "models/map_objects/h_evil/turbine.md3"
+"origin" "1376 -384 -624"
+"classname" "misc_model_breakable"
+}
+{
+"classname" "money_dispenser"
+"angle" "-90"
+"origin" "1892 -344 -640"
+}
+{
+"classname" "misc_model_breakable"
+"model" "map_objects/factory/catw2_b"
+"spawnflags" "65"
+"modelscale" "4"
+"origin" "-10512 -9488 -10000"
+}
+{
+"spawnflags" "1"
+"targetname" "smallpipe1"
+"classname" "func_breakable"
+"model" "*86"
+}
+{
+"material" "8"
+"spawnflags" "1"
+"targetname" "sidepipe4"
+"classname" "func_breakable"
+"origin" "512 -880 2656"
+"model" "*88"
+}
+{
+"material" "8"
+"targetname" "sidepipe3"
+"spawnflags" "1"
+"classname" "func_breakable"
+"origin" "144 -512 2656"
+"model" "*89"
+}
+{
+"spawnflags" "1"
+"targetname" "sidepipe1"
+"classname" "func_breakable"
+"origin" "880 -512 2656"
+"model" "*91"
+}
+{
+"script_targetname" "sidebase4"
+"spawnflags" "1"
+"targetname" "sidebase4"
+"classname" "func_breakable"
+"origin" "512 -512 2434"
+"model" "*92"
+}
+{
+"targetname" "sidebase3"
+"spawnflags" "1"
+"script_targetname" "sidebase3"
+"classname" "func_breakable"
+"origin" "512 -512 2434"
+"model" "*93"
+}
+{
+"script_targetname" "sidebase2"
+"spawnflags" "1"
+"targetname" "sidebase2"
+"classname" "func_breakable"
+"origin" "512 -512 2434"
+"model" "*94"
+}
+{
+"targetname" "sidebase1"
+"spawnflags" "1"
+"script_targetname" "sidebase1"
+"classname" "func_breakable"
+"origin" "512 -512 2434"
+"model" "*95"
+}
+{
+"script_targetname" "sidepanel4"
+"spawnflags" "1"
+"targetname" "sidepanel4"
+"classname" "func_breakable"
+"origin" "512 -512 2559"
+"model" "*96"
+}
+{
+"targetname" "sidepanel3"
+"spawnflags" "1"
+"script_targetname" "sidepanel3"
+"classname" "func_breakable"
+"origin" "511 -512 2559"
+"model" "*97"
+}
+{
+"script_targetname" "sidepanel2"
+"targetname" "sidepanel2"
+"spawnflags" "1"
+"classname" "func_breakable"
+"origin" "512 -512 2559"
+"model" "*98"
+}
+{
+"targetname" "sidepanel1"
+"script_targetname" "sidepanel1"
+"spawnflags" "1"
+"classname" "func_breakable"
+"origin" "512 -512 2559"
+"model" "*99"
+}
+{
+"classname" "misc_model_breakable"
+"model" "map_objects/hoth/eweb_model"
+"spawnflags" "1"
+"origin" "-1724 -514 1168"
+}
+{
+"targetname" "buttress_middle03"
+"spawnflags" "1"
+"script_targetname" "buttress_middle03"
+"classname" "func_breakable"
+"origin" "512 -512 2560"
+"model" "*101"
+}
+{
+"script_targetname" "buttress_middle02"
+"targetname" "buttress_middle02"
+"spawnflags" "1"
+"classname" "func_breakable"
+"origin" "512 -512 2560"
+"model" "*102"
+}
+{
+"targetname" "buttress_middle01"
+"spawnflags" "1"
+"script_targetname" "buttress_middle01"
+"classname" "func_breakable"
+"origin" "512 -512 2560"
+"model" "*103"
+}
+{
+"script_targetname" "buttress_base04"
+"spawnflags" "1"
+"targetname" "buttress_base04"
+"classname" "func_breakable"
+"origin" "512 -494 2560"
+"model" "*104"
+}
+{
+"classname" "misc_model_breakable"
+"model" "map_objects/hoth/eweb_model"
+"spawnflags" "1"
+"origin" "-1718 -517 1168"
+}
+{
+"classname" "misc_model_breakable"
+"model" "map_objects/hoth/eweb_model"
+"spawnflags" "1"
+"origin" "-1829 -0 1122"
+}
+{
+"spawnflags" "1"
+"targetname" "buttress_top04"
+"script_targetname" "buttress_top04"
+"classname" "func_breakable"
+"origin" "512 -512 2752"
+"model" "*108"
+}
+{
+"script_targetname" "buttress_top03"
+"spawnflags" "1"
+"targetname" "buttress_top03"
+"classname" "func_breakable"
+"origin" "512 -512 2752"
+"model" "*109"
+}
+{
+"classname" "func_static"
+"model" "*110"
+"angles" "90 0 -90"
+"origin" "578 -158 2528"
+}
+{
+"material" "5"
+"spawnflags" "1"
+"script_targetname" "buttress_top01"
+"targetname" "buttress_top01"
+"classname" "func_breakable"
+"origin" "512 -512 2752"
+"model" "*111"
+}
+{
+"spawnflags" "0"
+"targetname" "towercap"
+"script_targetname" "towercap"
+"classname" "func_static"
+"origin" "512 -512 3392"
+"model" "*112"
+"angles" "0-0-180"
+}
+{
+"classname" "misc_skyportal"
+"origin" "-192 2688 -928"
+}
+{
+"script_targetname" "cloak4"
+"maxs" "1 1 145"
+"mins" "-78 -78 0"
+"autobound" "1"
+"material" "8"
+"targetname" "cloak4"
+"classname" "misc_model_breakable"
+"origin" "416 -608 2432"
+"model" "models/map_objects/h_evil/alcove_mech.md3"
+"angle" "270"
+"modelscale" "3"
+}
+{
+"script_targetname" "cloak1"
+"maxs" "78 1 145"
+"mins" "-1 -78 0"
+"autobound" "1"
+"material" "8"
+"targetname" "cloak1"
+"modelscale" "3"
+"angle" "360"
+"model" "models/map_objects/h_evil/alcove_mech.md3"
+"origin" "608 -608 2432"
+"classname" "misc_model_breakable"
+}
+{
+"classname" "ammo_blaster"
+"wait" "-1"
+"targetname" "ammo"
+"count" "300"
+"origin" "511 -476 2470"
+}
+{
+"script_targetname" "cloak3"
+"maxs" "1 78 145"
+"mins" "-78 -1 0"
+"autobound" "1"
+"material" "8"
+"targetname" "cloak3"
+"modelscale" "3"
+"angle" "180"
+"model" "models/map_objects/h_evil/alcove_mech.md3"
+"origin" "416 -416 2432"
+"classname" "misc_model_breakable"
+}
+{
+"zoffset" "64"
+"_cs" "1"
+"modelscale" "2"
+"classname" "misc_model_breakable"
+"origin" "512 -512 -784"
+"model" "models/map_objects/factory/f_gen.md3"
+"spawnflags" "2"
+}
+{
+"classname" "trigger_multiple"
+"maxs" "20 20 50"
+"mins" "-20 -20 0"
+"target" "tobank"
+"spawnflags" "4"
+"usetime" "5000"
+"origin" "-1772 861 -1408"
+}
+{
+"classname" "misc_model_breakable"
+"model" "map_objects/hoth/eweb_model"
+"spawnflags" "5"
+"origin" "-1829 -0 1122"
+}
+{
+"soundSet" "door4"
+"classname" "func_door"
+"angle" "-1"
+"model" "*126"
+"speed" "50"
+}
+{
+"soundSet" "impdoor1"
+"classname" "func_door"
+"angle" "-1"
+"model" "*127"
+"f" "f"
+"speed" "50"
+}
+{
+"soundSet" "door4"
+"classname" "func_door"
+"angle" "-1"
+"model" "*129"
+}
+{
+"classname" "func_static"
+"model" "*110"
+"origin" "300000 300000 300193"
+"angles" "0 0 -90"
+"group" "rofl1"
+}
+{
+"classname" "func_static"
+"model" "*95"
+"angles" "0 45 0"
+"origin" "149 -512 2435"
+}
+{
+"soundSet" "door4"
+"angle" "-1"
+"classname" "func_door"
+"model" "*133"
+"speed" "50"
+}
+{
+"soundSet" "door4"
+"classname" "func_door"
+"angle" "-1"
+"model" "*137"
+"speed" "50"
+}
+{
+"soundSet" "door4"
+"angle" "-1"
+"classname" "func_door"
+"model" "*138"
+"speed" "50"
+}
+{
+"soundSet" "door4"
+"angle" "-1"
+"classname" "func_door"
+"model" "*139"
+"speed" "50"
+}
+{
+"classname" "fx_runner"
+"fxfile" "force/confusion_old"
+"origin" "512 431 -753"
+}
+{
+"soundSet" "door4"
+"classname" "func_door"
+"angle" "-1"
+"model" "*151"
+"speed" "50"
+}
+{
+"classname" "misc_model_breakable"
+"model" "map/objects/danger/shuttle_chair_x5"
+"spawnflags" "1"
+"origin" "1336 -374 -144"
+}
+{
+"spawnflags" "2"
+"classname" "misc_model_breakable"
+"origin" "-1424 -192 1108"
+"model" "models/map_objects/roof_top/mech1.md3"
+"modelscale" "1.6"
+}
+{
+"spawnflags" "2"
+"modelscale" "1.6"
+"model" "models/map_objects/roof_top/mech1.md3"
+"origin" "-1904 -192 1108"
+"classname" "misc_model_breakable"
+}
+{
+"soundSet" "canyon2"
+"_lightmapscale" "2"
+"classname" "worldspawn"
+"gridsize" "256 256 256"
+"_color" "1 1 0.9"
+"message" "^1-^0M^7ap ^0B^7y^0 A^7ndy^1-"
+}
+{
+"script_targetname" "cloakdeviceinfill"
+"targetname" "cloakdeviceinfill"
+"spawnflags" "1"
+"classname" "func_breakable"
+"model" "*4"
+}
+{
+"modelscale" "1.6"
+"model" "models/map_objects/roof_top/mech1.md3"
+"origin" "2928 -128 -172"
+"classname" "misc_model_breakable"
+"spawnflags" "2"
+}
+{
+"classname" "misc_model_breakable"
+"origin" "2448 -128 -172"
+"model" "models/map_objects/roof_top/mech1.md3"
+"modelscale" "1.6"
+"spawnflags" "2"
+}
+{
+"redCrosshair" "1"
+"health" "50"
+"material" "4"
+"spawnflags" "2"
+"classname" "func_static"
+"model" "*12"
+}
+{
+"spawnflags" "2"
+"modelscale" "1.5"
+"angle" "270"
+"model" "models/map_objects/h_evil/turbine.md3"
+"origin" "1376 -384 -624"
+"classname" "misc_model_breakable"
+}
+{
+"spawnflags" "1"
+"targetname" "smallpipe3"
+"classname" "func_breakable"
+"model" "*84"
+}
+{
+"spawnflags" "1"
+"targetname" "smallpipe2"
+"classname" "func_breakable"
+"model" "*85"
+}
+{
+"spawnflags" "1"
+"targetname" "smallpipe1"
+"classname" "func_breakable"
+"model" "*86"
+}
+{
+"material" "8"
+"spawnflags" "1"
+"targetname" "bunchofpipes"
+"classname" "func_breakable"
+"model" "*87"
+}
+{
+"material" "8"
+"spawnflags" "1"
+"targetname" "sidepipe4"
+"classname" "func_breakable"
+"origin" "512 -880 2656"
+"model" "*88"
+}
+{
+"material" "8"
+"targetname" "sidepipe3"
+"spawnflags" "1"
+"classname" "func_breakable"
+"origin" "144 -512 2656"
+"model" "*89"
+}
+{
+"classname" "func_static"
+"model" "*110"
+"angles" "-90 0 -90"
+"origin" "446 -158 2528"
+}
+{
+"spawnflags" "1"
+"targetname" "sidepipe1"
+"classname" "func_breakable"
+"origin" "880 -512 2656"
+"model" "*91"
+}
+{
+"script_targetname" "sidebase4"
+"spawnflags" "1"
+"targetname" "sidebase4"
+"classname" "func_breakable"
+"origin" "512 -512 2434"
+"model" "*92"
+}
+{
+"targetname" "sidebase3"
+"spawnflags" "1"
+"script_targetname" "sidebase3"
+"classname" "func_breakable"
+"origin" "512 -512 2434"
+"model" "*93"
+}
+{
+"script_targetname" "sidebase2"
+"spawnflags" "1"
+"targetname" "sidebase2"
+"classname" "func_breakable"
+"origin" "512 -512 2434"
+"model" "*94"
+}
+{
+"targetname" "sidebase1"
+"spawnflags" "1"
+"script_targetname" "sidebase1"
+"classname" "func_breakable"
+"origin" "512 -512 2434"
+"model" "*95"
+}
+{
+"classname" "info_notnull"
+"targetname" "snake"
+"origin" "826 -3951 -1678"
+}
+{
+"classname" "info_notnull"
+"targetname" "snake"
+" 126" ""
+"origin" "826 -3950 -1678"
+}
+{
+"script_targetname" "buttress_middle04"
+"spawnflags" "1"
+"targetname" "buttress_middle04"
+"classname" "func_breakable"
+"origin" "512 -512 2560"
+"model" "*100"
+}
+{
+"classname" "misc_model_breakable"
+"model" "map_objects/hoth/eweb_model"
+"spawnflags" "1 34"
+"origin" "-1536 -461 1168"
+}
+{
+"classname" "misc_model_breakable"
+"model" "map_objects/hoth/eweb_model"
+"spawnflags" "1 3"
+"origin" "-1536 -461 1168"
+}
+{
+"classname" "misc_model_breakable"
+"model" "map_objects/roof_top/office_post"
+"spawnflags" "1"
+"origin" "-960 -192 -33"
+}
+{
+"targetname" "buttress_base03"
+"spawnflags" "1"
+"script_targetname" "buttress_base03"
+"classname" "func_breakable"
+"origin" "511 -512 2560"
+"model" "*105"
+}
+{
+"material" "5"
+"targetname" "buttress_base01"
+"spawnflags" "1"
+"script_targetname" "buttress_base01"
+"classname" "func_breakable"
+"origin" "495 -512 2560"
+"model" "*107"
+}
+{
+"spawnflags" "1"
+"targetname" "buttress_top04"
+"script_targetname" "buttress_top04"
+"classname" "func_breakable"
+"origin" "512 -512 2752"
+"model" "*108"
+}
+{
+"classname" "func_static"
+"model" "*110"
+"angles" "0 0 -90"
+"origin" "300192 300000 300193"
+}
+{
+"targetname" "buttress_top02"
+"spawnflags" "1"
+"script_targetname" "buttress_top02"
+"classname" "func_breakable"
+"origin" "512 -512 2752"
+"model" "*110"
+}
+{
+"classname" "weapon_rocket_launcher"
+"targetname" "rockets"
+"spawnflags" "152"
+"origin" "585 -564 2470"
+"wait" "-1"
+"count" "50"
+}
+{
+"classname" "func_static"
+"model" "*110"
+"angles" "0 0 -90"
+"origin" "299808 300000 300193"
+}
+{
+"script_targetname" "cloak4"
+"maxs" "1 1 145"
+"mins" "-78 -78 0"
+"autobound" "1"
+"material" "8"
+"targetname" "cloak4"
+"classname" "misc_model_breakable"
+"origin" "416 -608 2432"
+"model" "models/map_objects/h_evil/alcove_mech.md3"
+"angle" "270"
+"modelscale" "3"
+}
+{
+"script_targetname" "cloak1"
+"maxs" "78 1 145"
+"mins" "-1 -78 0"
+"autobound" "1"
+"material" "8"
+"targetname" "cloak1"
+"modelscale" "3"
+"angle" "360"
+"model" "models/map_objects/h_evil/alcove_mech.md3"
+"origin" "608 -608 2432"
+"classname" "misc_model_breakable"
+}
+{
+"script_targetname" "cloak2"
+"maxs" "78 78 145"
+"mins" "-1 -1 0"
+"autobound" "1"
+"material" "8"
+"targetname" "cloak2"
+"classname" "misc_model_breakable"
+"origin" "608 -416 2432"
+"model" "models/map_objects/h_evil/alcove_mech.md3"
+"angle" "90"
+"modelscale" "3"
+}
+{
+"script_targetname" "cloak3"
+"maxs" "1 78 145"
+"mins" "-78 -1 0"
+"autobound" "1"
+"material" "8"
+"targetname" "cloak3"
+"modelscale" "3"
+"angle" "180"
+"model" "models/map_objects/h_evil/alcove_mech.md3"
+"origin" "416 -416 2432"
+"classname" "misc_model_breakable"
+}
+{
+"zoffset" "64"
+"_cs" "1"
+"modelscale" "2"
+"classname" "misc_model_breakable"
+"origin" "512 -512 -784"
+"model" "models/map_objects/factory/f_gen.md3"
+"spawnflags" "2"
+}
+{
+"soundSet" "door4"
+"angle" "-1"
+"classname" "func_door"
+"model" "*124"
+"spawnflags" "16"
+}
+{
+"soundSet" "door4"
+"angle" "-1"
+"classname" "func_door"
+"model" "*125"
+}
+{
+"classname" "target_teleporter"
+"targetname" "stash"
+"angle" "90"
+"origin" "2688 -795 -620"
+}
+{
+"soundSet" "door4"
+"angle" "-1"
+"classname" "func_door"
+"model" "*128"
+"targetname" "locked"
+"spawnflags" "16"
+}
+{
+"soundSet" "door4"
+"classname" "func_door"
+"angle" "-1"
+"model" "*129"
+"spawnflags" "16"
+}
+{
+"speed" "50"
+"soundSet" "door4"
+"classname" "func_door"
+"angle" "-1"
+"model" "*130"
+}
+{
+"soundSet" "door4"
+"angle" "-1"
+"classname" "func_door"
+"model" "*131"
+"spawnflags" "16"
+}
+{
+"soundSet" "door4"
+"classname" "func_door"
+"angle" "-1"
+"model" "*132"
+"spawnflags" "16"
+}
+{
+"soundSet" "door4"
+"angle" "-1"
+"classname" "func_door"
+"model" "*140"
+"targetname" "locked"
+"spawnflags" "16"
+}
+{
+"classname" "func_static"
+"model" "*110"
+"angles" "0 180 -90"
+"origin" "300192 299616 300193"
+}
+{
+"soundSet" "door4"
+"classname" "func_door"
+"angle" "-1"
+"model" "*141"
+"spawnflags" "16"
+}
+{
+"classname" "misc_model_breakable"
+"model" "map_objects/imperial/controlpanel"
+"spawnflags" "193"
+"target" "wq"
+"angle" "90"
+"origin" "-1709 -650 1184"
+}
+{
+"spawnflags" "2"
+"classname" "misc_model_breakable"
+"origin" "-1424 -192 1108"
+"model" "models/map_objects/roof_top/mech1.md3"
+"modelscale" "1.6"
+}
+{
+"spawnflags" "2"
+"modelscale" "1.6"
+"model" "models/map_objects/roof_top/mech1.md3"
+"origin" "-1904 -192 1108"
+"classname" "misc_model_breakable"
+}
+{
+"classname" "misc_model_breakable"
+"model" "map_objects/korriban/torch_top"
+"origin" "-1773 859 -1451"
+}
+{
+"classname" "misc_model_breakable"
+"model" "map"
+"origin" "60251 60219 -34374"
+}
+{
+"classname" "misc_model_breakable"
+"model" "map_objects/factory/catw2_b"
+"spawnflags" "65"
+"modelscale" "4"
+"origin" "60199 60264 -79261"
+}
+{
+"classname" "misc_model_breakable"
+"model" "map_objects/factory/catw2_b"
+"spawnflags" "65"
+"modelscale" "4"
+"origin" "60745 59898 -79261"
+}
+{
+"classname" "misc_model_health_power_converter"
+"nodrain" "1"
+"targetname" "heal"
+"origin" "10000 10000 10000"
+}
+{
+"classname" "misc_model_health_power_converter"
+"nodrain" "1"
+"targetname" "heal"
+"origin" "10000 10000 10000"
+}
+{
+"classname" "misc_shield_floor_unit"
+"nodrain" "1"
+"targetname" "heal"
+"origin" "10000 10000 11000"
+}
+{
+"classname" "misc_shield_floor_unit"
+"nodrain" "1"
+"targetname" "heal"
+"origin" "10000 10000 11000"
+}
+{
+"classname" "misc_model_breakable"
+"model" "map_objects/factory/catw2_b"
+"spawnflags" "65"
+"modelscale" "2"
+"angles" "0 0 90"
+"origin" "60662 59699 -79101"
+}
+{
+"classname" "misc_model_breakable"
+"model" "map_objects/factory/catw2_b"
+"spawnflags" "65"
+"modelscale" "2"
+"angles" "0 0 90"
+"origin" "60914 59695 -79101"
+}
+{
+"classname" "misc_model_breakable"
+"model" "map_objects/factory/catw2_b"
+"spawnflags" "65"
+"modelscale" "2"
+"origin" "60676 59694 -78973"
+}
+{
+"classname" "misc_model_breakable"
+"model" "map_objects/factory/catw2_b"
+"spawnflags" "65"
+"modelscale" "2"
+"origin" "60935 59690 -78973"
+}
+{
+"classname" "misc_model_breakable"
+"model" "map_objects/cinematics/table"
+"spawnflags" "65"
+"origin" "60566 59747 -79229"
+}
+{
+"classname" "misc_model_breakable"
+"model" "map_objects/cinematics/table"
+"spawnflags" "65"
+"origin" "60567 59823 -79229"
+}
+{
+"classname" "misc_model_breakable"
+"model" "map_objects/cinematics/table"
+"spawnflags" "65"
+"angle" "269"
+"origin" "60627 59841 -79229"
+}
+{
+"classname" "misc_model_breakable"
+"model" "map_objects/cinematics/table"
+"spawnflags" "65"
+"angle" "269"
+"origin" "60706 59841 -79229"
+}
+{
+"classname" "misc_model_breakable"
+"model" "map_objects/cinematics/table"
+"spawnflags" "65"
+"angle" "269"
+"origin" "60786 59840 -79229"
+}
+{
+"classname" "misc_model_breakable"
+"model" "map_objects/cinematics/table"
+"spawnflags" "65"
+"angle" "269"
+"origin" "60867 59839 -79229"
+}
+{
+"classname" "misc_model_breakable"
+"model" "map_objects/cinematics/table"
+"spawnflags" "65"
+"angle" "269"
+"origin" "60945 59839 -79229"
+}
+{
+"classname" "misc_teleporter_dest"
+"targetname" "adminrooma"
+"origin" "2564 1764 -3052"
+}
+{
+"classname" "misc_ammo_floor_unit"
+"nodrain" "1"
+"targetname" "heal"
+"origin" "10000 10000 13000"
+}
+{
+"classname" "misc_ammo_floor_unit"
+"nodrain" "1"
+"targetname" "heal"
+"origin" "10000 10000 13000"
+}
+{
+"classname" "misc_model_breakable"
+"model" "map_objects/factory/catw2_b"
+"spawnflags" "1"
+"modelscale" "10"
+"origin" "2514 1718 -2639"
+}
+{
+"classname" "misc_model_breakable"
+"model" "map_objects/roof_top/office_post"
+"spawnflags" "1"
+"origin" "-960 -704 -33"
+}
+{
+"classname" "misc_bsp"
+"bspmodel" "mp/duel4"
+"origin" "200000 200000 200000"
+"spawnflags" "1"
+"delay" "5"
+}
+{
+"classname" "fx_runner"
+"fxfile" "env/small_fire"
+"spawnflags" "4"
+"origin" "-960 -192 66"
+"dmg" "999"
+}
+{
+"classname" "fx_runner"
+"fxfile" "env/small_fire"
+"spawnflags" "4"
+"origin" "-960 -704 66"
+}
+{
+"classname" "trigger_multiple"
+"maxs" "30 30 70"
+"mins" "-30 -30 0"
+"message" "^0!^7Main^0!\n^2Press ^7use key^2 to teleport."
+"origin" "376 640 512"
+}
+{
+"classname" "trigger_multiple"
+"maxs" "10 10 70"
+"mins" "-10 -10 0"
+"spawnflags" "4"
+"target" "main"
+"origin" "376 640 512"
+}
+{
+"classname" "info_player_jail"
+"origin" "406 576 -690"
+}
+{
+"classname" "misc_model_breakable"
+"model" "map_objects/factory/f_con1"
+"spawnflags" "97"
+"adminlevel" "16"
+"target" "main"
+"origin" "634 577 -784"
+}
+{
+"classname" "trigger_multiple"
+"maxs" "20 20 70"
+"mins" "-20 -20 0"
+"adminlevel" "16"
+"message" "^0!^7Main^0!"
+"origin" "608 576 -784"
+}
+{
+"classname" "trigger_multiple"
+"maxs" "15 15 70"
+"mins" "-15 -15 0"
+"target" "main"
+"origin" "512 431 -768"
+}
+{
+"classname" "lmd_remap"
+"old" "textures/factory/cat_floor_b"
+"new" "textures/byss/static_field4"
+}
+{
+"classname" "info_player_deathmatch"
+"angle" "180"
+"origin" "300188 299806 299875"
+}
+{
+"classname" "info_player_deathmatch"
+"angle" "180"
+"origin" "300186 299806 299675"
+}
+{
+"classname" "target_teleporter"
+"targetname" "main"
+"angle" "-90"
+"origin" "512 408 -108"
+}
+{
+"classname" "lmd_mover"
+"model" "models/map_objects/imperial/controlpanel"
+"onaduration" "5000"
+"onadelta" "0 180 0"
+"onatype" "5"
+"modelscale" ".75"
+"origin" "-1772 860 -1316"
+}
+{
+"classname" "trigger_multiple"
+"maxs" "40 40 70"
+"mins" "-40 -40 0"
+"message" "^0!^1Armory^0!"
+"origin" "-1574 860 -1408"
+}
+{
+"classname" "trigger_multiple"
+"maxs" "15 15 70"
+"mins" "-15 -15 0"
+"target" "armory"
+"origin" "-1574 860 -1408"
+}
+{
+"classname" "trigger_multiple"
+"maxs" "20 20 50"
+"mins" "-20 -20 0"
+"spawnflags" "4"
+"usetime" "5000"
+"target" "stash"
+"origin" "-1673 861 -1408"
+}
+{
+"classname" "misc_model_breakable"
+"model" "mao_objects/nar_shaddar/table01"
+"spawnflags" "1"
+"origin" "1512 -3889 -1872"
+}
+{
+"classname" "misc_model_breakable"
+"model" "mao_objects/nar_shaddar/table01"
+"spawnflags" "1"
+"origin" "1090 -3927 -1872"
+}
+{
+"classname" "misc_model_breakable"
+"model" "mao_objects/nar_shaddar/table01"
+"spawnflags" "1"
+"origin" "1024 -3882 -1840"
+}
+{
+"classname" "misc_model_breakable"
+"model" "mao_objects/nar_shaddar/table01"
+"spawnflags" "1"
+"origin" "1403 -3891 -1872"
+}
+{
+"classname" "misc_model_breakable"
+"model" "mao_objects/nar_shaddar/table01"
+"spawnflags" "1"
+"origin" "1397 -3885 -1872"
+}
+{
+"classname" "lmd_mover"
+"model" "items/datapad"
+"onaduration" "5000"
+"onadelta" "0 180 0"
+"onatype" "5"
+"origin" "-1673 861 -1298"
+"modelscale" "3"
+"angles" "-90 0 0"
+}
+{
+"classname" "trigger_multiple"
+"maxs" "20 20 50"
+"mins" "-20 -20 0"
+"spawnflags" "257"
+"message" "^6S^7tash ^6Z^7one\n^7Laming allowed inside^6."
+"origin" "-1673 861 -1408"
+}
+{
+"classname" "lmd_mover"
+"model" "weapons2/tusken_rifle/tusken_rifle"
+"spawnflags" "1"
+"onatype" "5"
+"onadelta" "15 0 0"
+"modelscale" "1.5"
+"onaduration" "3000"
+"origin" "-1591 859 -1307"
+}
+{
+"classname" "lmd_mover"
+"model" "models/map_objects/imperial/dish"
+"onaduration" "5000"
+"onadelta" "0 180 0"
+"onatype" "5"
+"origin" "-1663 163 -1338"
+"modelscale" "0.2"
+}
+{
+"classname" "lmd_mover"
+"model" "weapons2/saber/saber_w"
+"onaduration" "5000"
+"onatype" "5"
+"onadelta" "0 0 30"
+"angles" "0 -90 0"
+"spawnflags" "1"
+"modelscale" "4"
+"origin" "-1764 166 -1304"
+"onadelta,60" "0"
+"angles,0" "90"
+"onadelta,0" "180"
+}
+{
+"classname" "misc_model_breakable"
+"model" "map_objects/"
+"origin" "1384 -3869 -1856"
+}
+{
+"classname" "misc_model_breakable"
+"model" "map_objects_shuttle_chair_x5.md3"
+"origin" "1259 -3892 -1856"
+}
+{
+"classname" "misc_model_breakable"
+"model" "map_objects_shuttle_chair_x5.md3"
+"1" ""
+"origin" "1258 -3892 -1856"
+}
+{
+"classname" "misc_model_breakable"
+"model" "map_objects_shuttle_chair_x5.md3"
+"1" ""
+"origin" "1278 -3876 -1856"
+}
+{
+"classname" "misc_model_breakable"
+"model" "map_objects_shuttle_chair_x5.md3"
+"origin" "1257 -3886 -1856"
+}
+{
+"classname" "misc_model_breakable"
+"model" "map_objects_shuttle_chair_x5.md3"
+"origin" "1257 -3886 -1856"
+}
+{
+"classname" "misc_model_breakable"
+"model" "map_objects/factory/f_con2"
+"spawnflags" "193"
+"target" "adminroom"
+"angle" "-90"
+"origin" "-831 -603 -128"
+}
+{
+"classname" "item_jetpack"
+"count" "1"
+"wait" "1"
+"origin" "-881 -595 -128"
+}
+{
+"classname" "fx_runner"
+"fxFile" "env/small_fire_green"
+"origin" "-831 -606 -91"
+}
+{
+"classname" "trigger_multiple"
+"maxs" "5 5 5"
+"mins" "-5 -5 0"
+"message" "^7-^2 Duel Room^7 -"
+"origin" "-831 -580 -128"
+}
+{
+"classname" "func_door"
+"model" "*78"
+"angle" "-2"
+"lip" "657"
+"speed" "200"
+"targetname" "ele"
+"origin" "512 640 1793"
+"soundSet" "impdoor1"
+}
+{
+"classname" "misc_model_breakable"
+"model" "map_objects/factory/f_con2"
+"spawnflags" "193"
+"angles" "90 90 0"
+"origin" "512 543 1831"
+"targetname" "ele"
+"target" "ele"
+}
+{
+"classname" "trigger_multiple"
+"maxs" "20 20 50"
+"mins" "-20 -20 0"
+"spawnflags" "257"
+"message" "^4S^7pace ^4S^7tation"
+"origin" "-1663 162 -1408"
+}
+{
+"classname" "target_teleporter"
+"targetname" "armory"
+"angle" "-90"
+"origin" "360 739 2452"
+}
+{
+"classname" "misc_model_breakable"
+"model" "weapons2/tusken_rifle/tusken_rifle"
+"spawnflags" "65"
+"angles" "0 180 0"
+"modelscale" "3"
+"origin" "553 248 2594"
+}
+{
+"classname" "misc_model_breakable"
+"model" "map_objects/factory/longpipe_new"
+"spawnflags" "65"
+"angles" "90 0 0"
+"modelscale" "0.1"
+"origin" "559 249 2611"
+}
+{
+"classname" "misc_model_breakable"
+"model" "map_objects/factory/longpipe_new"
+"spawnflags" "65"
+"angles" "90 0 0"
+"modelscale" "0.1"
+"origin" "449 248 2611"
+}
+{
+"classname" "trigger_multiple"
+"maxs" "15 15 70"
+"mins" "-15 -15 0"
+"spawnflags" "4"
+"usetime" "12000"
+"target" "bank_relaycheck"
+"origin" "511 467 512"
+}
+{
+"classname" "trigger_multiple"
+"maxs" "20 20 50"
+"mins" "-20 -20 0"
+"spawnflags" "4"
+"usetime" "5000"
+"target" "spacestation"
+"origin" "-1663 167 -1408"
+}
+{
+"classname" "lmd_playercheck"
+"profession" "3"
+"target2" "crsystemprint"
+"target" "bank_relay"
+"targetname" "bank_relaycheck"
+}
+{
+"classname" "trigger_multiple"
+"maxs" "15 70 100"
+"mins" "-15 -70 0"
+"message" "^0!^7Main^0!"
+"target" "main"
+"origin" "-1298 512 -1408"
+}
+{
+"classname" "misc_model_breakable"
+"model" "map_objects/hoth/console_on"
+"spawnflags" "8193"
+"count" "15"
+"message" "^7^0.:^7DXR-6 Disruptor Rifle^0:."
+"angle" "180"
+"origin" "609 -496 2456"
+"target" "sniper"
+"group" "honkingleft"
+}
+{
+"classname" "misc_model_breakable"
+"model" "map_objects/hoth/console_on"
+"spawnflags" "8193"
+"count" "20"
+"message" "^7^0.:^7E-11 Blaster Rifle^0:."
+"angle" "180"
+"origin" "608 -461 2456"
+"target" "blaster"
+"group" "honkingleft"
+}
+{
+"classname" "misc_model_breakable"
+"model" "map_objects/hoth/console_on"
+"spawnflags" "8193"
+"count" "20"
+"message" "^7^0.:^7Wookie Bowcaster^0:."
+"angle" "180"
+"origin" "609 -530 2456"
+"target" "bowcaster"
+"group" "honkingleft"
+}
+{
+"classname" "misc_model_breakable"
+"model" "map_objects/hoth/console_on"
+"spawnflags" "8193"
+"count" "45"
+"message" "^7^0.:^7Imperial Heavy Repeater^0:."
+"angle" "0"
+"origin" "416 -563 2456"
+"target" "repeater"
+"group" "honkingright"
+}
+{
+"classname" "misc_model_breakable"
+"model" "map_objects/hoth/console_on"
+"spawnflags" "8193"
+"count" "25"
+"message" "^7^0.:^7Destructive Electromagnetic Pulse 2 Gun^0:.\n ^0(^7DEMP2^0)"
+"angle" "0"
+"origin" "416 -529 2456"
+"target" "demp2"
+"group" "honkingright"
+}
+{
+"classname" "misc_model_breakable"
+"model" "map_objects/hoth/console_on"
+"spawnflags" "8193"
+"count" "40"
+"message" "^7^0.:^7Golan Arms FC1 Flechette Weapon^0:."
+"angle" "0"
+"origin" "416 -461 2456"
+"target" "shotgun"
+"group" "honkingright"
+}
+{
+"classname" "misc_model_breakable"
+"model" "map_objects/hoth/console_on"
+"spawnflags" "8193"
+"count" "50"
+"message" "^7^0.:^7Concussion Rifle^0:."
+"origin" "416 -495 2456"
+"target" "conc"
+"group" "honkingright"
+}
+{
+"classname" "misc_model_breakable"
+"model" "map_objects/hoth/console_on"
+"spawnflags" "8193"
+"count" "60"
+"message" "^7^0.:^7Merr-Sonn PLX-2M PMS^0:.\n ^0(^7Rocket Launcher^0)"
+"angle" "180"
+"origin" "609 -563 2456"
+"target" "rockets"
+"group" "honkingleft"
+}
+{
+"classname" "misc_model_breakable"
+"model" "map_objects/hoth/console_on"
+"spawnflags" "8193"
+"count" "5"
+"message" "^7^0.:^7Detonation Pack (3)^0:."
+"angle" "90"
+"origin" "563 -609 2456"
+"target" "detpack"
+"group" "honking"
+}
+{
+"classname" "misc_model_breakable"
+"model" "map_objects/hoth/console_on"
+"spawnflags" "8193"
+"count" "5"
+"message" "^7^0.:^7Thermal Detonator Pack (3)^0:."
+"angle" "90"
+"origin" "494 -609 2456"
+"target" "thermal"
+"group" "honking"
+}
+{
+"classname" "misc_model_breakable"
+"model" "map_objects/hoth/console_on"
+"spawnflags" "8193"
+"count" "5"
+"message" "^7^0.:^7Trip Mine Pack (3)^0:."
+"angle" "90"
+"origin" "529 -609 2456"
+"target" "tripmine"
+"group" "honking"
+}
+{
+"classname" "misc_model_breakable"
+"model" "map_objects/hoth/console_on"
+"spawnflags" "8193"
+"count" "10"
+"message" "^0.:^7Bryar Pistol^0:."
+"angle" "90"
+"origin" "460 -609 2456"
+"target" "bryar"
+"group" "honking"
+}
+{
+"classname" "func_static"
+"model" "*110"
+"angles" "0 180 -90"
+"origin" "300000 299616 300193"
+}
+{
+"classname" "target_teleporter"
+"targetname" "snake"
+"origin" "941 -313 -84"
+}
+{
+"classname" "weapon_bowcaster"
+"targetname" "bowcaster"
+"spawnflags" "152"
+"origin" "588 -531 2470"
+"wait" "-1"
+}
+{
+"classname" "weapon_disruptor"
+"targetname" "sniper"
+"spawnflags" "152"
+"origin" "587 -497 2470"
+"wait" "-1"
+}
+{
+"classname" "ammo_powercell"
+"wait" "-1"
+"targetname" "ammo"
+"count" "300"
+"origin" "511 -476 2470"
+}
+{
+"classname" "ammo_metallic_bolts"
+"wait" "-1"
+"targetname" "ammo"
+"count" "300"
+"origin" "511 -476 2470"
+}
+{
+"classname" "weapon_blaster"
+"targetname" "blaster"
+"spawnflags" "152"
+"wait" "-1"
+"origin" "587 -461 2470"
+}
+{
+"classname" "weapon_flechette"
+"targetname" "shotgun"
+"spawnflags" "152"
+"wait" "-1"
+"origin" "444 -460 2470"
+}
+{
+"classname" "weapon_concussion_rifle"
+"targetname" "conc"
+"spawnflags" "152"
+"wait" "-1"
+"origin" "440 -496 2470"
+}
+{
+"classname" "weapon_demp2"
+"targetname" "demp2"
+"spawnflags" "152"
+"wait" "-1"
+"origin" "439 -529 2470"
+}
+{
+"classname" "weapon_repeater"
+"targetname" "repeater"
+"spawnflags" "152"
+"wait" "-1"
+"target" "repeaterb"
+"origin" "442 -564 2470"
+}
+{
+"classname" "weapon_bryar_pistol"
+"targetname" "bryar"
+"spawnflags" "152"
+"wait" "-1"
+"target" "bryarb"
+"origin" "461 -582 2470"
+}
+{
+"classname" "misc_shield_floor_unit"
+"nodrain" "1"
+"origin" "582 -407 2452"
+}
+{
+"classname" "misc_model_health_power_converter"
+"angle" "-90"
+"origin" "512 -538 2500"
+}
+{
+"classname" "misc_model_breakable"
+"model" "map_objects/imperial/controlpanel"
+"spawnflags" "193"
+"target" "rq"
+"angle" "0"
+"origin" "-1802 -556 1184"
+}
+{
+"classname" "misc_model_breakable"
+"model" "map_objects/vjun/control_station"
+"spawnflags" "193"
+"target" "questhall"
+"angle" "90"
+"origin" "1615 -593 -128"
+"maxs" "20 20 60"
+"mins" "-20 -20 0"
+}
+{
+"classname" "misc_model_breakable"
+"model" "map_objects/factory/catw2_b"
+"spawnflags" "65"
+"modelscale" "2"
+"angles" "0 0 90"
+"origin" "-1664 59 1297"
+}
+{
+"classname" "trigger_multiple"
+"maxs" "5 5 5"
+"mins" "-5 -5 0"
+"message" "^0<|^6Quest Hall^0|>"
+"origin" "1616 -555 -128"
+}
+{
+"classname" "misc_model_breakable"
+"model" "map_object/byss/controlpanel"
+"spawnflags" "1"
+"origin" "-1730 -526 1168"
+}
+{
+"classname" "misc_model_breakable"
+"model" "map_object/byss/controlpanel"
+"spawnflags" "1"
+"origin" "-1664 -535 1168"
+}
+{
+"classname" "misc_model_breakable"
+"model" "map_object/byss/control_panel"
+"spawnflags" "1"
+"origin" "-1664 -535 1168"
+}
+{
+"classname" "misc_model_breakable"
+"model" "map_objects/imperial/controlpanel"
+"spawnflags" "193"
+"target" "bq"
+"angle" "0"
+"origin" "-1802 -467 1184"
+}
+{
+"classname" "trigger_multiple"
+"maxs" "5 5 5"
+"mins" "-5 -5 0"
+"message" "^5Wampa Quest"
+"origin" "-1709 -618 1184"
+}
+{
+"classname" "trigger_multiple"
+"maxs" "5 5 5"
+"mins" "-5 -5 0"
+"message" "^1Reborn Quest"
+"origin" "-1770 -556 1184"
+}
+{
+"classname" "trigger_multiple"
+"maxs" "5 5 5"
+"mins" "-5 -5 0"
+"message" "^2BobaFett Quest"
+"origin" "-1770 -467 1184"
+}
+{
+"classname" "misc_model_breakable"
+"model" "players/wampa/model.glm"
+"spawnflags" "65"
+"modelscale" "0.5"
+"angle" "90"
+"origin" "-1708 -648 1248"
+}
+{
+"classname" "misc_model_breakable"
+"model" "players/reborn/model.glm"
+"spawnflags" "65"
+"modelscale" "0.5"
+"origin" "-1796 -557 1249"
+}
+{
+"classname" "misc_model_breakable"
+"model" "players/boba_fett/model.glm"
+"spawnflags" "65"
+"modelscale" "0.5"
+"angle" "0"
+"origin" "-1795 -467 1249"
+}
+{
+"classname" "target_deactivate"
+"target" "wb"
+"targetname" "ws"
+"origin" "606 -656 549"
+}
+{
+"classname" "misc_model_breakable"
+"model" "map_objects/factory/f_con1"
+"spawnflags" "193"
+"target" "ws"
+"targetname" "wb"
+"origin" "593 -652 512"
+"angle" "180"
+}
+{
+"classname" "target_teleporter"
+"targetname" "wq"
+"angle" "180"
+"origin" "647 -652 532"
+}
+{
+"classname" "npc_spawner"
+"NPC_type" "wampa"
+"health" "4000"
+"showhealth" "1"
+"targetname" "ws"
+"target" "wss"
+"target5" "wd"
+"count" "-1"
+"origin" "607 -415 532"
+}
+{
+"classname" "target_credits"
+"targetname" "wd"
+"count" "250"
+"origin" "352 -510 518"
+}
+{
+"classname" "target_activate"
+"target" "wb"
+"targetname" "wd"
+"origin" "603 -648 549"
+}
+{
+"classname" "target_teleporter"
+"targetname" "wd"
+"angle" "180"
+"origin" "-1441 -35 1140"
+}
+{
+"classname" "target_teleporter"
+"targetname" "rd"
+"origin" "-1886 -36 1140"
+}
+{
+"classname" "target_credits"
+"targetname" "rd"
+"count" "250"
+"origin" "-1692 -520 1184"
+}
+{
+"classname" "misc_model_breakable"
+"model" "map_objects/factory/catw2_b"
+"spawnflags" "65"
+"modelscale" "4"
+"origin" "512 -511 842"
+}
+{
+"classname" "target_teleporter"
+"targetname" "rq"
+"origin" "378 -649 894"
+}
+{
+"classname" "misc_model_breakable"
+"model" "map_objects/factory/f_con1"
+"spawnflags" "193"
+"target" "rs"
+"targetname" "rb"
+"origin" "493 -649 874"
+}
+{
+"classname" "NPC_spawner"
+"NPC_type" "reborn_staff"
+"health" "1000"
+"showhealth" "1"
+"targetname" "rs"
+"targetname" "rss"
+"target5" "rd"
+"count" "-1"
+"origin" "628 -395 894"
+}
+{
+"classname" "NPC_spawner"
+"NPC_type" "reborn_staff"
+"health" "1300"
+"showhealth" "1"
+"targetname" "rs"
+"target" "rss"
+"target5" "rd"
+"count" "-1"
+"origin" "606 -414 894"
+}
+{
+"classname" "target_activate"
+"target" "rb"
+"targetname" "rd"
+"origin" "546 -618 874"
+}
+{
+"classname" "target_deactivate"
+"target" "rb"
+"targetname" "rs"
+"origin" "546 -618 874"
+}
+{
+"classname" "misc_model_breakable"
+"model" "map_objects/byss/tractor_base"
+"spawnflags" "0"
+"origin" "-1664 -512 1055"
+}
+{
+"classname" "fx_runner"
+"fxFile" "env/powerbolt"
+"origin" "-1664 -513 1159"
+}
+{
+"classname" "trigger_multiple"
+"maxs" ""
+"origin" "-1659 -515 1184"
+}
+{
+"classname" "trigger_multiple"
+"maxs" "30 30 30"
+"mins" "-30 -30 -30"
+"target" "heal"
+"message" "^5Recharging^7:\n ^1Health\n ^2Armor\n ^3Ammo"
+"origin" "-1664 -512 1214"
+}
+{
+"classname" "misc_model_breakable"
+"model" "map_objects/imperial/controlpanel"
+"spawnflags" "193"
+"target" "main"
+"angle" "-90"
+"origin" "1749 -313 -632"
+}
+{
+"classname" "trigger_multiple"
+"maxs" "5 5 5"
+"mins" "-5 -5 0"
+"message" "^0<|^2Back to Main Area^0|>"
+"origin" "1748 -347 -640"
+}
+{
+"classname" "money_dispenser"
+"angle" "180"
+"origin" "1051 -317 -640"
+}
+{
+"classname" "money_dispenser"
+"angle" "-90"
+"origin" "2688 -310 -608"
+}
+{
+"classname" "random_spot"
+"origin" "2843 -610 -671"
+}
+{
+"classname" "random_spot"
+"origin" "1476 -388 -479"
+}
+{
+"classname" "random_spot"
+"origin" "1830 -591 -639"
+}
+{
+"classname" "random_spot"
+"origin" "2452 -363 -671"
+}
+{
+"classname" "random_spot"
+"origin" "2604 -208 -671"
+}
+{
+"classname" "random_spot"
+"origin" "847 -536 -639"
+}
+{
+"classname" "misc_model_breakable"
+"model" "map_objects/factory/catw2_b"
+"spawnflags" "1"
+"modelscale" "2"
+"angles" "90 0 90"
+"origin" "-1659 987 668"
+}
+{
+"classname" "npc_spawner"
+"NPC_type" "boba_fett"
+"health" "1000"
+"showhealth" "1"
+"targetname" "bs"
+"target" "bss"
+"target5" "bd"
+"count" "-1"
+"origin" "-1645 525 908"
+}
+{
+"classname" "misc_model_breakable"
+"model" "map_objects/factory/f_con1"
+"spawnflags" "193"
+"target" "bs"
+"targetname" "bb"
+"origin" "-1724 919 512"
+}
+{
+"classname" "target_teleporter"
+"targetname" "bq"
+"origin" "-1817 920 532"
+}
+{
+"classname" "target_credits"
+"targetname" "bd"
+"count" "250"
+"origin" "-1488 920 572"
+}
+{
+"classname" "target_teleporter"
+"targetname" "bd"
+"origin" "-1934 -284 1140"
+}
+{
+"classname" "target_deactivate"
+"target" "bb"
+"targetname" "bs"
+"origin" "-1735 911 538"
+}
+{
+"classname" "target_activate"
+"target" "bb"
+"targetname" "bd"
+"origin" "-1735 911 538"
+}
+{
+"classname" "func_static"
+"model" "*78"
+"origin" "100000 99999 100000"
+}
+{
+"classname" "func_static"
+"model" "*78"
+"origin" "100000 100127 100000"
+}
+{
+"classname" "func_static"
+"model" "*78"
+"origin" "100000 100255 100000"
+}
+{
+"classname" "trigger_multiple"
+"maxs" "20000 20000 20000"
+"mins" "-20000 -20000 -20000"
+"target" "spacesuit"
+"origin" "100000 100125 120000"
+}
+{
+"classname" "target_powerup"
+"targetname" "spacesuit"
+"powerup" "7"
+}
+{
+"classname" "func_static"
+"model" "*78"
+"origin" "100256 100128 100000"
+}
+{
+"classname" "func_static"
+"model" "*78"
+"origin" "100128 100255 100000"
+}
+{
+"classname" "func_static"
+"model" "*78"
+"origin" "100128 100127 100000"
+}
+{
+"classname" "func_static"
+"model" "*78"
+"origin" "100128 99999 100000"
+}
+{
+"classname" "func_static"
+"model" "*78"
+"origin" "99872 100255 100000"
+}
+{
+"classname" "func_static"
+"model" "*78"
+"origin" "99872 100128 100000"
+}
+{
+"classname" "func_static"
+"model" "*78"
+"origin" "99872 100000 100000"
+}
+{
+"classname" "func_static"
+"model" "*78"
+"origin" "99744 100128 100000"
+}
+{
+"classname" "func_static"
+"model" "*78"
+"origin" "100000 100383 100000"
+}
+{
+"classname" "misc_model_breakable"
+"model" "map_objects/factory/catw2_b"
+"spawnflags" "65"
+"modelscale" "3"
+"origin" "100000 100128 99960"
+}
+{
+"classname" "func_static"
+"model" "*78"
+"origin" "100000 99871 100000"
+}
+{
+"classname" "misc_model_breakable"
+"model" "map_objects/vjun/window"
+"spawnflags" "65"
+"modelscale" "1.2"
+"origin" "100249 100257 100153"
+}
+{
+"classname" "misc_model_breakable"
+"model" "map_objects/vjun/window"
+"spawnflags" "65"
+"modelscale" "1.2"
+"angle" "90"
+"origin" "100129 100377 100154"
+}
+{
+"classname" "misc_model_breakable"
+"model" "map_objects/vjun/window"
+"spawnflags" "65"
+"modelscale" "1.2"
+"angle" "90"
+"origin" "99873 100377 100153"
+}
+{
+"classname" "misc_model_breakable"
+"model" "map_objects/vjun/window"
+"spawnflags" "65"
+"modelscale" "1.2"
+"angle" "180"
+"origin" "99752 100002 100153"
+}
+{
+"classname" "misc_model_breakable"
+"model" "map_objects/vjun/window"
+"spawnflags" "65"
+"modelscale" "1.2"
+"angle" "0"
+"origin" "100249 100002 100153"
+}
+{
+"classname" "misc_model_breakable"
+"model" "map_objects/vjun/window"
+"spawnflags" "65"
+"modelscale" "1.2"
+"angle" "-90"
+"origin" "100127 99878 100153"
+}
+{
+"classname" "misc_model_breakable"
+"model" "map_objects/vjun/window"
+"spawnflags" "65"
+"modelscale" "1.2"
+"angle" "-90"
+"origin" "99871 99878 100153"
+}
+{
+"classname" "misc_model_breakable"
+"model" "map_objects/vjun/window"
+"spawnflags" "65"
+"modelscale" "1.2"
+"angle" "180"
+"origin" "99751 100253 100153"
+}
+{
+"classname" "misc_model_breakable"
+"model" "map_objects/factory/catw2_b"
+"spawnflags" "65"
+"modelscale" "3"
+"origin" "100000 100128 100305"
+}
+{
+"classname" "misc_model_breakable"
+"model" "map_objects/vjun/window"
+"spawnflags" "65"
+"modelscale" "1.2"
+"angle" "135"
+"origin" "99785 100342 100153"
+}
+{
+"classname" "misc_model_breakable"
+"model" "map_objects/vjun/window"
+"spawnflags" "65"
+"modelscale" "1.2"
+"angle" "-45"
+"origin" "100216 99912 100153"
+}
+{
+"classname" "misc_model_breakable"
+"model" "map_objects/vjun/window"
+"spawnflags" "65"
+"modelscale" "1.2"
+"angle" "-135"
+"origin" "99783 99911 100153"
+}
+{
+"classname" "target_teleporter"
+"targetname" "spacestation"
+"origin" "99835 99963 100349"
+}
+{
+"classname" "func_static"
+"model" "*122"
+"angle" "90"
+"origin" "99376 100131 99976"
+}
+{
+"classname" "func_static"
+"model" "*122"
+"angle" "90"
+"origin" "100624 100128 99976"
+}
+{
+"classname" "func_static"
+"model" "*122"
+"origin" "99999 100751 99976"
+}
+{
+"classname" "func_static"
+"model" "*122"
+"origin" "100000 99503 99976"
+}
+{
+"classname" "misc_model_breakable"
+"model" "map_objects/imperial/controlpanel"
+"spawnflags" "8193"
+"count" "50"
+"target" "x-wing"
+"message" "^0<|^2X-Wing^0|>"
+"origin" "99830 100035 100000"
+}
+{
+"classname" "npc_vehicle"
+"NPC_type" "x-wing"
+"count" "-1"
+"targetname" "x-wing"
+"angle" "180"
+"origin" "99376 100129 100048"
+}
+{
+"classname" "misc_model_breakable"
+"model" "map_objects/imperial/controlpanel"
+"spawnflags" "8193"
+"count" "50"
+"target" "z-95"
+"message" "^0<|^2Z-95^0|>"
+"angle" "180"
+"origin" "100169 100220 100000"
+}
+{
+"classname" "npc_vehicle"
+"NPC_type" "z-95"
+"count" "-1"
+"targetname" "z-95"
+"angle" "0"
+"origin" "100624 100130 100048"
+}
+{
+"classname" "misc_model_breakable"
+"model" "map_objects/imperial/controlpanel"
+"spawnflags" "8193"
+"count" "50"
+"target" "tie-fighter"
+"message" "^0<|^1Tie-Fighter^0|>"
+"angle" "90"
+"origin" "100093 99958 100000"
+}
+{
+"classname" "npc_vehicle"
+"NPC_type" "tie-fighter"
+"count" "-1"
+"targetname" "tie-fighter"
+"angle" "-90"
+"origin" "100001 99503 100048"
+"angles" "0-90-0"
+}
+{
+"classname" "npc_vehicle"
+"NPC_type" "tie-bomber"
+"count" "-1"
+"targetname" "tie-bomber"
+"angle" "90"
+"origin" "99997 100753 100048"
+}
+{
+"classname" "misc_model_breakable"
+"model" "map_objects/imperial/controlpanel"
+"spawnflags" "8193"
+"count" "50"
+"target" "tie-bomber"
+"message" "^0<|^1Tie-Bomber^0|>"
+"angle" "-90"
+"origin" "99907 100298 100000"
+}
+{
+"classname" "fx_runner"
+"fxfile" "misc/genrings"
+"origin" "100000 100126 100000"
+}
+{
+"classname" "fx_runner"
+"fxfile" "env/btend"
+"origin" "100000 100126 100001"
+}
+{
+"classname" "trigger_multiple"
+"maxs" "20 20 20"
+"mins" "-20 -20 0"
+"target" "main"
+"origin" "100000 100125 100000"
+}
+{
+"classname" "lmd_light"
+"color" "2 2 2"
+"light" "1000"
+"origin" "2669 521 -1820"
+}
+{
+"classname" "fx_runner"
+"fxFile" "env/btend"
+"angle" "0"
+"origin" "196977 202247 200061"
+"angles" "0 0 180"
+}
+{
+"classname" "fx_runner"
+"fxFile" "env/btend"
+"angle" "180"
+"origin" "198414 202240 200060"
+}
+{
+"classname" "trigger_multiple"
+"maxs" "10 100 100"
+"mnis" "-10 -100 0"
+"target" "main"
+"origin" "196989 202239 200000"
+}
+{
+"classname" "target_teleporter"
+"targetname" "adminroom"
+"angle" "90"
+"origin" "197695 202139 200084"
+}
+{
+"classname" "trigger_multiple"
+"maxs" "10 100 100"
+"mnis" "-10 -100 0"
+"target" "main"
+"origin" "198403 202240 200000"
+}
+{
+"classname" "misc_model_breakable"
+"model" "map_objects/factory/f_gen.md3"
+"modelscale" "2"
+"origin" "512 -512 -144"
+}
+{
+"classname" "lmd_light"
+"color" "2 2 2"
+"light" "1000"
+"origin" "2676 1813 -2972"
+}
+{
+"classname" "lmd_light"
+"color" "2 2 2"
+"light" "1000"
+"origin" "2651 1829 -2972"
+}
+{
+"classname" "target_deactivate"
+"origin" "2872 1437 1152"
+}
+{
+"classname" "target_activate"
+"origin" "2872 1437 1152"
+}
+{
+"classname" "misc_model_breakable"
+"model" "map_objects/rift/crystal_floor"
+"spawnflags" "65"
+"origin" "13009 6654 853"
+}
+{
+"classname" "misc_model_breakable"
+"model" "map_objects/rift/crystal_floor"
+"spawnflags" "65"
+"origin" "20975 2320 142"
+}
+{
+"classname" "misc_model_breakable"
+"model" "map_objects/factory/f_con2"
+"spawnflags" "193"
+"message" "Area #1"
+"target" "aa"
+"angle" "90"
+"origin" "302264 302423 309488"
+}
+{
+"classname" "target_print"
+"wait" "20"
+"message" " Kitten is ^1SO ^6Smart!^7"
+"targetname" "Kitten"
+}
+{
+"classname" "target_print"
+"wait" "20"
+"message" " Kitten is ^1SO ^6Smart!^7"
+"targetname" "Kitten"
+}
+{
+"classname" "target_print"
+"wait" "20"
+"message" " Kitten is ^1SO ^6Smart!^7"
+"targetname" "Kitten"
+}
+{
+"classname" "target_print"
+"wait" "20"
+"message" " Kitten is ^1SO ^6Smart!^7"
+"targetname" "Kitten"
+}
+{
+"classname" "target_print"
+"wait" "20"
+"message" " Kitten is ^1SO ^6Smart!^7"
+"targetname" "Kitten"
+}
+{
+"classname" "target_print"
+"wait" "20"
+"message" " [Kitten Is ^1SO ^6Smart^7]"
+"targetname" "[Kitten]"
+}
+{
+"classname" "lmd_light"
+"light" "50000"
+"color" "1 1 1"
+"origin" "298608 299572 311148"
+}
+{
+"classname" "misc_model_breakable"
+"model" "map_objects/factory"
+"origin" "1446 12 -512"
+}
+{
+"classname" "func_static"
+"model" "*91"
+"angles" "-45 0 0"
+"origin" "654 -14 2681"
+}
+{
+"classname" "func_static"
+"model" "*91"
+"angles" "-45 180 0"
+"origin" "369 -14 2681"
+}
+{
+"classname" "target_credits"
+"targetname" "lol"
+"count" "100000000"
+"origin" "573 550 2450"
+}
+{
+"classname" "func_static"
+"model" "*110"
+"angles" "0 180 -90"
+"origin" "299808 299616 300193"
+}
+{
+"classname" "func_static"
+"model" "*110"
+"angles" "180 180 -90"
+"origin" "299808 299616 299393"
+}
+{
+"classname" "func_static"
+"model" "*110"
+"angles" "180 180 -90"
+"origin" "300000 299616 299393"
+}
+{
+"classname" "func_static"
+"model" "*110"
+"angles" "180 180 -90"
+"origin" "300192 299616 299393"
+}
+{
+"classname" "func_static"
+"model" "*110"
+"angles" "180 0 -90"
+"origin" "300192 300000 299393"
+"mins" "-20 -20 0"
+}
+{
+"classname" "func_static"
+"model" "*110"
+"angles" "180 0 -90"
+"origin" "300000 300000 299393"
+}
+{
+"classname" "func_static"
+"model" "*110"
+"angles" "180 0 -90"
+"origin" "299808 300000 299393"
+}
+{
+"classname" "func_static"
+"model" "*110"
+"angle" "-90"
+"origin" "300128 299807 299583"
+"maxs" "50 50 90"
+}
+{
+"classname" "func_static"
+"model" "*110"
+"angle" "90"
+"origin" "300460 299617 299583"
+}
+{
+"classname" "func_static"
+"model" "*110"
+"angle" "90"
+"origin" "300460 299999 299583"
+}
+{
+"classname" "misc_model_breakable"
+"model" "map_objects/byss/tractor_base"
+"modelscale" "3"
+"spawnflags" "0"
+"origin" "300188 299807 299234"
+"maxs" "50 50 150"
+"mins" "-50 -50 0"
+}
+{
+"classname" "misc_model_breakable"
+"model" "map_objects/byss/tractor_base"
+"modelscale" "3"
+"spawnflags" "65"
+"angles" "0 0 180"
+"origin" "300186 299807 300345"
+}
+{
+"classname" "misc_model_breakable"
+"spawnflags" "65"
+"maxs" "100 100 40"
+"mins" "-100 -100 0"
+"origin" "300190 299805 299585"
+}
+{
+"classname" "fx_runner"
+"fxFile" "env/powerbolt_long"
+"origin" "300169 299762 299625"
+}
+{
+"classname" "fx_runner"
+"fxFile" "env/powerbolt_long"
+"origin" "300206 299763 299625"
+}
+{
+"classname" "fx_runner"
+"fxFile" "env/powerbolt_long"
+"origin" "300233 299786 299625"
+}
+{
+"classname" "fx_runner"
+"fxFile" "env/powerbolt_long"
+"origin" "300235 299825 299625"
+}
+{
+"classname" "fx_runner"
+"fxFile" "env/powerbolt_long"
+"origin" "300206 299852 299625"
+}
+{
+"classname" "fx_runner"
+"fxFile" "env/powerbolt_long"
+"origin" "300168 299851 299625"
+}
+{
+"classname" "fx_runner"
+"fxFile" "env/powerbolt_long"
+"origin" "300142 299825 299625"
+}
+{
+"classname" "fx_runner"
+"fxFile" "env/powerbolt_long"
+"origin" "300144 299789 299625"
+}
+{
+"classname" "func_static"
+"model" "*110"
+"origin" "299616 300000 300193"
+"angles" "0 0 -90"
+}
+{
+"classname" "func_static"
+"model" "*110"
+"angles" "0 180 -90"
+"origin" "299616 299616 300193"
+}
+{
+"classname" "func_static"
+"model" "*110"
+"angles" "0 180 -90"
+"origin" "299424 299616 300193"
+}
+{
+"classname" "func_static"
+"model" "*110"
+"origin" "299424 300000 300193"
+"angles" "0 0 -90"
+}
+{
+"classname" "func_Static"
+"model" "*110"
+"origin" "299584 299619 299319"
+"angles" "0 90 90"
+}
+{
+"classname" "func_static"
+"model" "*110"
+"angles" "180 180 -90"
+"origin" "299616 299616 299393"
+}
+{
+"classname" "func_static"
+"model" "*110"
+"angles" "180 0 -90"
+"origin" "299616 300000 299393"
+}
+{
+"classname" "func_static"
+"model" "*110"
+"angles" "0 90 90"
+"origin" "299584 299811 299324"
+}
+{
+"classname" "func_static"
+"model" "*110"
+"angles" "0 90 90"
+"origin" "299584 300003 299319"
+}
+{
+"classname" "func_static"
+"model" "*110"
+"angles" "0 90 90"
+"origin" "299328 299619 299456"
+}
+{
+"classname" "func_static"
+"model" "*110"
+"angles" "0 90 90"
+"origin" "299328 299811 299461"
+"note" "Design by Andy and [GiZkA]"
+}
+{
+"classname" "func_static"
+"model" "*110"
+"angles" "0 90 90"
+"origin" "299328 300003 299456"
+}
+{
+"classname" "func_Static"
+"model" "*110"
+"angles" "0 0 -90"
+"origin" "299232 300000 300193"
+}
+{
+"classname" "func_Static"
+"model" "*110"
+"angles" "0 180 -90"
+"origin" "299232 299616 300193"
+}
+{
+"classname" "func_Static"
+"model" "*110"
+"origin" "299063 300001 300071"
+"angles" "0 90 -130"
+"group" "no"
+}
+{
+"classname" "func_static"
+"model" "*110"
+"angles" "0 90 -130"
+"origin" "299063 299617 300071"
+"group" "no"
+}
+{
+"classname" "func_static"
+"model" "*110"
+"angles" "180 0 -90"
+"origin" "299424 300000 299393"
+}
+{
+"classname" "func_static"
+"model" "*110"
+"angles" "0 90 -130"
+"origin" "299063 299809 300071"
+"group" "no"
+}
+{
+"classname" "func_static"
+"model" "*110"
+"angles" "180 180 -90"
+"origin" "299520 299615 299393"
+}
+{
+"classname" "fx_runner"
+"fxFile" "env/btend"
+"angle" "180"
+"origin" "299274 299809 299915"
+"angles" "0 0 90"
+}
+{
+"classname" "misc_model_breakable"
+"model" "map_objects/vjun/door_frame"
+"spawnflags" "0"
+"origin" "299270 299808 299853"
+}
+{
+"classname" "trigger_multiple"
+"maxs" "10 50 50"
+"mins" "-10 -50 0"
+"target" "main"
+"origin" "299274 299808 299855"
+}
+{
+"classname" "lmd_mover"
+"model" "map_objects/ships/tie_fighter"
+"onduration" "20000"
+"ontype" "5"
+"ondelta" "10000 0 0"
+"origin" "197373 204288 200454"
+}
+{
+"classname" "lmd_mover"
+"model" "map_objects/ships/tie_fighter"
+"onduration" "20000"
+"ontype" "5"
+"ondelta" "10000 0 0"
+"origin" "197938 204320 200442"
+}
+{
+"classname" "lmd_mover"
+"model" "map_objects/ships/tie_fighter"
+"onduration" "20000"
+"ontype" "5"
+"ondelta" "10000 0 0"
+"origin" "197650 204288 200671"
+}
+{
+"classname" "lmd_mover"
+"model" "map_objects/ships/tie_fighter"
+"onduration" "20000"
+"ontype" "5"
+"ondelta" "10000 0 0"
+"origin" "197394 204288 200672"
+}
+{
+"classname" "lmd_mover"
+"model" "map_objects/ships/tie_fighter"
+"onduration" "20000"
+"ontype" "5"
+"ondelta" "10000 0 0"
+"origin" "197439 204320 200235"
+}
+{
+"classname" "lmd_mover"
+"model" "map_objects/ships/tie_fighter"
+"onduration" "20000"
+"ontype" "5"
+"ondelta" "10000 0 0"
+"origin" "197855 204320 200236"
+}
+{
+"classname" "target_teleporter"
+"targetname" "questhall"
+"origin" "-1664 -42 1140"
+"angle" "-90"
+}
+{
+"classname" "lmd_restrict"
+"maxs" "5000 5000 5000"
+"mins" "-5000 -5000 0"
+"spawnflags" "3"
+"origin" "299831 299804 299587"
+}
+{
+"classname" "info_player_deathmatch"
+"angle" "180"
+"origin" "299992 299726 299692"
+}
+{
+"classname" "info_player_deathmatch"
+"angle" "180"
+"origin" "299993 299815 299685"
+}
+{
+"classname" "info_player_deathmatch"
+"angle" "180"
+"origin" "299996 299895 299692"
+}
+{
+"classname" "misc_model_breakable"
+"model" "map_objects/bounty/cache"
+"spawnflags" "8193"
+"message" "^0.: ^7Ammunition ^0:."
+"target" "ammo"
+"origin" "512 -512 2462"
+"modelscale" ".5"
+"count" "15"
+}
+{
+"classname" "func_static"
+"model" "*99"
+"angles" "-43 -1633 2809"
+"origin" "513 159 2141"
+"group" "honk"
+}
+{
+"classname" "func_static"
+"model" "*112"
+"origin" "512 -512 2454"
+"angles" "0 0 180"
+}
+{
+"classname" "weapon_thermal"
+"targetname" "thermal"
+"spawnflags" "152"
+"wait" "-1"
+"target" "thermalb"
+"origin" "493 -583 2470"
+}
+{
+"classname" "weapon_trip_mine"
+"targetname" "tripmine"
+"spawnflags" "152"
+"wait" "-1"
+"target" "tripmineb"
+"origin" "530 -594 2475"
+}
+{
+"classname" "weapon_det_pack"
+"targetname" "detpack"
+"spawnflags" "152"
+"wait" "-1"
+"target" "detpackb"
+"origin" "563 -591 2470"
+}
+{
+"classname" "ammo_rockets"
+"wait" "-1"
+"targetname" "ammo"
+"target" "ammob"
+"count" "20"
+"origin" "513 -475 2470"
+}
+{
+"classname" "func_static"
+"model" "*112"
+"origin" "123456 123456 124096"
+"angles" "180 0 0"
+}
+{
+"classname" "func_static"
+"model" "*112"
+"origin" "123456 123456 123456"
+}
+{
+"classname" "trigger_multiple"
+"maxs" "5000 5000 100"
+"mins" "-5000 -5000 0"
+"target" "main"
+"origin" "398 -2270 -2048"
+}
+{
+"classname" "lmd_light"
+"color" "1 1 1"
+"light" "1000"
+"origin" "197700 202612 200436"
+}
+{
+"classname" "misc_model_breakable"
+"model" "map_objects/imperial/controlpanel"
+"spawnflags" "1"
+"angle" "90"
+"origin" "511 438 512"
+}
+{
+"classname" "target_print"
+"targetname" "crsystemprint"
+"message" "^6[Admins (god profession) or Padawans aren't allowed to hack the bank]"
+"spawnflags" "20"
+}
+{
+"classname" "target_relay"
+"targetname" "bank_relay"
+"target" "bank_1"
+"target2" "bank_2"
+"target3" "bank_3"
+"target4" "bank_4"
+"target5" "bank_5"
+"target6" "bank_6"
+}
+{
+"classname" "target_delay"
+"targetname" "bank_1"
+"wait" "45"
+"target" "bankc_1"
+}
+{
+"classname" "target_delay"
+"targetname" "bank_2"
+"wait" "95"
+"target" "bankc_2"
+}
+{
+"classname" "target_delay"
+"targetname" "bank_3"
+"wait" "165"
+"target" "bankc_3"
+}
+{
+"classname" "target_delay"
+"targetname" "bank_4"
+"wait" "219"
+"target" "bankc_4"
+}
+{
+"classname" "target_delay"
+"targetname" "bank_5"
+"wait" "312"
+"target" "bankc_5"
+}
+{
+"classname" "target_delay"
+"targetname" "bank_5"
+"wait" "312"
+"target" "bankc_5"
+}
+{
+"classname" "target_credits"
+"targetname" "bankc_1"
+"count" "100"
+}
+{
+"classname" "target_credits"
+"targetname" "bankc_2"
+"count" "205"
+}
+{
+"classname" "target_credits"
+"targetname" "bankc_3"
+"count" "310"
+}
+{
+"classname" "target_credits"
+"targetname" "bankc_4"
+"count" "415"
+}
+{
+"classname" "target_credits"
+"targetname" "bankc_6"
+"count" "700"
+}
+{
+"classname" "target_print"
+"targetname" "bank_relay"
+"spawnflags" "16"
+"message" "^1Warning^7: ^2The bank has been hacked!"
+}
+{
+"classname" "target_print"
+"targetname" "bank_relay"
+"spawnflags" "20"
+"message" "^1[^0P^1rotect ^0The ^7Bank^1]"
+"origin" "511 467 512"
+}
+{
+"classname" "target_print"
+"targetname" "bankc_6"
+"spawnflags" "16"
+"message" "^2All bank credits have been transfered."
+}
+{
+"classname" "trigger_multiple"
+"maxs" "20 20 50"
+"mins" "-20 -20 0"
+"spawnflags" "1"
+"message" "^1H^7ack ^1T^7o ^1E^7nter ^1T^7he ^1B^7ank"
+"origin" "-1772 855 -1366"
+}
+{
+"classname" "target_teleporter"
+"targetname" "tobank"
+"origin" "513 871 532"
+"angle" "-90"
+}
+{
+"classname" "lmd_remap"
+"old" "textures/h_evil/wfall"
+"new" "textures/common/water_yavin2"
+}
+{
+"classname" "lmd_remap"
+"old" "textures/h_evil/lakewater"
+"new" "textures/common/water_yavin2"
+}
+{
+"classname" "lmd_remap"
+"old" "models/map_objects/factory/s_crate_03_liquid"
+"new" "clear"
+}
+{
+"classname" "misc_model_breakable"
+"model" "map_objects/factory/f_con2"
+"spawnflags" "8193"
+"angle" "-90"
+"count" "600"
+"message" "^0!^7Buy All Weapons^0!"
+"target" "allweapons"
+"origin" "514 -471 2470"
+}
+{
+"classname" "weapon_blaster_pistol"
+"wait" "-1"
+"targetname" "allweapons"
+"origin" "514 -448 2471"
+}
+{
+"classname" "weapon_blaster"
+"wait" "-1"
+"targetname" "allweapons"
+"origin" "514 -448 2471"
+}
+{
+"classname" "weapon_disruptor"
+"wait" "-1"
+"targetname" "allweapons"
+"origin" "514 -448 2471"
+}
+{
+"classname" "weapon_bowcaster"
+"wait" "-1"
+"targetname" "allweapons"
+"origin" "514 -448 2471"
+}
+{
+"classname" "weapon_flechette"
+"wait" "-1"
+"targetname" "allweapons"
+"origin" "514 -448 2471"
+}
+{
+"classname" "weapon_demp2"
+"wait" "-1"
+"targetname" "allweapons"
+"origin" "514 -448 2471"
+}
+{
+"classname" "weapon_repeater"
+"wait" "-1"
+"targetname" "allweapons"
+"origin" "514 -448 2471"
+}
+{
+"classname" "weapon_concussion_rifle"
+"wait" "-1"
+"targetname" "allweapons"
+"origin" "514 -448 2471"
+}
+{
+"classname" "weapon_rocket_launcher"
+"wait" "-1"
+"targetname" "allweapons"
+"origin" "514 -448 2471"
+"count" "50"
+}
+{
+"classname" "weapon_det_pack"
+"wait" "-1"
+"targetname" "allweapons"
+"origin" "514 -448 2471"
+"count" "50"
+}
+{
+"classname" "weapon_trip_mine"
+"wait" "-1"
+"targetname" "allweapons"
+"origin" "514 -448 2471"
+"count" "50"
+}
+{
+"classname" "weapon_thermal"
+"wait" "-1"
+"targetname" "allweapons"
+"origin" "514 -448 2471"
+"count" "50"
+}
+{
+"classname" "misc_ammo_floor_unit"
+"nodrain" "1"
+"origin" "625 461 512"
+}
+{
+"classname" "misc_shield_floor_unit"
+"nodrain" "1"
+"origin" "398 461 512"
+}
+{
+"classname" "misc_model_health_power_converter"
+"angle" "180"
+"origin" "701 639 542"
+}
+{
+"classname" "target_position"
+"targetname" "fl1pad"
+"origin" "2688 863 547"
+}
+{
+"classname" "fx_runner"
+"fxfile" "env/btend"
+"origin" "2693 481 -231"
+}
+{
+"classname" "trigger_push"
+"maxs" "25 25 20"
+"mins" "-25 -25 0"
+"target" "fl1pad"
+"origin" "2693 481 -232"
+}
+{
+"classname" "path_corner"
+"targetname" "path_a"
+"target" "path_b"
+"wait" "4"
+"speed" "200"
+"origin" "288 224 -136"
+}
+{
+"classname" "path_corner"
+"targetname" "path_b"
+"target" "path_a"
+"wait" "4"
+"speed" "200"
+"origin" "317 372 2428"
+}
+{
+"classname" "func_train"
+"target" "path_a"
+"speed" "200"
+"model" "*78"
+"origin" "0 0 0"
+}
+{
+"classname" "misc_shield_floor_unit"
+"nodrain" "1"
+"origin" "449 -94 -128"
+}
+{
+"classname" "misc_ammo_floor_unit"
+"nodrain" "1"
+"origin" "577 -95 -128"
+}
+{
+"classname" "misc_model_health_power_converter"
+"angle" "90"
+"origin" "512 -125 -98"
+}
+{
+"classname" "lmd_light"
+"light" "500"
+"color" "1 1 1"
+"origin" "-1655 512 -1388"
+}
+{
+"classname" "misc_model_breakable"
+"model" "map_objects/factory/f_door_b"
+"origin" "-1283 513 -1408"
+}
+{
+"classname" "target_teleporter"
+"targetname" "injail"
+"origin" "412 576 -759"
+}
+{
+"classname" "misc_model_breakable"
+"model" "map_objects/kejim/sec_panel"
+"angle" "180"
+"spawnflags" "97"
+"adminlevel" "16"
+"target" "injail"
+"origin" "-1280 361 -1374"
+}
+{
+"classname" "trigger_multiple"
+"maxs" "15 15 70"
+"mins" "-15 -15 0"
+"message" "^0!^7Jail^0!\n\n\n\n\n\n\n\n\n\n^1Members Only"
+"origin" "-1300 361 -1408"
+}
+{
+"classname" "misc_model_breakable"
+"model" "map_objects/korriban/torch_top"
+"origin" "-1673 859 -1451"
+}
+{
+"classname" "misc_model_breakable"
+"model" "map_objects/korriban/torch_top"
+"origin" "-1573 859 -1451"
+}
+{
+"classname" "misc_model_breakable"
+"model" "map_objects/korriban/torch_top"
+"origin" "-1664 165 -1451"
+}
+{
+"classname" "misc_model_breakable"
+"model" "map_objects/korriban/torch_top"
+"origin" "-1764 169 -1451"
+}
+{
+"classname" "misc_model_breakable"
+"model" "map_objects/korriban/torch_top"
+"origin" "-1564 164 -1451"
+}

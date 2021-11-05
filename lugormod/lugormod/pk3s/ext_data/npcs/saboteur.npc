@@ -1,0 +1,167 @@
+saboteur
+{
+	playerModel	saboteur
+	weapon	WP_BLASTER_RIFLE
+	altFire	1
+	rank		crewman
+	reactions	5
+	aim		3
+	move		5
+	aggression	5
+	evasion		4
+	intelligence	5
+	hfov		160
+	vfov		160
+	playerTeam	TEAM_ENEMY
+	enemyTeam	TEAM_PLAYER
+	class		CLASS_SABOTEUR
+	snd		sab1
+	sndcombat	sab1
+	sndextra	sab1
+	yawSpeed	140
+	walkSpeed	55
+	runSpeed	200
+	health	200
+	dismemberProbHead	0
+	dismemberProbArms	10
+	dismemberProbLegs	0
+	dismemberProbHands	20
+	dismemberProbWaist	0
+}
+
+saboteurcommando
+{
+	playerModel	saboteur
+	weapon	WP_BLASTER_RIFLE
+	altFire	1
+	rank		crewman
+	reactions	5
+	aim		3
+	move		5
+	aggression	5
+	evasion		4
+	intelligence	5
+	hfov		160
+	vfov		160
+	playerTeam	TEAM_ENEMY
+	enemyTeam	TEAM_PLAYER
+	class		CLASS_SABOTEUR
+	snd		sab2
+	sndcombat	sab2
+	sndextra	sab2
+	yawSpeed	140
+	walkSpeed	55
+	runSpeed	200
+	health	200
+	dismemberProbHead	0
+	dismemberProbArms	10
+	dismemberProbLegs	0
+	dismemberProbHands	20
+	dismemberProbWaist	0
+}
+
+saboteur_saber
+{
+	playerModel	saboteur
+	weapon	WP_SABER
+	saber	Kyle
+	FP_LEVITATION 5
+	FP_PUSH		5
+	FP_HEAL		5
+	rank		crewman
+	reactions	5
+	aim		5
+	move		5
+	aggression	5
+	evasion		5
+	intelligence	5
+	hfov		160
+	vfov		160
+	playerTeam	TEAM_ENEMY
+	enemyTeam	TEAM_PLAYER
+	class		CLASS_REBORN
+	snd		sab2
+	sndcombat	sab2
+	sndextra	sab2
+	yawSpeed	140
+	walkSpeed	55
+	runSpeed	200
+	health	200
+	dismemberProbHead	0
+	dismemberProbArms	10
+	dismemberProbLegs	0
+	dismemberProbHands	20
+	dismemberProbWaist	0
+}
+saboteur_insane_1
+{
+	playerModel	saboteur
+	weapon	WP_SABER
+	saber	Kyle
+	saberStyle	4
+	FP_LEVITATION 5
+	FP_PUSH		5
+	FP_HEAL		5
+	FP_GRIP		5
+	rank		crewman
+	reactions	2
+	aim		5
+	move		5
+	aggression	5
+	evasion		5
+	intelligence	2
+	hfov		160
+	vfov		160
+	playerTeam	TEAM_ENEMY
+	enemyTeam	TEAM_PLAYER
+	class		CLASS_REBORN
+	snd		sab2
+	sndcombat	sab2
+	sndextra	sab2
+	yawSpeed	140
+	walkSpeed	100
+	runSpeed	250
+	health	200
+	dismemberProbHead	0
+	dismemberProbArms	10
+	dismemberProbLegs	0
+	dismemberProbHands	20
+	dismemberProbWaist	0
+}
+
+saboteur_insane_2
+{
+	playerModel	saboteur
+	weapon	WP_SABER
+	saber	Kyle
+	saberStyle	5
+	FP_LEVITATION 5
+	FP_PUSH		5
+	FP_HEAL		5
+	FP_RAGE		3
+	FP_LIGHTNING	3
+	rank		crewman
+	reactions	5
+	aim		5
+	move		5
+	aggression	5
+	evasion		5
+	intelligence	5
+	hfov		160
+	vfov		160
+	playerTeam	TEAM_ENEMY
+	enemyTeam	TEAM_PLAYER
+	class		CLASS_REBORN
+	snd		sab2
+	sndcombat	sab2
+	sndextra	sab2
+	yawSpeed	140
+	walkSpeed	190
+	runSpeed	275
+	health	200
+	dismemberProbHead	0
+	dismemberProbArms	10
+	dismemberProbLegs	0
+	dismemberProbHands	20
+	dismemberProbWaist	0
+}

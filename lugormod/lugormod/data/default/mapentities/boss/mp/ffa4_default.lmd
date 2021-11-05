@@ -1,0 +1,97 @@
+{
+"music" "music/mp/mp_action2.mp3"
+"fog" "textures/mp/s_rift_fog"
+"classname" "worldspawn"
+"breath" "2"
+"message" "Rift Sanctuary"
+}
+{
+"classname" "info_player_deathmatch"
+"origin" "6208 1760 -40"
+"angle" "90"
+}
+{
+"angle" "270"
+"origin" "8560 5312 152"
+"classname" "info_player_deathmatch"
+}
+{
+"classname" "info_player_deathmatch"
+"origin" "8528 3552 152"
+"angle" "225"
+}
+{
+"angle" "225"
+"origin" "7360 3232 -168"
+"classname" "info_player_deathmatch"
+}
+{
+"classname" "info_player_deathmatch"
+"origin" "7808 1760 -40"
+"angle" "30"
+}
+{
+"classname" "info_player_deathmatch"
+"origin" "8560 4416 152"
+"angle" "90"
+}
+{
+"angle" "250"
+"origin" "7776 5536 128"
+"classname" "info_player_deathmatch"
+}
+{
+"classname" "info_player_deathmatch"
+"origin" "6032 3696 56"
+"angle" "315"
+}
+{
+"angle" "60"
+"origin" "5872 2480 -152"
+"classname" "info_player_deathmatch"
+}
+{
+"classname" "info_player_deathmatch"
+"origin" "8480 3832 152"
+"angle" "135"
+}
+{
+"angle" "135"
+"origin" "8528 2784 152"
+"classname" "info_player_deathmatch"
+}
+{
+"classname" "info_player_deathmatch"
+"origin" "9584 3616 152"
+"angle" "270"
+}
+{
+"angle" "270"
+"origin" "9632 2400 24"
+"classname" "info_player_deathmatch"
+}
+{
+"classname" "info_player_deathmatch"
+"origin" "8880 2624 -40"
+"angle" "225"
+}
+{
+"classname" "info_player_deathmatch"
+"origin" "6902 2446 152"
+"angle" "315"
+}
+{
+"angle" "360"
+"origin" "6880 1312 24"
+"classname" "info_player_deathmatch"
+}
+{
+"classname" "trigger_hurt"
+"dmg" "-1"
+"model" "*1"
+}
+{
+"dmg" "-1"
+"classname" "trigger_hurt"
+"model" "*2"
+}

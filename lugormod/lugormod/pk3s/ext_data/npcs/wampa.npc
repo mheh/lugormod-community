@@ -1,0 +1,106 @@
+
+wampa
+{
+	playerModel 	wampa
+	scale		150
+	weapon		WP_MELEE
+	health		800
+	headPitchRangeDown 30
+	reactions		3
+	aim			1
+	move			3
+	aggression		3
+	evasion		1
+	intelligence	5
+	rank		crewman
+	playerTeam	TEAM_FREE
+	enemyTeam	TEAM_FREE
+	class		CLASS_WAMPA
+	height		128
+	crouchheight 	80
+	width			30
+	snd		wampa
+	sndcombat	wampa
+	sndextra	wampa
+	yawspeed	80
+	walkSpeed	120
+	runSpeed	300
+	hfov		100
+	vfov		90
+	dismemberProbHead		0
+	dismemberProbArms		0
+	dismemberProbLegs		0
+	dismemberProbHands	0
+	dismemberProbWaist	0
+}
+
+wampa_faster
+{
+	playerModel 	wampa
+	scale		150
+	weapon		WP_MELEE
+	health		800
+	headPitchRangeDown 30
+	reactions		4
+	aim			3
+	move			4
+	aggression		5
+	evasion		5
+	intelligence	5
+	rank		lt
+	playerTeam	TEAM_FREE
+	enemyTeam	TEAM_FREE
+	class		CLASS_WAMPA
+	height		300
+	crouchheight 	80
+	width			50
+	snd		wampa
+	sndcombat	wampa
+	sndextra	wampa
+	yawspeed	80
+	walkSpeed	150
+	runSpeed	300
+	hfov		100
+	vfov		90
+	dismemberProbHead		0
+	dismemberProbArms		0
+	dismemberProbLegs		0
+	dismemberProbHands	0
+	dismemberProbWaist	0
+}
+
+wampa_flyswim
+{
+	playerModel 	wampa
+	moveType	flyswim
+	scale		75
+	weapon		WP_MELEE
+	health		800
+	headPitchRangeDown 30
+	reactions		5
+	aim				5
+	move			5
+	aggression		5
+	evasion			5
+	intelligence	5
+	rank			lt
+	playerTeam	TEAM_FREE
+	enemyTeam	TEAM_FREE
+	class		CLASS_WAMPA
+	height			200
+	crouchheight 	40
+	width			25
+	snd			wampa
+	sndcombat	wampa
+	sndextra	wampa
+	yawspeed	80
+	walkSpeed	250
+	runSpeed	400
+	hfov		100
+	vfov		90
+	dismemberProbHead		0
+	dismemberProbArms		0
+	dismemberProbLegs		0
+	dismemberProbHands	0
+	dismemberProbWaist	0
+}

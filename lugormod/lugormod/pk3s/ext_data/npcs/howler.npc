@@ -1,0 +1,99 @@
+Howler
+{
+	playerModel howler
+	weapon		WP_MELEE
+	height		32
+	crouchheight		32
+	reactions	5
+	aim			5
+	move		5
+	aggression	5
+	evasion		5
+	intelligence	5
+	playerTeam	TEAM_ENEMY
+	enemyTeam	TEAM_PLAYER
+	class		CLASS_HOWLER
+	yawSpeed	900
+	runSpeed	800
+	walkSpeed	600
+	hFOV		500
+	vfov		500
+	snd			howler
+	health		100
+}
+
+Howler_flyswim
+{
+	playerModel howler
+	weapon		WP_MELEE
+	movetype	flyswim
+	height		32
+	crouchheight		32
+	reactions	5
+	aim			5
+	move		5
+	aggression	5
+	evasion		5
+	intelligence	5
+	playerTeam	TEAM_ENEMY
+	enemyTeam	TEAM_PLAYER
+	class		CLASS_HOWLER
+	yawSpeed	900
+	runSpeed	700
+	walkSpeed	500
+	hFOV		120
+	vfov		85
+	snd			howler
+	health		100
+}
+
+Howler_runjump
+{
+	playerModel howler
+	weapon		WP_MELEE
+	movetype	runjump
+	height		32
+	crouchheight		32
+	reactions	5
+	aim			5
+	move		5
+	aggression	5
+	evasion		5
+	intelligence	5
+	playerTeam	TEAM_ENEMY
+	enemyTeam	TEAM_PLAYER
+	class		CLASS_HOWLER
+	yawSpeed	900
+	runSpeed	700
+	walkSpeed	500
+	hFOV		120
+	vfov		85
+	snd			howler
+	health		100
+}
+
+Howler_aggressive
+{
+	playerModel howler
+	weapon		WP_MELEE
+	scale		200
+	height		32
+	crouchheight		32
+	rank		lt
+	reactions	5
+	aim			5
+	move		5
+	aggression	5
+	evasion		5
+	intelligence	5
+	playerTeam	TEAM_ENEMY
+	enemyTeam	TEAM_PLAYER
+	class		CLASS_HOWLER
+	yawSpeed	900
+	runSpeed	900
+	walkSpeed	800
+	hFOV		360
+	vfov		360
+	snd			remote
+	health		300
+}

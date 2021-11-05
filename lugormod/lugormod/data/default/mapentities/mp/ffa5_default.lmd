@@ -1,0 +1,145 @@
+{
+"classname" "money_dispenser"
+"angle" "90"
+"origin" "-1602 -630 -512"
+}
+{
+"classname" "money_dispenser"
+"origin" "-217 1461 0"
+}
+{
+"classname" "money_dispenser"
+"angle" "-90"
+"origin" "208 695 0"
+}
+{
+"classname" "money_dispenser"
+"angle" "90"
+"origin" "-1024 -1608 -256"
+}
+{
+"classname" "money_dispenser"
+"angle" "-90"
+"origin" "-1619 -935 512"
+}
+{
+"classname" "money_dispenser"
+"angle" "90"
+"origin" "981 -2137 640"
+}
+{
+"classname" "money_dispenser"
+"origin" "1666 -943 -320"
+}
+{
+"classname" "target_position"
+"targetname" "push_npc_target"
+"origin" "1 -2 484"
+}
+{
+"classname" "fx_runner"
+"fxfile" "effects/env/btend"
+"origin" "1563 -1 -706"
+}
+{
+"classname" "trigger_push"
+"maxs" " 50 50 25"
+"mins" "-50 -50 0"
+"target" "jump1_target"
+"origin" "1563 -1 -708"
+}
+{
+"classname" "misc_model_breakable"
+"model" "models/map_objects/h_evil/control_station"
+"spawnflags" "193"
+"targetname" "rancorfight_deac"
+"target" "rancorfight_spawn"
+"angle" "-90"
+"modelscale" ".75"
+"origin" "10 -1230 512"
+}
+{
+"classname" "target_deactivate"
+"targetname" "rancorfight_spawn"
+"target" "rancorfight_deac"
+}
+{
+"classname" "LMD_spawner"
+"NPC_type" "mutant_rancor"
+"targetname" "rancorfight_spawn"
+"NPC_target" "rancorfight_dead"
+"health" "700"
+"showhealth" "1"
+"customscale" "80"
+"count" "1"
+"origin" "0 -1 84"
+}
+{
+"classname" "target_activate"
+"targetname" "rancorfight_dead"
+"target" "rancorfight_dead_trigger"
+}
+{
+"classname" "trigger_multiple"
+"maxs" "4000 4000 4000"
+"mins" "-4000 -4000 -1000"
+"spawnflags" "1157"
+"targetname" "rancorfight_dead_trigger"
+"target" "rancorfight_credits"
+"usetime" "10000"
+"origin" "0 -1 984"
+}
+{
+"classname" "target_credits"
+"targetname" "rancorfight_credits"
+"count" "1200"
+"random" "200"
+}
+{
+"classname" "target_delay"
+"targetname" "rancorfight_dead"
+"target" "rancorfight_reac"
+"wait" "19"
+}
+{
+"classname" "target_activate"
+"targetname" "rancorfight_reac_button"
+"target" "rancorfight_deac"
+}
+{
+"classname" "trigger_multiple"
+"maxs" "50 50 50"
+"mins" "-50 -50 0"
+"target" "rancorfight_info"
+"origin" "10 -1265 512"
+}
+{
+"classname" "target_print"
+"targetname" "rancorfight_info"
+"spawnflags" "4"
+"message" "Kill the Mutant Rancor and the whole map can press use for money <10 minutes for rancor to reactivate>"
+}
+{
+"classname" "target_deactivate"
+"targetname" "rancorfight_reac"
+"target" "rancorfight_dead_trigger"
+}
+{
+"classname" "target_delay"
+"targetname" "rancorfight_reac"
+"target" "rancorfight_reac_button"
+"wait" "600"
+}
+{
+"classname" "trigger_push"
+"maxs" "2000 2000 15"
+"mins" "-2000 -2000 0"
+"spawnflags" "8"
+"target" "push_npc_target"
+"origin" "0 -3 -116"
+}
+{
+"classname" "item_jetpack"
+"wait" "1"
+"origin" "-154 684 0"
+}

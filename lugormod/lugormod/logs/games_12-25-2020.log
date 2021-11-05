@@ -1,0 +1,1258 @@
+12-26-2020 1: 3 (0:00): ------------------------------------------------------------
+12-26-2020 1: 3 (0:00): InitGame: \version\JAmp: v1.0.1.0 linux-i386 Mar 14 2020\timelimit\45\sv_privateClients\0\sv_minRate\0\sv_minPing\0\sv_maxclients\32\sv_maxRate\0\sv_maxPing\999\sv_hostname\^7~^1~^7~ COMM SERVER ~^1~^7~\sv_fps\50\sv_floodProtectSlow\1\sv_floodProtect\1\sv_autoDemo\0\sv_allowDownload\0\serveruptime\16\protocol\26\mapname\taspir1\gamename\Lugormod\g_weaponDisable\0\g_stepSlideFix\0\g_siegeTeamSwitch\1\g_siegeTeam2\none\g_siegeTeam1\none\g_siegeRespawn\20\g_showDuelHealths\1\g_saberWallDamageScale\0.4\g_saberLocking\0\g_privateDuel\1535\g_noSpecMove\0\g_needpass\0\g_maxHolocronCarry\3\g_maxGameClients\0\g_maxForceRank\7\g_jediVmerc\0\g_gametype\0\g_gamemode\0\g_forceRegenTime\160\g_forcePowerDisable\0\g_forceBasedTeams\1\g_duelWeaponDisable\9\g_debugmelee\1\g_allowNPC\1\fs_game\lugormod\fraglimit\0\duel_fraglimit\10\dmflags\0\capturelimit\10\bot_minplayers\2\bg_fighterAltControl\0\Lugormod_Version\U#-0.0.0.91 Alpha
+12-26-2020 1: 3 (0:00): ClientConnect: 1
+12-26-2020 1: 3 (0:00): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+12-26-2020 1: 3 (0:00): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\0\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-26-2020 1: 3 (0:00): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+12-26-2020 1: 3 (0:00): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-26-2020 1: 3 (0:00): ClientBegin: 1
+12-26-2020 1: 3 (0:00): ClientConnect: 2
+12-26-2020 1: 3 (0:00): ClientUserinfoChanged handling info: 2 \ip\136.49.101.98:29070\snaps\40\sex\male\saber2\none\saber1\Kyle\rate\4000\name\Padawan\model\kyle/default\ja_guid\EC4B4FC6940C82C3E45C303F842CA7B9\handicap\100\forcepowers\7-1-032330000000001333\color2\4\color1\4\char_color_red\255\char_color_green\255\char_color_blue\255\cg_predictItems\1\teamoverlay\0
+12-26-2020 1: 3 (0:00): ClientUserinfoChanged: 2 n\Padawan\t\0\model\kyle/default\c1\4\c2\4\hc\0\w\0\l\0\tt\0\tl\0\st\Kyle\st2\none\dt\0
+12-26-2020 1: 3 (0:08): ClientUserinfoChanged handling info: 2 \ip\136.49.101.98:29070\teamoverlay\0\snaps\50\sex\male\saber2\none\saber1\Kyle\rate\4000\name\Padawan\model\kyle/default\ja_guid\EC4B4FC6940C82C3E45C303F842CA7B9\handicap\100\forcepowers\7-1-032330000000001333\color2\4\color1\4\char_color_red\255\char_color_green\255\char_color_blue\255\cg_predictItems\1
+12-26-2020 1: 3 (0:08): ClientUserinfoChanged: 2 n\Padawan\t\0\model\kyle/default\c1\4\c2\4\hc\0\w\0\l\0\tt\0\tl\0\st\Kyle\st2\none\dt\0
+12-26-2020 1: 3 (0:08): ClientUserinfoChanged handling info: 2 \ip\136.49.101.98:29070\teamoverlay\0\snaps\50\sex\male\saber2\none\saber1\Kyle\rate\4000\name\Padawan\model\kyle/default\ja_guid\EC4B4FC6940C82C3E45C303F842CA7B9\handicap\100\forcepowers\7-1-032330000000001333\color2\4\color1\4\char_color_red\255\char_color_green\255\char_color_blue\255\cg_predictItems\1
+12-26-2020 1: 3 (0:08): ClientUserinfoChanged: 2 n\Padawan\t\0\model\kyle/default\c1\4\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\Kyle\st2\none\dt\0
+12-26-2020 1: 3 (0:08): ClientBegin: 2
+12-26-2020 1: 3 (0:09): Kill: 1022 1 41: <world> killed Kyle by MOD_TRIGGER_HURT
+12-26-2020 1: 3 (0:10): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+12-26-2020 1: 3 (0:10): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-26-2020 1: 3 (0:19): Kill: 1022 1 41: <world> killed Kyle by MOD_TRIGGER_HURT
+12-26-2020 1: 3 (0:20): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+12-26-2020 1: 3 (0:20): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-26-2020 1: 3 (0:26): ClientUserinfoChanged handling info: 2 \ip\136.49.101.98:29070\teamoverlay\0\snaps\50\sex\male\saber2\none\saber1\Kyle\rate\4000\password\temppw\name\Padawan\model\kyle/default\ja_guid\EC4B4FC6940C82C3E45C303F842CA7B9\handicap\100\forcepowers\7-1-032330000000001333\color2\4\color1\4\char_color_red\255\char_color_green\255\char_color_blue\255\cg_predictItems\1
+12-26-2020 1: 3 (0:26): ClientUserinfoChanged: 2 n\Padawan\t\0\model\kyle/default\c1\4\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\Kyle\st2\none\dt\0
+12-26-2020 1: 3 (0:29): ClientUserinfoChanged handling info: 2 \ip\136.49.101.98:29070\teamoverlay\0\snaps\50\sex\male\saber2\none\saber1\Kyle\rate\4000\password\temppw\name\Padawan\model\kyle/default\ja_guid\EC4B4FC6940C82C3E45C303F842CA7B9\handicap\100\forcepowers\7-1-032330000000001333\color2\4\color1\4\char_color_red\255\char_color_green\255\char_color_blue\255\cg_predictItems\1
+12-26-2020 1: 3 (0:29): ClientUserinfoChanged: 2 n\Padawan\t\0\model\kyle/default\c1\4\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\Kyle\st2\none\dt\0
+12-26-2020 1: 3 (0:30): ClientUserinfoChanged handling info: 2 \name\chon\ip\136.49.101.98:29070\teamoverlay\0\snaps\50\sex\male\saber2\none\saber1\Kyle\rate\4000\password\temppw\model\kyle/default\ja_guid\EC4B4FC6940C82C3E45C303F842CA7B9\handicap\100\forcepowers\7-1-032330000000001333\color2\4\color1\4\char_color_red\255\char_color_green\255\char_color_blue\255\cg_predictItems\1
+12-26-2020 1: 3 (0:30): ClientUserinfoChanged: 2 n\chon\t\0\model\kyle/default\c1\4\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\Kyle\st2\none\dt\0
+12-26-2020 1: 4 (0:32): Kill: 1022 2 41: <world> killed chon by MOD_TRIGGER_HURT
+12-26-2020 1: 4 (0:33): ClientUserinfoChanged handling info: 2 \name\chon\ip\136.49.101.98:29070\teamoverlay\0\snaps\50\sex\male\saber2\none\saber1\Kyle\rate\4000\password\temppw\model\kyle/default\ja_guid\EC4B4FC6940C82C3E45C303F842CA7B9\handicap\100\forcepowers\7-1-032330000000001333\color2\4\color1\4\char_color_red\255\char_color_green\255\char_color_blue\255\cg_predictItems\1
+12-26-2020 1: 4 (0:33): ClientUserinfoChanged: 2 n\chon\t\0\model\kyle/default\c1\4\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\Kyle\st2\none\dt\0
+12-26-2020 1: 4 (0:37): Kill: 1022 2 41: <world> killed chon by MOD_TRIGGER_HURT
+12-26-2020 1: 4 (0:39): ClientUserinfoChanged handling info: 2 \name\chon\ip\136.49.101.98:29070\teamoverlay\0\snaps\50\sex\male\saber2\none\saber1\Kyle\rate\4000\password\temppw\model\kyle/default\ja_guid\EC4B4FC6940C82C3E45C303F842CA7B9\handicap\100\forcepowers\7-1-032330000000001333\color2\4\color1\4\char_color_red\255\char_color_green\255\char_color_blue\255\cg_predictItems\1
+12-26-2020 1: 4 (0:39): ClientUserinfoChanged: 2 n\chon\t\0\model\kyle/default\c1\4\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\Kyle\st2\none\dt\0
+12-26-2020 1: 4 (0:50): Kill: 1022 1 41: <world> killed Kyle by MOD_TRIGGER_HURT
+12-26-2020 1: 4 (0:51): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+12-26-2020 1: 4 (0:51): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-26-2020 1: 4 (0:55): Kill: 1022 1 41: <world> killed Kyle by MOD_TRIGGER_HURT
+12-26-2020 1: 4 (0:56): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+12-26-2020 1: 4 (0:56): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-26-2020 1: 5 (2:24): ClientUserinfoChanged handling info: 2 \ip\136.49.101.98:29070\teamoverlay\0\snaps\50\sex\male\saber2\none\saber1\Kyle\rate\4000\password\temppw\name\Padawan\model\kyle/default\ja_guid\EC4B4FC6940C82C3E45C303F842CA7B9\handicap\100\forcepowers\1-1-010000000000000100\color2\4\color1\4\char_color_red\255\char_color_green\255\char_color_blue\255\cg_predictItems\1
+12-26-2020 1: 5 (2:24): ClientUserinfoChanged: 2 n\chon\t\0\model\kyle/default\c1\4\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\Kyle\st2\none\dt\0
+12-26-2020 1: 6 (2:57): Kill: 1 2 3: Kyle killed chon by MOD_SABER
+12-26-2020 1: 6 (2:59): ClientUserinfoChanged handling info: 2 \ip\136.49.101.98:29070\teamoverlay\0\snaps\50\sex\male\saber2\none\saber1\Kyle\rate\4000\password\temppw\name\Padawan\model\kyle/default\ja_guid\EC4B4FC6940C82C3E45C303F842CA7B9\handicap\100\forcepowers\1-1-010000000000000100\color2\4\color1\4\char_color_red\255\char_color_green\255\char_color_blue\255\cg_predictItems\1
+12-26-2020 1: 6 (2:59): ClientUserinfoChanged: 2 n\chon\t\0\model\kyle/default\c1\4\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\Kyle\st2\none\dt\0
+12-26-2020 1: 6 (2:59): say: Kyle: ^1Good Fight ^7 Chon
+12-26-2020 1: 6 (3:23): Kill: 2 1 3: chon killed Kyle by MOD_SABER
+12-26-2020 1: 6 (3:25): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+12-26-2020 1: 6 (3:25): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-26-2020 1: 6 (3:25): say: Kyle: ouch
+12-26-2020 1: 7 (3:59): Kill: 2 1 3: chon killed Kyle by MOD_SABER
+12-26-2020 1: 7 (4:00): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+12-26-2020 1: 7 (4:00): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-26-2020 1: 8 (4:38): Kill: 1022 1 35: <world> killed Kyle by MOD_LAVA
+12-26-2020 1: 8 (4:39): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+12-26-2020 1: 8 (4:39): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-26-2020 1:15 (12:12): ShutdownGame:
+12-26-2020 1:15 (12:12): ------------------------------------------------------------
+12-26-2020 1:15 (0:00): ------------------------------------------------------------
+12-26-2020 1:15 (0:00): InitGame: \version\JAmp: v1.0.1.0 linux-i386 Mar 14 2020\timelimit\45\sv_privateClients\0\sv_minRate\0\sv_minPing\0\sv_maxclients\32\sv_maxRate\0\sv_maxPing\999\sv_hostname\^7~^1~^7~ COMM SERVER ~^1~^7~\sv_fps\50\sv_floodProtectSlow\1\sv_floodProtect\0\sv_autoDemo\0\sv_allowDownload\0\serveruptime\16\protocol\26\mapname\taspir1\gamename\Lugormod\g_weaponDisable\0\g_stepSlideFix\0\g_siegeTeamSwitch\1\g_siegeTeam2\none\g_siegeTeam1\none\g_siegeRespawn\20\g_showDuelHealths\1\g_saberWallDamageScale\0.4\g_saberLocking\0\g_privateDuel\1535\g_noSpecMove\0\g_needpass\1\g_maxHolocronCarry\3\g_maxGameClients\0\g_maxForceRank\7\g_jediVmerc\0\g_gametype\0\g_gamemode\0\g_forceRegenTime\160\g_forcePowerDisable\0\g_forceBasedTeams\1\g_duelWeaponDisable\9\g_debugmelee\1\g_allowNPC\1\fs_game\lugormod\fraglimit\0\duel_fraglimit\10\dmflags\0\capturelimit\10\bot_minplayers\2\bg_fighterAltControl\0\Lugormod_Version\U#-0.0.0.91 Alpha
+12-26-2020 1:15 (0:00): ClientConnect: 1
+12-26-2020 1:15 (0:00): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+12-26-2020 1:15 (0:00): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\0\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-26-2020 1:15 (0:00): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+12-26-2020 1:15 (0:00): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-26-2020 1:15 (0:00): ClientBegin: 1
+12-26-2020 1:15 (0:00): ClientConnect: 2
+12-26-2020 1:15 (0:00): ClientUserinfoChanged handling info: 2 \ip\136.49.101.98:29070\teamoverlay\0\snaps\50\sex\male\saber2\none\saber1\Kyle\rate\4000\password\temppw\name\Padawan\model\kyle/default\ja_guid\EC4B4FC6940C82C3E45C303F842CA7B9\handicap\100\forcepowers\1-1-010000000000000100\color2\4\color1\4\char_color_red\255\char_color_green\255\char_color_blue\255\cg_predictItems\1
+12-26-2020 1:15 (0:00): ClientUserinfoChanged: 2 n\Padawan\t\0\model\kyle/default\c1\4\c2\4\hc\0\w\0\l\0\tt\0\tl\0\st\Kyle\st2\none\dt\0
+12-26-2020 1:15 (0:05): ClientUserinfoChanged handling info: 2 \ip\136.49.101.98:29070\teamoverlay\0\snaps\50\sex\male\saber2\none\saber1\Kyle\rate\4000\password\temppw\name\Padawan\model\kyle/default\ja_guid\EC4B4FC6940C82C3E45C303F842CA7B9\handicap\100\forcepowers\1-1-010000000000000100\color2\4\color1\4\char_color_red\255\char_color_green\255\char_color_blue\255\cg_predictItems\1
+12-26-2020 1:15 (0:05): ClientUserinfoChanged: 2 n\Padawan\t\0\model\kyle/default\c1\4\c2\4\hc\0\w\0\l\0\tt\0\tl\0\st\Kyle\st2\none\dt\0
+12-26-2020 1:15 (0:05): ClientUserinfoChanged handling info: 2 \ip\136.49.101.98:29070\teamoverlay\0\snaps\50\sex\male\saber2\none\saber1\Kyle\rate\4000\password\temppw\name\Padawan\model\kyle/default\ja_guid\EC4B4FC6940C82C3E45C303F842CA7B9\handicap\100\forcepowers\1-1-010000000000000100\color2\4\color1\4\char_color_red\255\char_color_green\255\char_color_blue\255\cg_predictItems\1
+12-26-2020 1:15 (0:05): ClientUserinfoChanged: 2 n\Padawan\t\0\model\kyle/default\c1\4\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\Kyle\st2\none\dt\0
+12-26-2020 1:15 (0:05): ClientUserinfoChanged handling info: 2 \name\chon\ip\136.49.101.98:29070\teamoverlay\0\snaps\50\sex\male\saber2\none\saber1\Kyle\rate\4000\password\temppw\model\kyle/default\ja_guid\EC4B4FC6940C82C3E45C303F842CA7B9\handicap\100\forcepowers\1-1-010000000000000100\color2\4\color1\4\char_color_red\255\char_color_green\255\char_color_blue\255\cg_predictItems\1
+12-26-2020 1:15 (0:05): ClientUserinfoChanged: 2 n\chon\t\0\model\kyle/default\c1\4\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\Kyle\st2\none\dt\0
+12-26-2020 1:15 (0:05): ClientBegin: 2
+12-26-2020 1:15 (0:10): Kill: 1022 1 41: <world> killed Kyle by MOD_TRIGGER_HURT
+12-26-2020 1:15 (0:11): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+12-26-2020 1:15 (0:11): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-26-2020 1:18 (2:53): Kill: 1022 2 38: <world> killed chon by MOD_FALLING
+12-26-2020 1:18 (2:54): ClientUserinfoChanged handling info: 2 \name\chon\ip\136.49.101.98:29070\teamoverlay\0\snaps\50\sex\male\saber2\none\saber1\Kyle\rate\4000\password\temppw\model\kyle/default\ja_guid\EC4B4FC6940C82C3E45C303F842CA7B9\handicap\100\forcepowers\1-1-010000000000000100\color2\4\color1\4\char_color_red\255\char_color_green\255\char_color_blue\255\cg_predictItems\1
+12-26-2020 1:18 (2:54): ClientUserinfoChanged: 2 n\chon\t\0\model\kyle/default\c1\4\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\Kyle\st2\none\dt\0
+12-26-2020 1:32 (17:08): say: Kyle: I am getting bored
+12-26-2020 1:35 (19:23): ClientUserinfoChanged handling info: 2 \ip\136.49.101.98:29070\teamoverlay\0\snaps\50\sex\male\saber2\none\saber1\Kyle\rate\25000\password\temppw\name\Padawan\model\kyle/default\ja_guid\EC4B4FC6940C82C3E45C303F842CA7B9\handicap\100\forcepowers\1-1-010000000000000100\color2\4\color1\4\char_color_red\255\char_color_green\255\char_color_blue\255\cg_predictItems\1
+12-26-2020 1:35 (19:23): ClientUserinfoChanged: 2 n\chon\t\0\model\kyle/default\c1\4\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\Kyle\st2\none\dt\0
+12-26-2020 1:35 (19:33): ClientDisconnect: 2
+12-26-2020 1:35 (19:33): ClientConnect: 2
+12-26-2020 1:35 (19:33): ClientUserinfoChanged handling info: 2 \ip\136.49.101.98:29070\challenge\-848200530\qport\59162\protocol\26\teamoverlay\0\snaps\50\sex\male\saber2\none\saber1\Kyle\rate\25000\password\temppw\name\Padawan\model\kyle/default\ja_guid\EC4B4FC6940C82C3E45C303F842CA7B9\handicap\100\forcepowers\1-1-010000000000000100\color2\4\color1\4\char_color_red\255\char_color_green\255\char_color_blue\255\cg_predictItems\1
+12-26-2020 1:35 (19:33): ClientUserinfoChanged: 2 n\Padawan\t\0\model\kyle/default\c1\4\c2\4\hc\0\w\0\l\0\tt\0\tl\0\st\\st2\\dt\0
+12-26-2020 1:35 (19:33): IP: 136.49.101.98 Padawan
+12-26-2020 1:35 (19:33): ClientConnect: 0
+12-26-2020 1:35 (19:33): ClientUserinfoChanged handling info: 0 \team\0\skill\ 5.00\personality\botfiles/astupidbot.jkb\saber2\none\saber1\kyle\color2\4\color1\4\sex\male\model\jawa\snaps\20\rate\25000\name\astupidbot
+12-26-2020 1:35 (19:33): ClientUserinfoChanged: 0 n\astupidbot\t\0\model\jawa\c1\4\c2\4\hc\0\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\\st2\\dt\0\sdt\0
+12-26-2020 1:35 (19:33): IP: localhost astupidbot
+12-26-2020 1:35 (19:33): ClientUserinfoChanged handling info: 0 \team\0\skill\ 5.00\personality\botfiles/astupidbot.jkb\saber2\none\saber1\kyle\color2\4\color1\4\sex\male\model\jawa\snaps\20\rate\25000\name\astupidbot
+12-26-2020 1:35 (19:33): ClientUserinfoChanged: 0 n\astupidbot\t\0\model\jawa\c1\4\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-26-2020 1:35 (19:33): ClientBegin: 0
+12-26-2020 1:35 (19:36): ClientUserinfoChanged handling info: 2 \ip\136.49.101.98:29070\teamoverlay\0\snaps\50\sex\male\saber2\none\saber1\Kyle\rate\25000\password\temppw\name\Padawan\model\kyle/default\ja_guid\EC4B4FC6940C82C3E45C303F842CA7B9\handicap\100\forcepowers\1-1-010000000000000100\color2\4\color1\4\char_color_red\255\char_color_green\255\char_color_blue\255\cg_predictItems\1
+12-26-2020 1:35 (19:36): ClientUserinfoChanged: 2 n\Padawan\t\0\model\kyle/default\c1\4\c2\4\hc\0\w\0\l\0\tt\0\tl\0\st\Kyle\st2\none\dt\0
+12-26-2020 1:35 (19:36): ClientUserinfoChanged handling info: 2 \ip\136.49.101.98:29070\teamoverlay\0\snaps\50\sex\male\saber2\none\saber1\Kyle\rate\25000\password\temppw\name\Padawan\model\kyle/default\ja_guid\EC4B4FC6940C82C3E45C303F842CA7B9\handicap\100\forcepowers\1-1-010000000000000100\color2\4\color1\4\char_color_red\255\char_color_green\255\char_color_blue\255\cg_predictItems\1
+12-26-2020 1:35 (19:36): ClientUserinfoChanged: 2 n\Padawan\t\0\model\kyle/default\c1\4\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\Kyle\st2\none\dt\0
+12-26-2020 1:35 (19:36): ClientBegin: 2
+12-26-2020 1:35 (19:42): Kill: 1022 0 41: <world> killed astupidbot by MOD_TRIGGER_HURT
+12-26-2020 1:35 (19:43): ClientUserinfoChanged handling info: 0 \team\0\skill\ 5.00\personality\botfiles/astupidbot.jkb\saber2\none\saber1\kyle\color2\4\color1\4\sex\male\model\jawa\snaps\20\rate\25000\name\astupidbot
+12-26-2020 1:35 (19:43): ClientUserinfoChanged: 0 n\astupidbot\t\0\model\jawa\c1\4\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-26-2020 1:35 (19:49): ClientUserinfoChanged handling info: 2 \ip\136.49.101.98:29070\teamoverlay\0\snaps\50\sex\male\saber2\none\saber1\Kyle\rate\25000\password\temppw\name\Padawan\model\kyle/default\ja_guid\EC4B4FC6940C82C3E45C303F842CA7B9\handicap\100\forcepowers\1-1-010000000000000100\color2\4\color1\4\char_color_red\255\char_color_green\255\char_color_blue\255\cg_predictItems\1
+12-26-2020 1:35 (19:49): ClientUserinfoChanged: 2 n\Padawan\t\0\model\kyle/default\c1\4\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\Kyle\st2\none\dt\0
+12-26-2020 1:35 (19:50): ClientUserinfoChanged handling info: 2 \name\chon\ip\136.49.101.98:29070\teamoverlay\0\snaps\50\sex\male\saber2\none\saber1\Kyle\rate\25000\password\temppw\model\kyle/default\ja_guid\EC4B4FC6940C82C3E45C303F842CA7B9\handicap\100\forcepowers\1-1-010000000000000100\color2\4\color1\4\char_color_red\255\char_color_green\255\char_color_blue\255\cg_predictItems\1
+12-26-2020 1:35 (19:50): ClientUserinfoChanged: 2 n\chon\t\0\model\kyle/default\c1\4\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\Kyle\st2\none\dt\0
+12-26-2020 1:35 (20:00): say: astupidbot: bye all
+12-26-2020 1:35 (20:00): ClientDisconnect: 0
+12-26-2020 1:39 (23:46): say: Kyle: Where is everyone?
+12-26-2020 1:40 (24:58): ShutdownGame:
+12-26-2020 1:40 (24:58): ------------------------------------------------------------
+12-26-2020 1:40 (0:00): ------------------------------------------------------------
+12-26-2020 1:40 (0:00): InitGame: \version\JAmp: v1.0.1.0 linux-i386 Mar 14 2020\timelimit\45\sv_privateClients\0\sv_minRate\0\sv_minPing\0\sv_maxclients\32\sv_maxRate\0\sv_maxPing\999\sv_hostname\^7~^1~^7~ COMM SERVER ~^1~^7~\sv_fps\50\sv_floodProtectSlow\1\sv_floodProtect\0\sv_autoDemo\0\sv_allowDownload\0\serveruptime\16\protocol\26\mapname\taspir1\gamename\Lugormod\g_weaponDisable\0\g_stepSlideFix\0\g_siegeTeamSwitch\1\g_siegeTeam2\none\g_siegeTeam1\none\g_siegeRespawn\20\g_showDuelHealths\1\g_saberWallDamageScale\0.4\g_saberLocking\0\g_privateDuel\1535\g_noSpecMove\0\g_needpass\1\g_maxHolocronCarry\3\g_maxGameClients\0\g_maxForceRank\7\g_jediVmerc\0\g_gametype\0\g_gamemode\0\g_forceRegenTime\160\g_forcePowerDisable\0\g_forceBasedTeams\1\g_duelWeaponDisable\9\g_debugmelee\1\g_allowNPC\1\fs_game\lugormod\fraglimit\0\duel_fraglimit\10\dmflags\0\capturelimit\10\bot_minplayers\2\bg_fighterAltControl\0\Lugormod_Version\U#-0.0.0.91 Alpha
+12-26-2020 1:40 (0:00): ClientConnect: 1
+12-26-2020 1:40 (0:00): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+12-26-2020 1:40 (0:00): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\0\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-26-2020 1:40 (0:00): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+12-26-2020 1:40 (0:00): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-26-2020 1:40 (0:00): ClientBegin: 1
+12-26-2020 1:40 (0:00): ClientConnect: 2
+12-26-2020 1:40 (0:00): ClientUserinfoChanged handling info: 2 \name\chon\ip\136.49.101.98:29070\teamoverlay\0\snaps\50\sex\male\saber2\none\saber1\Kyle\rate\25000\password\temppw\model\kyle/default\ja_guid\EC4B4FC6940C82C3E45C303F842CA7B9\handicap\100\forcepowers\1-1-010000000000000100\color2\4\color1\4\char_color_red\255\char_color_green\255\char_color_blue\255\cg_predictItems\1
+12-26-2020 1:40 (0:00): ClientUserinfoChanged: 2 n\Padawan\t\0\model\kyle/default\c1\4\c2\4\hc\0\w\0\l\0\tt\0\tl\0\st\Kyle\st2\none\dt\0
+12-26-2020 1:40 (0:06): ClientUserinfoChanged handling info: 2 \ip\136.49.101.98:29070\teamoverlay\0\snaps\50\sex\male\saber2\none\saber1\Kyle\rate\25000\password\temppw\name\Padawan\model\kyle/default\ja_guid\EC4B4FC6940C82C3E45C303F842CA7B9\handicap\100\forcepowers\1-1-010000000000000100\color2\4\color1\4\char_color_red\255\char_color_green\255\char_color_blue\255\cg_predictItems\1
+12-26-2020 1:40 (0:06): ClientUserinfoChanged: 2 n\Padawan\t\0\model\kyle/default\c1\4\c2\4\hc\0\w\0\l\0\tt\0\tl\0\st\Kyle\st2\none\dt\0
+12-26-2020 1:40 (0:06): ClientUserinfoChanged handling info: 2 \ip\136.49.101.98:29070\teamoverlay\0\snaps\50\sex\male\saber2\none\saber1\Kyle\rate\25000\password\temppw\name\Padawan\model\kyle/default\ja_guid\EC4B4FC6940C82C3E45C303F842CA7B9\handicap\100\forcepowers\1-1-010000000000000100\color2\4\color1\4\char_color_red\255\char_color_green\255\char_color_blue\255\cg_predictItems\1
+12-26-2020 1:40 (0:06): ClientUserinfoChanged: 2 n\Padawan\t\0\model\kyle/default\c1\4\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\Kyle\st2\none\dt\0
+12-26-2020 1:40 (0:06): ClientUserinfoChanged handling info: 2 \name\chon\ip\136.49.101.98:29070\teamoverlay\0\snaps\50\sex\male\saber2\none\saber1\Kyle\rate\25000\password\temppw\model\kyle/default\ja_guid\EC4B4FC6940C82C3E45C303F842CA7B9\handicap\100\forcepowers\1-1-010000000000000100\color2\4\color1\4\char_color_red\255\char_color_green\255\char_color_blue\255\cg_predictItems\1
+12-26-2020 1:40 (0:06): ClientUserinfoChanged: 2 n\chon\t\0\model\kyle/default\c1\4\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\Kyle\st2\none\dt\0
+12-26-2020 1:40 (0:06): ClientBegin: 2
+12-26-2020 1:40 (0:09): Kill: 1022 1 41: <world> killed Kyle by MOD_TRIGGER_HURT
+12-26-2020 1:40 (0:10): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+12-26-2020 1:40 (0:10): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-26-2020 1:41 (1:01): Kill: 1022 1 41: <world> killed Kyle by MOD_TRIGGER_HURT
+12-26-2020 1:41 (1:02): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+12-26-2020 1:41 (1:02): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-26-2020 1:42 (1:23): Kill: 1022 1 41: <world> killed Kyle by MOD_TRIGGER_HURT
+12-26-2020 1:42 (1:25): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+12-26-2020 1:42 (1:25): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-26-2020 1:42 (1:36): Kill: 1022 1 41: <world> killed Kyle by MOD_TRIGGER_HURT
+12-26-2020 1:42 (1:37): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+12-26-2020 1:42 (1:37): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-26-2020 1:42 (1:44): Kill: 1022 1 41: <world> killed Kyle by MOD_TRIGGER_HURT
+12-26-2020 1:42 (1:45): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+12-26-2020 1:42 (1:45): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-26-2020 1:42 (2:05): Kill: 1022 1 41: <world> killed Kyle by MOD_TRIGGER_HURT
+12-26-2020 1:42 (2:07): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+12-26-2020 1:42 (2:07): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-26-2020 1:43 (2:31): Kill: 1022 1 41: <world> killed Kyle by MOD_TRIGGER_HURT
+12-26-2020 1:43 (2:32): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+12-26-2020 1:43 (2:32): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-26-2020 1:43 (2:57): Kill: 1022 1 41: <world> killed Kyle by MOD_TRIGGER_HURT
+12-26-2020 1:43 (2:58): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+12-26-2020 1:43 (2:58): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-26-2020 1:43 (3:07): Kill: 1022 1 41: <world> killed Kyle by MOD_TRIGGER_HURT
+12-26-2020 1:43 (3:08): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+12-26-2020 1:43 (3:08): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-26-2020 1:43 (3:18): Kill: 1022 1 41: <world> killed Kyle by MOD_TRIGGER_HURT
+12-26-2020 1:43 (3:19): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+12-26-2020 1:43 (3:19): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-26-2020 1:44 (3:29): Kill: 1022 1 41: <world> killed Kyle by MOD_TRIGGER_HURT
+12-26-2020 1:44 (3:30): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+12-26-2020 1:44 (3:30): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-26-2020 1:44 (3:39): Kill: 1022 1 41: <world> killed Kyle by MOD_TRIGGER_HURT
+12-26-2020 1:44 (3:40): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+12-26-2020 1:44 (3:40): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-26-2020 1:44 (3:50): Kill: 1022 1 41: <world> killed Kyle by MOD_TRIGGER_HURT
+12-26-2020 1:44 (3:51): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+12-26-2020 1:44 (3:51): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-26-2020 1:44 (4:01): Kill: 1022 1 41: <world> killed Kyle by MOD_TRIGGER_HURT
+12-26-2020 1:44 (4:02): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+12-26-2020 1:44 (4:02): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-26-2020 1:44 (4:06): Kill: 1022 1 41: <world> killed Kyle by MOD_TRIGGER_HURT
+12-26-2020 1:44 (4:07): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+12-26-2020 1:44 (4:07): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-26-2020 1:44 (4:16): Kill: 1022 1 41: <world> killed Kyle by MOD_TRIGGER_HURT
+12-26-2020 1:44 (4:17): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+12-26-2020 1:44 (4:17): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-26-2020 1:45 (4:27): Kill: 1022 1 41: <world> killed Kyle by MOD_TRIGGER_HURT
+12-26-2020 1:45 (4:28): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+12-26-2020 1:45 (4:28): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-26-2020 1:45 (4:32): Kill: 1022 1 41: <world> killed Kyle by MOD_TRIGGER_HURT
+12-26-2020 1:45 (4:33): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+12-26-2020 1:45 (4:33): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-26-2020 1:45 (4:40): Kill: 1022 1 41: <world> killed Kyle by MOD_TRIGGER_HURT
+12-26-2020 1:45 (4:41): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+12-26-2020 1:45 (4:41): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-26-2020 1:45 (4:45): Kill: 1022 1 41: <world> killed Kyle by MOD_TRIGGER_HURT
+12-26-2020 1:45 (4:46): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+12-26-2020 1:45 (4:46): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-26-2020 1:45 (4:53): Kill: 1022 1 41: <world> killed Kyle by MOD_TRIGGER_HURT
+12-26-2020 1:45 (4:54): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+12-26-2020 1:45 (4:54): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-26-2020 1:45 (4:58): Kill: 1022 1 41: <world> killed Kyle by MOD_TRIGGER_HURT
+12-26-2020 1:45 (4:59): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+12-26-2020 1:45 (4:59): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-26-2020 1:45 (5:06): Kill: 1022 1 41: <world> killed Kyle by MOD_TRIGGER_HURT
+12-26-2020 1:45 (5:07): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+12-26-2020 1:45 (5:07): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-26-2020 1:45 (5:11): Kill: 1022 1 41: <world> killed Kyle by MOD_TRIGGER_HURT
+12-26-2020 1:45 (5:12): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+12-26-2020 1:45 (5:12): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-26-2020 1:45 (5:18): Kill: 1022 1 41: <world> killed Kyle by MOD_TRIGGER_HURT
+12-26-2020 1:45 (5:19): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+12-26-2020 1:45 (5:19): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-26-2020 1:46 (5:23): Kill: 1022 1 41: <world> killed Kyle by MOD_TRIGGER_HURT
+12-26-2020 1:46 (5:24): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+12-26-2020 1:46 (5:24): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-26-2020 1:46 (5:31): Kill: 1022 1 41: <world> killed Kyle by MOD_TRIGGER_HURT
+12-26-2020 1:46 (5:32): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+12-26-2020 1:46 (5:32): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-26-2020 1:46 (5:36): Kill: 1022 1 41: <world> killed Kyle by MOD_TRIGGER_HURT
+12-26-2020 1:46 (5:37): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+12-26-2020 1:46 (5:37): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-26-2020 1:46 (5:44): Kill: 1022 1 41: <world> killed Kyle by MOD_TRIGGER_HURT
+12-26-2020 1:46 (5:45): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+12-26-2020 1:46 (5:45): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-26-2020 1:46 (5:49): Kill: 1022 1 41: <world> killed Kyle by MOD_TRIGGER_HURT
+12-26-2020 1:46 (5:50): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+12-26-2020 1:46 (5:50): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-26-2020 1:46 (5:57): Kill: 1022 1 41: <world> killed Kyle by MOD_TRIGGER_HURT
+12-26-2020 1:46 (5:58): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+12-26-2020 1:46 (5:58): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-26-2020 1:46 (6:02): Kill: 1022 1 41: <world> killed Kyle by MOD_TRIGGER_HURT
+12-26-2020 1:46 (6:03): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+12-26-2020 1:46 (6:03): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-26-2020 1:46 (6:10): Kill: 1022 1 41: <world> killed Kyle by MOD_TRIGGER_HURT
+12-26-2020 1:46 (6:11): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+12-26-2020 1:46 (6:11): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-26-2020 1:46 (6:15): Kill: 1022 1 41: <world> killed Kyle by MOD_TRIGGER_HURT
+12-26-2020 1:46 (6:16): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+12-26-2020 1:46 (6:16): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-26-2020 1:47 (6:23): Kill: 1022 1 41: <world> killed Kyle by MOD_TRIGGER_HURT
+12-26-2020 1:47 (6:24): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+12-26-2020 1:47 (6:24): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-26-2020 1:47 (6:28): Kill: 1022 1 41: <world> killed Kyle by MOD_TRIGGER_HURT
+12-26-2020 1:47 (6:29): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+12-26-2020 1:47 (6:29): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-26-2020 1:47 (6:36): Kill: 1022 1 41: <world> killed Kyle by MOD_TRIGGER_HURT
+12-26-2020 1:47 (6:37): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+12-26-2020 1:47 (6:37): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-26-2020 1:47 (6:41): Kill: 1022 1 41: <world> killed Kyle by MOD_TRIGGER_HURT
+12-26-2020 1:47 (6:42): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+12-26-2020 1:47 (6:42): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-26-2020 1:47 (6:48): Kill: 1022 1 41: <world> killed Kyle by MOD_TRIGGER_HURT
+12-26-2020 1:47 (6:49): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+12-26-2020 1:47 (6:49): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-26-2020 1:47 (6:53): Kill: 1022 1 41: <world> killed Kyle by MOD_TRIGGER_HURT
+12-26-2020 1:47 (6:54): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+12-26-2020 1:47 (6:54): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-26-2020 1:47 (7:01): Kill: 1022 1 41: <world> killed Kyle by MOD_TRIGGER_HURT
+12-26-2020 1:47 (7:02): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+12-26-2020 1:47 (7:02): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-26-2020 1:47 (7:06): Kill: 1022 1 41: <world> killed Kyle by MOD_TRIGGER_HURT
+12-26-2020 1:47 (7:07): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+12-26-2020 1:47 (7:07): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-26-2020 1:47 (7:14): Kill: 1022 1 41: <world> killed Kyle by MOD_TRIGGER_HURT
+12-26-2020 1:47 (7:15): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+12-26-2020 1:47 (7:15): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-26-2020 1:47 (7:19): Kill: 1022 1 41: <world> killed Kyle by MOD_TRIGGER_HURT
+12-26-2020 1:47 (7:20): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+12-26-2020 1:47 (7:20): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-26-2020 1:48 (7:27): Kill: 1022 1 41: <world> killed Kyle by MOD_TRIGGER_HURT
+12-26-2020 1:48 (7:28): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+12-26-2020 1:48 (7:28): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-26-2020 1:48 (7:32): Kill: 1022 1 41: <world> killed Kyle by MOD_TRIGGER_HURT
+12-26-2020 1:48 (7:33): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+12-26-2020 1:48 (7:33): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-26-2020 1:48 (7:40): Kill: 1022 1 41: <world> killed Kyle by MOD_TRIGGER_HURT
+12-26-2020 1:48 (7:41): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+12-26-2020 1:48 (7:41): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-26-2020 1:48 (7:45): Kill: 1022 1 41: <world> killed Kyle by MOD_TRIGGER_HURT
+12-26-2020 1:48 (7:46): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+12-26-2020 1:48 (7:46): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-26-2020 1:48 (7:53): Kill: 1022 1 41: <world> killed Kyle by MOD_TRIGGER_HURT
+12-26-2020 1:48 (7:54): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+12-26-2020 1:48 (7:54): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-26-2020 1:48 (7:58): Kill: 1022 1 41: <world> killed Kyle by MOD_TRIGGER_HURT
+12-26-2020 1:48 (7:59): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+12-26-2020 1:48 (7:59): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-26-2020 1:48 (8:05): Kill: 1022 1 41: <world> killed Kyle by MOD_TRIGGER_HURT
+12-26-2020 1:48 (8:06): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+12-26-2020 1:48 (8:06): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-26-2020 1:48 (8:10): Kill: 1022 1 41: <world> killed Kyle by MOD_TRIGGER_HURT
+12-26-2020 1:48 (8:11): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+12-26-2020 1:48 (8:11): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-26-2020 1:48 (8:18): Kill: 1022 1 41: <world> killed Kyle by MOD_TRIGGER_HURT
+12-26-2020 1:48 (8:19): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+12-26-2020 1:48 (8:19): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-26-2020 1:49 (8:23): Kill: 1022 1 41: <world> killed Kyle by MOD_TRIGGER_HURT
+12-26-2020 1:49 (8:24): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+12-26-2020 1:49 (8:24): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-26-2020 1:49 (8:31): Kill: 1022 1 41: <world> killed Kyle by MOD_TRIGGER_HURT
+12-26-2020 1:49 (8:32): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+12-26-2020 1:49 (8:32): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-26-2020 1:49 (8:36): Kill: 1022 1 41: <world> killed Kyle by MOD_TRIGGER_HURT
+12-26-2020 1:49 (8:37): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+12-26-2020 1:49 (8:37): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-26-2020 1:49 (8:44): Kill: 1022 1 41: <world> killed Kyle by MOD_TRIGGER_HURT
+12-26-2020 1:49 (8:45): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+12-26-2020 1:49 (8:45): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-26-2020 1:49 (8:49): Kill: 1022 1 41: <world> killed Kyle by MOD_TRIGGER_HURT
+12-26-2020 1:49 (8:50): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+12-26-2020 1:49 (8:50): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-26-2020 1:49 (8:57): Kill: 1022 1 41: <world> killed Kyle by MOD_TRIGGER_HURT
+12-26-2020 1:49 (8:58): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+12-26-2020 1:49 (8:58): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-26-2020 1:49 (9:02): Kill: 1022 1 41: <world> killed Kyle by MOD_TRIGGER_HURT
+12-26-2020 1:49 (9:03): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+12-26-2020 1:49 (9:03): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-26-2020 1:49 (9:10): Kill: 1022 1 41: <world> killed Kyle by MOD_TRIGGER_HURT
+12-26-2020 1:49 (9:11): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+12-26-2020 1:49 (9:11): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-26-2020 1:49 (9:15): Kill: 1022 1 41: <world> killed Kyle by MOD_TRIGGER_HURT
+12-26-2020 1:49 (9:16): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+12-26-2020 1:49 (9:16): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-26-2020 1:50 (9:23): Kill: 1022 1 41: <world> killed Kyle by MOD_TRIGGER_HURT
+12-26-2020 1:50 (9:24): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+12-26-2020 1:50 (9:24): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-26-2020 1:50 (9:28): Kill: 1022 1 41: <world> killed Kyle by MOD_TRIGGER_HURT
+12-26-2020 1:50 (9:29): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+12-26-2020 1:50 (9:29): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-26-2020 1:50 (9:35): Kill: 1022 1 41: <world> killed Kyle by MOD_TRIGGER_HURT
+12-26-2020 1:50 (9:37): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+12-26-2020 1:50 (9:37): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-26-2020 1:50 (9:40): Kill: 1022 1 41: <world> killed Kyle by MOD_TRIGGER_HURT
+12-26-2020 1:50 (9:42): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+12-26-2020 1:50 (9:42): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-26-2020 1:50 (9:48): Kill: 1022 1 41: <world> killed Kyle by MOD_TRIGGER_HURT
+12-26-2020 1:50 (9:49): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+12-26-2020 1:50 (9:49): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-26-2020 1:50 (9:53): Kill: 1022 1 41: <world> killed Kyle by MOD_TRIGGER_HURT
+12-26-2020 1:50 (9:54): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+12-26-2020 1:50 (9:54): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-26-2020 1:50 (10:01): Kill: 1022 1 41: <world> killed Kyle by MOD_TRIGGER_HURT
+12-26-2020 1:50 (10:02): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+12-26-2020 1:50 (10:02): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-26-2020 1:50 (10:06): Kill: 1022 1 41: <world> killed Kyle by MOD_TRIGGER_HURT
+12-26-2020 1:50 (10:07): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+12-26-2020 1:50 (10:07): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-26-2020 1:50 (10:14): Kill: 1022 1 41: <world> killed Kyle by MOD_TRIGGER_HURT
+12-26-2020 1:50 (10:15): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+12-26-2020 1:50 (10:15): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-26-2020 1:50 (10:19): Kill: 1022 1 41: <world> killed Kyle by MOD_TRIGGER_HURT
+12-26-2020 1:50 (10:20): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+12-26-2020 1:50 (10:20): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-26-2020 1:51 (10:27): Kill: 1022 1 41: <world> killed Kyle by MOD_TRIGGER_HURT
+12-26-2020 1:51 (10:28): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+12-26-2020 1:51 (10:28): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-26-2020 1:51 (10:31): ShutdownGame:
+12-26-2020 1:51 (10:31): ------------------------------------------------------------
+12-26-2020 1:51 (0:00): ------------------------------------------------------------
+12-26-2020 1:51 (0:00): InitGame: \version\JAmp: v1.0.1.0 linux-i386 Mar 14 2020\timelimit\45\sv_privateClients\0\sv_minRate\0\sv_minPing\0\sv_maxclients\32\sv_maxRate\0\sv_maxPing\999\sv_hostname\^7~^1~^7~ COMM SERVER ~^1~^7~\sv_fps\50\sv_floodProtectSlow\1\sv_floodProtect\0\sv_autoDemo\0\sv_allowDownload\0\serveruptime\16\protocol\26\mapname\taspir1\gamename\Lugormod\g_weaponDisable\0\g_stepSlideFix\0\g_siegeTeamSwitch\1\g_siegeTeam2\none\g_siegeTeam1\none\g_siegeRespawn\20\g_showDuelHealths\1\g_saberWallDamageScale\0.4\g_saberLocking\0\g_privateDuel\1535\g_noSpecMove\0\g_needpass\1\g_maxHolocronCarry\3\g_maxGameClients\0\g_maxForceRank\7\g_jediVmerc\0\g_gametype\0\g_gamemode\0\g_forceRegenTime\160\g_forcePowerDisable\0\g_forceBasedTeams\1\g_duelWeaponDisable\9\g_debugmelee\1\g_allowNPC\1\fs_game\lugormod\fraglimit\0\duel_fraglimit\10\dmflags\0\capturelimit\10\bot_minplayers\2\bg_fighterAltControl\0\Lugormod_Version\U#-0.0.0.91 Alpha
+12-26-2020 1:51 (0:00): ClientConnect: 1
+12-26-2020 1:51 (0:00): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+12-26-2020 1:51 (0:00): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\0\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-26-2020 1:51 (0:00): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+12-26-2020 1:51 (0:00): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-26-2020 1:51 (0:00): ClientBegin: 1
+12-26-2020 1:51 (0:00): ClientConnect: 2
+12-26-2020 1:51 (0:00): ClientUserinfoChanged handling info: 2 \name\chon\ip\136.49.101.98:29070\teamoverlay\0\snaps\50\sex\male\saber2\none\saber1\Kyle\rate\25000\password\temppw\model\kyle/default\ja_guid\EC4B4FC6940C82C3E45C303F842CA7B9\handicap\100\forcepowers\1-1-010000000000000100\color2\4\color1\4\char_color_red\255\char_color_green\255\char_color_blue\255\cg_predictItems\1
+12-26-2020 1:51 (0:00): ClientUserinfoChanged: 2 n\Padawan\t\0\model\kyle/default\c1\4\c2\4\hc\0\w\0\l\0\tt\0\tl\0\st\Kyle\st2\none\dt\0
+12-26-2020 1:51 (0:06): ClientUserinfoChanged handling info: 2 \ip\136.49.101.98:29070\teamoverlay\0\snaps\50\sex\male\saber2\none\saber1\Kyle\rate\25000\password\temppw\name\Padawan\model\kyle/default\ja_guid\EC4B4FC6940C82C3E45C303F842CA7B9\handicap\100\forcepowers\1-1-010000000000000100\color2\4\color1\4\char_color_red\255\char_color_green\255\char_color_blue\255\cg_predictItems\1
+12-26-2020 1:51 (0:06): ClientUserinfoChanged: 2 n\Padawan\t\0\model\kyle/default\c1\4\c2\4\hc\0\w\0\l\0\tt\0\tl\0\st\Kyle\st2\none\dt\0
+12-26-2020 1:51 (0:06): ClientUserinfoChanged handling info: 2 \ip\136.49.101.98:29070\teamoverlay\0\snaps\50\sex\male\saber2\none\saber1\Kyle\rate\25000\password\temppw\name\Padawan\model\kyle/default\ja_guid\EC4B4FC6940C82C3E45C303F842CA7B9\handicap\100\forcepowers\1-1-010000000000000100\color2\4\color1\4\char_color_red\255\char_color_green\255\char_color_blue\255\cg_predictItems\1
+12-26-2020 1:51 (0:06): ClientUserinfoChanged: 2 n\Padawan\t\0\model\kyle/default\c1\4\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\Kyle\st2\none\dt\0
+12-26-2020 1:51 (0:06): ClientUserinfoChanged handling info: 2 \name\chon\ip\136.49.101.98:29070\teamoverlay\0\snaps\50\sex\male\saber2\none\saber1\Kyle\rate\25000\password\temppw\model\kyle/default\ja_guid\EC4B4FC6940C82C3E45C303F842CA7B9\handicap\100\forcepowers\1-1-010000000000000100\color2\4\color1\4\char_color_red\255\char_color_green\255\char_color_blue\255\cg_predictItems\1
+12-26-2020 1:51 (0:06): ClientUserinfoChanged: 2 n\chon\t\0\model\kyle/default\c1\4\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\Kyle\st2\none\dt\0
+12-26-2020 1:51 (0:06): ClientBegin: 2
+12-26-2020 1:51 (0:09): Kill: 1022 1 41: <world> killed Kyle by MOD_TRIGGER_HURT
+12-26-2020 1:51 (0:10): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+12-26-2020 1:51 (0:10): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-26-2020 1:52 (1:06): Kill: 1022 1 41: <world> killed Kyle by MOD_TRIGGER_HURT
+12-26-2020 1:52 (1:07): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+12-26-2020 1:52 (1:07): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-26-2020 1:52 (1:14): Kill: 1022 1 41: <world> killed Kyle by MOD_TRIGGER_HURT
+12-26-2020 1:52 (1:15): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+12-26-2020 1:52 (1:15): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-26-2020 1:52 (1:22): Kill: 1022 1 41: <world> killed Kyle by MOD_TRIGGER_HURT
+12-26-2020 1:52 (1:23): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+12-26-2020 1:52 (1:23): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-26-2020 1:52 (1:29): Kill: 1022 1 41: <world> killed Kyle by MOD_TRIGGER_HURT
+12-26-2020 1:52 (1:30): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+12-26-2020 1:52 (1:30): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-26-2020 1:52 (1:37): Kill: 1022 1 41: <world> killed Kyle by MOD_TRIGGER_HURT
+12-26-2020 1:52 (1:38): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+12-26-2020 1:52 (1:38): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-26-2020 1:52 (1:45): Kill: 1022 1 41: <world> killed Kyle by MOD_TRIGGER_HURT
+12-26-2020 1:52 (1:46): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+12-26-2020 1:52 (1:46): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-26-2020 1:53 (1:53): Kill: 1022 1 41: <world> killed Kyle by MOD_TRIGGER_HURT
+12-26-2020 1:53 (1:54): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+12-26-2020 1:53 (1:54): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-26-2020 1:53 (2:01): Kill: 1022 1 41: <world> killed Kyle by MOD_TRIGGER_HURT
+12-26-2020 1:53 (2:02): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+12-26-2020 1:53 (2:02): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-26-2020 1:53 (2:09): Kill: 1022 1 41: <world> killed Kyle by MOD_TRIGGER_HURT
+12-26-2020 1:53 (2:10): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+12-26-2020 1:53 (2:10): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-26-2020 1:53 (2:17): Kill: 1022 1 41: <world> killed Kyle by MOD_TRIGGER_HURT
+12-26-2020 1:53 (2:18): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+12-26-2020 1:53 (2:18): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-26-2020 1:53 (2:24): Kill: 1022 1 41: <world> killed Kyle by MOD_TRIGGER_HURT
+12-26-2020 1:53 (2:25): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+12-26-2020 1:53 (2:25): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-26-2020 1:53 (2:32): Kill: 1022 1 41: <world> killed Kyle by MOD_TRIGGER_HURT
+12-26-2020 1:53 (2:33): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+12-26-2020 1:53 (2:33): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-26-2020 1:53 (2:40): Kill: 1022 1 41: <world> killed Kyle by MOD_TRIGGER_HURT
+12-26-2020 1:53 (2:41): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+12-26-2020 1:53 (2:41): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-26-2020 1:53 (2:48): Kill: 1022 1 41: <world> killed Kyle by MOD_TRIGGER_HURT
+12-26-2020 1:53 (2:49): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+12-26-2020 1:53 (2:49): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-26-2020 1:54 (2:56): Kill: 1022 1 41: <world> killed Kyle by MOD_TRIGGER_HURT
+12-26-2020 1:54 (2:57): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+12-26-2020 1:54 (2:57): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-26-2020 1:54 (3:04): Kill: 1022 1 41: <world> killed Kyle by MOD_TRIGGER_HURT
+12-26-2020 1:54 (3:05): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+12-26-2020 1:54 (3:05): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-26-2020 1:54 (3:12): Kill: 1022 1 41: <world> killed Kyle by MOD_TRIGGER_HURT
+12-26-2020 1:54 (3:13): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+12-26-2020 1:54 (3:13): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-26-2020 1:54 (3:20): Kill: 1022 1 41: <world> killed Kyle by MOD_TRIGGER_HURT
+12-26-2020 1:54 (3:21): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+12-26-2020 1:54 (3:21): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-26-2020 1:54 (3:27): Kill: 1022 1 41: <world> killed Kyle by MOD_TRIGGER_HURT
+12-26-2020 1:54 (3:28): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+12-26-2020 1:54 (3:28): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-26-2020 1:54 (3:35): Kill: 1022 1 41: <world> killed Kyle by MOD_TRIGGER_HURT
+12-26-2020 1:54 (3:36): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+12-26-2020 1:54 (3:36): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-26-2020 1:54 (3:43): Kill: 1022 1 41: <world> killed Kyle by MOD_TRIGGER_HURT
+12-26-2020 1:54 (3:44): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+12-26-2020 1:54 (3:44): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-26-2020 1:55 (3:51): Kill: 1022 1 41: <world> killed Kyle by MOD_TRIGGER_HURT
+12-26-2020 1:55 (3:52): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+12-26-2020 1:55 (3:52): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-26-2020 1:55 (3:59): Kill: 1022 1 41: <world> killed Kyle by MOD_TRIGGER_HURT
+12-26-2020 1:55 (4:00): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+12-26-2020 1:55 (4:00): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-26-2020 1:55 (4:07): Kill: 1022 1 41: <world> killed Kyle by MOD_TRIGGER_HURT
+12-26-2020 1:55 (4:08): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+12-26-2020 1:55 (4:08): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-26-2020 1:55 (4:14): Kill: 1022 1 41: <world> killed Kyle by MOD_TRIGGER_HURT
+12-26-2020 1:55 (4:15): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+12-26-2020 1:55 (4:15): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-26-2020 1:55 (4:22): Kill: 1022 1 41: <world> killed Kyle by MOD_TRIGGER_HURT
+12-26-2020 1:55 (4:23): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+12-26-2020 1:55 (4:23): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-26-2020 1:55 (4:30): Kill: 1022 1 41: <world> killed Kyle by MOD_TRIGGER_HURT
+12-26-2020 1:55 (4:31): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+12-26-2020 1:55 (4:31): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-26-2020 1:55 (4:38): Kill: 1022 1 41: <world> killed Kyle by MOD_TRIGGER_HURT
+12-26-2020 1:55 (4:39): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+12-26-2020 1:55 (4:39): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-26-2020 1:55 (4:46): Kill: 1022 1 41: <world> killed Kyle by MOD_TRIGGER_HURT
+12-26-2020 1:55 (4:47): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+12-26-2020 1:55 (4:47): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-26-2020 1:56 (4:54): Kill: 1022 1 41: <world> killed Kyle by MOD_TRIGGER_HURT
+12-26-2020 1:56 (4:56): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+12-26-2020 1:56 (4:56): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-26-2020 1:56 (4:56): say: Kyle: Where is everyone?
+12-26-2020 1:56 (5:02): Kill: 1022 1 41: <world> killed Kyle by MOD_TRIGGER_HURT
+12-26-2020 1:56 (5:03): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+12-26-2020 1:56 (5:03): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-26-2020 1:56 (5:10): Kill: 1022 1 41: <world> killed Kyle by MOD_TRIGGER_HURT
+12-26-2020 1:56 (5:11): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+12-26-2020 1:56 (5:11): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-26-2020 1:56 (5:18): Kill: 1022 1 41: <world> killed Kyle by MOD_TRIGGER_HURT
+12-26-2020 1:56 (5:19): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+12-26-2020 1:56 (5:19): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-26-2020 1:56 (5:26): Kill: 1022 1 41: <world> killed Kyle by MOD_TRIGGER_HURT
+12-26-2020 1:56 (5:27): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+12-26-2020 1:56 (5:27): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-26-2020 1:56 (5:34): Kill: 1022 1 41: <world> killed Kyle by MOD_TRIGGER_HURT
+12-26-2020 1:56 (5:35): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+12-26-2020 1:56 (5:35): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-26-2020 1:56 (5:42): Kill: 1022 1 41: <world> killed Kyle by MOD_TRIGGER_HURT
+12-26-2020 1:56 (5:43): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+12-26-2020 1:56 (5:43): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-26-2020 1:56 (5:50): Kill: 1022 1 41: <world> killed Kyle by MOD_TRIGGER_HURT
+12-26-2020 1:57 (5:51): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+12-26-2020 1:57 (5:51): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-26-2020 1:57 (5:57): Kill: 1022 1 41: <world> killed Kyle by MOD_TRIGGER_HURT
+12-26-2020 1:57 (5:58): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+12-26-2020 1:57 (5:58): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-26-2020 1:57 (6:05): Kill: 1022 1 41: <world> killed Kyle by MOD_TRIGGER_HURT
+12-26-2020 1:57 (6:06): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+12-26-2020 1:57 (6:06): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-26-2020 1:57 (6:13): Kill: 1022 1 41: <world> killed Kyle by MOD_TRIGGER_HURT
+12-26-2020 1:57 (6:14): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+12-26-2020 1:57 (6:14): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-26-2020 1:57 (6:21): Kill: 1022 1 41: <world> killed Kyle by MOD_TRIGGER_HURT
+12-26-2020 1:57 (6:22): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+12-26-2020 1:57 (6:22): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-26-2020 1:57 (6:29): Kill: 1022 1 41: <world> killed Kyle by MOD_TRIGGER_HURT
+12-26-2020 1:57 (6:30): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+12-26-2020 1:57 (6:30): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-26-2020 1:57 (6:37): Kill: 1022 1 41: <world> killed Kyle by MOD_TRIGGER_HURT
+12-26-2020 1:57 (6:38): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+12-26-2020 1:57 (6:38): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-26-2020 1:57 (6:45): Kill: 1022 1 41: <world> killed Kyle by MOD_TRIGGER_HURT
+12-26-2020 1:57 (6:46): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+12-26-2020 1:57 (6:46): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-26-2020 1:58 (6:53): Kill: 1022 1 41: <world> killed Kyle by MOD_TRIGGER_HURT
+12-26-2020 1:58 (6:54): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+12-26-2020 1:58 (6:54): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-26-2020 1:58 (7:00): Kill: 1022 1 41: <world> killed Kyle by MOD_TRIGGER_HURT
+12-26-2020 1:58 (7:01): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+12-26-2020 1:58 (7:01): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-26-2020 1:58 (7:08): Kill: 1022 1 41: <world> killed Kyle by MOD_TRIGGER_HURT
+12-26-2020 1:58 (7:09): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+12-26-2020 1:58 (7:09): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-26-2020 1:58 (7:16): Kill: 1022 1 41: <world> killed Kyle by MOD_TRIGGER_HURT
+12-26-2020 1:58 (7:17): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+12-26-2020 1:58 (7:17): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-26-2020 1:58 (7:24): Kill: 1022 1 41: <world> killed Kyle by MOD_TRIGGER_HURT
+12-26-2020 1:58 (7:25): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+12-26-2020 1:58 (7:25): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-26-2020 1:58 (7:32): Kill: 1022 1 41: <world> killed Kyle by MOD_TRIGGER_HURT
+12-26-2020 1:58 (7:33): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+12-26-2020 1:58 (7:33): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-26-2020 1:58 (7:40): Kill: 1022 1 41: <world> killed Kyle by MOD_TRIGGER_HURT
+12-26-2020 1:58 (7:41): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+12-26-2020 1:58 (7:41): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-26-2020 1:58 (7:47): Kill: 1022 1 41: <world> killed Kyle by MOD_TRIGGER_HURT
+12-26-2020 1:58 (7:49): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+12-26-2020 1:58 (7:49): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-26-2020 1:59 (7:55): Kill: 1022 1 41: <world> killed Kyle by MOD_TRIGGER_HURT
+12-26-2020 1:59 (7:56): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+12-26-2020 1:59 (7:56): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-26-2020 1:59 (7:56): say: Kyle: Where is everyone?
+12-26-2020 1:59 (8:03): Kill: 1022 1 41: <world> killed Kyle by MOD_TRIGGER_HURT
+12-26-2020 1:59 (8:04): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+12-26-2020 1:59 (8:04): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-26-2020 1:59 (8:11): Kill: 1022 1 41: <world> killed Kyle by MOD_TRIGGER_HURT
+12-26-2020 1:59 (8:12): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+12-26-2020 1:59 (8:12): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-26-2020 1:59 (8:19): Kill: 1022 1 41: <world> killed Kyle by MOD_TRIGGER_HURT
+12-26-2020 1:59 (8:20): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+12-26-2020 1:59 (8:20): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-26-2020 1:59 (8:27): Kill: 1022 1 41: <world> killed Kyle by MOD_TRIGGER_HURT
+12-26-2020 1:59 (8:28): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+12-26-2020 1:59 (8:28): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-26-2020 1:59 (8:35): Kill: 1022 1 41: <world> killed Kyle by MOD_TRIGGER_HURT
+12-26-2020 1:59 (8:36): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+12-26-2020 1:59 (8:36): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-26-2020 1:59 (8:42): Kill: 1022 1 41: <world> killed Kyle by MOD_TRIGGER_HURT
+12-26-2020 1:59 (8:43): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+12-26-2020 1:59 (8:43): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-26-2020 2: 0 (8:50): Kill: 1022 1 41: <world> killed Kyle by MOD_TRIGGER_HURT
+12-26-2020 2: 0 (8:51): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+12-26-2020 2: 0 (8:51): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-26-2020 2: 0 (8:58): Kill: 1022 1 41: <world> killed Kyle by MOD_TRIGGER_HURT
+12-26-2020 2: 0 (8:59): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+12-26-2020 2: 0 (8:59): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-26-2020 2: 0 (9:06): Kill: 1022 1 41: <world> killed Kyle by MOD_TRIGGER_HURT
+12-26-2020 2: 0 (9:07): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+12-26-2020 2: 0 (9:07): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-26-2020 2: 0 (9:14): Kill: 1022 1 41: <world> killed Kyle by MOD_TRIGGER_HURT
+12-26-2020 2: 0 (9:15): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+12-26-2020 2: 0 (9:15): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-26-2020 2: 0 (9:22): Kill: 1022 1 41: <world> killed Kyle by MOD_TRIGGER_HURT
+12-26-2020 2: 0 (9:23): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+12-26-2020 2: 0 (9:23): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-26-2020 2: 0 (9:30): Kill: 1022 1 41: <world> killed Kyle by MOD_TRIGGER_HURT
+12-26-2020 2: 0 (9:31): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+12-26-2020 2: 0 (9:31): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-26-2020 2: 0 (9:38): Kill: 1022 1 41: <world> killed Kyle by MOD_TRIGGER_HURT
+12-26-2020 2: 0 (9:39): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+12-26-2020 2: 0 (9:39): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-26-2020 2: 0 (9:45): Kill: 1022 1 41: <world> killed Kyle by MOD_TRIGGER_HURT
+12-26-2020 2: 0 (9:46): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+12-26-2020 2: 0 (9:46): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-26-2020 2: 1 (9:53): Kill: 1022 1 41: <world> killed Kyle by MOD_TRIGGER_HURT
+12-26-2020 2: 1 (9:54): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+12-26-2020 2: 1 (9:54): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-26-2020 2: 1 (10:01): Kill: 1022 1 41: <world> killed Kyle by MOD_TRIGGER_HURT
+12-26-2020 2: 1 (10:02): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+12-26-2020 2: 1 (10:02): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-26-2020 2: 1 (10:09): Kill: 1022 1 41: <world> killed Kyle by MOD_TRIGGER_HURT
+12-26-2020 2: 1 (10:10): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+12-26-2020 2: 1 (10:10): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-26-2020 2: 1 (10:17): Kill: 1022 1 41: <world> killed Kyle by MOD_TRIGGER_HURT
+12-26-2020 2: 1 (10:18): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+12-26-2020 2: 1 (10:18): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-26-2020 2: 1 (10:25): Kill: 1022 1 41: <world> killed Kyle by MOD_TRIGGER_HURT
+12-26-2020 2: 1 (10:26): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+12-26-2020 2: 1 (10:26): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-26-2020 2: 1 (10:32): Kill: 1022 1 41: <world> killed Kyle by MOD_TRIGGER_HURT
+12-26-2020 2: 1 (10:34): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+12-26-2020 2: 1 (10:34): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-26-2020 2: 1 (10:40): Kill: 1022 1 41: <world> killed Kyle by MOD_TRIGGER_HURT
+12-26-2020 2: 1 (10:41): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+12-26-2020 2: 1 (10:41): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-26-2020 2: 1 (10:48): Kill: 1022 1 41: <world> killed Kyle by MOD_TRIGGER_HURT
+12-26-2020 2: 1 (10:49): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+12-26-2020 2: 1 (10:49): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-26-2020 2: 2 (10:56): Kill: 1022 1 41: <world> killed Kyle by MOD_TRIGGER_HURT
+12-26-2020 2: 2 (10:57): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+12-26-2020 2: 2 (10:57): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-26-2020 2: 2 (11:04): Kill: 1022 1 41: <world> killed Kyle by MOD_TRIGGER_HURT
+12-26-2020 2: 2 (11:05): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+12-26-2020 2: 2 (11:05): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-26-2020 2: 2 (11:12): Kill: 1022 1 41: <world> killed Kyle by MOD_TRIGGER_HURT
+12-26-2020 2: 2 (11:13): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+12-26-2020 2: 2 (11:13): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-26-2020 2: 2 (11:20): Kill: 1022 1 41: <world> killed Kyle by MOD_TRIGGER_HURT
+12-26-2020 2: 2 (11:21): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+12-26-2020 2: 2 (11:21): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-26-2020 2: 2 (11:27): Kill: 1022 1 41: <world> killed Kyle by MOD_TRIGGER_HURT
+12-26-2020 2: 2 (11:28): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+12-26-2020 2: 2 (11:28): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-26-2020 2: 2 (11:35): Kill: 1022 1 41: <world> killed Kyle by MOD_TRIGGER_HURT
+12-26-2020 2: 2 (11:36): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+12-26-2020 2: 2 (11:36): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-26-2020 2: 2 (11:43): Kill: 1022 1 41: <world> killed Kyle by MOD_TRIGGER_HURT
+12-26-2020 2: 2 (11:44): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+12-26-2020 2: 2 (11:44): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-26-2020 2: 3 (11:51): Kill: 1022 1 41: <world> killed Kyle by MOD_TRIGGER_HURT
+12-26-2020 2: 3 (11:52): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+12-26-2020 2: 3 (11:52): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-26-2020 2: 3 (11:59): Kill: 1022 1 41: <world> killed Kyle by MOD_TRIGGER_HURT
+12-26-2020 2: 3 (12:00): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+12-26-2020 2: 3 (12:00): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-26-2020 2: 3 (12:07): Kill: 1022 1 41: <world> killed Kyle by MOD_TRIGGER_HURT
+12-26-2020 2: 3 (12:08): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+12-26-2020 2: 3 (12:08): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-26-2020 2: 3 (12:15): Kill: 1022 1 41: <world> killed Kyle by MOD_TRIGGER_HURT
+12-26-2020 2: 3 (12:16): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+12-26-2020 2: 3 (12:16): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-26-2020 2: 3 (12:22): Kill: 1022 1 41: <world> killed Kyle by MOD_TRIGGER_HURT
+12-26-2020 2: 3 (12:23): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+12-26-2020 2: 3 (12:23): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-26-2020 2: 3 (12:30): Kill: 1022 1 41: <world> killed Kyle by MOD_TRIGGER_HURT
+12-26-2020 2: 3 (12:31): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+12-26-2020 2: 3 (12:31): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-26-2020 2: 3 (12:38): Kill: 1022 1 41: <world> killed Kyle by MOD_TRIGGER_HURT
+12-26-2020 2: 3 (12:39): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+12-26-2020 2: 3 (12:39): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-26-2020 2: 3 (12:46): Kill: 1022 1 41: <world> killed Kyle by MOD_TRIGGER_HURT
+12-26-2020 2: 3 (12:47): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+12-26-2020 2: 3 (12:47): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-26-2020 2: 4 (12:54): Kill: 1022 1 41: <world> killed Kyle by MOD_TRIGGER_HURT
+12-26-2020 2: 4 (12:55): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+12-26-2020 2: 4 (12:55): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-26-2020 2: 4 (13:02): Kill: 1022 1 41: <world> killed Kyle by MOD_TRIGGER_HURT
+12-26-2020 2: 4 (13:03): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+12-26-2020 2: 4 (13:03): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-26-2020 2: 4 (13:10): Kill: 1022 1 41: <world> killed Kyle by MOD_TRIGGER_HURT
+12-26-2020 2: 4 (13:11): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+12-26-2020 2: 4 (13:11): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-26-2020 2: 4 (13:17): Kill: 1022 1 41: <world> killed Kyle by MOD_TRIGGER_HURT
+12-26-2020 2: 4 (13:18): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+12-26-2020 2: 4 (13:18): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-26-2020 2: 4 (13:25): Kill: 1022 1 41: <world> killed Kyle by MOD_TRIGGER_HURT
+12-26-2020 2: 4 (13:26): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+12-26-2020 2: 4 (13:26): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-26-2020 2: 4 (13:33): Kill: 1022 1 41: <world> killed Kyle by MOD_TRIGGER_HURT
+12-26-2020 2: 4 (13:34): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+12-26-2020 2: 4 (13:34): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-26-2020 2: 4 (13:41): Kill: 1022 1 41: <world> killed Kyle by MOD_TRIGGER_HURT
+12-26-2020 2: 4 (13:42): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+12-26-2020 2: 4 (13:42): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-26-2020 2: 4 (13:49): Kill: 1022 1 41: <world> killed Kyle by MOD_TRIGGER_HURT
+12-26-2020 2: 4 (13:50): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+12-26-2020 2: 4 (13:50): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-26-2020 2: 5 (13:57): Kill: 1022 1 41: <world> killed Kyle by MOD_TRIGGER_HURT
+12-26-2020 2: 5 (13:58): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+12-26-2020 2: 5 (13:58): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-26-2020 2: 5 (14:05): Kill: 1022 1 41: <world> killed Kyle by MOD_TRIGGER_HURT
+12-26-2020 2: 5 (14:06): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+12-26-2020 2: 5 (14:06): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-26-2020 2: 5 (14:12): Kill: 1022 1 41: <world> killed Kyle by MOD_TRIGGER_HURT
+12-26-2020 2: 5 (14:14): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+12-26-2020 2: 5 (14:14): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-26-2020 2: 5 (14:20): Kill: 1022 1 41: <world> killed Kyle by MOD_TRIGGER_HURT
+12-26-2020 2: 5 (14:21): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+12-26-2020 2: 5 (14:21): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-26-2020 2: 5 (14:28): Kill: 1022 1 41: <world> killed Kyle by MOD_TRIGGER_HURT
+12-26-2020 2: 5 (14:29): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+12-26-2020 2: 5 (14:29): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-26-2020 2: 5 (14:36): Kill: 1022 1 41: <world> killed Kyle by MOD_TRIGGER_HURT
+12-26-2020 2: 5 (14:37): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+12-26-2020 2: 5 (14:37): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-26-2020 2: 5 (14:44): Kill: 1022 1 41: <world> killed Kyle by MOD_TRIGGER_HURT
+12-26-2020 2: 5 (14:45): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+12-26-2020 2: 5 (14:45): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-26-2020 2: 6 (14:52): Kill: 1022 1 41: <world> killed Kyle by MOD_TRIGGER_HURT
+12-26-2020 2: 6 (14:53): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+12-26-2020 2: 6 (14:53): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-26-2020 2: 6 (15:00): Kill: 1022 1 41: <world> killed Kyle by MOD_TRIGGER_HURT
+12-26-2020 2: 6 (15:01): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+12-26-2020 2: 6 (15:01): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-26-2020 2: 6 (15:08): Kill: 1022 1 41: <world> killed Kyle by MOD_TRIGGER_HURT
+12-26-2020 2: 6 (15:09): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+12-26-2020 2: 6 (15:09): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-26-2020 2: 6 (15:15): Kill: 1022 1 41: <world> killed Kyle by MOD_TRIGGER_HURT
+12-26-2020 2: 6 (15:16): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+12-26-2020 2: 6 (15:16): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-26-2020 2: 6 (15:23): Kill: 1022 1 41: <world> killed Kyle by MOD_TRIGGER_HURT
+12-26-2020 2: 6 (15:24): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+12-26-2020 2: 6 (15:24): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-26-2020 2: 6 (15:31): Kill: 1022 1 41: <world> killed Kyle by MOD_TRIGGER_HURT
+12-26-2020 2: 6 (15:32): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+12-26-2020 2: 6 (15:32): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-26-2020 2: 6 (15:39): Kill: 1022 1 41: <world> killed Kyle by MOD_TRIGGER_HURT
+12-26-2020 2: 6 (15:40): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+12-26-2020 2: 6 (15:40): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-26-2020 2: 6 (15:47): Kill: 1022 1 41: <world> killed Kyle by MOD_TRIGGER_HURT
+12-26-2020 2: 6 (15:48): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+12-26-2020 2: 6 (15:48): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-26-2020 2: 7 (15:55): Kill: 1022 1 41: <world> killed Kyle by MOD_TRIGGER_HURT
+12-26-2020 2: 7 (15:56): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+12-26-2020 2: 7 (15:56): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-26-2020 2: 7 (16:02): Kill: 1022 1 41: <world> killed Kyle by MOD_TRIGGER_HURT
+12-26-2020 2: 7 (16:04): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+12-26-2020 2: 7 (16:04): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-26-2020 2: 7 (16:10): Kill: 1022 1 41: <world> killed Kyle by MOD_TRIGGER_HURT
+12-26-2020 2: 7 (16:11): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+12-26-2020 2: 7 (16:11): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-26-2020 2: 7 (16:18): Kill: 1022 1 41: <world> killed Kyle by MOD_TRIGGER_HURT
+12-26-2020 2: 7 (16:19): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+12-26-2020 2: 7 (16:19): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-26-2020 2: 7 (16:26): Kill: 1022 1 41: <world> killed Kyle by MOD_TRIGGER_HURT
+12-26-2020 2: 7 (16:27): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+12-26-2020 2: 7 (16:27): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-26-2020 2: 7 (16:34): Kill: 1022 1 41: <world> killed Kyle by MOD_TRIGGER_HURT
+12-26-2020 2: 7 (16:35): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+12-26-2020 2: 7 (16:35): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-26-2020 2: 7 (16:42): Kill: 1022 1 41: <world> killed Kyle by MOD_TRIGGER_HURT
+12-26-2020 2: 7 (16:43): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+12-26-2020 2: 7 (16:43): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-26-2020 2: 7 (16:50): Kill: 1022 1 41: <world> killed Kyle by MOD_TRIGGER_HURT
+12-26-2020 2: 8 (16:51): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+12-26-2020 2: 8 (16:51): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-26-2020 2: 8 (16:57): Kill: 1022 1 41: <world> killed Kyle by MOD_TRIGGER_HURT
+12-26-2020 2: 8 (16:58): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+12-26-2020 2: 8 (16:58): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-26-2020 2: 8 (17:05): Kill: 1022 1 41: <world> killed Kyle by MOD_TRIGGER_HURT
+12-26-2020 2: 8 (17:06): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+12-26-2020 2: 8 (17:06): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-26-2020 2: 8 (17:13): Kill: 1022 1 41: <world> killed Kyle by MOD_TRIGGER_HURT
+12-26-2020 2: 8 (17:14): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+12-26-2020 2: 8 (17:14): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-26-2020 2: 8 (17:21): Kill: 1022 1 41: <world> killed Kyle by MOD_TRIGGER_HURT
+12-26-2020 2: 8 (17:22): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+12-26-2020 2: 8 (17:22): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-26-2020 2: 8 (17:29): Kill: 1022 1 41: <world> killed Kyle by MOD_TRIGGER_HURT
+12-26-2020 2: 8 (17:30): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+12-26-2020 2: 8 (17:30): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-26-2020 2: 8 (17:37): Kill: 1022 1 41: <world> killed Kyle by MOD_TRIGGER_HURT
+12-26-2020 2: 8 (17:38): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+12-26-2020 2: 8 (17:38): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-26-2020 2: 8 (17:45): Kill: 1022 1 41: <world> killed Kyle by MOD_TRIGGER_HURT
+12-26-2020 2: 8 (17:46): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+12-26-2020 2: 8 (17:46): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-26-2020 2: 9 (17:52): Kill: 1022 1 41: <world> killed Kyle by MOD_TRIGGER_HURT
+12-26-2020 2: 9 (17:54): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+12-26-2020 2: 9 (17:54): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-26-2020 2: 9 (18:00): Kill: 1022 1 41: <world> killed Kyle by MOD_TRIGGER_HURT
+12-26-2020 2: 9 (18:01): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+12-26-2020 2: 9 (18:01): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-26-2020 2: 9 (18:08): Kill: 1022 1 41: <world> killed Kyle by MOD_TRIGGER_HURT
+12-26-2020 2: 9 (18:09): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+12-26-2020 2: 9 (18:09): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-26-2020 2: 9 (18:16): Kill: 1022 1 41: <world> killed Kyle by MOD_TRIGGER_HURT
+12-26-2020 2: 9 (18:17): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+12-26-2020 2: 9 (18:17): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-26-2020 2: 9 (18:24): Kill: 1022 1 41: <world> killed Kyle by MOD_TRIGGER_HURT
+12-26-2020 2: 9 (18:25): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+12-26-2020 2: 9 (18:25): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-26-2020 2:10 (19:09): Kill: 1022 1 41: <world> killed Kyle by MOD_TRIGGER_HURT
+12-26-2020 2:10 (19:10): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+12-26-2020 2:10 (19:10): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-26-2020 2:10 (19:20): Kill: 1022 1 41: <world> killed Kyle by MOD_TRIGGER_HURT
+12-26-2020 2:10 (19:21): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+12-26-2020 2:10 (19:21): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-26-2020 2:10 (19:31): Kill: 1022 1 41: <world> killed Kyle by MOD_TRIGGER_HURT
+12-26-2020 2:10 (19:32): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+12-26-2020 2:10 (19:32): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-26-2020 2:10 (19:41): Kill: 1022 1 41: <world> killed Kyle by MOD_TRIGGER_HURT
+12-26-2020 2:10 (19:42): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+12-26-2020 2:10 (19:42): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-26-2020 2:11 (19:52): Kill: 1022 1 41: <world> killed Kyle by MOD_TRIGGER_HURT
+12-26-2020 2:11 (19:53): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+12-26-2020 2:11 (19:53): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-26-2020 2:11 (20:03): Kill: 1022 1 41: <world> killed Kyle by MOD_TRIGGER_HURT
+12-26-2020 2:11 (20:04): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+12-26-2020 2:11 (20:04): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-26-2020 2:11 (20:13): Kill: 1022 1 41: <world> killed Kyle by MOD_TRIGGER_HURT
+12-26-2020 2:11 (20:15): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+12-26-2020 2:11 (20:15): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-26-2020 2:11 (20:24): Kill: 1022 1 41: <world> killed Kyle by MOD_TRIGGER_HURT
+12-26-2020 2:11 (20:25): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+12-26-2020 2:11 (20:25): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-26-2020 2:11 (20:35): Kill: 1022 1 41: <world> killed Kyle by MOD_TRIGGER_HURT
+12-26-2020 2:11 (20:36): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+12-26-2020 2:11 (20:36): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-26-2020 2:11 (20:45): Kill: 1022 1 41: <world> killed Kyle by MOD_TRIGGER_HURT
+12-26-2020 2:11 (20:46): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+12-26-2020 2:11 (20:46): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-26-2020 2:12 (20:56): Kill: 1022 1 41: <world> killed Kyle by MOD_TRIGGER_HURT
+12-26-2020 2:12 (20:57): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+12-26-2020 2:12 (20:57): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-26-2020 2:12 (21:07): Kill: 1022 1 41: <world> killed Kyle by MOD_TRIGGER_HURT
+12-26-2020 2:12 (21:08): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+12-26-2020 2:12 (21:08): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-26-2020 2:12 (21:17): Kill: 1022 1 41: <world> killed Kyle by MOD_TRIGGER_HURT
+12-26-2020 2:12 (21:19): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+12-26-2020 2:12 (21:19): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-26-2020 2:12 (21:28): Kill: 1022 1 41: <world> killed Kyle by MOD_TRIGGER_HURT
+12-26-2020 2:12 (21:29): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+12-26-2020 2:12 (21:29): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-26-2020 2:12 (21:39): Kill: 1022 1 41: <world> killed Kyle by MOD_TRIGGER_HURT
+12-26-2020 2:12 (21:40): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+12-26-2020 2:12 (21:40): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-26-2020 2:12 (21:49): Kill: 1022 1 41: <world> killed Kyle by MOD_TRIGGER_HURT
+12-26-2020 2:13 (21:50): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+12-26-2020 2:13 (21:50): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-26-2020 2:13 (22:00): Kill: 1022 1 41: <world> killed Kyle by MOD_TRIGGER_HURT
+12-26-2020 2:13 (22:01): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+12-26-2020 2:13 (22:01): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-26-2020 2:13 (22:11): Kill: 1022 1 41: <world> killed Kyle by MOD_TRIGGER_HURT
+12-26-2020 2:13 (22:12): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+12-26-2020 2:13 (22:12): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-26-2020 2:13 (22:21): Kill: 1022 1 41: <world> killed Kyle by MOD_TRIGGER_HURT
+12-26-2020 2:13 (22:22): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+12-26-2020 2:13 (22:22): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-26-2020 2:13 (22:32): Kill: 1022 1 41: <world> killed Kyle by MOD_TRIGGER_HURT
+12-26-2020 2:13 (22:33): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+12-26-2020 2:13 (22:33): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-26-2020 2:13 (22:44): Kill: 1022 1 41: <world> killed Kyle by MOD_TRIGGER_HURT
+12-26-2020 2:13 (22:45): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+12-26-2020 2:13 (22:45): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-26-2020 2:14 (22:55): Kill: 1022 1 41: <world> killed Kyle by MOD_TRIGGER_HURT
+12-26-2020 2:14 (22:56): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+12-26-2020 2:14 (22:56): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-26-2020 2:14 (23:06): Kill: 1022 1 41: <world> killed Kyle by MOD_TRIGGER_HURT
+12-26-2020 2:14 (23:07): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+12-26-2020 2:14 (23:07): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-26-2020 2:14 (23:16): Kill: 1022 1 41: <world> killed Kyle by MOD_TRIGGER_HURT
+12-26-2020 2:14 (23:17): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+12-26-2020 2:14 (23:17): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-26-2020 2:14 (23:27): Kill: 1022 1 41: <world> killed Kyle by MOD_TRIGGER_HURT
+12-26-2020 2:14 (23:28): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+12-26-2020 2:14 (23:28): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-26-2020 2:14 (23:38): Kill: 1022 1 41: <world> killed Kyle by MOD_TRIGGER_HURT
+12-26-2020 2:14 (23:39): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+12-26-2020 2:14 (23:39): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-26-2020 2:14 (23:48): Kill: 1022 1 41: <world> killed Kyle by MOD_TRIGGER_HURT
+12-26-2020 2:14 (23:49): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+12-26-2020 2:14 (23:49): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-26-2020 2:15 (23:59): Kill: 1022 1 41: <world> killed Kyle by MOD_TRIGGER_HURT
+12-26-2020 2:15 (24:00): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+12-26-2020 2:15 (24:00): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-26-2020 2:15 (24:09): Kill: 1022 1 41: <world> killed Kyle by MOD_TRIGGER_HURT
+12-26-2020 2:15 (24:10): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+12-26-2020 2:15 (24:10): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-26-2020 2:15 (24:20): Kill: 1022 1 41: <world> killed Kyle by MOD_TRIGGER_HURT
+12-26-2020 2:15 (24:21): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+12-26-2020 2:15 (24:21): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-26-2020 2:15 (24:31): Kill: 1022 1 41: <world> killed Kyle by MOD_TRIGGER_HURT
+12-26-2020 2:15 (24:32): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+12-26-2020 2:15 (24:32): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-26-2020 2:15 (24:41): Kill: 1022 1 41: <world> killed Kyle by MOD_TRIGGER_HURT
+12-26-2020 2:15 (24:42): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+12-26-2020 2:15 (24:42): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-26-2020 2:16 (24:52): Kill: 1022 1 41: <world> killed Kyle by MOD_TRIGGER_HURT
+12-26-2020 2:16 (24:53): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+12-26-2020 2:16 (24:53): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-26-2020 2:16 (25:03): Kill: 1022 1 41: <world> killed Kyle by MOD_TRIGGER_HURT
+12-26-2020 2:16 (25:04): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+12-26-2020 2:16 (25:04): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-26-2020 2:16 (25:13): Kill: 1022 1 41: <world> killed Kyle by MOD_TRIGGER_HURT
+12-26-2020 2:16 (25:14): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+12-26-2020 2:16 (25:14): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-26-2020 2:16 (25:24): Kill: 1022 1 41: <world> killed Kyle by MOD_TRIGGER_HURT
+12-26-2020 2:16 (25:25): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+12-26-2020 2:16 (25:25): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-26-2020 2:16 (25:35): Kill: 1022 1 41: <world> killed Kyle by MOD_TRIGGER_HURT
+12-26-2020 2:16 (25:36): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+12-26-2020 2:16 (25:36): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-26-2020 2:16 (25:45): Kill: 1022 1 41: <world> killed Kyle by MOD_TRIGGER_HURT
+12-26-2020 2:16 (25:46): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+12-26-2020 2:16 (25:46): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-26-2020 2:17 (25:56): Kill: 1022 1 41: <world> killed Kyle by MOD_TRIGGER_HURT
+12-26-2020 2:17 (25:57): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+12-26-2020 2:17 (25:57): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-26-2020 2:17 (26:07): Kill: 1022 1 41: <world> killed Kyle by MOD_TRIGGER_HURT
+12-26-2020 2:17 (26:08): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+12-26-2020 2:17 (26:08): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-26-2020 2:17 (26:17): Kill: 1022 1 41: <world> killed Kyle by MOD_TRIGGER_HURT
+12-26-2020 2:17 (26:18): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+12-26-2020 2:17 (26:18): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-26-2020 2:17 (26:28): Kill: 1022 1 41: <world> killed Kyle by MOD_TRIGGER_HURT
+12-26-2020 2:17 (26:29): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+12-26-2020 2:17 (26:29): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-26-2020 2:17 (26:39): Kill: 1022 1 41: <world> killed Kyle by MOD_TRIGGER_HURT
+12-26-2020 2:17 (26:40): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+12-26-2020 2:17 (26:40): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-26-2020 2:17 (26:49): Kill: 1022 1 41: <world> killed Kyle by MOD_TRIGGER_HURT
+12-26-2020 2:18 (26:50): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+12-26-2020 2:18 (26:50): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-26-2020 2:18 (27:00): Kill: 1022 1 41: <world> killed Kyle by MOD_TRIGGER_HURT
+12-26-2020 2:18 (27:01): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+12-26-2020 2:18 (27:01): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-26-2020 2:18 (27:11): Kill: 1022 1 41: <world> killed Kyle by MOD_TRIGGER_HURT
+12-26-2020 2:18 (27:12): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+12-26-2020 2:18 (27:12): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-26-2020 2:18 (27:21): Kill: 1022 1 41: <world> killed Kyle by MOD_TRIGGER_HURT
+12-26-2020 2:18 (27:22): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+12-26-2020 2:18 (27:22): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-26-2020 2:18 (27:32): Kill: 1022 1 41: <world> killed Kyle by MOD_TRIGGER_HURT
+12-26-2020 2:18 (27:33): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+12-26-2020 2:18 (27:33): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-26-2020 2:18 (27:43): Kill: 1022 1 41: <world> killed Kyle by MOD_TRIGGER_HURT
+12-26-2020 2:18 (27:44): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+12-26-2020 2:18 (27:44): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-26-2020 2:19 (27:53): Kill: 1022 1 41: <world> killed Kyle by MOD_TRIGGER_HURT
+12-26-2020 2:19 (27:54): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+12-26-2020 2:19 (27:54): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-26-2020 2:19 (28:04): Kill: 1022 1 41: <world> killed Kyle by MOD_TRIGGER_HURT
+12-26-2020 2:19 (28:05): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+12-26-2020 2:19 (28:05): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-26-2020 2:19 (28:15): Kill: 1022 1 41: <world> killed Kyle by MOD_TRIGGER_HURT
+12-26-2020 2:19 (28:16): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+12-26-2020 2:19 (28:16): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-26-2020 2:19 (28:25): Kill: 1022 1 41: <world> killed Kyle by MOD_TRIGGER_HURT
+12-26-2020 2:19 (28:26): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+12-26-2020 2:19 (28:26): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-26-2020 2:19 (28:36): Kill: 1022 1 41: <world> killed Kyle by MOD_TRIGGER_HURT
+12-26-2020 2:19 (28:37): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+12-26-2020 2:19 (28:37): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-26-2020 2:19 (28:48): Kill: 1022 1 41: <world> killed Kyle by MOD_TRIGGER_HURT
+12-26-2020 2:19 (28:49): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+12-26-2020 2:19 (28:49): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-26-2020 2:20 (28:59): Kill: 1022 1 41: <world> killed Kyle by MOD_TRIGGER_HURT
+12-26-2020 2:20 (29:00): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+12-26-2020 2:20 (29:00): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-26-2020 2:20 (29:09): Kill: 1022 1 41: <world> killed Kyle by MOD_TRIGGER_HURT
+12-26-2020 2:20 (29:10): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+12-26-2020 2:20 (29:10): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-26-2020 2:20 (29:20): Kill: 1022 1 41: <world> killed Kyle by MOD_TRIGGER_HURT
+12-26-2020 2:20 (29:21): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+12-26-2020 2:20 (29:21): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-26-2020 2:20 (29:31): Kill: 1022 1 41: <world> killed Kyle by MOD_TRIGGER_HURT
+12-26-2020 2:20 (29:32): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+12-26-2020 2:20 (29:32): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-26-2020 2:20 (29:41): Kill: 1022 1 41: <world> killed Kyle by MOD_TRIGGER_HURT
+12-26-2020 2:20 (29:42): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+12-26-2020 2:20 (29:42): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-26-2020 2:21 (29:52): Kill: 1022 1 41: <world> killed Kyle by MOD_TRIGGER_HURT
+12-26-2020 2:21 (29:53): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+12-26-2020 2:21 (29:53): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-26-2020 2:21 (30:03): Kill: 1022 1 41: <world> killed Kyle by MOD_TRIGGER_HURT
+12-26-2020 2:21 (30:04): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+12-26-2020 2:21 (30:04): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-26-2020 2:21 (30:13): Kill: 1022 1 41: <world> killed Kyle by MOD_TRIGGER_HURT
+12-26-2020 2:21 (30:14): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+12-26-2020 2:21 (30:14): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-26-2020 2:21 (30:24): Kill: 1022 1 41: <world> killed Kyle by MOD_TRIGGER_HURT
+12-26-2020 2:21 (30:25): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+12-26-2020 2:21 (30:25): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-26-2020 2:21 (30:35): Kill: 1022 1 41: <world> killed Kyle by MOD_TRIGGER_HURT
+12-26-2020 2:21 (30:36): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+12-26-2020 2:21 (30:36): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-26-2020 2:21 (30:45): Kill: 1022 1 41: <world> killed Kyle by MOD_TRIGGER_HURT
+12-26-2020 2:21 (30:46): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+12-26-2020 2:21 (30:46): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-26-2020 2:22 (30:56): Kill: 1022 1 41: <world> killed Kyle by MOD_TRIGGER_HURT
+12-26-2020 2:22 (30:57): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+12-26-2020 2:22 (30:57): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-26-2020 2:22 (31:07): Kill: 1022 1 41: <world> killed Kyle by MOD_TRIGGER_HURT
+12-26-2020 2:22 (31:08): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+12-26-2020 2:22 (31:08): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-26-2020 2:22 (31:17): Kill: 1022 1 41: <world> killed Kyle by MOD_TRIGGER_HURT
+12-26-2020 2:22 (31:18): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+12-26-2020 2:22 (31:18): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-26-2020 2:22 (31:28): Kill: 1022 1 41: <world> killed Kyle by MOD_TRIGGER_HURT
+12-26-2020 2:22 (31:29): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+12-26-2020 2:22 (31:29): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-26-2020 2:22 (31:39): Kill: 1022 1 41: <world> killed Kyle by MOD_TRIGGER_HURT
+12-26-2020 2:22 (31:41): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+12-26-2020 2:22 (31:41): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-26-2020 2:22 (31:41): say: Kyle: Where is everyone?
+12-26-2020 2:23 (31:50): Kill: 1022 1 41: <world> killed Kyle by MOD_TRIGGER_HURT
+12-26-2020 2:23 (31:51): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+12-26-2020 2:23 (31:51): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-26-2020 2:23 (32:01): Kill: 1022 1 41: <world> killed Kyle by MOD_TRIGGER_HURT
+12-26-2020 2:23 (32:02): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+12-26-2020 2:23 (32:02): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-26-2020 2:23 (32:12): Kill: 1022 1 41: <world> killed Kyle by MOD_TRIGGER_HURT
+12-26-2020 2:23 (32:13): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+12-26-2020 2:23 (32:13): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-26-2020 2:23 (32:22): Kill: 1022 1 41: <world> killed Kyle by MOD_TRIGGER_HURT
+12-26-2020 2:23 (32:23): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+12-26-2020 2:23 (32:23): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-26-2020 2:23 (32:33): Kill: 1022 1 41: <world> killed Kyle by MOD_TRIGGER_HURT
+12-26-2020 2:23 (32:34): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+12-26-2020 2:23 (32:34): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-26-2020 2:23 (32:44): Kill: 1022 1 41: <world> killed Kyle by MOD_TRIGGER_HURT
+12-26-2020 2:23 (32:45): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+12-26-2020 2:23 (32:45): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-26-2020 2:24 (32:54): Kill: 1022 1 41: <world> killed Kyle by MOD_TRIGGER_HURT
+12-26-2020 2:24 (32:55): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+12-26-2020 2:24 (32:55): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-26-2020 2:24 (33:05): Kill: 1022 1 41: <world> killed Kyle by MOD_TRIGGER_HURT
+12-26-2020 2:24 (33:06): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+12-26-2020 2:24 (33:06): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-26-2020 2:24 (33:16): Kill: 1022 1 41: <world> killed Kyle by MOD_TRIGGER_HURT
+12-26-2020 2:24 (33:17): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+12-26-2020 2:24 (33:17): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-26-2020 2:24 (33:26): Kill: 1022 1 41: <world> killed Kyle by MOD_TRIGGER_HURT
+12-26-2020 2:24 (33:27): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+12-26-2020 2:24 (33:27): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-26-2020 2:24 (33:37): Kill: 1022 1 41: <world> killed Kyle by MOD_TRIGGER_HURT
+12-26-2020 2:24 (33:38): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+12-26-2020 2:24 (33:38): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-26-2020 2:24 (33:48): Kill: 1022 1 41: <world> killed Kyle by MOD_TRIGGER_HURT
+12-26-2020 2:24 (33:49): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+12-26-2020 2:24 (33:49): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-26-2020 2:25 (33:58): Kill: 1022 1 41: <world> killed Kyle by MOD_TRIGGER_HURT
+12-26-2020 2:25 (33:59): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+12-26-2020 2:25 (33:59): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-26-2020 2:25 (34:09): Kill: 1022 1 41: <world> killed Kyle by MOD_TRIGGER_HURT
+12-26-2020 2:25 (34:10): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+12-26-2020 2:25 (34:10): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-26-2020 2:25 (34:20): Kill: 1022 1 41: <world> killed Kyle by MOD_TRIGGER_HURT
+12-26-2020 2:25 (34:21): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+12-26-2020 2:25 (34:21): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-26-2020 2:25 (34:30): Kill: 1022 1 41: <world> killed Kyle by MOD_TRIGGER_HURT
+12-26-2020 2:25 (34:31): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+12-26-2020 2:25 (34:31): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-26-2020 2:25 (34:41): Kill: 1022 1 41: <world> killed Kyle by MOD_TRIGGER_HURT
+12-26-2020 2:25 (34:42): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+12-26-2020 2:25 (34:42): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-26-2020 2:26 (34:52): Kill: 1022 1 41: <world> killed Kyle by MOD_TRIGGER_HURT
+12-26-2020 2:26 (34:53): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+12-26-2020 2:26 (34:53): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-26-2020 2:26 (35:02): Kill: 1022 1 41: <world> killed Kyle by MOD_TRIGGER_HURT
+12-26-2020 2:26 (35:03): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+12-26-2020 2:26 (35:03): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-26-2020 2:26 (35:13): Kill: 1022 1 41: <world> killed Kyle by MOD_TRIGGER_HURT
+12-26-2020 2:26 (35:14): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+12-26-2020 2:26 (35:14): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-26-2020 2:26 (35:23): Kill: 1022 1 41: <world> killed Kyle by MOD_TRIGGER_HURT
+12-26-2020 2:26 (35:25): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+12-26-2020 2:26 (35:25): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-26-2020 2:26 (35:34): Kill: 1022 1 41: <world> killed Kyle by MOD_TRIGGER_HURT
+12-26-2020 2:26 (35:35): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+12-26-2020 2:26 (35:35): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-26-2020 2:26 (35:45): Kill: 1022 1 41: <world> killed Kyle by MOD_TRIGGER_HURT
+12-26-2020 2:26 (35:46): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+12-26-2020 2:26 (35:46): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-26-2020 2:27 (35:55): Kill: 1022 1 41: <world> killed Kyle by MOD_TRIGGER_HURT
+12-26-2020 2:27 (35:56): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+12-26-2020 2:27 (35:56): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-26-2020 2:27 (36:06): Kill: 1022 1 41: <world> killed Kyle by MOD_TRIGGER_HURT
+12-26-2020 2:27 (36:07): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+12-26-2020 2:27 (36:07): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-26-2020 2:27 (36:17): Kill: 1022 1 41: <world> killed Kyle by MOD_TRIGGER_HURT
+12-26-2020 2:27 (36:18): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+12-26-2020 2:27 (36:18): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-26-2020 2:27 (36:27): Kill: 1022 1 41: <world> killed Kyle by MOD_TRIGGER_HURT
+12-26-2020 2:27 (36:28): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+12-26-2020 2:27 (36:28): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-26-2020 2:27 (36:38): Kill: 1022 1 41: <world> killed Kyle by MOD_TRIGGER_HURT
+12-26-2020 2:27 (36:39): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+12-26-2020 2:27 (36:39): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-26-2020 2:27 (36:49): Kill: 1022 1 41: <world> killed Kyle by MOD_TRIGGER_HURT
+12-26-2020 2:27 (36:50): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+12-26-2020 2:27 (36:50): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-26-2020 2:28 (36:59): Kill: 1022 1 41: <world> killed Kyle by MOD_TRIGGER_HURT
+12-26-2020 2:28 (37:00): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+12-26-2020 2:28 (37:00): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-26-2020 2:28 (37:10): Kill: 1022 1 41: <world> killed Kyle by MOD_TRIGGER_HURT
+12-26-2020 2:28 (37:11): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+12-26-2020 2:28 (37:11): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-26-2020 2:28 (37:21): Kill: 1022 1 41: <world> killed Kyle by MOD_TRIGGER_HURT
+12-26-2020 2:28 (37:22): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+12-26-2020 2:28 (37:22): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-26-2020 2:28 (37:31): Kill: 1022 1 41: <world> killed Kyle by MOD_TRIGGER_HURT
+12-26-2020 2:28 (37:32): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+12-26-2020 2:28 (37:32): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-26-2020 2:28 (37:42): Kill: 1022 1 41: <world> killed Kyle by MOD_TRIGGER_HURT
+12-26-2020 2:28 (37:43): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+12-26-2020 2:28 (37:43): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-26-2020 2:29 (37:53): Kill: 1022 1 41: <world> killed Kyle by MOD_TRIGGER_HURT
+12-26-2020 2:29 (37:54): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+12-26-2020 2:29 (37:54): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-26-2020 2:29 (38:03): Kill: 1022 1 41: <world> killed Kyle by MOD_TRIGGER_HURT
+12-26-2020 2:29 (38:04): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+12-26-2020 2:29 (38:04): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-26-2020 2:29 (38:14): Kill: 1022 1 41: <world> killed Kyle by MOD_TRIGGER_HURT
+12-26-2020 2:29 (38:15): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+12-26-2020 2:29 (38:15): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-26-2020 2:29 (38:25): Kill: 1022 1 41: <world> killed Kyle by MOD_TRIGGER_HURT
+12-26-2020 2:29 (38:26): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+12-26-2020 2:29 (38:26): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-26-2020 2:29 (38:35): Kill: 1022 1 41: <world> killed Kyle by MOD_TRIGGER_HURT
+12-26-2020 2:29 (38:36): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+12-26-2020 2:29 (38:36): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-26-2020 2:29 (38:46): Kill: 1022 1 41: <world> killed Kyle by MOD_TRIGGER_HURT
+12-26-2020 2:29 (38:47): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+12-26-2020 2:29 (38:47): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-26-2020 2:30 (38:57): Kill: 1022 1 41: <world> killed Kyle by MOD_TRIGGER_HURT
+12-26-2020 2:30 (38:58): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+12-26-2020 2:30 (38:58): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-26-2020 2:30 (39:07): Kill: 1022 1 41: <world> killed Kyle by MOD_TRIGGER_HURT
+12-26-2020 2:30 (39:08): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+12-26-2020 2:30 (39:08): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-26-2020 2:30 (39:18): Kill: 1022 1 41: <world> killed Kyle by MOD_TRIGGER_HURT
+12-26-2020 2:30 (39:19): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+12-26-2020 2:30 (39:19): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-26-2020 2:30 (39:29): Kill: 1022 1 41: <world> killed Kyle by MOD_TRIGGER_HURT
+12-26-2020 2:30 (39:30): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+12-26-2020 2:30 (39:30): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-26-2020 2:30 (39:39): Kill: 1022 1 41: <world> killed Kyle by MOD_TRIGGER_HURT
+12-26-2020 2:30 (39:40): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+12-26-2020 2:30 (39:40): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-26-2020 2:31 (39:53): Kill: 1022 1 41: <world> killed Kyle by MOD_TRIGGER_HURT
+12-26-2020 2:31 (39:54): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+12-26-2020 2:31 (39:54): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-26-2020 2:31 (40:03): Kill: 1022 1 41: <world> killed Kyle by MOD_TRIGGER_HURT
+12-26-2020 2:31 (40:04): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+12-26-2020 2:31 (40:04): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-26-2020 2:31 (40:14): Kill: 1022 1 41: <world> killed Kyle by MOD_TRIGGER_HURT
+12-26-2020 2:31 (40:15): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+12-26-2020 2:31 (40:15): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-26-2020 2:31 (40:25): Kill: 1022 1 41: <world> killed Kyle by MOD_TRIGGER_HURT
+12-26-2020 2:31 (40:26): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+12-26-2020 2:31 (40:26): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-26-2020 2:31 (40:35): Kill: 1022 1 41: <world> killed Kyle by MOD_TRIGGER_HURT
+12-26-2020 2:31 (40:37): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+12-26-2020 2:31 (40:37): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-26-2020 2:31 (40:46): Kill: 1022 1 41: <world> killed Kyle by MOD_TRIGGER_HURT
+12-26-2020 2:31 (40:47): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+12-26-2020 2:31 (40:47): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-26-2020 2:32 (40:57): Kill: 1022 1 41: <world> killed Kyle by MOD_TRIGGER_HURT
+12-26-2020 2:32 (40:58): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+12-26-2020 2:32 (40:58): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-26-2020 2:32 (41:07): Kill: 1022 1 41: <world> killed Kyle by MOD_TRIGGER_HURT
+12-26-2020 2:32 (41:08): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+12-26-2020 2:32 (41:08): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-26-2020 2:32 (41:18): Kill: 1022 1 41: <world> killed Kyle by MOD_TRIGGER_HURT
+12-26-2020 2:32 (41:19): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+12-26-2020 2:32 (41:19): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-26-2020 2:32 (41:29): Kill: 1022 1 41: <world> killed Kyle by MOD_TRIGGER_HURT
+12-26-2020 2:32 (41:30): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+12-26-2020 2:32 (41:30): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-26-2020 2:32 (41:39): Kill: 1022 1 41: <world> killed Kyle by MOD_TRIGGER_HURT
+12-26-2020 2:32 (41:41): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+12-26-2020 2:32 (41:41): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-26-2020 2:32 (41:41): say: Kyle: Where is everyone?
+12-26-2020 2:33 (41:51): Kill: 1022 1 41: <world> killed Kyle by MOD_TRIGGER_HURT
+12-26-2020 2:33 (41:52): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+12-26-2020 2:33 (41:52): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-26-2020 2:33 (42:02): Kill: 1022 1 41: <world> killed Kyle by MOD_TRIGGER_HURT
+12-26-2020 2:33 (42:03): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+12-26-2020 2:33 (42:03): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-26-2020 2:33 (42:12): Kill: 1022 1 41: <world> killed Kyle by MOD_TRIGGER_HURT
+12-26-2020 2:33 (42:13): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+12-26-2020 2:33 (42:13): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-26-2020 2:33 (42:23): Kill: 1022 1 41: <world> killed Kyle by MOD_TRIGGER_HURT
+12-26-2020 2:33 (42:24): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+12-26-2020 2:33 (42:24): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-26-2020 2:33 (42:34): Kill: 1022 1 41: <world> killed Kyle by MOD_TRIGGER_HURT
+12-26-2020 2:33 (42:35): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+12-26-2020 2:33 (42:35): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-26-2020 2:33 (42:44): Kill: 1022 1 41: <world> killed Kyle by MOD_TRIGGER_HURT
+12-26-2020 2:33 (42:45): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+12-26-2020 2:33 (42:45): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-26-2020 2:34 (42:55): Kill: 1022 1 41: <world> killed Kyle by MOD_TRIGGER_HURT
+12-26-2020 2:34 (42:56): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+12-26-2020 2:34 (42:56): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-26-2020 2:34 (43:06): Kill: 1022 1 41: <world> killed Kyle by MOD_TRIGGER_HURT
+12-26-2020 2:34 (43:07): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+12-26-2020 2:34 (43:07): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-26-2020 2:34 (43:16): Kill: 1022 1 41: <world> killed Kyle by MOD_TRIGGER_HURT
+12-26-2020 2:34 (43:17): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+12-26-2020 2:34 (43:17): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-26-2020 2:34 (43:27): Kill: 1022 1 41: <world> killed Kyle by MOD_TRIGGER_HURT
+12-26-2020 2:34 (43:28): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+12-26-2020 2:34 (43:28): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-26-2020 2:34 (43:38): Kill: 1022 1 41: <world> killed Kyle by MOD_TRIGGER_HURT
+12-26-2020 2:34 (43:39): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+12-26-2020 2:34 (43:39): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-26-2020 2:34 (43:48): Kill: 1022 1 41: <world> killed Kyle by MOD_TRIGGER_HURT
+12-26-2020 2:34 (43:49): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+12-26-2020 2:34 (43:49): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-26-2020 2:35 (43:59): Kill: 1022 1 41: <world> killed Kyle by MOD_TRIGGER_HURT
+12-26-2020 2:35 (44:00): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+12-26-2020 2:35 (44:00): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-26-2020 2:35 (44:10): Kill: 1022 1 41: <world> killed Kyle by MOD_TRIGGER_HURT
+12-26-2020 2:35 (44:11): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+12-26-2020 2:35 (44:11): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-26-2020 2:35 (44:20): Kill: 1022 1 41: <world> killed Kyle by MOD_TRIGGER_HURT
+12-26-2020 2:35 (44:21): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+12-26-2020 2:35 (44:21): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-26-2020 2:35 (44:31): Kill: 1022 1 41: <world> killed Kyle by MOD_TRIGGER_HURT
+12-26-2020 2:35 (44:32): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+12-26-2020 2:35 (44:32): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-26-2020 2:35 (44:42): Kill: 1022 1 41: <world> killed Kyle by MOD_TRIGGER_HURT
+12-26-2020 2:35 (44:43): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+12-26-2020 2:35 (44:43): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-26-2020 2:36 (44:52): Kill: 1022 1 41: <world> killed Kyle by MOD_TRIGGER_HURT
+12-26-2020 2:36 (44:53): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+12-26-2020 2:36 (44:53): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-26-2020 2:36 (45:00): Exit: Timelimit hit.
+12-26-2020 2:36 (45:00): score: 0  ping: 36  client: 2 chon
+12-26-2020 2:36 (45:00): score: -279  ping: 52  client: 1 Kyle
+12-26-2020 2:36 (45:01): ClientUserinfoChanged handling info: 0 \ip\131.93.73.143:29070\challenge\-1926194947\qport\19261\protocol\26\name\craig\rate\4000\snaps\20\model\tusken/default\forcepowers\6-1-030330000000000333\color1\1\color2\1\handicap\100\sex\male\cg_predictItems\1\saber1\single_6\saber2\single_9\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\password\fuckjews\g_password\fuckjews\teamoverlay\1
+12-26-2020 2:36 (45:01): ClientUserinfoChanged: 0 n\craig\t\0\model\tusken/default\c1\1\c2\1\hc\0\w\0\l\0\tt\0\tl\0\st\single_6\st2\single_9\dt\0
+12-26-2020 2:36 (45:01): ClientUserinfoChanged handling info: 0 \ip\131.93.73.143:29070\challenge\-1926194947\qport\19261\protocol\26\name\craig\rate\4000\snaps\20\model\tusken/default\forcepowers\6-1-030330000000000333\color1\1\color2\1\handicap\100\sex\male\cg_predictItems\1\saber1\single_6\saber2\single_9\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\password\fuckjews\g_password\fuckjews\teamoverlay\1
+12-26-2020 2:36 (45:01): ClientUserinfoChanged: 0 n\craig\t\0\model\tusken/default\c1\1\c2\1\hc\100\w\0\l\0\tt\0\tl\0\st\single_6\st2\single_9\dt\0
+12-26-2020 2:38 (47:41): say: Kyle: Where is everyone?
+12-26-2020 2:40 (49:41): say: Kyle: I am getting bored
+12-26-2020 2:43 (52:13): say: chon: mapents save default
+12-26-2020 2:43 (52:16): ShutdownGame:
+12-26-2020 2:43 (52:16): ------------------------------------------------------------
+12-26-2020 2:43 (0:00): ------------------------------------------------------------
+12-26-2020 2:43 (0:00): InitGame: \version\JAmp: v1.0.1.0 linux-i386 Mar 14 2020\timelimit\45\sv_privateClients\0\sv_minRate\0\sv_minPing\0\sv_maxclients\32\sv_maxRate\0\sv_maxPing\999\sv_hostname\^7~^1~^7~ COMM SERVER ~^1~^7~\sv_fps\50\sv_floodProtectSlow\1\sv_floodProtect\0\sv_autoDemo\0\sv_allowDownload\0\serveruptime\16\protocol\26\mapname\taspir1\gamename\Lugormod\g_weaponDisable\0\g_stepSlideFix\0\g_siegeTeamSwitch\1\g_siegeTeam2\none\g_siegeTeam1\none\g_siegeRespawn\20\g_showDuelHealths\1\g_saberWallDamageScale\0.4\g_saberLocking\0\g_privateDuel\1535\g_noSpecMove\0\g_needpass\1\g_maxHolocronCarry\3\g_maxGameClients\0\g_maxForceRank\7\g_jediVmerc\0\g_gametype\0\g_gamemode\0\g_forceRegenTime\160\g_forcePowerDisable\0\g_forceBasedTeams\1\g_duelWeaponDisable\9\g_debugmelee\1\g_allowNPC\1\fs_game\lugormod\fraglimit\0\duel_fraglimit\10\dmflags\0\capturelimit\10\bot_minplayers\2\bg_fighterAltControl\0\Lugormod_Version\U#-0.0.0.91 Alpha
+12-26-2020 2:43 (0:00): ClientConnect: 1
+12-26-2020 2:43 (0:00): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+12-26-2020 2:43 (0:00): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\0\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-26-2020 2:43 (0:00): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+12-26-2020 2:43 (0:00): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-26-2020 2:43 (0:00): ClientBegin: 1
+12-26-2020 2:43 (0:00): ClientConnect: 2
+12-26-2020 2:43 (0:00): ClientUserinfoChanged handling info: 2 \name\chon\ip\136.49.101.98:29070\teamoverlay\0\snaps\50\sex\male\saber2\none\saber1\Kyle\rate\25000\password\temppw\model\kyle/default\ja_guid\EC4B4FC6940C82C3E45C303F842CA7B9\handicap\100\forcepowers\1-1-010000000000000100\color2\4\color1\4\char_color_red\255\char_color_green\255\char_color_blue\255\cg_predictItems\1
+12-26-2020 2:43 (0:00): ClientUserinfoChanged: 2 n\Padawan\t\0\model\kyle/default\c1\4\c2\4\hc\0\w\0\l\0\tt\0\tl\0\st\Kyle\st2\none\dt\0
+12-26-2020 2:43 (0:06): ClientUserinfoChanged handling info: 2 \ip\136.49.101.98:29070\teamoverlay\0\snaps\50\sex\male\saber2\none\saber1\Kyle\rate\25000\password\temppw\name\Padawan\model\kyle/default\ja_guid\EC4B4FC6940C82C3E45C303F842CA7B9\handicap\100\forcepowers\1-1-010000000000000100\color2\4\color1\4\char_color_red\255\char_color_green\255\char_color_blue\255\cg_predictItems\1
+12-26-2020 2:43 (0:06): ClientUserinfoChanged: 2 n\Padawan\t\0\model\kyle/default\c1\4\c2\4\hc\0\w\0\l\0\tt\0\tl\0\st\Kyle\st2\none\dt\0
+12-26-2020 2:43 (0:06): ClientUserinfoChanged handling info: 2 \ip\136.49.101.98:29070\teamoverlay\0\snaps\50\sex\male\saber2\none\saber1\Kyle\rate\25000\password\temppw\name\Padawan\model\kyle/default\ja_guid\EC4B4FC6940C82C3E45C303F842CA7B9\handicap\100\forcepowers\1-1-010000000000000100\color2\4\color1\4\char_color_red\255\char_color_green\255\char_color_blue\255\cg_predictItems\1
+12-26-2020 2:43 (0:06): ClientUserinfoChanged: 2 n\Padawan\t\0\model\kyle/default\c1\4\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\Kyle\st2\none\dt\0
+12-26-2020 2:43 (0:06): ClientUserinfoChanged handling info: 2 \name\chon\ip\136.49.101.98:29070\teamoverlay\0\snaps\50\sex\male\saber2\none\saber1\Kyle\rate\25000\password\temppw\model\kyle/default\ja_guid\EC4B4FC6940C82C3E45C303F842CA7B9\handicap\100\forcepowers\1-1-010000000000000100\color2\4\color1\4\char_color_red\255\char_color_green\255\char_color_blue\255\cg_predictItems\1
+12-26-2020 2:43 (0:06): ClientUserinfoChanged: 2 n\chon\t\0\model\kyle/default\c1\4\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\Kyle\st2\none\dt\0
+12-26-2020 2:43 (0:06): ClientBegin: 2
+12-26-2020 2:43 (0:09): Kill: 1022 1 41: <world> killed Kyle by MOD_TRIGGER_HURT
+12-26-2020 2:43 (0:10): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+12-26-2020 2:43 (0:10): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-26-2020 2:43 (0:16): ClientDisconnect: 2
+12-26-2020 2:43 (0:30): ClientConnect: 0
+12-26-2020 2:43 (0:30): ClientUserinfoChanged handling info: 0 \team\0\skill\ 5.00\personality\botfiles/astupidbot.jkb\saber2\none\saber1\kyle\color2\4\color1\4\sex\male\model\jawa\snaps\20\rate\25000\name\astupidbot
+12-26-2020 2:43 (0:30): ClientUserinfoChanged: 0 n\astupidbot\t\0\model\jawa\c1\4\c2\4\hc\0\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\\st2\\dt\0\sdt\0
+12-26-2020 2:43 (0:30): IP: localhost astupidbot
+12-26-2020 2:43 (0:30): ClientUserinfoChanged handling info: 0 \team\0\skill\ 5.00\personality\botfiles/astupidbot.jkb\saber2\none\saber1\kyle\color2\4\color1\4\sex\male\model\jawa\snaps\20\rate\25000\name\astupidbot
+12-26-2020 2:43 (0:30): ClientUserinfoChanged: 0 n\astupidbot\t\0\model\jawa\c1\4\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-26-2020 2:43 (0:30): ClientBegin: 0
+12-26-2020 3:28 (45:00): Exit: Timelimit hit.
+12-26-2020 3:28 (45:00): score: 0  ping: 58  client: 0 astupidbot
+12-26-2020 3:28 (45:00): score: -1  ping: 44  client: 1 Kyle
+12-27-2020 12:42 (2038:40): ShutdownGame:
+12-27-2020 12:42 (2038:40): ------------------------------------------------------------

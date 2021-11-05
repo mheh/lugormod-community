@@ -1,0 +1,161 @@
+{
+"classname" "random_spot"
+"angle" "23"
+"origin" "16864 112 202"
+}
+{
+"angle" "88"
+"classname" "money_dispenser"
+"origin" "10720 -136 2"
+}
+{
+"classname" "info_player_deathmatch"
+"angle" "-179"
+"origin" "23182 0 216"
+}
+{
+"classname" "info_player_deathmatch"
+"angle" "-178"
+"origin" "22150 180 152"
+}
+{
+"classname" "item_jetpack"
+"angle" "0"
+"origin" "15448 0 162"
+}
+{
+"classname" "info_player_deathmatch"
+"angle" "-91"
+"origin" "-2902 210 200"
+}
+{
+"classname" "info_player_deathmatch"
+"angle" "90"
+"origin" "-2928 -202 200"
+}
+{
+"classname" "ammo_tripmine"
+"angle" "0"
+"origin" "1946 88 136"
+}
+{
+"classname" "info_player_deathmatch"
+"angle" "8"
+"origin" "-3174 -182 24"
+}
+{
+"classname" "info_player_deathmatch"
+"angle" "-7"
+"origin" "-3212 194 32"
+}
+{
+"classname" "info_player_deathmatch"
+"angle" "179"
+"origin" "22184 -202 152"
+}
+{
+"classname" "info_player_deathmatch"
+"angle" "-178"
+"origin" "23014 254 248"
+}
+{
+"classname" "weapon_blaster"
+"angle" "0"
+"origin" "22766 0 416"
+}
+{
+"classname" "weapon_stun_baton"
+"angle" "0"
+"origin" "-1104 176 128"
+}
+{
+"angle" "-2"
+"classname" "money_dispenser"
+"origin" "3634 60 146"
+}
+{
+"classname" "info_player_deathmatch"
+"angle" "-179"
+"origin" "23018 -252 248"
+}
+{
+"classname" "ammo_tripmine"
+"angle" "0"
+"origin" "2242 -6 136"
+}
+{
+"classname" "info_player_jail"
+"angle" "90"
+"origin" "11332 -148 256"
+}
+{
+"classname" "info_player_jail"
+"angle" "-87"
+"origin" "11350 146 256"
+}
+{
+"classname" "ammo_thermal"
+"angle" "0"
+"origin" "14360 -132 112"
+}
+{
+"classname" "weapon_repeater"
+"angle" "0"
+"origin" "13380 -238 16"
+}
+{
+"classname" "random_spot"
+"angle" "-178"
+"origin" "18196 138 282"
+}
+{
+"classname" "random_spot"
+"angle" "-6"
+"origin" "16864 -110 282"
+}
+{
+"classname" "random_spot"
+"angle" "-167"
+"origin" "18210 -110 282"
+}
+{
+"classname" "random_spot"
+"angle" "-179"
+"origin" "10856 2 26"
+}
+{
+"classname" "random_spot"
+"angle" "-88"
+"origin" "17750 -276 138"
+}
+{
+"classname" "random_spot"
+"angle" "4"
+"origin" "12392 -62 98"
+}
+{
+"classname" "weapon_demp2"
+"angle" "0"
+"origin" "-2380 -240 0"
+}
+{
+"classname" "target_scriptrunner"
+"usescript" "t1_rail/intro_skip"
+"targetname" "intro_run"
+"origin" "8058 -22 672"
+}
+{
+"classname" "trigger_always"
+"target" "intro_run"
+"origin" "8058 -22 672"
+}
+{
+"classname" "trigger_always"
+"target" "run_bomb_run2"
+"origin" "6466 -2 534"
+}
+{
+"classname" "trigger_always"
+"target" "run_bomb_run1"
+"origin" "19780 -10 454"
+}

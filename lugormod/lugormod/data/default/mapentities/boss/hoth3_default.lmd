@@ -1,0 +1,146 @@
+{
+"_mingridlight" "80"
+"classname" "worldspawn"
+"fog" "textures/jnegretetest/hoth_fog"
+"_color" "0.619979 0.729733 1.000000"
+"angle" "225"
+"breath" "2"
+"soundSet" "cairn_duct"
+}
+{
+"classname" "info_player_deathmatch"
+"origin" "-1939 512 149"
+}
+{
+"classname" "info_player_deathmatch"
+"origin" "-569 1406 149"
+"angle" "-90"
+}
+{
+"classname" "info_player_deathmatch"
+"origin" "-574 -434 149"
+"angle" "90"
+}
+{
+"classname" "func_plat"
+"lip" "1"
+"model" "*55"
+"height" "410"
+"speed" "100"
+"origin" "3808 -832 413"
+}
+{
+"classname" "func_plat"
+"lip" "1"
+"model" "*76"
+"height" "372"
+"speed" "100"
+"origin" "7856 -800 248"
+}
+{
+"soundSet" "door_small3"
+"classname" "func_door"
+"angle" "180"
+"team" "door3a"
+"model" "*53"
+}
+{
+"soundSet" "door_small3"
+"angle" "-1"
+"classname" "func_door"
+"model" "*56"
+}
+{
+"soundSet" "door_small3"
+"classname" "func_door"
+"angle" "-1"
+"model" "*57"
+}
+{
+"soundSet" "door_small3"
+"angle" "-1"
+"classname" "func_door"
+"model" "*58"
+}
+{
+"soundSet" "door_small3"
+"angle" "-1"
+"classname" "func_door"
+"model" "*59"
+}
+{
+"soundSet" "impdoor2"
+"speed" "150"
+"team" "door2"
+"classname" "func_door"
+"angle" "180"
+"model" "*69"
+"targetname" "enddoors"
+}
+{
+"soundSet" "impdoor2"
+"speed" "150"
+"team" "door2"
+"classname" "func_door"
+"angle" "360"
+"model" "*70"
+"targetname" "enddoors"
+}
+{
+"soundSet" "door_small3"
+"classname" "func_door"
+"angle" "360"
+"team" "door3a"
+"model" "*71"
+}
+{
+"soundSet" "door_small3"
+"classname" "func_door"
+"angle" "-1"
+"model" "*72"
+}
+{
+"soundSet" "door_small3"
+"classname" "func_door"
+"angle" "90"
+"team" "door4"
+"model" "*78"
+}
+{
+"soundSet" "door_small3"
+"classname" "func_door"
+"angle" "270"
+"team" "door4"
+"model" "*79"
+}
+{
+"spawnflags" "16"
+"team" "door5"
+"classname" "func_door"
+"angle" "45"
+"model" "*80"
+"origin" "0 0 0"
+}
+{
+"spawnflags" "16"
+"team" "door5"
+"classname" "func_door"
+"angle" "225"
+"model" "*81"
+"origin" "0 0 0"
+}
+{
+"classname" "func_static"
+"model" "*82"
+"origin" "0 0 0"
+}
+{
+"classname" "func_static"
+"model" "*83"
+"origin" "0 0 0"
+}
+{
+"classname" "func_static"
+"model" "*84"
+"origin" "0 0 0"
+}

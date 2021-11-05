@@ -1,0 +1,583 @@
+12-10-2020 1:16 (0:00): ------------------------------------------------------------
+12-10-2020 1:16 (0:00): InitGame: \version\JAmp: v1.0.1.0 linux-i386 Mar 14 2020\timelimit\45\sv_privateClients\0\sv_minRate\0\sv_minPing\0\sv_maxclients\32\sv_maxRate\0\sv_maxPing\999\sv_hostname\^7~^1~^7~ COMM SERVER ~^1~^7~\sv_fps\50\sv_floodProtectSlow\1\sv_floodProtect\1\sv_autoDemo\0\sv_allowDownload\0\serveruptime\23\protocol\26\mapname\t3_stamp\gamename\Lugormod\g_weaponDisable\0\g_stepSlideFix\0\g_siegeTeamSwitch\1\g_siegeTeam2\none\g_siegeTeam1\none\g_siegeRespawn\20\g_showDuelHealths\1\g_saberWallDamageScale\0.4\g_saberLocking\0\g_privateDuel\1535\g_noSpecMove\0\g_needpass\0\g_maxHolocronCarry\3\g_maxGameClients\0\g_maxForceRank\7\g_jediVmerc\0\g_gametype\0\g_gamemode\0\g_forceRegenTime\130\g_forcePowerDisable\0\g_forceBasedTeams\1\g_duelWeaponDisable\9\g_debugmelee\1\g_allowNPC\1\fraglimit\0\duel_fraglimit\10\dmflags\0\capturelimit\10\bot_minplayers\2\bg_fighterAltControl\0\Lugormod_Version\U#-2.4.8.4
+12-10-2020 1:16 (0:00): ClientConnect: 0
+12-10-2020 1:16 (0:00): ClientUserinfoChanged handling info: 0 \team\0\skill\ 5.00\personality\botfiles/astupidbot.jkb\saber2\none\saber1\kyle\color2\4\color1\4\sex\male\model\jawa\snaps\20\rate\25000\name\astupidbot
+12-10-2020 1:16 (0:00): ClientUserinfoChanged: 0 n\astupidbot\t\0\model\jawa\c1\4\c2\4\hc\0\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-10-2020 1:16 (0:00): ClientUserinfoChanged handling info: 0 \team\0\skill\ 5.00\personality\botfiles/astupidbot.jkb\saber2\none\saber1\kyle\color2\4\color1\4\sex\male\model\jawa\snaps\20\rate\25000\name\astupidbot
+12-10-2020 1:16 (0:00): ClientUserinfoChanged: 0 n\astupidbot\t\0\model\jawa\c1\4\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-10-2020 1:16 (0:00): ClientBegin: 0
+12-10-2020 1:16 (0:00): ClientConnect: 1
+12-10-2020 1:16 (0:00): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+12-10-2020 1:16 (0:00): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\0\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-10-2020 1:16 (0:00): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+12-10-2020 1:16 (0:00): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-10-2020 1:16 (0:00): ClientBegin: 1
+12-10-2020 1:16 (0:00): ClientConnect: 2
+12-10-2020 1:16 (0:00): ClientUserinfoChanged handling info: 2 \ip\136.49.101.98:29070\teamoverlay\0\snaps\50\sex\male\saber2\none\saber1\Kyle\rate\4000\name\^3chains\model\kyle/default\ja_guid\051864430A7EE524850A0B7FF5985240\handicap\100\forcepowers\1-1-020000000000000000\color2\4\color1\4\char_color_red\255\char_color_green\255\char_color_blue\255\cg_predictItems\1
+12-10-2020 1:16 (0:00): ClientUserinfoChanged: 2 n\Padawan\t\0\model\kyle/default\c1\4\c2\4\hc\0\w\0\l\0\tt\0\tl\0\st\Kyle\st2\none\dt\0
+12-10-2020 1:16 (0:06): ClientUserinfoChanged handling info: 2 \ip\136.49.101.98:29070\teamoverlay\0\snaps\50\sex\male\saber2\none\saber1\Kyle\rate\4000\name\^3chains\model\kyle/default\ja_guid\051864430A7EE524850A0B7FF5985240\handicap\100\forcepowers\1-1-020000000000000000\color2\4\color1\4\char_color_red\255\char_color_green\255\char_color_blue\255\cg_predictItems\1
+12-10-2020 1:16 (0:06): ClientUserinfoChanged: 2 n\Padawan\t\0\model\kyle/default\c1\4\c2\4\hc\0\w\0\l\0\tt\0\tl\0\st\Kyle\st2\none\dt\0
+12-10-2020 1:16 (0:06): ClientUserinfoChanged handling info: 2 \ip\136.49.101.98:29070\teamoverlay\0\snaps\50\sex\male\saber2\none\saber1\Kyle\rate\4000\name\^3chains\model\kyle/default\ja_guid\051864430A7EE524850A0B7FF5985240\handicap\100\forcepowers\1-1-020000000000000000\color2\4\color1\4\char_color_red\255\char_color_green\255\char_color_blue\255\cg_predi12-10-2020 1:21 (0:00): ------------------------------------------------------------
+12-10-2020 1:21 (0:00): InitGame: \version\JAmp: v1.0.1.0 linux-i386 Mar 14 2020\timelimit\45\sv_privateClients\0\sv_minRate\0\sv_minPing\0\sv_maxclients\32\sv_maxRate\0\sv_maxPing\999\sv_hostname\^7~^1~^7~ COMM SERVER ~^1~^7~\sv_fps\50\sv_floodProtectSlow\1\sv_floodProtect\1\sv_autoDemo\0\sv_allowDownload\0\protocol\26\mapname\mp/duel5\g_weaponDisable\0\g_stepSlideFix\0\g_siegeTeamSwitch\1\g_siegeTeam2\none\g_siegeTeam1\none\g_siegeRespawn\20\g_showDuelHealths\1\g_saberLocking\0\g_privateDuel\1535\g_noSpecMove\0\g_needpass\0\g_maxHolocronCarry\3\g_maxGameClients\0\g_maxForceRank\7\g_jediVmerc\0\g_gametype\0\g_gamemode\0\g_forceRegenTime\130\g_forcePowerDisable\0\g_forceBasedTeams\1\g_duelWeaponDisable\9\g_debugmelee\1\g_allowNPC\1\fraglimit\0\duel_fraglimit\10\dmflags\0\capturelimit\10\gamename\Lugormod\Lugormod_Version\U#-2.4.8.4\serveruptime\0\g_saberWallDamageScale\0.4\bg_fighterAltControl\0
+12-10-2020 1:21 (0:02): ClientConnect: 0
+12-10-2020 1:21 (0:02): ClientUserinfoChanged handling info: 0 \ip\136.49.101.98:29070\challenge\118749625\qport\42804\protocol\26\teamoverlay\0\snaps\50\sex\male\saber2\none\saber1\Kyle\rate\4000\name\^3chains\model\kyle/default\ja_guid\051864430A7EE524850A0B7FF5985240\handicap\100\forcepowers\1-1-020000000000000000\color2\4\color1\4\char_color_red\255\char_color_green\255\char_color_blue\255\cg_predictItems\1
+12-10-2020 1:21 (0:02): ClientUserinfoChanged: 0 n\Padawan\t\0\model\kyle/default\c1\4\c2\4\hc\0\w\0\l\0\tt\0\tl\0\st\\st2\\dt\0
+12-10-2020 1:21 (0:02): IP: 136.49.101.98 Padawan
+12-10-2020 1:21 (0:05): ClientUserinfoChanged handling info: 0 \ip\136.49.101.98:29070\teamoverlay\0\snaps\50\sex\male\saber2\none\saber1\Kyle\rate\4000\name\^3chains\model\kyle/default\ja_guid\051864430A7EE524850A0B7FF5985240\handicap\100\forcepowers\1-1-020000000000000000\color2\4\color1\4\char_color_red\255\char_color_green\255\char_color_blue\255\cg_predictItems\1
+12-10-2020 1:21 (0:05): ClientUserinfoChanged: 0 n\Padawan\t\0\model\kyle/default\c1\4\c2\4\hc\0\w\0\l\0\tt\0\tl\0\st\Kyle\st2\none\dt\0
+12-10-2020 1:21 (0:05): ClientUserinfoChanged handling info: 0 \ip\136.49.101.98:29070\teamoverlay\0\snaps\50\sex\male\saber2\none\saber1\Kyle\rate\4000\name\^3chains\model\kyle/default\ja_guid\051864430A7EE524850A0B7FF5985240\handicap\100\forcepowers\1-1-020000000000000000\color2\4\color1\4\char_color_red\255\char_color_green\255\char_color_blue\255\cg_predictItems\1
+12-10-2020 1:21 (0:05): ClientUserinfoChanged: 0 n\Padawan\t\0\model\kyle/default\c1\4\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\Kyle\st2\none\dt\0
+12-10-2020 1:21 (0:05): ClientBegin: 0
+12-10-2020 1:21 (0:30): ClientConnect: 1
+12-10-2020 1:21 (0:30): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/astupidbot.jkb\saber2\none\saber1\kyle\color2\4\color1\4\sex\male\model\jawa\snaps\20\rate\25000\name\astupidbot
+12-10-2020 1:21 (0:30): ClientUserinfoChanged: 1 n\astupidbot\t\0\model\jawa\c1\4\c2\4\hc\0\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\\st2\\dt\0\sdt\0
+12-10-2020 1:21 (0:30): IP: localhost astupidbot
+12-10-2020 1:21 (0:30): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/astupidbot.jkb\saber2\none\saber1\kyle\color2\4\color1\4\sex\male\model\jawa\snaps\20\rate\25000\name\astupidbot
+12-10-2020 1:21 (0:30): ClientUserinfoChanged: 1 n\astupidbot\t\0\model\jawa\c1\4\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-10-2020 1:21 (0:30): ClientBegin: 1
+12-10-2020 1:22 (0:31): say: astupidbot: Hi
+12-10-2020 1:22 (0:34): Kill: 1 0 3: astupidbot killed Padawan by MOD_SABER
+12-10-2020 1:23 (1:36): ClientUserinfoChanged handling info: 0 \ip\136.49.101.98:29070\teamoverlay\0\snaps\50\sex\male\saber2\none\saber1\Kyle\rate\4000\name\^3chains\model\kyle/default\ja_guid\051864430A7EE524850A0B7FF5985240\handicap\100\forcepowers\1-1-020000000000000000\color2\4\color1\4\char_color_red\255\char_color_green\255\char_color_blue\255\cg_predictItems\1
+12-10-2020 1:23 (1:36): ClientUserinfoChanged: 0 n\Padawan\t\0\model\kyle/default\c1\4\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\Kyle\st2\none\dt\0
+12-10-2020 1:23 (1:40): Kill: 1 0 3: astupidbot killed Padawan by MOD_SABER
+12-10-2020 1:23 (1:42): say: astupidbot: Good Fight
+12-10-2020 1:24 (2:42): ClientUserinfoChanged handling info: 0 \ip\136.49.101.98:29070\teamoverlay\0\snaps\50\sex\male\saber2\none\saber1\Kyle\rate\4000\name\^3chains\model\kyle/default\ja_guid\051864430A7EE524850A0B7FF5985240\handicap\100\forcepowers\1-1-020000000000000000\color2\4\color1\4\char_color_red\255\char_color_green\255\char_color_blue\255\cg_predictItems\1
+12-10-2020 1:24 (2:42): ClientUserinfoChanged: 0 n\Padawan\t\0\model\kyle/default\c1\4\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\Kyle\st2\none\dt\0
+12-10-2020 1:24 (2:53): Kill: 1 0 3: astupidbot killed Padawan by MOD_SABER
+12-10-2020 1:24 (2:55): say: astupidbot: hehe!
+12-10-2020 1:25 (3:54): ClientUserinfoChanged handling info: 0 \ip\136.49.101.98:29070\teamoverlay\0\snaps\50\sex\male\saber2\none\saber1\Kyle\rate\4000\name\^3chains\model\kyle/default\ja_guid\051864430A7EE524850A0B7FF5985240\handicap\100\forcepowers\1-1-020000000000000000\color2\4\color1\4\char_color_red\255\char_color_green\255\char_color_blue\255\cg_predictItems\1
+12-10-2020 1:25 (3:54): ClientUserinfoChanged: 0 n\Padawan\t\0\model\kyle/default\c1\4\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\Kyle\st2\none\dt\0
+12-10-2020 1:25 (4:20): Kill: 1 0 3: astupidbot killed Padawan by MOD_SABER
+12-10-2020 1:26 (5:21): ClientUserinfoChanged handling info: 0 \ip\136.49.101.98:29070\teamoverlay\0\snaps\50\sex\male\saber2\none\saber1\Kyle\rate\4000\name\^3chains\model\kyle/default\ja_guid\051864430A7EE524850A0B7FF5985240\handicap\100\forcepowers\1-1-020000000000000000\color2\4\color1\4\char_color_red\255\char_color_green\255\char_color_blue\255\cg_predictItems\1
+12-10-2020 1:26 (5:21): ClientUserinfoChanged: 0 n\Padawan\t\0\model\kyle/default\c1\4\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\Kyle\st2\none\dt\0
+12-10-2020 1:27 (5:33): Kill: 1 0 3: astupidbot killed Padawan by MOD_SABER
+12-10-2020 1:27 (5:35): say: astupidbot: Good Fight
+12-10-2020 1:28 (6:35): ClientUserinfoChanged handling info: 0 \ip\136.49.101.98:29070\teamoverlay\0\snaps\50\sex\male\saber2\none\saber1\Kyle\rate\4000\name\^3chains\model\kyle/default\ja_guid\051864430A7EE524850A0B7FF5985240\handicap\100\forcepowers\1-1-020000000000000000\color2\4\color1\4\char_color_red\255\char_color_green\255\char_color_blue\255\cg_predictItems\1
+12-10-2020 1:28 (6:35): ClientUserinfoChanged: 0 n\Padawan\t\0\model\kyle/default\c1\4\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\Kyle\st2\none\dt\0
+12-10-2020 1:28 (6:40): Kill: 1 0 3: astupidbot killed Padawan by MOD_SABER
+12-10-2020 1:28 (6:42): say: astupidbot: Good Fight
+12-10-2020 1:28 (6:53): ClientUserinfoChanged handling info: 0 \ip\136.49.101.98:29070\teamoverlay\0\snaps\50\sex\male\saber2\none\saber1\Kyle\rate\4000\name\^3chains\model\kyle/default\ja_guid\051864430A7EE524850A0B7FF5985240\handicap\100\forcepowers\1-1-020000000000000000\color2\4\color1\4\char_color_red\255\char_color_green\255\char_color_blue\255\cg_predictItems\1
+12-10-2020 1:28 (6:53): ClientUserinfoChanged: 0 n\Padawan\t\0\model\kyle/default\c1\4\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\Kyle\st2\none\dt\0
+12-10-2020 1:28 (7:17): ShutdownGame:
+12-10-2020 1:28 (7:17): ------------------------------------------------------------
+12-10-2020 1:28 (0:00): ------------------------------------------------------------
+12-10-2020 1:28 (0:00): InitGame: \version\JAmp: v1.0.1.0 linux-i386 Mar 14 2020\timelimit\45\sv_privateClients\0\sv_minRate\0\sv_minPing\0\sv_maxclients\32\sv_maxRate\0\sv_maxPing\999\sv_hostname\^7~^1~^7~ COMM SERVER ~^1~^7~\sv_fps\50\sv_floodProtectSlow\1\sv_floodProtect\1\sv_autoDemo\0\sv_allowDownload\0\serveruptime\0\protocol\26\mapname\taspir1\gamename\Lugormod\g_weaponDisable\0\g_stepSlideFix\0\g_siegeTeamSwitch\1\g_siegeTeam2\none\g_siegeTeam1\none\g_siegeRespawn\20\g_showDuelHealths\1\g_saberWallDamageScale\0.4\g_saberLocking\0\g_privateDuel\1535\g_noSpecMove\0\g_needpass\0\g_maxHolocronCarry\3\g_maxGameClients\0\g_maxForceRank\7\g_jediVmerc\0\g_gametype\0\g_gamemode\0\g_forceRegenTime\130\g_forcePowerDisable\0\g_forceBasedTeams\1\g_duelWeaponDisable\9\g_debugmelee\1\g_allowNPC\1\fraglimit\0\duel_fraglimit\10\dmflags\0\capturelimit\10\bot_minplayers\2\bg_fighterAltControl\0\Lugormod_Version\U#-2.4.8.4
+12-10-2020 1:28 (0:00): ClientConnect: 0
+12-10-2020 1:28 (0:00): ClientUserinfoChanged handling info: 0 \ip\136.49.101.98:29070\teamoverlay\0\snaps\50\sex\male\saber2\none\saber1\Kyle\rate\4000\name\^3chains\model\kyle/default\ja_guid\051864430A7EE524850A0B7FF5985240\handicap\100\forcepowers\1-1-020000000000000000\color2\4\color1\4\char_color_red\255\char_color_green\255\char_color_blue\255\cg_predictItems\1
+12-10-2020 1:28 (0:00): ClientUserinfoChanged: 0 n\Padawan\t\0\model\kyle/default\c1\4\c2\4\hc\0\w\0\l\0\tt\0\tl\0\st\Kyle\st2\none\dt\0
+12-10-2020 1:28 (0:00): ClientConnect: 1
+12-10-2020 1:28 (0:00): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/astupidbot.jkb\saber2\none\saber1\kyle\color2\4\color1\4\sex\male\model\jawa\snaps\20\rate\25000\name\astupidbot
+12-10-2020 1:28 (0:00): ClientUserinfoChanged: 1 n\astupidbot\t\0\model\jawa\c1\4\c2\4\hc\0\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-10-2020 1:28 (0:00): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/astupidbot.jkb\saber2\none\saber1\kyle\color2\4\color1\4\sex\male\model\jawa\snaps\20\rate\25000\name\astupidbot
+12-10-2020 1:28 (0:00): ClientUserinfoChanged: 1 n\astupidbot\t\0\model\jawa\c1\4\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-10-2020 1:28 (0:00): ClientBegin: 1
+12-10-2020 1:28 (0:05): ClientUserinfoChanged handling info: 0 \ip\136.49.101.98:29070\teamoverlay\0\snaps\50\sex\male\saber2\none\saber1\Kyle\rate\4000\name\^3chains\model\kyle/default\ja_guid\051864430A7EE524850A0B7FF5985240\handicap\100\forcepowers\1-1-020000000000000000\color2\4\color1\4\char_color_red\255\char_color_green\255\char_color_blue\255\cg_predictItems\1
+12-10-2020 1:28 (0:05): ClientUserinfoChanged: 0 n\Padawan\t\0\model\kyle/default\c1\4\c2\4\hc\0\w\0\l\0\tt\0\tl\0\st\Kyle\st2\none\dt\0
+12-10-2020 1:28 (0:05): ClientUserinfoChanged handling info: 0 \ip\136.49.101.98:29070\teamoverlay\0\snaps\50\sex\male\saber2\none\saber1\Kyle\rate\4000\name\^3chains\model\kyle/default\ja_guid\051864430A7EE524850A0B7FF5985240\handicap\100\forcepowers\1-1-020000000000000000\color2\4\color1\4\char_color_red\255\char_color_green\255\char_color_blue\255\cg_predictItems\1
+12-10-2020 1:28 (0:05): ClientUserinfoChanged: 0 n\Padawan\t\0\model\kyle/default\c1\4\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\Kyle\st2\none\dt\0
+12-10-2020 1:28 (0:05): ClientBegin: 0
+12-10-2020 1:28 (0:07): ClientUserinfoChanged handling info: 0 \ip\136.49.101.98:29070\teamoverlay\0\snaps\50\sex\male\saber2\none\saber1\Kyle\rate\4000\name\^3chains\model\kyle/default\ja_guid\051864430A7EE524850A0B7FF5985240\handicap\100\forcepowers\1-1-020000000000000000\color2\4\color1\4\char_color_red\255\char_color_green\255\char_color_blue\255\cg_predictItems\1
+12-10-2020 1:28 (0:07): ClientNamechange: Padawan is now ^3chains
+12-10-2020 1:28 (0:07): ClientUserinfoChanged: 0 n\^3chains\t\0\model\kyle/default\c1\4\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\Kyle\st2\none\dt\0
+12-10-2020 1:28 (0:07): ClientUserinfoChanged handling info: 0 \name\^3chains\ip\136.49.101.98:29070\teamoverlay\0\snaps\50\sex\male\saber2\none\saber1\Kyle\rate\4000\model\kyle/default\ja_guid\051864430A7EE524850A0B7FF5985240\handicap\100\forcepowers\1-1-020000000000000000\1\lor2\4\color1\4\char_color_red\255\char_color_green\255\char_color_blue\255\cg_predictItems\1
+12-10-2020 1:28 (0:07): ClientUserinfoChanged: 0 n\^3chains\t\0\model\kyle/default\c1\\c2\\hc\100\w\0\l\0\tt\0\tl\0\st\Kyle\st2\none\dt\0
+12-10-2020 1:29 (0:25): say: astupidbot: Hey!
+12-10-2020 1:29 (0:30): Kill: 0 1 3: ^3chains killed astupidbot by MOD_SABER
+12-10-2020 1:29 (0:31): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/astupidbot.jkb\saber2\none\saber1\kyle\color2\4\color1\4\sex\male\model\jawa\snaps\20\rate\25000\name\astupidbot
+12-10-2020 1:29 (0:31): ClientUserinfoChanged: 1 n\astupidbot\t\0\model\jawa\c1\4\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-10-2020 1:29 (0:45): Kill: 1 0 3: astupidbot killed ^3chains by MOD_SABER
+12-10-2020 1:29 (0:53): ClientUserinfoChanged handling info: 0 \name\^3chains\ip\136.49.101.98:29070\teamoverlay\0\snaps\50\sex\male\saber2\none\saber1\Kyle\rate\4000\model\kyle/default\ja_guid\051864430A7EE524850A0B7FF5985240\handicap\100\forcepowers\1-1-020000000000000000\1\lor2\4\color1\4\char_color_red\255\char_color_green\255\char_color_blue\255\cg_predictItems\1
+12-10-2020 1:29 (0:53): ClientUserinfoChanged: 0 n\^3chains\t\0\model\kyle/default\c1\\c2\\hc\100\w\0\l\0\tt\0\tl\0\st\Kyle\st2\none\dt\0
+12-10-2020 1:29 (1:07): say: astupidbot: Quit laming Chains!
+12-10-2020 1:29 (1:13): Kill: 0 1 31: ^3chains killed astupidbot by MOD_FORCE_DARK
+12-10-2020 1:30 (1:14): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/astupidbot.jkb\saber2\none\saber1\kyle\color2\4\color1\4\sex\male\model\jawa\snaps\20\rate\25000\name\astupidbot
+12-10-2020 1:30 (1:14): ClientUserinfoChanged: 1 n\astupidbot\t\0\model\jawa\c1\4\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-10-2020 1:30 (1:27): Kill: 1022 1 41: <world> killed astupidbot by MOD_TRIGGER_HURT
+12-10-2020 1:30 (1:28): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/astupidbot.jkb\saber2\none\saber1\kyle\color2\4\color1\4\sex\male\model\jawa\snaps\20\rate\25000\name\astupidbot
+12-10-2020 1:30 (1:28): ClientUserinfoChanged: 1 n\astupidbot\t\0\model\jawa\c1\4\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-10-2020 1:31 (2:15): Kill: 1022 0 41: <world> killed ^3chains by MOD_TRIGGER_HURT
+12-10-2020 1:31 (2:17): ClientUserinfoChanged handling info: 0 \name\^3chains\ip\136.49.101.98:29070\teamoverlay\0\snaps\50\sex\male\saber2\none\saber1\Kyle\rate\4000\model\kyle/default\ja_guid\051864430A7EE524850A0B7FF5985240\handicap\100\forcepowers\1-1-020000000000000000\1\lor2\4\color1\4\char_color_red\255\char_color_green\255\char_color_blue\255\cg_predictItems\1
+12-10-2020 1:31 (2:17): ClientUserinfoChanged: 0 n\^3chains\t\0\model\kyle/default\c1\\c2\\hc\100\w\0\l\0\tt\0\tl\0\st\Kyle\st2\none\dt\0
+12-10-2020 1:34 (5:32): say: astupidbot: Where is everyone?
+12-10-2020 1:37 (8:20): Kill: 0 1 3: ^3chains killed astupidbot by MOD_SABER
+12-10-2020 1:37 (8:22): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/astupidbot.jkb\saber2\none\saber1\kyle\color2\4\color1\4\sex\male\model\jawa\snaps\20\rate\25000\name\astupidbot
+12-10-2020 1:37 (8:22): ClientUserinfoChanged: 1 n\astupidbot\t\0\model\jawa\c1\4\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-10-2020 1:37 (8:22): say: astupidbot: You suck Chains.
+12-10-2020 1:38 (9:17): ClientDisconnect: 1
+12-10-2020 1:38 (9:27): ClientConnect: 1
+12-10-2020 1:38 (9:27): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/astupidbot.jkb\saber2\none\saber1\kyle\color2\4\color1\4\sex\male\model\jawa\snaps\20\rate\25000\name\astupidbot
+12-10-2020 1:38 (9:27): ClientUserinfoChanged: 1 n\astupidbot\t\0\model\jawa\c1\4\c2\4\hc\0\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\\st2\\dt\0\sdt\0
+12-10-2020 1:38 (9:27): IP: localhost astupidbot
+12-10-2020 1:38 (9:27): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/astupidbot.jkb\saber2\none\saber1\kyle\color2\4\color1\4\sex\male\model\jawa\snaps\20\rate\25000\name\astupidbot
+12-10-2020 1:38 (9:27): ClientUserinfoChanged: 1 n\astupidbot\t\0\model\jawa\c1\4\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-10-2020 1:38 (9:27): ClientBegin: 1
+12-10-2020 1:38 (9:41): ClientDisconnect: 1
+12-10-2020 1:39 (10:16): ShutdownGame:
+12-10-2020 1:39 (10:16): ------------------------------------------------------------
+12-10-2020 1:39 (0:00): ------------------------------------------------------------
+12-10-2020 1:39 (0:00): InitGame: \version\JAmp: v1.0.1.0 linux-i386 Mar 14 2020\timelimit\0\sv_privateClients\0\sv_minRate\0\sv_minPing\0\sv_maxclients\32\sv_maxRate\0\sv_maxPing\999\sv_hostname\^7~^1~^7~ COMM SERVER ~^1~^7~\sv_fps\50\sv_floodProtectSlow\1\sv_floodProtect\1\sv_autoDemo\0\sv_allowDownload\0\serveruptime\0\protocol\26\mapname\taspir1\gamename\Lugormod\g_weaponDisable\0\g_stepSlideFix\0\g_siegeTeamSwitch\1\g_siegeTeam2\none\g_siegeTeam1\none\g_siegeRespawn\20\g_showDuelHealths\1\g_saberWallDamageScale\0.4\g_saberLocking\0\g_privateDuel\1535\g_noSpecMove\0\g_needpass\1\g_maxHolocronCarry\3\g_maxGameClients\0\g_maxForceRank\7\g_jediVmerc\0\g_gametype\0\g_gamemode\0\g_forceRegenTime\130\g_forcePowerDisable\0\g_forceBasedTeams\1\g_duelWeaponDisable\9\g_debugmelee\1\g_allowNPC\1\fraglimit\0\duel_fraglimit\10\dmflags\0\capturelimit\10\bot_minplayers\0\bg_fighterAltControl\0\Lugormod_Version\U#-2.4.8.4
+12-10-2020 1:39 (0:00): ClientDisconnect: 0
+12-10-2020 1:39 (0:22): ClientConnect: 0
+12-10-2020 1:39 (0:22): ClientUserinfoChanged handling info: 0 \ip\136.49.101.98:29070\challenge\-1789719664\qport\42804\protocol\26\teamoverlay\0\snaps\50\sex\male\saber2\none\saber1\Kyle\rate\4000\password\temppw\name\^3chains\model\kyle/default\ja_guid\051864430A7EE524850A0B7FF5985240\handicap\100\forcepowers\1-1-020000000000000000\color2\4\color1\4\char_color_red\255\char_color_green\255\char_color_blue\255\cg_predictItems\1
+12-10-2020 1:39 (0:22): ClientUserinfoChanged: 0 n\Padawan\t\0\model\kyle/default\c1\4\c2\4\hc\0\w\0\l\0\tt\0\tl\0\st\\st2\\dt\0
+12-10-2020 1:39 (0:22): IP: 136.49.101.98 Padawan
+12-10-2020 1:39 (0:25): ClientUserinfoChanged handling info: 0 \ip\136.49.101.98:29070\teamoverlay\0\snaps\50\sex\male\saber2\none\saber1\Kyle\rate\4000\password\temppw\name\^3chains\model\kyle/default\ja_guid\051864430A7EE524850A0B7FF5985240\handicap\100\forcepowers\1-1-020000000000000000\color2\4\color1\4\char_color_red\255\char_color_green\255\char_color_blue\255\cg_predictItems\1
+12-10-2020 1:39 (0:25): ClientUserinfoChanged: 0 n\Padawan\t\0\model\kyle/default\c1\4\c2\4\hc\0\w\0\l\0\tt\0\tl\0\st\Kyle\st2\none\dt\0
+12-10-2020 1:39 (0:25): ClientUserinfoChanged handling info: 0 \ip\136.49.101.98:29070\teamoverlay\0\snaps\50\sex\male\saber2\none\saber1\Kyle\rate\4000\password\temppw\name\^3chains\model\kyle/default\ja_guid\051864430A7EE524850A0B7FF5985240\handicap\100\forcepowers\1-1-020000000000000000\color2\4\color1\4\char_color_red\255\char_color_green\255\char_color_blue\255\cg_predictItems\1
+12-10-2020 1:39 (0:25): ClientUserinfoChanged: 0 n\Padawan\t\0\model\kyle/default\c1\4\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\Kyle\st2\none\dt\0
+12-10-2020 1:39 (0:25): ClientBegin: 0
+12-10-2020 1:39 (0:28): ClientUserinfoChanged handling info: 0 \ip\136.49.101.98:29070\teamoverlay\0\snaps\50\sex\male\saber2\none\saber1\Kyle\rate\4000\password\temppw\name\^3chains\model\kyle/default\ja_guid\051864430A7EE524850A0B7FF5985240\handicap\100\forcepowers\1-1-020000000000000000\color2\4\color1\4\char_color_red\255\char_color_green\255\char_color_blue\255\cg_predictItems\1
+12-10-2020 1:39 (0:28): ClientNamechange: Padawan is now ^3chains
+12-10-2020 1:39 (0:28): ClientUserinfoChanged: 0 n\^3chains\t\0\model\kyle/default\c1\4\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\Kyle\st2\none\dt\0
+12-10-2020 1:39 (0:28): ClientUserinfoChanged handling info: 0 \name\^3chains\ip\136.49.101.98:29070\teamoverlay\0\snaps\50\sex\male\saber2\none\saber1\Kyle\rate\4000\password\temppw\model\kyle/default\ja_guid\051864430A7EE524850A0B7FF5985240\handicap\100\forcepowers\1-1-0200\color2\4\color1\lor2\4\color1\4\char_color_red\255\char_color_green\255\char_color_blue\255\cg_predictItems\1
+12-10-2020 1:39 (0:28): ClientUserinfoChanged: 0 n\^3chains\t\0\model\kyle/default\c1\lor2\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\Kyle\st2\none\dt\0
+12-10-2020 1:47 (8:39): ClientConnect: 1
+12-10-2020 1:47 (8:39): ClientUserinfoChanged handling info: 1 \team\red\skill\ 4.00\personality\botfiles/astupidbot.jkb\saber2\none\saber1\kyle\color2\4\color1\4\sex\male\model\jawa\snaps\20\rate\25000\name\astupidbot
+12-10-2020 1:47 (8:39): ClientUserinfoChanged: 1 n\astupidbot\t\0\model\jawa\c1\4\c2\4\hc\0\w\0\l\0\skill\ 4.00\tt\0\tl\0\siegeclass\none\st\\st2\\dt\0\sdt\0
+12-10-2020 1:47 (8:39): IP: localhost astupidbot
+12-10-2020 1:47 (8:39): ClientUserinfoChanged handling info: 1 \team\red\skill\ 4.00\personality\botfiles/astupidbot.jkb\saber2\none\saber1\kyle\color2\4\color1\4\sex\male\model\jawa\snaps\20\rate\25000\name\astupidbot
+12-10-2020 1:47 (8:39): ClientUserinfoChanged: 1 n\astupidbot\t\0\model\jawa\c1\4\c2\4\hc\100\w\0\l\0\skill\ 4.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-10-2020 1:47 (8:39): ClientBegin: 1
+12-10-2020 1:47 (8:47): Kill: 0 0 39: ^3chains killed ^3chains by MOD_SUICIDE
+12-10-2020 1:47 (8:47): setteam:  0 FREE SPECTATOR
+12-10-2020 1:47 (8:47): ClientUserinfoChanged handling info: 0 \name\^3chains\ip\136.49.101.98:29070\teamoverlay\0\snaps\50\sex\male\saber2\none\saber1\Kyle\rate\4000\password\temppw\model\kyle/default\ja_guid\051864430A7EE524850A0B7FF5985240\handicap\100\forcepowers\1-1-0200\color2\4\color1\lor2\4\color1\4\char_color_red\255\char_color_green\255\char_color_blue\255\cg_predictItems\1
+12-10-2020 1:47 (8:47): ClientUserinfoChanged: 0 n\^3chains\t\3\model\kyle/default\c1\lor2\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\Kyle\st2\none\dt\0
+12-10-2020 1:47 (8:47): ClientBegin: 0
+12-10-2020 1:50 (11:49): say: astupidbot: Where is everyone?
+12-10-2020 1:51 (12:38): ShutdownGame:
+12-10-2020 1:51 (12:38): ------------------------------------------------------------
+12-10-2020 1:51 (0:00): ------------------------------------------------------------
+12-10-2020 1:51 (0:00): InitGame: \version\JAmp: v1.0.1.0 linux-i386 Mar 14 2020\timelimit\0\sv_privateClients\0\sv_minRate\0\sv_minPing\0\sv_maxclients\32\sv_maxRate\0\sv_maxPing\999\sv_hostname\^7~^1~^7~ COMM SERVER ~^1~^7~\sv_fps\50\sv_floodProtectSlow\1\sv_floodProtect\0\sv_autoDemo\0\sv_allowDownload\0\serveruptime\0\protocol\26\mapname\taspir1\gamename\Lugormod\g_weaponDisable\0\g_stepSlideFix\0\g_siegeTeamSwitch\1\g_siegeTeam2\none\g_siegeTeam1\none\g_siegeRespawn\20\g_showDuelHealths\1\g_saberWallDamageScale\0.4\g_saberLocking\0\g_privateDuel\1535\g_noSpecMove\0\g_needpass\1\g_maxHolocronCarry\3\g_maxGameClients\0\g_maxForceRank\7\g_jediVmerc\0\g_gametype\0\g_gamemode\0\g_forceRegenTime\130\g_forcePowerDisable\0\g_forceBasedTeams\1\g_duelWeaponDisable\9\g_debugmelee\1\g_allowNPC\1\fraglimit\0\duel_fraglimit\10\dmflags\0\capturelimit\10\bot_minplayers\2\bg_fighterAltControl\0\Lugormod_Version\U#-2.4.8.4
+12-10-2020 1:51 (0:00): ShutdownGame:
+12-10-2020 1:51 (0:00): ------------------------------------------------------------
+12-10-2020 1:51 (0:00): ------------------------------------------------------------
+12-10-2020 1:51 (0:00): InitGame: \version\JAmp: v1.0.1.0 linux-i386 Mar 14 2020\timelimit\45\sv_privateClients\0\sv_minRate\0\sv_minPing\0\sv_maxclients\32\sv_maxRate\0\sv_maxPing\999\sv_hostname\^7~^1~^7~ COMM SERVER ~^1~^7~\sv_fps\50\sv_floodProtectSlow\1\sv_floodProtect\1\sv_autoDemo\0\sv_allowDownload\0\protocol\26\mapname\mp/duel5\g_weaponDisable\0\g_stepSlideFix\0\g_siegeTeamSwitch\1\g_siegeTeam2\none\g_siegeTeam1\none\g_siegeRespawn\20\g_showDuelHealths\1\g_saberLocking\0\g_privateDuel\1535\g_noSpecMove\0\g_needpass\0\g_maxHolocronCarry\3\g_maxGameClients\0\g_maxForceRank\7\g_jediVmerc\0\g_gametype\0\g_gamemode\0\g_forceRegenTime\130\g_forcePowerDisable\0\g_forceBasedTeams\1\g_duelWeaponDisable\9\g_debugmelee\1\g_allowNPC\1\fraglimit\0\duel_fraglimit\10\dmflags\0\capturelimit\10\gamename\Lugormod\Lugormod_Version\U#-2.4.8.4\serveruptime\0\g_saberWallDamageScale\0.4\bg_fighterAltControl\0
+12-10-2020 1:51 (0:02): ClientConnect: 0
+12-10-2020 1:51 (0:02): ClientUserinfoChanged handling info: 0 \ip\136.49.101.98:29070\challenge\1371020404\qport\42804\protocol\26\teamoverlay\0\snaps\50\sex\male\saber2\none\saber1\Kyle\rate\4000\password\temppw\name\^3chains\model\kyle/default\ja_guid\051864430A7EE524850A0B7FF5985240\handicap\100\forcepowers\1-1-020000000000000000\color2\4\color1\4\char_color_red\255\char_color_green\255\char_color_blue\255\cg_predictItems\1
+12-10-2020 1:51 (0:02): ClientUserinfoChanged: 0 n\Padawan\t\0\model\kyle/default\c1\4\c2\4\hc\0\w\0\l\0\tt\0\tl\0\st\\st2\\dt\0
+12-10-2020 1:51 (0:02): IP: 136.49.101.98 Padawan
+12-10-2020 1:51 (0:05): ClientUserinfoChanged handling info: 0 \ip\136.49.101.98:29070\teamoverlay\0\snaps\50\sex\male\saber2\none\saber1\Kyle\rate\4000\password\temppw\name\^3chains\model\kyle/default\ja_guid\051864430A7EE524850A0B7FF5985240\handicap\100\forcepowers\1-1-020000000000000000\color2\4\color1\4\char_color_red\255\char_color_green\255\char_color_blue\255\cg_predictItems\1
+12-10-2020 1:51 (0:05): ClientUserinfoChanged: 0 n\Padawan\t\0\model\kyle/default\c1\4\c2\4\hc\0\w\0\l\0\tt\0\tl\0\st\Kyle\st2\none\dt\0
+12-10-2020 1:51 (0:05): ClientUserinfoChanged handling info: 0 \ip\136.49.101.98:29070\teamoverlay\0\snaps\50\sex\male\saber2\none\saber1\Kyle\rate\4000\password\temppw\name\^3chains\model\kyle/default\ja_guid\051864430A7EE524850A0B7FF5985240\handicap\100\forcepowers\1-1-020000000000000000\color2\4\color1\4\char_color_red\255\char_color_green\255\char_color_blue\255\cg_predictItems\1
+12-10-2020 1:51 (0:05): ClientUserinfoChanged: 0 n\Padawan\t\0\model\kyle/default\c1\4\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\Kyle\st2\none\dt\0
+12-10-2020 1:51 (0:05): ClientBegin: 0
+12-10-2020 1:51 (0:10): ShutdownGame:
+12-10-2020 1:51 (0:10): ------------------------------------------------------------
+12-10-2020 1:51 (0:00): ------------------------------------------------------------
+12-10-2020 1:51 (0:00): InitGame: \version\JAmp: v1.0.1.0 linux-i386 Mar 14 2020\timelimit\45\sv_privateClients\0\sv_minRate\0\sv_minPing\0\sv_maxclients\32\sv_maxRate\0\sv_maxPing\999\sv_hostname\^7~^1~^7~ COMM SERVER ~^1~^7~\sv_fps\50\sv_floodProtectSlow\1\sv_floodProtect\1\sv_autoDemo\0\sv_allowDownload\0\serveruptime\0\protocol\26\mapname\taspir1\gamename\Lugormod\g_weaponDisable\0\g_stepSlideFix\0\g_siegeTeamSwitch\1\g_siegeTeam2\none\g_siegeTeam1\none\g_siegeRespawn\20\g_showDuelHealths\1\g_saberWallDamageScale\0.4\g_saberLocking\0\g_privateDuel\1535\g_noSpecMove\0\g_needpass\0\g_maxHolocronCarry\3\g_maxGameClients\0\g_maxForceRank\7\g_jediVmerc\0\g_gametype\0\g_gamemode\0\g_forceRegenTime\130\g_forcePowerDisable\0\g_forceBasedTeams\1\g_duelWeaponDisable\9\g_debugmelee\1\g_allowNPC\1\fraglimit\0\duel_fraglimit\10\dmflags\0\capturelimit\10\bot_minplayers\2\bg_fighterAltControl\0\Lugormod_Version\U#-2.4.8.4
+12-10-2020 1:52 (0:00): ShutdownGame:
+12-10-2020 1:52 (0:00): ------------------------------------------------------------
+12-10-2020 1:52 (0:00): ------------------------------------------------------------
+12-10-2020 1:52 (0:00): InitGame: \version\JAmp: v1.0.1.0 linux-i386 Mar 14 2020\timelimit\45\sv_privateClients\0\sv_minRate\0\sv_minPing\0\sv_maxclients\32\sv_maxRate\0\sv_maxPing\999\sv_hostname\^7~^1~^7~ COMM SERVER ~^1~^7~\sv_fps\50\sv_floodProtectSlow\1\sv_floodProtect\1\sv_autoDemo\0\sv_allowDownload\0\protocol\26\mapname\mp/duel5\g_weaponDisable\0\g_stepSlideFix\0\g_siegeTeamSwitch\1\g_siegeTeam2\none\g_siegeTeam1\none\g_siegeRespawn\20\g_showDuelHealths\1\g_saberLocking\0\g_privateDuel\1535\g_noSpecMove\0\g_needpass\0\g_maxHolocronCarry\3\g_maxGameClients\0\g_maxForceRank\7\g_jediVmerc\0\g_gametype\0\g_gamemode\0\g_forceRegenTime\130\g_forcePowerDisable\0\g_forceBasedTeams\1\g_duelWeaponDisable\9\g_debugmelee\1\g_allowNPC\1\fraglimit\0\duel_fraglimit\10\dmflags\0\capturelimit\10\gamename\Lugormod\Lugormod_Version\U#-2.4.8.4\serveruptime\0\g_saberWallDamageScale\0.4\bg_fighterAltControl\0
+12-10-2020 1:52 (0:17): ClientConnect: 0
+12-10-2020 1:52 (0:17): ClientUserinfoChanged handling info: 0 \ip\136.49.101.98:29070\challenge\-1157778958\qport\42804\protocol\26\teamoverlay\0\snaps\50\sex\male\saber2\none\saber1\Kyle\rate\4000\password\temppw\name\^3chains\model\kyle/default\ja_guid\051864430A7EE524850A0B7FF5985240\handicap\100\forcepowers\1-1-020000000000000000\color2\4\color1\4\char_color_red\255\char_color_green\255\char_color_blue\255\cg_predictItems\1
+12-10-2020 1:52 (0:17): ClientUserinfoChanged: 0 n\Padawan\t\0\model\kyle/default\c1\4\c2\4\hc\0\w\0\l\0\tt\0\tl\0\st\\st2\\dt\0
+12-10-2020 1:52 (0:17): IP: 136.49.101.98 Padawan
+12-10-2020 1:52 (0:20): ClientUserinfoChanged handling info: 0 \ip\136.49.101.98:29070\teamoverlay\0\snaps\50\sex\male\saber2\none\saber1\Kyle\rate\4000\password\temppw\name\^3chains\model\kyle/default\ja_guid\051864430A7EE524850A0B7FF5985240\handicap\100\forcepowers\1-1-020000000000000000\color2\4\color1\4\char_color_red\255\char_color_green\255\char_color_blue\255\cg_predictItems\1
+12-10-2020 1:52 (0:20): ClientUserinfoChanged: 0 n\Padawan\t\0\model\kyle/default\c1\4\c2\4\hc\0\w\0\l\0\tt\0\tl\0\st\Kyle\st2\none\dt\0
+12-10-2020 1:52 (0:20): ClientUserinfoChanged handling info: 0 \ip\136.49.101.98:29070\teamoverlay\0\snaps\50\sex\male\saber2\none\saber1\Kyle\rate\4000\password\temppw\name\^3chains\model\kyle/default\ja_guid\051864430A7EE524850A0B7FF5985240\handicap\100\forcepowers\1-1-020000000000000000\color2\4\color1\4\char_color_red\255\char_color_green\255\char_color_blue\255\cg_predictItems\1
+12-10-2020 1:52 (0:20): ClientUserinfoChanged: 0 n\Padawan\t\0\model\kyle/default\c1\4\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\Kyle\st2\none\dt\0
+12-10-2020 1:52 (0:20): ClientBegin: 0
+12-10-2020 1:52 (0:24): ShutdownGame:
+12-10-2020 1:52 (0:24): ------------------------------------------------------------
+12-10-2020 1:52 (0:00): ------------------------------------------------------------
+12-10-2020 1:52 (0:00): InitGame: \version\JAmp: v1.0.1.0 linux-i386 Mar 14 2020\timelimit\45\sv_privateClients\0\sv_minRate\0\sv_minPing\0\sv_maxclients\32\sv_maxRate\0\sv_maxPing\999\sv_hostname\^7~^1~^7~ COMM SERVER ~^1~^7~\sv_fps\50\sv_floodProtectSlow\1\sv_floodProtect\1\sv_autoDemo\0\sv_allowDownload\0\serveruptime\0\protocol\26\mapname\mp/duel6\gamename\Lugormod\g_weaponDisable\0\g_stepSlideFix\0\g_siegeTeamSwitch\1\g_siegeTeam2\none\g_siegeTeam1\none\g_siegeRespawn\20\g_showDuelHealths\1\g_saberWallDamageScale\0.4\g_saberLocking\0\g_privateDuel\1535\g_noSpecMove\0\g_needpass\0\g_maxHolocronCarry\3\g_maxGameClients\0\g_maxForceRank\7\g_jediVmerc\0\g_gametype\0\g_gamemode\0\g_forceRegenTime\130\g_forcePowerDisable\0\g_forceBasedTeams\1\g_duelWeaponDisable\9\g_debugmelee\1\g_allowNPC\1\fraglimit\0\duel_fraglimit\10\dmflags\0\capturelimit\10\bot_minplayers\2\bg_fighterAltControl\0\Lugormod_Version\U#-2.4.8.4
+12-10-2020 1:52 (0:00): ClientConnect: 0
+12-10-2020 1:52 (0:00): ClientUserinfoChanged handling info: 0 \ip\136.49.101.98:29070\teamoverlay\0\snaps\50\sex\male\saber2\none\saber1\Kyle\rate\4000\password\temppw\name\^3chains\model\kyle/default\ja_guid\051864430A7EE524850A0B7FF5985240\handicap\100\forcepowers\1-1-020000000000000000\color2\4\color1\4\char_color_red\255\char_color_green\255\char_color_blue\255\cg_predictItems\1
+12-10-2020 1:52 (0:00): ClientUserinfoChanged: 0 n\Padawan\t\0\model\kyle/default\c1\4\c2\4\hc\0\w\0\l\0\tt\0\tl\0\st\Kyle\st2\none\dt\0
+12-10-2020 1:52 (0:03): ClientUserinfoChanged handling info: 0 \ip\136.49.101.98:29070\teamoverlay\0\snaps\50\sex\male\saber2\none\saber1\Kyle\rate\4000\password\temppw\name\^3chains\model\kyle/default\ja_guid\051864430A7EE524850A0B7FF5985240\handicap\100\forcepowers\1-1-020000000000000000\color2\4\color1\4\char_color_red\255\char_color_green\255\char_color_blue\255\cg_predictItems\1
+12-10-2020 1:52 (0:03): ClientUserinfoChanged: 0 n\Padawan\t\0\model\kyle/default\c1\4\c2\4\hc\0\w\0\l\0\tt\0\tl\0\st\Kyle\st2\none\dt\0
+12-10-2020 1:52 (0:03): ClientUserinfoChanged handling info: 0 \ip\136.49.101.98:29070\teamoverlay\0\snaps\50\sex\male\saber2\none\saber1\Kyle\rate\4000\password\temppw\name\^3chains\model\kyle/default\ja_guid\051864430A7EE524850A0B7FF5985240\handicap\100\forcepowers\1-1-020000000000000000\color2\4\color1\4\char_color_red\255\char_color_green\255\char_color_blue\255\cg_predictItems\1
+12-10-2020 1:52 (0:03): ClientUserinfoChanged: 0 n\Padawan\t\0\model\kyle/default\c1\4\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\Kyle\st2\none\dt\0
+12-10-2020 1:52 (0:03): ClientBegin: 0
+12-10-2020 1:52 (0:13): ShutdownGame:
+12-10-2020 1:52 (0:13): ------------------------------------------------------------
+12-10-2020 1:52 (0:00): ------------------------------------------------------------
+12-10-2020 1:52 (0:00): InitGame: \version\JAmp: v1.0.1.0 linux-i386 Mar 14 2020\timelimit\45\sv_privateClients\0\sv_minRate\0\sv_minPing\0\sv_maxclients\32\sv_maxRate\0\sv_maxPing\999\sv_hostname\^7~^1~^7~ COMM SERVER ~^1~^7~\sv_fps\50\sv_floodProtectSlow\1\sv_floodProtect\1\sv_autoDemo\0\sv_allowDownload\0\serveruptime\0\protocol\26\mapname\t3_stamp\gamename\Lugormod\g_weaponDisable\0\g_stepSlideFix\0\g_siegeTeamSwitch\1\g_siegeTeam2\none\g_siegeTeam1\none\g_siegeRespawn\20\g_showDuelHealths\1\g_saberWallDamageScale\0.4\g_saberLocking\0\g_privateDuel\1535\g_noSpecMove\0\g_needpass\0\g_maxHolocronCarry\3\g_maxGameClients\0\g_maxForceRank\7\g_jediVmerc\0\g_gametype\0\g_gamemode\0\g_forceRegenTime\130\g_forcePowerDisable\0\g_forceBasedTeams\1\g_duelWeaponDisable\9\g_debugmelee\1\g_allowNPC\1\fraglimit\0\duel_fraglimit\10\dmflags\0\capturelimit\10\bot_minplayers\2\bg_fighterAltControl\0\Lugormod_Version\U#-2.4.8.4
+12-10-2020 1:52 (0:00): ClientConnect: 0
+12-10-2020 1:52 (0:00): ClientUserinfoChanged handling info: 0 \ip\136.49.101.98:29070\teamoverlay\0\snaps\50\sex\male\saber2\none\saber1\Kyle\rate\4000\password\temppw\name\^3chains\model\kyle/default\ja_guid\051864430A7EE524850A0B7FF5985240\handicap\100\forcepowers\1-1-020000000000000000\color2\4\color1\4\char_color_red\255\char_color_green\255\char_color_blue\255\cg_predictItems\1
+12-10-2020 1:52 (0:00): ClientUserinfoChanged: 0 n\Padawan\t\0\model\kyle/default\c1\4\c2\4\hc\0\w\0\l\0\tt\0\tl\0\st\Kyle\st2\none\dt\0
+12-10-2020 1:52 (0:04): ClientUserinfoChanged handling info: 0 \ip\136.49.101.98:29070\teamoverlay\0\snaps\50\sex\male\saber2\none\saber1\Kyle\rate\4000\password\temppw\name\^3chains\model\kyle/default\ja_guid\051864430A7EE524850A0B7FF5985240\handicap\100\forcepowers\1-1-020000000000000000\color2\4\color1\4\char_color_red\255\char_color_green\255\char_color_blue\255\cg_predictItems\1
+12-10-2020 1:52 (0:04): ClientUserinfoChanged: 0 n\Padawan\t\0\model\kyle/default\c1\4\c2\4\hc\0\w\0\l\0\tt\0\tl\0\st\Kyle\st2\none\dt\0
+12-10-2020 1:52 (0:04): ClientUserinfoChanged handling info: 0 \ip\136.49.101.98:29070\teamoverlay\0\snaps\50\sex\male\saber2\none\saber1\Kyle\rate\4000\password\temppw\name\^3chains\model\kyle/default\ja_guid\051864430A7EE524850A0B7FF5985240\handicap\100\forcepowers\1-1-020000000000000000\color2\4\color1\4\char_color_red\255\char_color_green\255\char_color_blue\255\cg_predictItems\1
+12-10-2020 1:52 (0:04): ClientUserinfoChanged: 0 n\Padawan\t\0\model\kyle/default\c1\4\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\Kyle\st2\none\dt\0
+12-10-2020 1:52 (0:04): ClientBegin: 0
+12-10-2020 1:52 (0:16): ShutdownGame:
+12-10-2020 1:52 (0:16): ------------------------------------------------------------
+12-10-2020 1:52 (0:00): ------------------------------------------------------------
+12-10-2020 1:52 (0:00): InitGame: \version\JAmp: v1.0.1.0 linux-i386 Mar 14 2020\timelimit\45\sv_privateClients\0\sv_minRate\0\sv_minPing\0\sv_maxclients\32\sv_maxRate\0\sv_maxPing\999\sv_hostname\^7~^1~^7~ COMM SERVER ~^1~^7~\sv_fps\50\sv_floodProtectSlow\1\sv_floodProtect\1\sv_autoDemo\0\sv_allowDownload\0\serveruptime\0\protocol\26\mapname\taspir1\gamename\Lugormod\g_weaponDisable\0\g_stepSlideFix\0\g_siegeTeamSwitch\1\g_siegeTeam2\none\g_siegeTeam1\none\g_siegeRespawn\20\g_showDuelHealths\1\g_saberWallDamageScale\0.4\g_saberLocking\0\g_privateDuel\1535\g_noSpecMove\0\g_needpass\0\g_maxHolocronCarry\3\g_maxGameClients\0\g_maxForceRank\7\g_jediVmerc\0\g_gametype\0\g_gamemode\0\g_forceRegenTime\130\g_forcePowerDisable\0\g_forceBasedTeams\1\g_duelWeaponDisable\9\g_debugmelee\1\g_allowNPC\1\fraglimit\0\duel_fraglimit\10\dmflags\0\capturelimit\10\bot_minplayers\2\bg_fighterAltControl\0\Lugormod_Version\U#-2.4.8.4
+12-10-2020 1:52 (0:00): ShutdownGame:
+12-10-2020 1:52 (0:00): ------------------------------------------------------------
+12-10-2020 1:53 (0:00): ------------------------------------------------------------
+12-10-2020 1:53 (0:00): InitGame: \version\JAmp: v1.0.1.0 linux-i386 Mar 14 2020\timelimit\45\sv_privateClients\0\sv_minRate\0\sv_minPing\0\sv_maxclients\32\sv_maxRate\0\sv_maxPing\999\sv_hostname\^7~^1~^7~ COMM SERVER ~^1~^7~\sv_fps\50\sv_floodProtectSlow\1\sv_floodProtect\1\sv_autoDemo\0\sv_allowDownload\0\protocol\26\mapname\mp/duel5\g_weaponDisable\0\g_stepSlideFix\0\g_siegeTeamSwitch\1\g_siegeTeam2\none\g_siegeTeam1\none\g_siegeRespawn\20\g_showDuelHealths\1\g_saberLocking\0\g_privateDuel\1535\g_noSpecMove\0\g_needpass\0\g_maxHolocronCarry\3\g_maxGameClients\0\g_maxForceRank\7\g_jediVmerc\0\g_gametype\0\g_gamemode\0\g_forceRegenTime\130\g_forcePowerDisable\0\g_forceBasedTeams\1\g_duelWeaponDisable\9\g_debugmelee\1\g_allowNPC\1\fraglimit\0\duel_fraglimit\10\dmflags\0\capturelimit\10\gamename\Lugormod\Lugormod_Version\U#-2.4.8.4\serveruptime\0\g_saberWallDamageScale\0.4\bg_fighterAltControl\0
+12-10-2020 1:53 (0:02): ClientConnect: 0
+12-10-2020 1:53 (0:02): ClientUserinfoChanged handling info: 0 \ip\136.49.101.98:29070\challenge\1263208949\qport\42804\protocol\26\teamoverlay\0\snaps\50\sex\male\saber2\none\saber1\Kyle\rate\4000\password\temppw\name\^3chains\model\kyle/default\ja_guid\051864430A7EE524850A0B7FF5985240\handicap\100\forcepowers\1-1-020000000000000000\color2\4\color1\4\char_color_red\255\char_color_green\255\char_color_blue\255\cg_predictItems\1
+12-10-2020 1:53 (0:02): ClientUserinfoChanged: 0 n\Padawan\t\0\model\kyle/default\c1\4\c2\4\hc\0\w\0\l\0\tt\0\tl\0\st\\st2\\dt\0
+12-10-2020 1:53 (0:02): IP: 136.49.101.98 Padawan
+12-10-2020 1:53 (0:05): ClientUserinfoChanged handling info: 0 \ip\136.49.101.98:29070\teamoverlay\0\snaps\50\sex\male\saber2\none\saber1\Kyle\rate\4000\password\temppw\name\^3chains\model\kyle/default\ja_guid\051864430A7EE524850A0B7FF5985240\handicap\100\forcepowers\1-1-020000000000000000\color2\4\color1\4\char_color_red\255\char_color_green\255\char_color_blue\255\cg_predictItems\1
+12-10-2020 1:53 (0:05): ClientUserinfoChanged: 0 n\Padawan\t\0\model\kyle/default\c1\4\c2\4\hc\0\w\0\l\0\tt\0\tl\0\st\Kyle\st2\none\dt\0
+12-10-2020 1:53 (0:05): ClientUserinfoChanged handling info: 0 \ip\136.49.101.98:29070\teamoverlay\0\snaps\50\sex\male\saber2\none\saber1\Kyle\rate\4000\password\temppw\name\^3chains\model\kyle/default\ja_guid\051864430A7EE524850A0B7FF5985240\handicap\100\forcepowers\1-1-020000000000000000\color2\4\color1\4\char_color_red\255\char_color_green\255\char_color_blue\255\cg_predictItems\1
+12-10-2020 1:53 (0:05): ClientUserinfoChanged: 0 n\Padawan\t\0\model\kyle/default\c1\4\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\Kyle\st2\none\dt\0
+12-10-2020 1:53 (0:05): ClientBegin: 0
+12-10-2020 1:53 (0:24): ShutdownGame:
+12-10-2020 1:53 (0:24): ------------------------------------------------------------
+12-10-2020 1:53 (0:00): ------------------------------------------------------------
+12-10-2020 1:53 (0:00): InitGame: \version\JAmp: v1.0.1.0 linux-i386 Mar 14 2020\timelimit\45\sv_privateClients\0\sv_minRate\0\sv_minPing\0\sv_maxclients\32\sv_maxRate\0\sv_maxPing\999\sv_hostname\^7~^1~^7~ COMM SERVER ~^1~^7~\sv_fps\50\sv_floodProtectSlow\1\sv_floodProtect\1\sv_autoDemo\0\sv_allowDownload\0\serveruptime\0\protocol\26\mapname\mp/duel5\gamename\Lugormod\g_weaponDisable\0\g_stepSlideFix\0\g_siegeTeamSwitch\1\g_siegeTeam2\none\g_siegeTeam1\none\g_siegeRespawn\20\g_showDuelHealths\1\g_saberWallDamageScale\0.4\g_saberLocking\0\g_privateDuel\1535\g_noSpecMove\0\g_needpass\0\g_maxHolocronCarry\3\g_maxGameClients\0\g_maxForceRank\7\g_jediVmerc\0\g_gametype\0\g_gamemode\0\g_forceRegenTime\130\g_forcePowerDisable\0\g_forceBasedTeams\1\g_duelWeaponDisable\9\g_debugmelee\1\g_allowNPC\1\fraglimit\0\duel_fraglimit\10\dmflags\0\capturelimit\10\bot_minplayers\2\bg_fighterAltControl\0\Lugormod_Version\U#-2.4.8.4
+12-10-2020 1:53 (0:00): ClientConnect: 0
+12-10-2020 1:53 (0:00): ClientUserinfoChanged handling info: 0 \ip\136.49.101.98:29070\teamoverlay\0\snaps\50\sex\male\saber2\none\saber1\Kyle\rate\4000\password\temppw\name\^3chains\model\kyle/default\ja_guid\051864430A7EE524850A0B7FF5985240\handicap\100\forcepowers\1-1-020000000000000000\color2\4\color1\4\char_color_red\255\char_color_green\255\char_color_blue\255\cg_predictItems\1
+12-10-2020 1:53 (0:00): ClientUserinfoChanged: 0 n\Padawan\t\0\model\kyle/default\c1\4\c2\4\hc\0\w\0\l\0\tt\0\tl\0\st\Kyle\st2\none\dt\0
+12-10-2020 1:53 (0:03): ClientUserinfoChanged handling info: 0 \ip\136.49.101.98:29070\teamoverlay\0\snaps\50\sex\male\saber2\none\saber1\Kyle\rate\4000\password\temppw\name\^3chains\model\kyle/default\ja_guid\051864430A7EE524850A0B7FF5985240\handicap\100\forcepowers\1-1-020000000000000000\color2\4\color1\4\char_color_red\255\char_color_green\255\char_color_blue\255\cg_predictItems\1
+12-10-2020 1:53 (0:03): ClientUserinfoChanged: 0 n\Padawan\t\0\model\kyle/default\c1\4\c2\4\hc\0\w\0\l\0\tt\0\tl\0\st\Kyle\st2\none\dt\0
+12-10-2020 1:53 (0:03): ClientUserinfoChanged handling info: 0 \ip\136.49.101.98:29070\teamoverlay\0\snaps\50\sex\male\saber2\none\saber1\Kyle\rate\4000\password\temppw\name\^3chains\model\kyle/default\ja_guid\051864430A7EE524850A0B7FF5985240\handicap\100\forcepowers\1-1-020000000000000000\color2\4\color1\4\char_color_red\255\char_color_green\255\char_color_blue\255\cg_predictItems\1
+12-10-2020 1:53 (0:03): ClientUserinfoChanged: 0 n\Padawan\t\0\model\kyle/default\c1\4\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\Kyle\st2\none\dt\0
+12-10-2020 1:53 (0:03): ClientBegin: 0
+12-10-2020 1:53 (0:10): ShutdownGame:
+12-10-2020 1:53 (0:10): ------------------------------------------------------------
+12-10-2020 1:53 (0:00): ------------------------------------------------------------
+12-10-2020 1:53 (0:00): InitGame: \version\JAmp: v1.0.1.0 linux-i386 Mar 14 2020\timelimit\45\sv_privateClients\0\sv_minRate\0\sv_minPing\0\sv_maxclients\32\sv_maxRate\0\sv_maxPing\999\sv_hostname\^7~^1~^7~ COMM SERVER ~^1~^7~\sv_fps\50\sv_floodProtectSlow\1\sv_floodProtect\1\sv_autoDemo\0\sv_allowDownload\0\serveruptime\0\protocol\26\mapname\taspir1\gamename\Lugormod\g_weaponDisable\0\g_stepSlideFix\0\g_siegeTeamSwitch\1\g_siegeTeam2\none\g_siegeTeam1\none\g_siegeRespawn\20\g_showDuelHealths\1\g_saberWallDamageScale\0.4\g_saberLocking\0\g_privateDuel\1535\g_noSpecMove\0\g_needpass\0\g_maxHolocronCarry\3\g_maxGameClients\0\g_maxForceRank\7\g_jediVmerc\0\g_gametype\0\g_gamemode\0\g_forceRegenTime\130\g_forcePowerDisable\0\g_forceBasedTeams\1\g_duelWeaponDisable\9\g_debugmelee\1\g_allowNPC\1\fraglimit\0\duel_fraglimit\10\dmflags\0\capturelimit\10\bot_minplayers\2\bg_fighterAltControl\0\Lugormod_Version\U#-2.4.8.4
+12-10-2020 1:53 (0:00): ClientConnect: 0
+12-10-2020 1:53 (0:00): ClientUserinfoChanged handling info: 0 \ip\136.49.101.98:29070\teamoverlay\0\snaps\50\sex\male\saber2\none\saber1\Kyle\rate\4000\password\temppw\name\^3chains\model\kyle/default\ja_guid\051864430A7EE524850A0B7FF5985240\handicap\100\forcepowers\1-1-020000000000000000\color2\4\color1\4\char_color_red\255\char_color_green\255\char_color_blue\255\cg_predictItems\1
+12-10-2020 1:53 (0:00): ClientUserinfoChanged: 0 n\Padawan\t\0\model\kyle/default\c1\4\c2\4\hc\0\w\0\l\0\tt\0\tl\0\st\Kyle\st2\none\dt\0
+12-10-2020 1:53 (0:04): ClientUserinfoChanged handling info: 0 \ip\136.49.101.98:29070\teamoverlay\0\snaps\50\sex\male\saber2\none\saber1\Kyle\rate\4000\password\temppw\name\^3chains\model\kyle/default\ja_guid\051864430A7EE524850A0B7FF5985240\handicap\100\forcepowers\1-1-020000000000000000\color2\4\color1\4\char_color_red\255\char_color_green\255\char_color_blue\255\cg_predictItems\1
+12-10-2020 1:53 (0:04): ClientUserinfoChanged: 0 n\Padawan\t\0\model\kyle/default\c1\4\c2\4\hc\0\w\0\l\0\tt\0\tl\0\st\Kyle\st2\none\dt\0
+12-10-2020 1:53 (0:04): ClientUserinfoChanged handling info: 0 \ip\136.49.101.98:29070\teamoverlay\0\snaps\50\sex\male\saber2\none\saber1\Kyle\rate\4000\password\temppw\name\^3chains\model\kyle/default\ja_guid\051864430A7EE524850A0B7FF5985240\handicap\100\forcepowers\1-1-020000000000000000\color2\4\color1\4\char_color_red\255\char_color_green\255\char_color_blue\255\cg_predictItems\1
+12-10-2020 1:53 (0:04): ClientUserinfoChanged: 0 n\Padawan\t\0\model\kyle/default\c1\4\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\Kyle\st2\none\dt\0
+12-10-2020 1:53 (0:04): ClientBegin: 0
+12-10-2020 1:53 (0:11): ClientUserinfoChanged handling info: 0 \ip\136.49.101.98:29070\teamoverlay\0\snaps\50\sex\male\saber2\none\saber1\Kyle\rate\4000\password\temppw\name\^3chains\model\kyle/default\ja_guid\051864430A7EE524850A0B7FF5985240\handicap\100\forcepowers\1-1-020000000000000000\color2\4\color1\4\char_color_red\255\char_color_green\255\char_color_blue\255\cg_predictItems\1
+12-10-2020 1:53 (0:11): ClientNamechange: Padawan is now ^3chains
+12-10-2020 1:53 (0:11): ClientUserinfoChanged: 0 n\^3chains\t\0\model\kyle/default\c1\4\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\Kyle\st2\none\dt\0
+12-10-2020 1:53 (0:12): ClientUserinfoChanged handling info: 0 \name\^3chains\ip\136.49.101.98:29070\teamoverlay\0\snaps\50\sex\male\saber2\none\saber1\Kyle\rate\4000\password\temppw\model\kyle/default\ja_guid\051864430A7EE524850A0B7FF5985240\handicap\100\forcepowers\1-1-0200\color2\4\color1\lor2\4\color1\4\char_color_red\255\char_color_green\255\char_color_blue\255\cg_predictItems\1
+12-10-2020 1:53 (0:12): ClientUserinfoChanged: 0 n\^3chains\t\0\model\kyle/default\c1\lor2\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\Kyle\st2\none\dt\0
+12-10-2020 1:54 (0:30): ClientConnect: 1
+12-10-2020 1:54 (0:30): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/astupidbot.jkb\saber2\none\saber1\kyle\color2\4\color1\4\sex\male\model\jawa\snaps\20\rate\25000\name\astupidbot
+12-10-2020 1:54 (0:30): ClientUserinfoChanged: 1 n\astupidbot\t\0\model\jawa\c1\4\c2\4\hc\0\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\\st2\\dt\0\sdt\0
+12-10-2020 1:54 (0:30): IP: localhost astupidbot
+12-10-2020 1:54 (0:30): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/astupidbot.jkb\saber2\none\saber1\kyle\color2\4\color1\4\sex\male\model\jawa\snaps\20\rate\25000\name\astupidbot
+12-10-2020 1:54 (0:30): ClientUserinfoChanged: 1 n\astupidbot\t\0\model\jawa\c1\4\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-10-2020 1:54 (0:30): ClientBegin: 1
+12-10-2020 2: 0 (6:27): ClientDisconnect: 1
+12-10-2020 2: 2 (8:46): ShutdownGame:
+12-10-2020 2: 2 (8:46): ------------------------------------------------------------
+12-10-2020 2: 2 (0:00): ------------------------------------------------------------
+12-10-2020 2: 2 (0:00): InitGame: \version\JAmp: v1.0.1.0 linux-i386 Mar 14 2020\timelimit\45\sv_privateClients\0\sv_minRate\0\sv_minPing\0\sv_maxclients\32\sv_maxRate\0\sv_maxPing\999\sv_hostname\^7~^1~^7~ COMM SERVER ~^1~^7~\sv_fps\50\sv_floodProtectSlow\1\sv_floodProtect\0\sv_autoDemo\0\sv_allowDownload\0\serveruptime\0\protocol\26\mapname\taspir1\gamename\Lugormod\g_weaponDisable\0\g_stepSlideFix\0\g_siegeTeamSwitch\1\g_siegeTeam2\none\g_siegeTeam1\none\g_siegeRespawn\20\g_showDuelHealths\1\g_saberWallDamageScale\0.4\g_saberLocking\0\g_privateDuel\1535\g_noSpecMove\0\g_needpass\0\g_maxHolocronCarry\3\g_maxGameClients\0\g_maxForceRank\7\g_jediVmerc\0\g_gametype\0\g_gamemode\0\g_forceRegenTime\130\g_forcePowerDisable\0\g_forceBasedTeams\1\g_duelWeaponDisable\9\g_debugmelee\1\g_allowNPC\1\fraglimit\0\duel_fraglimit\10\dmflags\0\capturelimit\10\bot_minplayers\0\bg_fighterAltControl\0\Lugormod_Version\U#-2.4.8.4
+12-10-2020 2: 2 (0:00): ShutdownGame:
+12-10-2020 2: 2 (0:00): ------------------------------------------------------------
+12-10-2020 2: 2 (0:00): ------------------------------------------------------------
+12-10-2020 2: 2 (0:00): InitGame: \version\JAmp: v1.0.1.0 linux-i386 Mar 14 2020\timelimit\45\sv_privateClients\0\sv_minRate\0\sv_minPing\0\sv_maxclients\32\sv_maxRate\0\sv_maxPing\999\sv_hostname\^7~^1~^7~ COMM SERVER ~^1~^7~\sv_fps\50\sv_floodProtectSlow\1\sv_floodProtect\1\sv_autoDemo\0\sv_allowDownload\0\protocol\26\mapname\mp/duel5\g_weaponDisable\0\g_stepSlideFix\0\g_siegeTeamSwitch\1\g_siegeTeam2\none\g_siegeTeam1\none\g_siegeRespawn\20\g_showDuelHealths\1\g_saberLocking\0\g_privateDuel\1535\g_noSpecMove\0\g_needpass\0\g_maxHolocronCarry\3\g_maxGameClients\0\g_maxForceRank\7\g_jediVmerc\0\g_gametype\0\g_gamemode\0\g_forceRegenTime\130\g_forcePowerDisable\0\g_forceBasedTeams\1\g_duelWeaponDisable\9\g_debugmelee\1\g_allowNPC\1\fraglimit\0\duel_fraglimit\10\dmflags\0\capturelimit\10\gamename\Lugormod\Lugormod_Version\U#-2.4.8.4\serveruptime\0\g_saberWallDamageScale\0.4\bg_fighterAltControl\0
+12-10-2020 2: 2 (0:01): ClientConnect: 0
+12-10-2020 2: 2 (0:01): ClientUserinfoChanged handling info: 0 \ip\136.49.101.98:29070\challenge\1970037532\qport\42804\protocol\26\teamoverlay\0\snaps\50\sex\male\saber2\none\saber1\Kyle\rate\4000\password\temppw\name\^3chains\model\kyle/default\ja_guid\051864430A7EE524850A0B7FF5985240\handicap\100\forcepowers\1-1-020000000000000000\color2\4\color1\4\char_color_red\255\char_color_green\255\char_color_blue\255\cg_predictItems\1
+12-10-2020 2: 2 (0:01): ClientUserinfoChanged: 0 n\Padawan\t\0\model\kyle/default\c1\4\c2\4\hc\0\w\0\l\0\tt\0\tl\0\st\\st2\\dt\0
+12-10-2020 2: 2 (0:01): IP: 136.49.101.98 Padawan
+12-10-2020 2: 2 (0:04): ClientUserinfoChanged handling info: 0 \ip\136.49.101.98:29070\teamoverlay\0\snaps\50\sex\male\saber2\none\saber1\Kyle\rate\4000\password\temppw\name\^3chains\model\kyle/default\ja_guid\051864430A7EE524850A0B7FF5985240\handicap\100\forcepowers\1-1-020000000000000000\color2\4\color1\4\char_color_red\255\char_color_green\255\char_color_blue\255\cg_predictItems\1
+12-10-2020 2: 2 (0:04): ClientUserinfoChanged: 0 n\Padawan\t\0\model\kyle/default\c1\4\c2\4\hc\0\w\0\l\0\tt\0\tl\0\st\Kyle\st2\none\dt\0
+12-10-2020 2: 2 (0:04): ClientUserinfoChanged handling info: 0 \ip\136.49.101.98:29070\teamoverlay\0\snaps\50\sex\male\saber2\none\saber1\Kyle\rate\4000\password\temppw\name\^3chains\model\kyle/default\ja_guid\051864430A7EE524850A0B7FF5985240\handicap\100\forcepowers\1-1-020000000000000000\color2\4\color1\4\char_color_red\255\char_color_green\255\char_color_blue\255\cg_predictItems\1
+12-10-2020 2: 2 (0:04): ClientUserinfoChanged: 0 n\Padawan\t\0\model\kyle/default\c1\4\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\Kyle\st2\none\dt\0
+12-10-2020 2: 2 (0:04): ClientBegin: 0
+12-10-2020 2: 2 (0:16): ShutdownGame:
+12-10-2020 2: 2 (0:16): ------------------------------------------------------------
+12-10-2020 2: 2 (0:00): ------------------------------------------------------------
+12-10-2020 2: 2 (0:00): InitGame: \version\JAmp: v1.0.1.0 linux-i386 Mar 14 2020\timelimit\45\sv_privateClients\0\sv_minRate\0\sv_minPing\0\sv_maxclients\32\sv_maxRate\0\sv_maxPing\999\sv_hostname\^7~^1~^7~ COMM SERVER ~^1~^7~\sv_fps\50\sv_floodProtectSlow\1\sv_floodProtect\1\sv_autoDemo\0\sv_allowDownload\0\protocol\26\mapname\mp/duel5\g_weaponDisable\0\g_stepSlideFix\0\g_siegeTeamSwitch\1\g_siegeTeam2\none\g_siegeTeam1\none\g_siegeRespawn\20\g_showDuelHealths\1\g_saberLocking\0\g_privateDuel\1535\g_noSpecMove\0\g_needpass\0\g_maxHolocronCarry\3\g_maxGameClients\0\g_maxForceRank\7\g_jediVmerc\0\g_gametype\0\g_gamemode\0\g_forceRegenTime\130\g_forcePowerDisable\0\g_forceBasedTeams\1\g_duelWeaponDisable\9\g_debugmelee\1\g_allowNPC\1\fraglimit\0\duel_fraglimit\10\dmflags\0\capturelimit\10\gamename\Lugormod\Lugormod_Version\U#-2.4.8.4\serveruptime\0\g_saberWallDamageScale\0.4\bg_fighterAltControl\0
+12-10-2020 2: 2 (0:01): ClientConnect: 0
+12-10-2020 2: 2 (0:01): ClientUserinfoChanged handling info: 0 \ip\136.49.101.98:29070\challenge\293614452\qport\42804\protocol\26\teamoverlay\0\snaps\50\sex\male\saber2\none\saber1\Kyle\rate\4000\password\temppw\name\^3chains\model\kyle/default\ja_guid\051864430A7EE524850A0B7FF5985240\handicap\100\forcepowers\1-1-020000000000000000\color2\4\color1\4\char_color_red\255\char_color_green\255\char_color_blue\255\cg_predictItems\1
+12-10-2020 2: 2 (0:01): ClientUserinfoChanged: 0 n\Padawan\t\0\model\kyle/default\c1\4\c2\4\hc\0\w\0\l\0\tt\0\tl\0\st\\st2\\dt\0
+12-10-2020 2: 2 (0:01): IP: 136.49.101.98 Padawan
+12-10-2020 2: 2 (0:04): ClientUserinfoChanged handling info: 0 \ip\136.49.101.98:29070\teamoverlay\0\snaps\50\sex\male\saber2\none\saber1\Kyle\rate\4000\password\temppw\name\^3chains\model\kyle/default\ja_guid\051864430A7EE524850A0B7FF5985240\handicap\100\forcepowers\1-1-020000000000000000\color2\4\color1\4\char_color_red\255\char_color_green\255\char_color_blue\255\cg_predictItems\1
+12-10-2020 2: 2 (0:04): ClientUserinfoChanged: 0 n\Padawan\t\0\model\kyle/default\c1\4\c2\4\hc\0\w\0\l\0\tt\0\tl\0\st\Kyle\st2\none\dt\0
+12-10-2020 2: 2 (0:04): ClientUserinfoChanged handling info: 0 \ip\136.49.101.98:29070\teamoverlay\0\snaps\50\sex\male\saber2\none\saber1\Kyle\rate\4000\password\temppw\name\^3chains\model\kyle/default\ja_guid\051864430A7EE524850A0B7FF5985240\handicap\100\forcepowers\1-1-020000000000000000\color2\4\color1\4\char_color_red\255\char_color_green\255\char_color_blue\255\cg_predictItems\1
+12-10-2020 2: 2 (0:04): ClientUserinfoChanged: 0 n\Padawan\t\0\model\kyle/default\c1\4\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\Kyle\st2\none\dt\0
+12-10-2020 2: 2 (0:04): ClientBegin: 0
+12-10-2020 2: 2 (0:08): ShutdownGame:
+12-10-2020 2: 2 (0:08): ------------------------------------------------------------
+12-10-2020 2: 2 (0:00): ------------------------------------------------------------
+12-10-2020 2: 2 (0:00): InitGame: \version\JAmp: v1.0.1.0 linux-i386 Mar 14 2020\timelimit\45\sv_privateClients\0\sv_minRate\0\sv_minPing\0\sv_maxclients\32\sv_maxRate\0\sv_maxPing\999\sv_hostname\^7~^1~^7~ COMM SERVER ~^1~^7~\sv_fps\50\sv_floodProtectSlow\1\sv_floodProtect\1\sv_autoDemo\0\sv_allowDownload\0\serveruptime\0\protocol\26\mapname\taspir1\gamename\Lugormod\g_weaponDisable\0\g_stepSlideFix\0\g_siegeTeamSwitch\1\g_siegeTeam2\none\g_siegeTeam1\none\g_siegeRespawn\20\g_showDuelHealths\1\g_saberWallDamageScale\0.4\g_saberLocking\0\g_privateDuel\1535\g_noSpecMove\0\g_needpass\0\g_maxHolocronCarry\3\g_maxGameClients\0\g_maxForceRank\7\g_jediVmerc\0\g_gametype\0\g_gamemode\0\g_forceRegenTime\130\g_forcePowerDisable\0\g_forceBasedTeams\1\g_duelWeaponDisable\9\g_debugmelee\1\g_allowNPC\1\fraglimit\0\duel_fraglimit\10\dmflags\0\capturelimit\10\bot_minplayers\2\bg_fighterAltControl\0\Lugormod_Version\U#-2.4.8.4
+12-10-2020 2: 2 (0:00): ShutdownGame:
+12-10-2020 2: 2 (0:00): ------------------------------------------------------------
+12-10-2020 2: 3 (0:00): ------------------------------------------------------------
+12-10-2020 2: 3 (0:00): InitGame: \version\JAmp: v1.0.1.0 linux-i386 Mar 14 2020\timelimit\45\sv_privateClients\0\sv_minRate\0\sv_minPing\0\sv_maxclients\32\sv_maxRate\0\sv_maxPing\999\sv_hostname\^7~^1~^7~ COMM SERVER ~^1~^7~\sv_fps\50\sv_floodProtectSlow\1\sv_floodProtect\1\sv_autoDemo\0\sv_allowDownload\0\protocol\26\mapname\mp/duel5\g_weaponDisable\0\g_stepSlideFix\0\g_siegeTeamSwitch\1\g_siegeTeam2\none\g_siegeTeam1\none\g_siegeRespawn\20\g_showDuelHealths\1\g_saberLocking\0\g_privateDuel\1535\g_noSpecMove\0\g_needpass\0\g_maxHolocronCarry\3\g_maxGameClients\0\g_maxForceRank\7\g_jediVmerc\0\g_gametype\0\g_gamemode\0\g_forceRegenTime\130\g_forcePowerDisable\0\g_forceBasedTeams\1\g_duelWeaponDisable\9\g_debugmelee\1\g_allowNPC\1\fraglimit\0\duel_fraglimit\10\dmflags\0\capturelimit\10\gamename\Lugormod\Lugormod_Version\U#-2.4.8.4\serveruptime\0\g_saberWallDamageScale\0.4\bg_fighterAltControl\0
+12-10-2020 2: 3 (0:02): ClientConnect: 0
+12-10-2020 2: 3 (0:02): ClientUserinfoChanged handling info: 0 \ip\136.49.101.98:29070\challenge\1058519358\qport\42804\protocol\26\teamoverlay\0\snaps\50\sex\male\saber2\none\saber1\Kyle\rate\4000\password\temppw\name\^3chains\model\kyle/default\ja_guid\051864430A7EE524850A0B7FF5985240\handicap\100\forcepowers\1-1-020000000000000000\color2\4\color1\4\char_color_red\255\char_color_green\255\char_color_blue\255\cg_predictItems\1
+12-10-2020 2: 3 (0:02): ClientUserinfoChanged: 0 n\Padawan\t\0\model\kyle/default\c1\4\c2\4\hc\0\w\0\l\0\tt\0\tl\0\st\\st2\\dt\0
+12-10-2020 2: 3 (0:02): IP: 136.49.101.98 Padawan
+12-10-2020 2: 3 (0:05): ClientUserinfoChanged handling info: 0 \ip\136.49.101.98:29070\teamoverlay\0\snaps\50\sex\male\saber2\none\saber1\Kyle\rate\4000\password\temppw\name\^3chains\model\kyle/default\ja_guid\051864430A7EE524850A0B7FF5985240\handicap\100\forcepowers\1-1-020000000000000000\color2\4\color1\4\char_color_red\255\char_color_green\255\char_color_blue\255\cg_predictItems\1
+12-10-2020 2: 3 (0:05): ClientUserinfoChanged: 0 n\Padawan\t\0\model\kyle/default\c1\4\c2\4\hc\0\w\0\l\0\tt\0\tl\0\st\Kyle\st2\none\dt\0
+12-10-2020 2: 3 (0:05): ClientUserinfoChanged handling info: 0 \ip\136.49.101.98:29070\teamoverlay\0\snaps\50\sex\male\saber2\none\saber1\Kyle\rate\4000\password\temppw\name\^3chains\model\kyle/default\ja_guid\051864430A7EE524850A0B7FF5985240\handicap\100\forcepowers\1-1-020000000000000000\color2\4\color1\4\char_color_red\255\char_color_green\255\char_color_blue\255\cg_predictItems\1
+12-10-2020 2: 3 (0:05): ClientUserinfoChanged: 0 n\Padawan\t\0\model\kyle/default\c1\4\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\Kyle\st2\none\dt\0
+12-10-2020 2: 3 (0:05): ClientBegin: 0
+12-10-2020 2: 3 (0:21): ShutdownGame:
+12-10-2020 2: 3 (0:21): ------------------------------------------------------------
+12-10-2020 2: 3 (0:00): ------------------------------------------------------------
+12-10-2020 2: 3 (0:00): InitGame: \version\JAmp: v1.0.1.0 linux-i386 Mar 14 2020\timelimit\45\sv_privateClients\0\sv_minRate\0\sv_minPing\0\sv_maxclients\32\sv_maxRate\0\sv_maxPing\999\sv_hostname\^7~^1~^7~ COMM SERVER ~^1~^7~\sv_fps\50\sv_floodProtectSlow\1\sv_floodProtect\1\sv_autoDemo\0\sv_allowDownload\0\serveruptime\0\protocol\26\mapname\taspir1\gamename\Lugormod\g_weaponDisable\0\g_stepSlideFix\0\g_siegeTeamSwitch\1\g_siegeTeam2\none\g_siegeTeam1\none\g_siegeRespawn\20\g_showDuelHealths\1\g_saberWallDamageScale\0.4\g_saberLocking\0\g_privateDuel\1535\g_noSpecMove\0\g_needpass\0\g_maxHolocronCarry\3\g_maxGameClients\0\g_maxForceRank\7\g_jediVmerc\0\g_gametype\0\g_gamemode\0\g_forceRegenTime\130\g_forcePowerDisable\0\g_forceBasedTeams\1\g_duelWeaponDisable\9\g_debugmelee\1\g_allowNPC\1\fraglimit\0\duel_fraglimit\10\dmflags\0\capturelimit\10\bot_minplayers\2\bg_fighterAltControl\0\Lugormod_Version\U#-2.4.8.4
+12-10-2020 2: 3 (0:00): ClientConnect: 0
+12-10-2020 2: 3 (0:00): ClientUserinfoChanged handling info: 0 \ip\136.49.101.98:29070\teamoverlay\0\snaps\50\sex\male\saber2\none\saber1\Kyle\rate\4000\password\temppw\name\^3chains\model\kyle/default\ja_guid\051864430A7EE524850A0B7FF5985240\handicap\100\forcepowers\1-1-020000000000000000\color2\4\color1\4\char_color_red\255\char_color_green\255\char_color_blue\255\cg_predictItems\1
+12-10-2020 2: 3 (0:00): ClientUserinfoChanged: 0 n\Padawan\t\0\model\kyle/default\c1\4\c2\4\hc\0\w\0\l\0\tt\0\tl\0\st\Kyle\st2\none\dt\0
+12-10-2020 2: 3 (0:04): ClientUserinfoChanged handling info: 0 \ip\136.49.101.98:29070\teamoverlay\0\snaps\50\sex\male\saber2\none\saber1\Kyle\rate\4000\password\temppw\name\^3chains\model\kyle/default\ja_guid\051864430A7EE524850A0B7FF5985240\handicap\100\forcepowers\1-1-020000000000000000\color2\4\color1\4\char_color_red\255\char_color_green\255\char_color_blue\255\cg_predictItems\1
+12-10-2020 2: 3 (0:04): ClientUserinfoChanged: 0 n\Padawan\t\0\model\kyle/default\c1\4\c2\4\hc\0\w\0\l\0\tt\0\tl\0\st\Kyle\st2\none\dt\0
+12-10-2020 2: 3 (0:04): ClientUserinfoChanged handling info: 0 \ip\136.49.101.98:29070\teamoverlay\0\snaps\50\sex\male\saber2\none\saber1\Kyle\rate\4000\password\temppw\name\^3chains\model\kyle/default\ja_guid\051864430A7EE524850A0B7FF5985240\handicap\100\forcepowers\1-1-020000000000000000\color2\4\color1\4\char_color_red\255\char_color_green\255\char_color_blue\255\cg_predictItems\1
+12-10-2020 2: 3 (0:04): ClientUserinfoChanged: 0 n\Padawan\t\0\model\kyle/default\c1\4\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\Kyle\st2\none\dt\0
+12-10-2020 2: 3 (0:04): ClientBegin: 0
+12-10-2020 2: 3 (0:12): ShutdownGame:
+12-10-2020 2: 3 (0:12): ------------------------------------------------------------
+12-10-2020 2: 3 (0:00): ------------------------------------------------------------
+12-10-2020 2: 3 (0:00): InitGame: \version\JAmp: v1.0.1.0 linux-i386 Mar 14 2020\timelimit\45\sv_privateClients\0\sv_minRate\0\sv_minPing\0\sv_maxclients\32\sv_maxRate\0\sv_maxPing\999\sv_hostname\^7~^1~^7~ COMM SERVER ~^1~^7~\sv_fps\50\sv_floodProtectSlow\1\sv_floodProtect\1\sv_autoDemo\0\sv_allowDownload\0\serveruptime\0\protocol\26\mapname\taspir1\gamename\Lugormod\g_weaponDisable\0\g_stepSlideFix\0\g_siegeTeamSwitch\1\g_siegeTeam2\none\g_siegeTeam1\none\g_siegeRespawn\20\g_showDuelHealths\1\g_saberWallDamageScale\0.4\g_saberLocking\0\g_privateDuel\1535\g_noSpecMove\0\g_needpass\0\g_maxHolocronCarry\3\g_maxGameClients\0\g_maxForceRank\7\g_jediVmerc\0\g_gametype\0\g_gamemode\0\g_forceRegenTime\130\g_forcePowerDisable\0\g_forceBasedTeams\1\g_duelWeaponDisable\9\g_debugmelee\1\g_allowNPC\1\fraglimit\0\duel_fraglimit\10\dmflags\0\capturelimit\10\bot_minplayers\2\bg_fighterAltControl\0\Lugormod_Version\U#-2.4.8.4
+12-10-2020 2: 3 (0:00): ClientConnect: 0
+12-10-2020 2: 3 (0:00): ClientUserinfoChanged handling info: 0 \ip\136.49.101.98:29070\teamoverlay\0\snaps\50\sex\male\saber2\none\saber1\Kyle\rate\4000\password\temppw\name\^3chains\model\kyle/default\ja_guid\051864430A7EE524850A0B7FF5985240\handicap\100\forcepowers\1-1-020000000000000000\color2\4\color1\4\char_color_red\255\char_color_green\255\char_color_blue\255\cg_predictItems\1
+12-10-2020 2: 3 (0:00): ClientUserinfoChanged: 0 n\Padawan\t\0\model\kyle/default\c1\4\c2\4\hc\0\w\0\l\0\tt\0\tl\0\st\Kyle\st2\none\dt\0
+12-10-2020 2: 3 (0:05): ClientUserinfoChanged handling info: 0 \ip\136.49.101.98:29070\teamoverlay\0\snaps\50\sex\male\saber2\none\saber1\Kyle\rate\4000\password\temppw\name\^3chains\model\kyle/default\ja_guid\051864430A7EE524850A0B7FF5985240\handicap\100\forcepowers\1-1-020000000000000000\color2\4\color1\4\char_color_red\255\char_color_green\255\char_color_blue\255\cg_predictItems\1
+12-10-2020 2: 3 (0:05): ClientUserinfoChanged: 0 n\Padawan\t\0\model\kyle/default\c1\4\c2\4\hc\0\w\0\l\0\tt\0\tl\0\st\Kyle\st2\none\dt\0
+12-10-2020 2: 3 (0:05): ClientUserinfoChanged handling info: 0 \ip\136.49.101.98:29070\teamoverlay\0\snaps\50\sex\male\saber2\none\saber1\Kyle\rate\4000\password\temppw\name\^3chains\model\kyle/default\ja_guid\051864430A7EE524850A0B7FF5985240\handicap\100\forcepowers\1-1-020000000000000000\color2\4\color1\4\char_color_red\255\char_color_green\255\char_color_blue\255\cg_predictItems\1
+12-10-2020 2: 3 (0:05): ClientUserinfoChanged: 0 n\Padawan\t\0\model\kyle/default\c1\4\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\Kyle\st2\none\dt\0
+12-10-2020 2: 3 (0:05): ClientBegin: 0
+12-10-2020 2: 4 (0:30): ClientConnect: 1
+12-10-2020 2: 4 (0:30): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/astupidbot.jkb\saber2\none\saber1\kyle\color2\4\color1\4\sex\male\model\jawa\snaps\20\rate\25000\name\astupidbot
+12-10-2020 2: 4 (0:30): ClientUserinfoChanged: 1 n\astupidbot\t\0\model\jawa\c1\4\c2\4\hc\0\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\\st2\\dt\0\sdt\0
+12-10-2020 2: 4 (0:30): IP: localhost astupidbot
+12-10-2020 2: 4 (0:30): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/astupidbot.jkb\saber2\none\saber1\kyle\color2\4\color1\4\sex\male\model\jawa\snaps\20\rate\25000\name\astupidbot
+12-10-2020 2: 4 (0:30): ClientUserinfoChanged: 1 n\astupidbot\t\0\model\jawa\c1\4\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-10-2020 2: 4 (0:30): ClientBegin: 1
+12-10-2020 2: 4 (0:39): Kill: 1022 1 41: <world> killed astupidbot by MOD_TRIGGER_HURT
+12-10-2020 2: 4 (0:40): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/astupidbot.jkb\saber2\none\saber1\kyle\color2\4\color1\4\sex\male\model\jawa\snaps\20\rate\25000\name\astupidbot
+12-10-2020 2: 4 (0:40): ClientUserinfoChanged: 1 n\astupidbot\t\0\model\jawa\c1\4\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-10-2020 2: 4 (0:49): Kill: 1022 1 41: <world> killed astupidbot by MOD_TRIGGER_HURT
+12-10-2020 2: 4 (0:51): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/astupidbot.jkb\saber2\none\saber1\kyle\color2\4\color1\4\sex\male\model\jawa\snaps\20\rate\25000\name\astupidbot
+12-10-2020 2: 4 (0:51): ClientUserinfoChanged: 1 n\astupidbot\t\0\model\jawa\c1\4\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-10-2020 2: 4 (1:00): Kill: 1022 1 41: <world> killed astupidbot by MOD_TRIGGER_HURT
+12-10-2020 2: 4 (1:01): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/astupidbot.jkb\saber2\none\saber1\kyle\color2\4\color1\4\sex\male\model\jawa\snaps\20\rate\25000\name\astupidbot
+12-10-2020 2: 4 (1:01): ClientUserinfoChanged: 1 n\astupidbot\t\0\model\jawa\c1\4\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-10-2020 2: 4 (1:10): Kill: 1022 1 41: <world> killed astupidbot by MOD_TRIGGER_HURT
+12-10-2020 2: 4 (1:12): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/astupidbot.jkb\saber2\none\saber1\kyle\color2\4\color1\4\sex\male\model\jawa\snaps\20\rate\25000\name\astupidbot
+12-10-2020 2: 4 (1:12): ClientUserinfoChanged: 1 n\astupidbot\t\0\model\jawa\c1\4\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-10-2020 2: 4 (1:21): Kill: 1022 1 41: <world> killed astupidbot by MOD_TRIGGER_HURT
+12-10-2020 2: 5 (1:22): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/astupidbot.jkb\saber2\none\saber1\kyle\color2\4\color1\4\sex\male\model\jawa\snaps\20\rate\25000\name\astupidbot
+12-10-2020 2: 5 (1:22): ClientUserinfoChanged: 1 n\astupidbot\t\0\model\jawa\c1\4\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-10-2020 2: 5 (1:32): Kill: 1022 1 41: <world> killed astupidbot by MOD_TRIGGER_HURT
+12-10-2020 2: 5 (1:33): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/astupidbot.jkb\saber2\none\saber1\kyle\color2\4\color1\4\sex\male\model\jawa\snaps\20\rate\25000\name\astupidbot
+12-10-2020 2: 5 (1:33): ClientUserinfoChanged: 1 n\astupidbot\t\0\model\jawa\c1\4\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-10-2020 2: 5 (1:42): Kill: 1022 1 41: <world> killed astupidbot by MOD_TRIGGER_HURT
+12-10-2020 2: 5 (1:43): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/astupidbot.jkb\saber2\none\saber1\kyle\color2\4\color1\4\sex\male\model\jawa\snaps\20\rate\25000\name\astupidbot
+12-10-2020 2: 5 (1:43): ClientUserinfoChanged: 1 n\astupidbot\t\0\model\jawa\c1\4\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-10-2020 2: 5 (1:52): Kill: 1022 1 41: <world> killed astupidbot by MOD_TRIGGER_HURT
+12-10-2020 2: 5 (1:54): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/astupidbot.jkb\saber2\none\saber1\kyle\color2\4\color1\4\sex\male\model\jawa\snaps\20\rate\25000\name\astupidbot
+12-10-2020 2: 5 (1:54): ClientUserinfoChanged: 1 n\astupidbot\t\0\model\jawa\c1\4\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-10-2020 2: 5 (2:03): Kill: 1022 1 41: <world> killed astupidbot by MOD_TRIGGER_HURT
+12-10-2020 2: 5 (2:04): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/astupidbot.jkb\saber2\none\saber1\kyle\color2\4\color1\4\sex\male\model\jawa\snaps\20\rate\25000\name\astupidbot
+12-10-2020 2: 5 (2:04): ClientUserinfoChanged: 1 n\astupidbot\t\0\model\jawa\c1\4\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-10-2020 2: 5 (2:14): Kill: 1022 1 41: <world> killed astupidbot by MOD_TRIGGER_HURT
+12-10-2020 2: 5 (2:15): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/astupidbot.jkb\saber2\none\saber1\kyle\color2\4\color1\4\sex\male\model\jawa\snaps\20\rate\25000\name\astupidbot
+12-10-2020 2: 5 (2:15): ClientUserinfoChanged: 1 n\astupidbot\t\0\model\jawa\c1\4\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-10-2020 2: 6 (2:24): Kill: 1022 1 41: <world> killed astupidbot by MOD_TRIGGER_HURT
+12-10-2020 2: 6 (2:25): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/astupidbot.jkb\saber2\none\saber1\kyle\color2\4\color1\4\sex\male\model\jawa\snaps\20\rate\25000\name\astupidbot
+12-10-2020 2: 6 (2:25): ClientUserinfoChanged: 1 n\astupidbot\t\0\model\jawa\c1\4\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-10-2020 2: 6 (2:35): Kill: 1022 1 41: <world> killed astupidbot by MOD_TRIGGER_HURT
+12-10-2020 2: 6 (2:36): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/astupidbot.jkb\saber2\none\saber1\kyle\color2\4\color1\4\sex\male\model\jawa\snaps\20\rate\25000\name\astupidbot
+12-10-2020 2: 6 (2:36): ClientUserinfoChanged: 1 n\astupidbot\t\0\model\jawa\c1\4\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-10-2020 2: 6 (2:45): Kill: 1022 1 41: <world> killed astupidbot by MOD_TRIGGER_HURT
+12-10-2020 2: 6 (2:46): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/astupidbot.jkb\saber2\none\saber1\kyle\color2\4\color1\4\sex\male\model\jawa\snaps\20\rate\25000\name\astupidbot
+12-10-2020 2: 6 (2:46): ClientUserinfoChanged: 1 n\astupidbot\t\0\model\jawa\c1\4\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-10-2020 2: 6 (2:56): Kill: 1022 1 41: <world> killed astupidbot by MOD_TRIGGER_HURT
+12-10-2020 2: 6 (2:57): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/astupidbot.jkb\saber2\none\saber1\kyle\color2\4\color1\4\sex\male\model\jawa\snaps\20\rate\25000\name\astupidbot
+12-10-2020 2: 6 (2:57): ClientUserinfoChanged: 1 n\astupidbot\t\0\model\jawa\c1\4\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-10-2020 2: 6 (3:05): ClientUserinfoChanged handling info: 0 \ip\136.49.101.98:29070\teamoverlay\0\snaps\50\sex\male\saber2\none\saber1\Kyle\rate\4000\password\temppw\name\^3chains\model\kyle/default\ja_guid\051864430A7EE524850A0B7FF5985240\handicap\100\forcepowers\1-1-020000000000000000\color2\4\color1\4\char_color_red\255\char_color_green\255\char_color_blue\255\cg_predictItems\1
+12-10-2020 2: 6 (3:05): ClientNamechange: Padawan is now ^3chains
+12-10-2020 2: 6 (3:05): ClientUserinfoChanged: 0 n\^3chains\t\0\model\kyle/default\c1\4\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\Kyle\st2\none\dt\0
+12-10-2020 2: 6 (3:06): ClientUserinfoChanged handling info: 0 \name\^3chains\ip\136.49.101.98:29070\teamoverlay\0\snaps\50\sex\male\saber2\none\saber1\Kyle\rate\4000\password\temppw\model\kyle/default\ja_guid\051864430A7EE524850A0B7FF5985240\handicap\100\forcepowers\1-1-020000000000000000\1\lor2\4\color1\4\char_color_red\255\char_color_green\255\char_color_blue\255\cg_predictItems\1
+12-10-2020 2: 6 (3:06): ClientUserinfoChanged: 0 n\^3chains\t\0\model\kyle/default\c1\\c2\\hc\100\w\0\l\0\tt\0\tl\0\st\Kyle\st2\none\dt\0
+12-10-2020 2: 6 (3:06): Kill: 1022 1 41: <world> killed astupidbot by MOD_TRIGGER_HURT
+12-10-2020 2: 6 (3:07): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/astupidbot.jkb\saber2\none\saber1\kyle\color2\4\color1\4\sex\male\model\jawa\snaps\20\rate\25000\name\astupidbot
+12-10-2020 2: 6 (3:07): ClientUserinfoChanged: 1 n\astupidbot\t\0\model\jawa\c1\4\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-10-2020 2:14 (10:26): say: astupidbot: Where is everyone?
+12-10-2020 2:22 (19:11): say: astupidbot: Where is everyone?
+12-10-2020 3:12 (69:18): ClientConnect: 2
+12-10-2020 3:12 (69:18): ClientUserinfoChanged handling info: 2 \ip\136.49.101.98:1024\challenge\-1287905040\qport\18649\protocol\26\snaps\40\sex\male\saber2\none\saber1\Kyle\rate\25000\password\temppw\name\Padawan\model\kyle/default\ja_guid\719672E5ADAB3F37334025E53A689EA1\handicap\100\forcepowers\7-1-032330000000001333\color2\4\color1\4\char_color_red\255\char_color_green\255\char_color_blue\255\cg_predictItems\1
+12-10-2020 3:12 (69:18): ClientUserinfoChanged: 2 n\Padawan\t\0\model\kyle/default\c1\4\c2\4\hc\0\w\0\l\0\tt\0\tl\0\st\\st2\\dt\0
+12-10-2020 3:12 (69:18): IP: 136.49.101.98 Padawan
+12-10-2020 3:13 (69:32): ClientUserinfoChanged handling info: 2 \ip\136.49.101.98:1024\snaps\50\sex\male\saber2\none\saber1\Kyle\rate\25000\password\temppw\name\Padawan\model\kyle/default\ja_guid\719672E5ADAB3F37334025E53A689EA1\handicap\100\forcepowers\1-1-010000000000000100\color2\4\color1\4\char_color_red\255\char_color_green\255\char_color_blue\255\cg_predictItems\1\teamoverlay\1
+12-10-2020 3:13 (69:32): ClientUserinfoChanged: 2 n\Padawan\t\0\model\kyle/default\c1\4\c2\4\hc\0\w\0\l\0\tt\0\tl\0\st\Kyle\st2\none\dt\0
+12-10-2020 3:13 (69:32): ClientUserinfoChanged handling info: 2 \ip\136.49.101.98:1024\snaps\50\sex\male\saber2\none\saber1\Kyle\rate\25000\password\temppw\name\Padawan\model\kyle/default\ja_guid\719672E5ADAB3F37334025E53A689EA1\handicap\100\forcepowers\1-1-010000000000000100\color2\4\color1\4\char_color_red\255\char_color_green\255\char_color_blue\255\cg_predictItems\1\teamoverlay\1
+12-10-2020 3:13 (69:32): ClientUserinfoChanged: 2 n\Padawan\t\0\model\kyle/default\c1\4\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\Kyle\st2\none\dt\0
+12-10-2020 3:13 (69:32): ClientBegin: 2
+12-10-2020 3:13 (69:59): say: astupidbot: cya
+12-10-2020 3:13 (69:59): ClientDisconnect: 1
+12-10-2020 3:13 (70:04): ClientUserinfoChanged handling info: 2 \ip\136.49.101.98:1024\teamoverlay\1\snaps\50\sex\male\saber2\none\saber1\Kyle\rate\25000\password\temppw\name\Padawan\model\kyle/default\ja_guid\719672E5ADAB3F37334025E53A689EA1\handicap\100\forcepowers\1-1-010000000000000100\color2\4\color1\4\char_color_red\255\char_color_green\255\char_color_blue\255\cg_predictItems\1
+12-10-2020 3:13 (70:04): ClientUserinfoChanged: 2 n\Padawan\t\0\model\kyle/default\c1\4\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\Kyle\st2\none\dt\0
+12-10-2020 3:17 (73:33): ShutdownGame:
+12-10-2020 3:17 (73:33): ------------------------------------------------------------
+12-10-2020 3:17 (0:00): ------------------------------------------------------------
+12-10-2020 3:17 (0:00): InitGame: \version\JAmp: v1.0.1.0 linux-i386 Mar 14 2020\timelimit\0\sv_privateClients\0\sv_minRate\0\sv_minPing\0\sv_maxclients\32\sv_maxRate\0\sv_maxPing\999\sv_hostname\^7~^1~^7~ COMM SERVER ~^1~^7~\sv_fps\50\sv_floodProtectSlow\1\sv_floodProtect\0\sv_autoDemo\0\sv_allowDownload\0\serveruptime\1\protocol\26\mapname\taspir1\gamename\Lugormod\g_weaponDisable\0\g_stepSlideFix\0\g_siegeTeamSwitch\1\g_siegeTeam2\none\g_siegeTeam1\none\g_siegeRespawn\20\g_showDuelHealths\1\g_saberWallDamageScale\0.4\g_saberLocking\0\g_privateDuel\1535\g_noSpecMove\0\g_needpass\1\g_maxHolocronCarry\3\g_maxGameClients\0\g_maxForceRank\7\g_jediVmerc\0\g_gametype\0\g_gamemode\0\g_forceRegenTime\130\g_forcePowerDisable\0\g_forceBasedTeams\1\g_duelWeaponDisable\9\g_debugmelee\1\g_allowNPC\1\fraglimit\0\duel_fraglimit\10\dmflags\0\capturelimit\10\bot_minplayers\2\bg_fighterAltControl\0\Lugormod_Version\U#-2.4.8.4
+12-10-2020 3:17 (0:00): ClientConnect: 0
+12-10-2020 3:17 (0:00): ClientUserinfoChanged handling info: 0 \name\^3chains\ip\136.49.101.98:29070\teamoverlay\0\snaps\50\sex\male\saber2\none\saber1\Kyle\rate\4000\password\temppw\model\kyle/default\ja_guid\051864430A7EE524850A0B7FF5985240\handicap\100\forcepowers\1-1-020000000000000000\1\lor2\4\color1\4\char_color_red\255\char_color_green\255\char_color_blue\255\cg_predictItems\1
+12-10-2020 3:17 (0:00): ClientUserinfoChanged: 0 n\Padawan\t\0\model\kyle/default\c1\\c2\\hc\0\w\0\l\0\tt\0\tl\0\st\Kyle\st2\none\dt\0
+12-10-2020 3:17 (0:00): ClientConnect: 2
+12-10-2020 3:17 (0:00): ClientUserinfoChanged handling info: 2 \ip\136.49.101.98:1024\teamoverlay\1\snaps\50\sex\male\saber2\none\saber1\Kyle\rate\25000\password\temppw\name\Padawan\model\kyle/default\ja_guid\719672E5ADAB3F37334025E53A689EA1\handicap\100\forcepowers\1-1-010000000000000100\color2\4\color1\4\char_color_red\255\char_color_green\255\char_color_blue\255\cg_predictItems\1
+12-10-2020 3:17 (0:00): ClientUserinfoChanged: 2 n\Padawan\t\0\model\kyle/default\c1\4\c2\4\hc\0\w\0\l\0\tt\0\tl\0\st\Kyle\st2\none\dt\0
+12-10-2020 3:17 (0:05): ClientUserinfoChanged handling info: 0 \ip\136.49.101.98:29070\teamoverlay\0\snaps\50\sex\male\saber2\none\saber1\Kyle\rate\4000\password\temppw\name\^3chains\model\kyle/default\ja_guid\051864430A7EE524850A0B7FF5985240\handicap\100\forcepowers\1-1-020000000000000000\color2\4\color1\4\char_color_red\255\char_color_green\255\char_color_blue\255\cg_predictItems\1
+12-10-2020 3:17 (0:05): ClientNamechange: Padawan is now ^3chains
+12-10-2020 3:17 (0:05): ClientUserinfoChanged: 0 n\^3chains\t\0\model\kyle/default\c1\4\c2\4\hc\0\w\0\l\0\tt\0\tl\0\st\Kyle\st2\none\dt\0
+12-10-2020 3:17 (0:05): ClientUserinfoChanged handling info: 0 \ip\136.49.101.98:29070\teamoverlay\0\snaps\50\sex\male\saber2\none\saber1\Kyle\rate\4000\password\temppw\name\^3chains\model\kyle/default\ja_guid\051864430A7EE524850A0B7FF5985240\handicap\100\forcepowers\1-1-020000000000000000\color2\4\color1\4\char_color_red\255\char_color_green\255\char_color_blue\255\cg_predictItems\1
+12-10-2020 3:17 (0:05): ClientUserinfoChanged: 0 n\^3chains\t\0\model\kyle/default\c1\4\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\Kyle\st2\none\dt\0
+12-10-2020 3:17 (0:05): ClientUserinfoChanged handling info: 0 \name\^3chains\ip\136.49.101.98:29070\teamoverlay\0\snaps\50\sex\male\saber2\none\saber1\Kyle\rate\4000\password\temppw\model\kyle/default\ja_guid\051864430A7EE524850A0B7FF5985240\handicap\100\forcepowers\1-1-020000000000000000\1\lor2\4\color1\4\char_color_red\255\char_color_green\255\char_color_blue\255\cg_predictItems\1
+12-10-2020 3:17 (0:05): ClientUserinfoChanged: 0 n\^3chains\t\0\model\kyle/default\c1\\c2\\hc\100\w\0\l\0\tt\0\tl\0\st\Kyle\st2\none\dt\0
+12-10-2020 3:17 (0:05): ClientBegin: 0
+12-10-2020 3:17 (0:06): ClientUserinfoChanged handling info: 2 \ip\136.49.101.98:1024\teamoverlay\1\snaps\50\sex\male\saber2\none\saber1\Kyle\rate\25000\password\temppw\name\Padawan\model\kyle/default\ja_guid\719672E5ADAB3F37334025E53A689EA1\handicap\100\forcepowers\1-1-010000000000000100\color2\4\color1\4\char_color_red\255\char_color_green\255\char_color_blue\255\cg_predictItems\1
+12-10-2020 3:17 (0:06): ClientUserinfoChanged: 2 n\Padawan\t\0\model\kyle/default\c1\4\c2\4\hc\0\w\0\l\0\tt\0\tl\0\st\Kyle\st2\none\dt\0
+12-10-2020 3:17 (0:06): ClientUserinfoChanged handling info: 2 \ip\136.49.101.98:1024\teamoverlay\1\snaps\50\sex\male\saber2\none\saber1\Kyle\rate\25000\password\temppw\name\Padawan\model\kyle/default\ja_guid\719672E5ADAB3F37334025E53A689EA1\handicap\100\forcepowers\1-1-010000000000000100\color2\4\color1\4\char_color_red\255\char_color_green\255\char_color_blue\255\cg_predictItems\1
+12-10-2020 3:17 (0:06): ClientUserinfoChanged: 2 n\Padawan\t\0\model\kyle/default\c1\4\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\Kyle\st2\none\dt\0
+12-10-2020 3:17 (0:06): ClientBegin: 2
+12-10-2020 3:21 (3:54): ClientUserinfoChanged handling info: 0 \ip\136.49.101.98:29070\teamoverlay\0\snaps\50\sex\male\saber2\none\saber1\Kyle\rate\25000\password\temppw\name\^3chains\model\kyle/default\ja_guid\051864430A7EE524850A0B7FF5985240\handicap\100\forcepowers\1-1-020000000000000000\color2\4\color1\4\char_color_red\255\char_color_green\255\char_color_blue\255\cg_predictItems\1
+12-10-2020 3:21 (3:54): ClientUserinfoChanged: 0 n\^3chains\t\0\model\kyle/default\c1\4\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\Kyle\st2\none\dt\0
+12-10-2020 3:25 (8:05): ClientDisconnect: 2
+12-10-2020 3:25 (8:10): ClientConnect: 1
+12-10-2020 3:25 (8:10): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/astupidbot.jkb\saber2\none\saber1\kyle\color2\4\color1\4\sex\male\model\jawa\snaps\20\rate\25000\name\astupidbot
+12-10-2020 3:25 (8:10): ClientUserinfoChanged: 1 n\astupidbot\t\0\model\jawa\c1\4\c2\4\hc\0\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\\st2\\dt\0\sdt\0
+12-10-2020 3:25 (8:10): IP: localhost astupidbot
+12-10-2020 3:25 (8:10): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/astupidbot.jkb\saber2\none\saber1\kyle\color2\4\color1\4\sex\male\model\jawa\snaps\20\rate\25000\name\astupidbot
+12-10-2020 3:25 (8:10): ClientUserinfoChanged: 1 n\astupidbot\t\0\model\jawa\c1\4\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-10-2020 3:25 (8:10): ClientBegin: 1
+12-10-2020 3:25 (8:19): Kill: 1022 1 41: <world> killed astupidbot by MOD_TRIGGER_HURT
+12-10-2020 3:25 (8:20): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/astupidbot.jkb\saber2\none\saber1\kyle\color2\4\color1\4\sex\male\model\jawa\snaps\20\rate\25000\name\astupidbot
+12-10-2020 3:25 (8:20): ClientUserinfoChanged: 1 n\astupidbot\t\0\model\jawa\c1\4\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-10-2020 3:25 (8:30): Kill: 1022 1 41: <world> killed astupidbot by MOD_TRIGGER_HURT
+12-10-2020 3:25 (8:31): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/astupidbot.jkb\saber2\none\saber1\kyle\color2\4\color1\4\sex\male\model\jawa\snaps\20\rate\25000\name\astupidbot
+12-10-2020 3:25 (8:31): ClientUserinfoChanged: 1 n\astupidbot\t\0\model\jawa\c1\4\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-10-2020 3:25 (8:40): Kill: 1022 1 41: <world> killed astupidbot by MOD_TRIGGER_HURT
+12-10-2020 3:25 (8:41): ClientConnect: 2
+12-10-2020 3:25 (8:41): ClientUserinfoChanged handling info: 2 \ip\136.49.101.98:1024\challenge\-1924859064\qport\11366\protocol\26\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\none\saber1\single_1\cg_predictItems\1\sex\male\handicap\100\color2\4\color1\4\forcepowers\6-1-030330000000000333\model\bespin_cop/default\snaps\20\rate\4000\name\Padawan\teamtask\0\password\temppw
+12-10-2020 3:25 (8:41): ClientUserinfoChanged: 2 n\Padawan\t\0\model\bespin_cop/default\c1\4\c2\4\hc\0\w\0\l\0\tt\0\tl\0\st\\st2\\dt\0
+12-10-2020 3:25 (8:41): IP: 136.49.101.98 Padawan
+12-10-2020 3:25 (8:42): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/astupidbot.jkb\saber2\none\saber1\kyle\color2\4\color1\4\sex\male\model\jawa\snaps\20\rate\25000\name\astupidbot
+12-10-2020 3:25 (8:42): ClientUserinfoChanged: 1 n\astupidbot\t\0\model\jawa\c1\4\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-10-2020 3:26 (8:51): Kill: 1022 1 41: <world> killed astupidbot by MOD_TRIGGER_HURT
+12-10-2020 3:26 (8:52): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/astupidbot.jkb\saber2\none\saber1\kyle\color2\4\color1\4\sex\male\model\jawa\snaps\20\rate\25000\name\astupidbot
+12-10-2020 3:26 (8:52): ClientUserinfoChanged: 1 n\astupidbot\t\0\model\jawa\c1\4\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-10-2020 3:26 (8:57): ClientUserinfoChanged handling info: 2 \ip\136.49.101.98:1024\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\none\saber1\single_1\cg_predictItems\1\sex\male\handicap\100\color2\4\color1\4\forcepowers\7-1-030330000000000333\model\bespin_cop/default\snaps\20\rate\4000\name\Chains\teamtask\0\password\temppw\teamoverlay\1
+12-10-2020 3:26 (8:57): ClientUserinfoChanged: 2 n\Padawan\t\0\model\bespin_cop/default\c1\4\c2\4\hc\0\w\0\l\0\tt\0\tl\0\st\single_1\st2\none\dt\0
+12-10-2020 3:26 (8:57): ClientUserinfoChanged handling info: 2 \ip\136.49.101.98:1024\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\none\saber1\single_1\cg_predictItems\1\sex\male\handicap\100\color2\4\color1\4\forcepowers\7-1-030330000000000333\model\bespin_cop/default\snaps\20\rate\4000\name\Chains\teamtask\0\password\temppw\teamoverlay\1
+12-10-2020 3:26 (8:57): ClientUserinfoChanged: 2 n\Padawan\t\0\model\bespin_cop/default\c1\4\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\single_1\st2\none\dt\0
+12-10-2020 3:26 (8:57): ClientBegin: 2
+12-10-2020 3:26 (8:58): say: astupidbot: g2g
+12-10-2020 3:26 (8:58): ClientDisconnect: 1
+12-10-2020 3:27 (10:07): ClientUserinfoChanged handling info: 2 \ip\136.49.101.98:1024\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\none\saber1\single_1\cg_predictItems\1\sex\male\handicap\100\color2\4\color1\4\forcepowers\7-1-030330000000000333\model\bespin_cop/default\snaps\20\rate\4000\name\Chains\teamtask\0\password\temppw\teamoverlay\1
+12-10-2020 3:27 (10:07): ClientUserinfoChanged: 2 n\Padawan\t\0\model\bespin_cop/default\c1\4\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\single_1\st2\none\dt\0
+12-10-2020 3:27 (10:32): ClientUserinfoChanged handling info: 2 \ip\136.49.101.98:1024\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\none\saber1\single_1\cg_predictItems\1\sex\male\handicap\100\color2\4\color1\4\forcepowers\7-1-030330000000000333\model\bespin_cop/default\snaps\20\rate\4000\name\Chains\teamtask\0\password\temppw\teamoverlay\1
+12-10-2020 3:27 (10:32): ClientUserinfoChanged: 2 n\Padawan\t\0\model\bespin_cop/default\c1\4\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\single_1\st2\none\dt\0
+12-10-2020 3:29 (11:49): ClientUserinfoChanged handling info: 2 \ip\136.49.101.98:1024\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\none\saber1\single_1\cg_predictItems\1\sex\male\handicap\100\color2\4\color1\4\forcepowers\7-1-030330000000000333\model\bespin_cop/default\snaps\20\rate\4000\name\Chains\teamtask\0\password\temppw\teamoverlay\1
+12-10-2020 3:29 (11:49): ClientUserinfoChanged: 2 n\Padawan\t\0\model\bespin_cop/default\c1\4\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\single_1\st2\none\dt\0
+12-10-2020 3:29 (12:11): ClientUserinfoChanged handling info: 0 \ip\136.49.101.98:29070\teamoverlay\0\snaps\50\sex\male\saber2\none\saber1\Kyle\rate\25000\password\temppw\name\^3chains\model\kyle/default\ja_guid\051864430A7EE524850A0B7FF5985240\handicap\100\forcepowers\1-1-020000000000000000\color2\4\color1\4\char_color_red\255\char_color_green\255\char_color_blue\255\cg_predictItems\1
+12-10-2020 3:29 (12:11): ClientUserinfoChanged: 0 n\^3chains\t\0\model\kyle/default\c1\4\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\Kyle\st2\none\dt\0
+12-10-2020 3:29 (12:35): ClientUserinfoChanged handling info: 0 \ip\136.49.101.98:29070\teamoverlay\0\snaps\50\sex\male\saber2\none\saber1\Kyle\rate\25000\password\temppw\name\^3chains\model\kyle/default\ja_guid\051864430A7EE524850A0B7FF5985240\handicap\100\forcepowers\1-1-020000000000000000\color2\4\color1\4\char_color_red\255\char_color_green\255\char_color_blue\255\cg_predictItems\1
+12-10-2020 3:29 (12:35): ClientUserinfoChanged: 0 n\^3chains\t\0\model\kyle/default\c1\4\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\Kyle\st2\none\dt\0
+12-10-2020 3:30 (13:05): ShutdownGame:
+12-10-2020 3:30 (13:05): ------------------------------------------------------------
+12-10-2020 3:30 (0:00): ------------------------------------------------------------
+12-10-2020 3:30 (0:00): InitGame: \version\JAmp: v1.0.1.0 linux-i386 Mar 14 2020\timelimit\0\sv_privateClients\0\sv_minRate\0\sv_minPing\0\sv_maxclients\32\sv_maxRate\0\sv_maxPing\999\sv_hostname\^7~^1~^7~ COMM SERVER ~^1~^7~\sv_fps\50\sv_floodProtectSlow\1\sv_floodProtect\0\sv_autoDemo\0\sv_allowDownload\0\serveruptime\1\protocol\26\mapname\t2_rancor\gamename\Lugormod\g_weaponDisable\0\g_stepSlideFix\0\g_siegeTeamSwitch\1\g_siegeTeam2\none\g_siegeTeam1\none\g_siegeRespawn\20\g_showDuelHealths\1\g_saberWallDamageScale\0.4\g_saberLocking\0\g_privateDuel\1535\g_noSpecMove\0\g_needpass\1\g_maxHolocronCarry\3\g_maxGameClients\0\g_maxForceRank\7\g_jediVmerc\0\g_gametype\0\g_gamemode\0\g_forceRegenTime\130\g_forcePowerDisable\0\g_forceBasedTeams\1\g_duelWeaponDisable\9\g_debugmelee\1\g_allowNPC\1\fraglimit\0\duel_fraglimit\10\dmflags\0\capturelimit\10\bot_minplayers\2\bg_fighterAltControl\0\Lugormod_Version\U#-2.4.8.4
+12-10-2020 3:30 (0:00): ClientConnect: 0
+12-10-2020 3:30 (0:00): ClientUserinfoChanged handling info: 0 \ip\136.49.101.98:29070\teamoverlay\0\snaps\50\sex\male\saber2\none\saber1\Kyle\rate\25000\password\temppw\name\^3chains\model\kyle/default\ja_guid\051864430A7EE524850A0B7FF5985240\handicap\100\forcepowers\1-1-020000000000000000\color2\4\color1\4\char_color_red\255\char_color_green\255\char_color_blue\255\cg_predictItems\1
+12-10-2020 3:30 (0:00): ClientUserinfoChanged: 0 n\Padawan\t\0\model\kyle/default\c1\4\c2\4\hc\0\w\0\l\0\tt\0\tl\0\st\Kyle\st2\none\dt\0
+12-10-2020 3:30 (0:00): ClientConnect: 2
+12-10-2020 3:30 (0:00): ClientUserinfoChanged handling info: 2 \ip\136.49.101.98:1024\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\none\saber1\single_1\cg_predictItems\1\sex\male\handicap\100\color2\4\color1\4\forcepowers\7-1-030330000000000333\model\bespin_cop/default\snaps\20\rate\4000\name\Chains\teamtask\0\password\temppw\teamoverlay\1
+12-10-2020 3:30 (0:00): ClientUserinfoChanged: 2 n\Padawan\t\0\model\bespin_cop/default\c1\4\c2\4\hc\0\w\0\l\0\tt\0\tl\0\st\single_1\st2\none\dt\0
+12-10-2020 3:30 (0:06): ClientUserinfoChanged handling info: 0 \ip\136.49.101.98:29070\teamoverlay\0\snaps\50\sex\male\saber2\none\saber1\Kyle\rate\25000\password\temppw\name\^3chains\model\kyle/default\ja_guid\051864430A7EE524850A0B7FF5985240\handicap\100\forcepowers\1-1-020000000000000000\color2\4\color1\4\char_color_red\255\char_color_green\255\char_color_blue\255\cg_predictItems\1
+12-10-2020 3:30 (0:06): ClientNamechange: Padawan is now ^3chains
+12-10-2020 3:30 (0:06): ClientUserinfoChanged: 0 n\^3chains\t\0\model\kyle/default\c1\4\c2\4\hc\0\w\0\l\0\tt\0\tl\0\st\Kyle\st2\none\dt\0
+12-10-2020 3:30 (0:06): ClientUserinfoChanged handling info: 0 \ip\136.49.101.98:29070\teamoverlay\0\snaps\50\sex\male\saber2\none\saber1\Kyle\rate\25000\password\temppw\name\^3chains\model\kyle/default\ja_guid\051864430A7EE524850A0B7FF5985240\handicap\100\forcepowers\1-1-020000000000000000\color2\4\color1\4\char_color_red\255\char_color_green\255\char_color_blue\255\cg_predictItems\1
+12-10-2020 3:30 (0:06): ClientUserinfoChanged: 0 n\^3chains\t\0\model\kyle/default\c1\4\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\Kyle\st2\none\dt\0
+12-10-2020 3:30 (0:06): ClientUserinfoChanged handling info: 0 \name\^3chains\ip\136.49.101.98:29070\teamoverlay\0\snaps\50\sex\male\saber2\none\saber1\Kyle\rate\25000\password\temppw\model\kyle/default\ja_guid\051864430A7EE524850A0B7FF5985240\handicap\100\forcepowers\1-1-020000000000000000r1olor2\4\color1\4\char_color_red\255\char_color_green\255\char_color_blue\255\cg_predictItems\1
+12-10-2020 3:30 (0:06): ClientUserinfoChanged: 0 n\^3chains\t\0\model\kyle/default\c1\\c2\\hc\100\w\0\l\0\tt\0\tl\0\st\Kyle\st2\none\dt\0
+12-10-2020 3:30 (0:06): ClientBegin: 0
+12-10-2020 3:30 (0:11): ClientUserinfoChanged handling info: 2 \ip\136.49.101.98:1024\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\none\saber1\single_1\cg_predictItems\1\sex\male\handicap\100\color2\4\color1\4\forcepowers\7-1-030330000000000333\model\bespin_cop/default\snaps\20\rate\4000\name\Chains\teamtask\0\password\temppw\teamoverlay\1
+12-10-2020 3:30 (0:11): ClientUserinfoChanged: 2 n\Padawan\t\0\model\bespin_cop/default\c1\4\c2\4\hc\0\w\0\l\0\tt\0\tl\0\st\single_1\st2\none\dt\0
+12-10-2020 3:30 (0:11): ClientUserinfoChanged handling info: 2 \ip\136.49.101.98:1024\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\none\saber1\single_1\cg_predictItems\1\sex\male\handicap\100\color2\4\color1\4\forcepowers\7-1-030330000000000333\model\bespin_cop/default\snaps\20\rate\4000\name\Chains\teamtask\0\password\temppw\teamoverlay\1
+12-10-2020 3:30 (0:11): ClientUserinfoChanged: 2 n\Padawan\t\0\model\bespin_cop/default\c1\4\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\single_1\st2\none\dt\0
+12-10-2020 3:30 (0:11): ClientBegin: 2
+12-10-2020 3:31 (1:33): ClientUserinfoChanged handling info: 2 \ip\136.49.101.98:1024\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\none\saber1\single_1\cg_predictItems\1\sex\male\handicap\100\color2\4\color1\4\forcepowers\7-1-030330000000000333\model\bespin_cop/default\snaps\20\rate\4000\name\Chains\teamtask\0\password\temppw\teamoverlay\1
+12-10-2020 3:31 (1:33): ClientUserinfoChanged: 2 n\Padawan\t\0\model\bespin_cop/default\c1\4\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\single_1\st2\none\dt\0
+12-10-2020 3:32 (2:10): ClientUserinfoChanged handling info: 0 \ip\136.49.101.98:29070\teamoverlay\0\snaps\50\sex\male\saber2\none\saber1\Kyle\rate\25000\password\temppw\name\^3chains\model\kyle/default\ja_guid\051864430A7EE524850A0B7FF5985240\handicap\100\forcepowers\1-1-020000000000000000\color2\4\color1\4\char_color_red\255\char_color_green\255\char_color_blue\255\cg_predictItems\1
+12-10-2020 3:32 (2:10): ClientUserinfoChanged: 0 n\^3chains\t\0\model\kyle/default\c1\4\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\Kyle\st2\none\dt\0
+12-10-2020 3:37 (7:15): ClientDisconnect: 2
+12-10-2020 3:37 (7:15): ClientConnect: 2
+12-10-2020 3:37 (7:15): ClientUserinfoChanged handling info: 2 \ip\136.49.101.98:1024\challenge\1416324081\qport\11366\protocol\26\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\none\saber1\single_1\cg_predictItems\1\sex\male\handicap\100\color2\4\color1\4\forcepowers\7-1-030330000000000333\model\bespin_cop/default\snaps\20\rate\4000\name\Chains\teamtask\0\password\temppw\teamoverlay\1
+12-10-2020 3:37 (7:15): ClientUserinfoChanged: 2 n\Padawan\t\0\model\bespin_cop/default\c1\4\c2\4\hc\0\w\0\l\0\tt\0\tl\0\st\\st2\\dt\0
+12-10-2020 3:37 (7:15): IP: 136.49.101.98 Padawan
+12-10-2020 3:37 (7:18): ClientUserinfoChanged handling info: 2 \ip\136.49.101.98:1024\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\none\saber1\single_1\cg_predictItems\1\sex\male\handicap\100\color2\4\color1\4\forcepowers\7-1-030330000000000333\model\bespin_cop/default\snaps\20\rate\4000\name\Chains\teamtask\0\password\temppw\teamoverlay\1
+12-10-2020 3:37 (7:18): ClientUserinfoChanged: 2 n\Padawan\t\0\model\bespin_cop/default\c1\4\c2\4\hc\0\w\0\l\0\tt\0\tl\0\st\single_1\st2\none\dt\0
+12-10-2020 3:37 (7:18): ClientUserinfoChanged handling info: 2 \ip\136.49.101.98:1024\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\none\saber1\single_1\cg_predictItems\1\sex\male\handicap\100\color2\4\color1\4\forcepowers\7-1-030330000000000333\model\bespin_cop/default\snaps\20\rate\4000\name\Chains\teamtask\0\password\temppw\teamoverlay\1
+12-10-2020 3:37 (7:18): ClientUserinfoChanged: 2 n\Padawan\t\0\model\bespin_cop/default\c1\4\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\single_1\st2\none\dt\0
+12-10-2020 3:37 (7:18): ClientBegin: 2
+12-10-2020 3:38 (8:09): ClientConnect: 1
+12-10-2020 3:38 (8:09): ClientUserinfoChanged handling info: 1 \ip\136.49.101.98:29071\challenge\-864930801\qport\50142\protocol\26\snaps\40\sex\male\saber2\none\saber1\Kyle\rate\25000\password\temppw\name\Padawan\model\kyle/default\ja_guid\719672E5ADAB3F37334025E53A689EA1\handicap\100\forcepowers\7-1-032330000000001333\color2\4\color1\4\char_color_red\255\char_color_green\255\char_color_blue\255\cg_predictItems\1
+12-10-2020 3:38 (8:09): ClientUserinfoChanged: 1 n\Padawan 1\t\0\model\kyle/default\c1\4\c2\4\hc\0\w\0\l\0\tt\0\tl\0\st\\st2\\dt\0
+12-10-2020 3:38 (8:09): IP: 136.49.101.98 Padawan 1
+12-10-2020 3:38 (8:22): ClientUserinfoChanged handling info: 1 \ip\136.49.101.98:29071\snaps\50\sex\male\saber2\none\saber1\Kyle\rate\25000\password\temppw\name\Padawan\model\kyle/default\ja_guid\719672E5ADAB3F37334025E53A689EA1\handicap\100\forcepowers\1-1-010000000000000100\color2\4\color1\4\char_color_red\255\char_color_green\255\char_color_blue\255\cg_predictItems\1\teamoverlay\1
+12-10-2020 3:38 (8:22): ClientUserinfoChanged: 1 n\Padawan 1\t\0\model\kyle/default\c1\4\c2\4\hc\0\w\0\l\0\tt\0\tl\0\st\Kyle\st2\none\dt\0
+12-10-2020 3:38 (8:22): ClientUserinfoChanged handling info: 1 \ip\136.49.101.98:29071\snaps\50\sex\male\saber2\none\saber1\Kyle\rate\25000\password\temppw\name\Padawan\model\kyle/default\ja_guid\719672E5ADAB3F37334025E53A689EA1\handicap\100\forcepowers\1-1-010000000000000100\color2\4\color1\4\char_color_red\255\char_color_green\255\char_color_blue\255\cg_predictItems\1\teamoverlay\1
+12-10-2020 3:38 (8:22): ClientUserinfoChanged: 1 n\Padawan 1\t\0\model\kyle/default\c1\4\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\Kyle\st2\none\dt\0
+12-10-2020 3:38 (8:22): ClientBegin: 1
+12-10-2020 3:44 (14:22): ClientDisconnect: 2
+12-10-2020 3:44 (14:42): ClientUserinfoChanged handling info: 1 \ip\136.49.101.98:29071\teamoverlay\1\snaps\50\sex\male\saber2\none\saber1\Kyle\rate\25000\password\temppw\name\Padawan\model\kyle/default\ja_guid\719672E5ADAB3F37334025E53A689EA1\handicap\100\forcepowers\1-1-010000000000000100\color2\4\color1\4\char_color_red\255\char_color_green\255\char_color_blue\255\cg_predictItems\1
+12-10-2020 3:44 (14:42): ClientNamechange: Padawan 1 is now Padawan
+12-10-2020 3:44 (14:42): ClientUserinfoChanged: 1 n\Padawan\t\0\model\kyle/default\c1\4\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\Kyle\st2\none\dt\0
+12-10-2020 4: 9 (39:21): Kill: 1 0 5: Padawan killed ^3chains by MOD_BRYAR_PISTOL_ALT
+12-10-2020 4: 9 (39:28): ClientUserinfoChanged handling info: 0 \ip\136.49.101.98:29070\teamoverlay\0\snaps\50\sex\male\saber2\none\saber1\Kyle\rate\25000\password\temppw\name\^3chains\model\kyle/default\ja_guid\051864430A7EE524850A0B7FF5985240\handicap\100\forcepowers\1-1-020000000000000000\color2\4\color1\4\char_color_red\255\char_color_green\255\char_color_blue\255\cg_predictItems\1
+12-10-2020 4: 9 (39:28): ClientUserinfoChanged: 0 n\^3chains\t\0\model\kyle/default\c1\4\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\Kyle\st2\none\dt\0
+12-10-2020 4: 9 (39:32): ClientDisconnect: 0
+12-10-2020 4:10 (39:47): ClientConnect: 0
+12-10-2020 4:10 (39:47): ClientUserinfoChanged handling info: 0 \team\0\skill\ 5.00\personality\botfiles/astupidbot.jkb\saber2\none\saber1\kyle\color2\4\color1\4\sex\male\model\jawa\snaps\20\rate\25000\name\astupidbot
+12-10-2020 4:10 (39:47): ClientUserinfoChanged: 0 n\astupidbot\t\0\model\jawa\c1\4\c2\4\hc\0\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\\st2\\dt\0\sdt\0
+12-10-2020 4:10 (39:47): IP: localhost astupidbot
+12-10-2020 4:10 (39:47): ClientUserinfoChanged handling info: 0 \team\0\skill\ 5.00\personality\botfiles/astupidbot.jkb\saber2\none\saber1\kyle\color2\4\color1\4\sex\male\model\jawa\snaps\20\rate\25000\name\astupidbot
+12-10-2020 4:10 (39:47): ClientUserinfoChanged: 0 n\astupidbot\t\0\model\jawa\c1\4\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-10-2020 4:10 (39:47): ClientBegin: 0
+12-10-2020 4:10 (40:36): ShutdownGame:
+12-10-2020 4:10 (40:36): ------------------------------------------------------------
+12-10-2020 4:10 (0:00): ------------------------------------------------------------
+12-10-2020 4:10 (0:00): InitGame: \version\JAmp: v1.0.1.0 linux-i386 Mar 14 2020\timelimit\0\sv_privateClients\0\sv_minRate\0\sv_minPing\0\sv_maxclients\32\sv_maxRate\0\sv_maxPing\999\sv_hostname\^7~^1~^7~ COMM SERVER ~^1~^7~\sv_fps\50\sv_floodProtectSlow\1\sv_floodProtect\0\sv_autoDemo\0\sv_allowDownload\0\serveruptime\1\protocol\26\mapname\taspir1\gamename\Lugormod\g_weaponDisable\0\g_stepSlideFix\0\g_siegeTeamSwitch\1\g_siegeTeam2\none\g_siegeTeam1\none\g_siegeRespawn\20\g_showDuelHealths\1\g_saberWallDamageScale\0.4\g_saberLocking\0\g_privateDuel\1535\g_noSpecMove\0\g_needpass\1\g_maxHolocronCarry\3\g_maxGameClients\0\g_maxForceRank\7\g_jediVmerc\0\g_gametype\0\g_gamemode\0\g_forceRegenTime\130\g_forcePowerDisable\0\g_forceBasedTeams\1\g_duelWeaponDisable\9\g_debugmelee\1\g_allowNPC\1\fraglimit\0\duel_fraglimit\10\dmflags\0\capturelimit\10\bot_minplayers\2\bg_fighterAltControl\0\Lugormod_Version\U#-2.4.8.4
+12-10-2020 4:10 (0:00): ClientConnect: 0
+12-10-2020 4:10 (0:00): ClientUserinfoChanged handling info: 0 \team\0\skill\ 5.00\personality\botfiles/astupidbot.jkb\saber2\none\saber1\kyle\color2\4\color1\4\sex\male\model\jawa\snaps\20\rate\25000\name\astupidbot
+12-10-2020 4:10 (0:00): ClientUserinfoChanged: 0 n\astupidbot\t\0\model\jawa\c1\4\c2\4\hc\0\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-10-2020 4:10 (0:00): ClientUserinfoChanged handling info: 0 \team\0\skill\ 5.00\personality\botfiles/astupidbot.jkb\saber2\none\saber1\kyle\color2\4\color1\4\sex\male\model\jawa\snaps\20\rate\25000\name\astupidbot
+12-10-2020 4:10 (0:00): ClientUserinfoChanged: 0 n\astupidbot\t\0\model\jawa\c1\4\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-10-2020 4:10 (0:00): ClientBegin: 0
+12-10-2020 4:10 (0:00): ClientConnect: 1
+12-10-2020 4:10 (0:00): ClientUserinfoChanged handling info: 1 \ip\136.49.101.98:29071\teamoverlay\1\snaps\50\sex\male\saber2\none\saber1\Kyle\rate\25000\password\temppw\name\Padawan\model\kyle/default\ja_guid\719672E5ADAB3F37334025E53A689EA1\handicap\100\forcepowers\1-1-010000000000000100\color2\4\color1\4\char_color_red\255\char_color_green\255\char_color_blue\255\cg_predictItems\1
+12-10-2020 4:10 (0:00): ClientUserinfoChanged: 1 n\Padawan\t\0\model\kyle/default\c1\4\c2\4\hc\0\w\0\l\0\tt\0\tl\0\st\Kyle\st2\none\dt\0
+12-10-2020 4:11 (0:09): Kill: 1022 0 41: <world> killed astupidbot by MOD_TRIGGER_HURT
+12-10-2020 4:11 (0:10): ClientUserinfoChanged handling info: 0 \team\0\skill\ 5.00\personality\botfiles/astupidbot.jkb\saber2\none\saber1\kyle\color2\4\color1\4\sex\male\model\jawa\snaps\20\rate\25000\name\astupidbot
+12-10-2020 4:11 (0:10): ClientUserinfoChanged: 0 n\astupidbot\t\0\model\jawa\c1\4\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-10-2020 4:11 (0:12): ClientUserinfoChanged handling info: 1 \ip\136.49.101.98:29071\teamoverlay\1\snaps\50\sex\male\saber2\none\saber1\Kyle\rate\25000\password\temppw\name\Padawan\model\kyle/default\ja_guid\719672E5ADAB3F37334025E53A689EA1\handicap\100\forcepowers\1-1-010000000000000100\color2\4\color1\4\char_color_red\255\char_color_green\255\char_color_blue\255\cg_predictItems\1
+12-10-2020 4:11 (0:12): ClientUserinfoChanged: 1 n\Padawan\t\0\model\kyle/default\c1\4\c2\4\hc\0\w\0\l\0\tt\0\tl\0\st\Kyle\st2\none\dt\0
+12-10-2020 4:11 (0:12): ClientUserinfoChanged handling info: 1 \ip\136.49.101.98:29071\teamoverlay\1\snaps\50\sex\male\saber2\none\saber1\Kyle\rate\25000\password\temppw\name\Padawan\model\kyle/default\ja_guid\719672E5ADAB3F37334025E53A689EA1\handicap\100\forcepowers\1-1-010000000000000100\color2\4\color1\4\char_color_red\255\char_color_green\255\char_color_blue\255\cg_predictItems\1
+12-10-2020 4:11 (0:12): ClientUserinfoChanged: 1 n\Padawan\t\0\model\kyle/default\c1\4\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\Kyle\st2\none\dt\0
+12-10-2020 4:11 (0:12): ClientBegin: 1
+12-10-2020 4:11 (0:19): Kill: 1022 0 41: <world> killed astupidbot by MOD_TRIGGER_HURT
+12-10-2020 4:11 (0:20): ClientUserinfoChanged handling info: 0 \team\0\skill\ 5.00\personality\botfiles/astupidbot.jkb\saber2\none\saber1\kyle\color2\4\color1\4\sex\male\model\jawa\snaps\20\rate\25000\name\astupidbot
+12-10-2020 4:11 (0:20): ClientUserinfoChanged: 0 n\astupidbot\t\0\model\jawa\c1\4\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-10-2020 4:11 (0:24): Kill: 1022 0 41: <world> killed astupidbot by MOD_TRIGGER_HURT
+12-10-2020 4:11 (0:25): ClientUserinfoChanged handling info: 0 \team\0\skill\ 5.00\personality\botfiles/astupidbot.jkb\saber2\none\saber1\kyle\color2\4\color1\4\sex\male\model\jawa\snaps\20\rate\25000\name\astupidbot
+12-10-2020 4:11 (0:25): ClientUserinfoChanged: 0 n\astupidbot\t\0\model\jawa\c1\4\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+12-10-2020 4:11 (0:53): ClientDisconnect: 0
+12-10-2020 4:12 (1:27): ClientUserinfoChanged handling info: 1 \ip\136.49.101.98:29071\teamoverlay\1\snaps\50\sex\male\saber2\none\saber1\Kyle\rate\25000\password\temppw\name\Padawan\model\kyle/default\ja_guid\719672E5ADAB3F37334025E53A689EA1\handicap\100\forcepowers\1-1-010000000000000100\color2\4\color1\4\char_color_red\255\char_color_green\255\char_color_blue\255\cg_predictItems\1
+12-10-2020 4:12 (1:27): ClientUserinfoChanged: 1 n\Padawan\t\0\model\kyle/default\c1\4\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\Kyle\st2\none\dt\0
+12-10-2020 4:12 (1:39): ClientUserinfoChanged handling info: 1 \ip\136.49.101.98:29071\teamoverlay\1\snaps\50\sex\male\saber2\none\saber1\Kyle\rate\25000\password\temppw\name\Padawan\model\kyle/default\ja_guid\719672E5ADAB3F37334025E53A689EA1\handicap\100\forcepowers\1-1-010000000000000100\color2\4\color1\4\char_color_red\255\char_color_green\255\char_color_blue\255\cg_predictItems\1
+12-10-2020 4:12 (1:39): ClientUserinfoChanged: 1 n\Padawan\t\0\model\kyle/default\c1\4\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\Kyle\st2\none\dt\0
+12-10-2020 4:12 (1:40): ClientUserinfoChanged handling info: 1 \name\^3chains\ip\136.49.101.98:29071\teamoverlay\1\snaps\50\sex\male\saber2\none\saber1\Kyle\rate\25000\password\temppw\model\kyle/default\ja_guid\719672E5ADAB3F37334025E53A689EA1\handicap\100\forcepowers\1-1-010000000000000100\r1\or2\4\color1\4\char_color_red\255\char_color_green\255\char_color_blue\255\cg_predictItems\1
+12-10-2020 4:12 (1:40): ClientUserinfoChanged: 1 n\^3chains\t\0\model\kyle/default\c1\\c2\\hc\100\w\0\l\0\tt\0\tl\0\st\Kyle\st2\none\dt\0
+12-10-2020 4:55 (45:03): ClientDisconnect: 1
+12-11-2020 0:20 (1209:42): ClientConnect: 0
+12-11-2020 0:20 (1209:42): ClientUserinfoChanged handling info: 0 \ip\136.49.101.98:29070\challenge\1997218764\qport\48160\protocol\26\snaps\40\sex\male\saber2\none\saber1\Kyle\rate\25000\password\temppw\name\Padawan\model\kyle/default\ja_guid\719672E5ADAB3F37334025E53A689EA1\handicap\100\forcepowers\7-1-032330000000001333\color2\4\color1\4\char_color_red\255\char_color_green\255\char_color_blue\255\cg_predictItems\1
+12-11-2020 0:20 (1209:42): ClientUserinfoChanged: 0 n\Padawan\t\0\model\kyle/default\c1\4\c2\4\hc\0\w\0\l\0\tt\0\tl\0\st\\st2\\dt\0
+12-11-2020 0:20 (1209:42): IP: 136.49.101.98 Padawan
+12-11-2020 0:20 (1209:57): ClientUserinfoChanged handling info: 0 \ip\136.49.101.98:29070\snaps\50\sex\male\saber2\none\saber1\Kyle\rate\25000\password\temppw\name\chains\model\kyle/default\ja_guid\719672E5ADAB3F37334025E53A689EA1\handicap\100\forcepowers\7-1-010000000000000100\color2\4\color1\4\char_color_red\255\char_color_green\255\char_color_blue\255\cg_predictItems\1\teamoverlay\1
+12-11-2020 0:20 (1209:57): ClientUserinfoChanged: 0 n\Padawan\t\0\model\kyle/default\c1\4\c2\4\hc\0\w\0\l\0\tt\0\tl\0\st\Kyle\st2\none\dt\0
+12-11-2020 0:20 (1209:57): ClientUserinfoChanged handling info: 0 \ip\136.49.101.98:29070\snaps\50\sex\male\saber2\none\saber1\Kyle\rate\25000\password\temppw\name\chains\model\kyle/default\ja_guid\719672E5ADAB3F37334025E53A689EA1\handicap\100\forcepowers\7-1-010000000000000100\color2\4\color1\4\char_color_red\255\char_color_green\255\char_color_blue\255\cg_predictItems\1\teamoverlay\1
+12-11-2020 0:20 (1209:57): ClientUserinfoChanged: 0 n\Padawan\t\0\model\kyle/default\c1\4\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\Kyle\st2\none\dt\0
+12-11-2020 0:20 (1209:57): ClientBegin: 0
+12-11-2020 0:21 (1210:35): ClientUserinfoChanged handling info: 0 \ip\136.49.101.98:29070\teamoverlay\1\snaps\50\sex\male\saber2\none\saber1\Kyle\rate\25000\password\temppw\name\chains\model\kyle/default\ja_guid\719672E5ADAB3F37334025E53A689EA1\handicap\100\forcepowers\7-1-010000000000000100\color2\4\color1\4\char_color_red\255\char_color_green\255\char_color_blue\255\cg_predictItems\1
+12-11-2020 0:21 (1210:35): ClientUserinfoChanged: 0 n\Padawan\t\0\model\kyle/default\c1\4\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\Kyle\st2\none\dt\0
+12-11-2020 0:22 (1211:43): ClientUserinfoChanged handling info: 0 \ip\136.49.101.98:29070\teamoverlay\1\snaps\50\sex\male\saber2\none\saber1\Kyle\rate\25000\password\temppw\name\chains\model\kyle/default\ja_guid\719672E5ADAB3F37334025E53A689EA1\handicap\100\forcepowers\7-1-010000000000000100\color2\4\color1\4\char_color_red\255\char_color_green\255\char_color_blue\255\cg_predictItems\1
+12-11-2020 0:22 (1211:43): ClientUserinfoChanged: 0 n\Padawan\t\0\model\kyle/default\c1\4\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\Kyle\st2\none\dt\0
+12-11-2020 0:23 (1212:24): ClientUserinfoChanged handling info: 0 \ip\136.49.101.98:29070\teamoverlay\1\snaps\50\sex\male\saber2\none\saber1\Kyle\rate\25000\password\temppw\name\chains\model\kyle/default\ja_guid\719672E5ADAB3F37334025E53A689EA1\handicap\100\forcepowers\7-1-010000000000000100\color2\4\color1\4\char_color_red\255\char_color_green\255\char_color_blue\255\cg_predictItems\1
+12-11-2020 0:23 (1212:24): ClientNamechange: Padawan is now chains
+12-11-2020 0:23 (1212:24): ClientUserinfoChanged: 0 n\chains\t\0\model\kyle/default\c1\4\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\Kyle\st2\none\dt\0
+12-11-2020 0:23 (1212:25): ClientUserinfoChanged handling info: 0 \name\chains\ip\136.49.101.98:29070\teamoverlay\1\snaps\50\sex\male\saber2\none\saber1\Kyle\rate\25000\password\temppw\model\kyle/default\ja_guid\719672E5ADAB3F37334025E53A689EA1\handicap\100\forcepowers\7-1-010000000000000100\cr1\42\4\color1\4\char_color_red\255\char_color_green\255\char_color_blue\255\cg_predictItems\1
+12-11-2020 0:23 (1212:25): ClientUserinfoChanged: 0 n\chains\t\0\model\kyle/default\c1\\c2\\hc\100\w\0\l\0\tt\0\tl\0\st\Kyle\st2\none\dt\0
+12-11-2020 0:23 (1212:27): ShutdownGame:
+12-11-2020 0:23 (1212:27): ------------------------------------------------------------

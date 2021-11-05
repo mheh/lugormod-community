@@ -1,0 +1,516 @@
+2-16-2021 1: 3 (0:00): ------------------------------------------------------------
+2-16-2021 1: 3 (0:00): InitGame: \version\JAmp: v1.0.1.0 linux-i386 Mar 14 2020\timelimit\45\sv_privateClients\0\sv_minRate\0\sv_minPing\0\sv_maxclients\32\sv_maxRate\0\sv_maxPing\999\sv_hostname\^7~^1~^7~ COMM SERVER ~^1~^7~\sv_fps\50\sv_floodProtectSlow\1\sv_floodProtect\1\sv_autoDemo\0\sv_allowDownload\0\serveruptime\54\protocol\26\mapname\mp/duel6\gamename\Lugormod\g_weaponDisable\0\g_stepSlideFix\0\g_siegeTeamSwitch\1\g_siegeTeam2\none\g_siegeTeam1\none\g_siegeRespawn\20\g_showDuelHealths\1\g_saberWallDamageScale\0.4\g_saberLocking\0\g_privateDuel\1535\g_noSpecMove\0\g_needpass\0\g_maxHolocronCarry\3\g_maxGameClients\0\g_maxForceRank\7\g_jediVmerc\0\g_gametype\0\g_gamemode\0\g_forceRegenTime\160\g_forcePowerDisable\0\g_forceBasedTeams\1\g_duelWeaponDisable\9\g_debugmelee\1\g_allowNPC\1\fs_game\lugormod\fraglimit\0\duel_fraglimit\10\dmflags\0\capturelimit\10\bot_minplayers\2\bg_fighterAltControl\0\Lugormod_Version\U#-0.0.0.91 Alpha
+2-16-2021 1: 4 (0:30): ClientConnect: 0
+2-16-2021 1: 4 (0:30): ClientUserinfoChanged handling info: 0 \team\0\skill\ 5.00\personality\botfiles/astupidbot.jkb\saber2\none\saber1\kyle\color2\4\color1\4\sex\male\model\jawa\snaps\20\rate\25000\name\astupidbot
+2-16-2021 1: 4 (0:30): ClientUserinfoChanged: 0 n\astupidbot\t\0\model\jawa\c1\4\c2\4\hc\0\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\\st2\\dt\0\sdt\0
+2-16-2021 1: 4 (0:30): ClientUserinfoChanged handling info: 0 \name\astupidbot\team\0\skill\ 5.00\personality\botfiles/astupidbot.jkb\saber2\none\saber1\kyle\color2\4\color1\4\sex\male\model\jawa\snaps\20\rate\25000
+2-16-2021 1: 4 (0:30): ClientUserinfoChanged: 0 n\astupidbot\t\0\model\jawa\c1\4\c2\4\hc\0\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\\st2\\dt\0\sdt\0
+2-16-2021 1: 4 (0:30): IP: localhost astupidbot
+2-16-2021 1: 4 (0:30): ClientUserinfoChanged handling info: 0 \name\astupidbot\team\0\skill\ 5.00\personality\botfiles/astupidbot.jkb\saber2\none\saber1\kyle\color2\4\color1\4\sex\male\model\jawa\snaps\20\rate\25000
+2-16-2021 1: 4 (0:30): ClientUserinfoChanged: 0 n\astupidbot\t\0\model\jawa\c1\4\c2\4\hc\0\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\\st2\\dt\0\sdt\0
+2-16-2021 1: 4 (0:30): ClientUserinfoChanged handling info: 0 \name\astupidbot\team\0\skill\ 5.00\personality\botfiles/astupidbot.jkb\saber2\none\saber1\kyle\color2\4\color1\4\sex\male\model\jawa\snaps\20\rate\25000
+2-16-2021 1: 4 (0:30): ClientUserinfoChanged: 0 n\astupidbot\t\0\model\jawa\c1\4\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+2-16-2021 1: 4 (0:30): ClientBegin: 0
+2-16-2021 1: 4 (0:45): ClientConnect: 1
+2-16-2021 1: 4 (0:45): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+2-16-2021 1: 4 (0:45): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\0\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\\st2\\dt\0\sdt\0
+2-16-2021 1: 4 (0:45): ClientUserinfoChanged handling info: 1 \name\Kyle\team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000
+2-16-2021 1: 4 (0:45): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\0\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\\st2\\dt\0\sdt\0
+2-16-2021 1: 4 (0:45): IP: localhost Kyle
+2-16-2021 1: 4 (0:45): ClientUserinfoChanged handling info: 1 \name\Kyle\team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000
+2-16-2021 1: 4 (0:45): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\0\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\\st2\\dt\0\sdt\0
+2-16-2021 1: 4 (0:45): ClientUserinfoChanged handling info: 1 \name\Kyle\team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000
+2-16-2021 1: 4 (0:45): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+2-16-2021 1: 4 (0:45): ClientBegin: 1
+2-16-2021 11:35 (631:48): ClientConnect: 2
+2-16-2021 11:35 (631:48): ClientUserinfoChanged handling info: 2 \ip\77.191.21.184:61104\challenge\-2031657386\qport\26520\protocol\26\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\none\saber1\dual_4\cg_predictItems\1\sex\male\handicap\100\color2\0\color1\0\forcepowers\7-2-030300330000030332\model\reborn/blue\snaps\20\rate\4000\name\ed\teamtask\0\teamoverlay\1
+2-16-2021 11:35 (631:48): ClientUserinfoChanged: 2 n\Padawan\t\0\model\reborn/blue\c1\0\c2\0\hc\0\w\0\l\0\tt\0\tl\0\st\\st2\\dt\0
+2-16-2021 11:35 (631:48): IP: 77.191.21.184 Padawan
+2-16-2021 11:35 (631:48): say: astupidbot: Hi
+2-16-2021 11:35 (631:54): ClientUserinfoChanged handling info: 2 \ip\77.191.21.184:61104\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\none\saber1\dual_5\cg_predictItems\1\sex\male\handicap\100\color2\0\color1\0\forcepowers\7-2-030020330000030333\model\reborn/blue\snaps\20\rate\4000\name\ed\teamtask\0\teamoverlay\1
+2-16-2021 11:35 (631:54): ClientUserinfoChanged: 2 n\Padawan\t\0\model\reborn/blue\c1\0\c2\0\hc\0\w\0\l\0\tt\0\tl\0\st\dual_5\st2\none\dt\0
+2-16-2021 11:35 (631:54): ClientUserinfoChanged handling info: 2 \ip\77.191.21.184:61104\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\none\saber1\dual_5\cg_predictItems\1\sex\male\handicap\100\color2\0\color1\0\forcepowers\7-2-030020330000030333\model\reborn/blue\snaps\20\rate\4000\name\ed\teamtask\0\teamoverlay\1
+2-16-2021 11:35 (631:54): ClientUserinfoChanged: 2 n\Padawan\t\0\model\reborn/blue\c1\0\c2\0\hc\100\w\0\l\0\tt\0\tl\0\st\dual_5\st2\none\dt\0
+2-16-2021 11:35 (631:54): ClientBegin: 2
+2-16-2021 11:35 (631:58): say: astupidbot: g2g
+2-16-2021 11:35 (631:58): ClientDisconnect: 0
+2-16-2021 11:36 (632:20): say: Padawan: are you a real person?
+2-16-2021 11:36 (633:00): Kill: 2 1 3: Padawan killed Kyle by MOD_SABER
+2-16-2021 11:36 (633:00): Exit: Timelimit hit.
+2-16-2021 11:36 (633:00): score: 1  ping: 105  client: 2 Padawan
+2-16-2021 11:36 (633:00): score: 0  ping: 54  client: 1 Kyle
+2-16-2021 11:36 (633:01): ClientUserinfoChanged handling info: 1 \name\Kyle\team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000
+2-16-2021 11:36 (633:01): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+2-16-2021 11:37 (633:11): ShutdownGame:
+2-16-2021 11:37 (633:11): ------------------------------------------------------------
+2-16-2021 11:37 (633:11): ------------------------------------------------------------
+2-16-2021 11:37 (633:11): InitGame: \version\JAmp: v1.0.1.0 linux-i386 Mar 14 2020\timelimit\45\sv_privateClients\0\sv_minRate\0\sv_minPing\0\sv_maxclients\32\sv_maxRate\0\sv_maxPing\999\sv_hostname\^7~^1~^7~ COMM SERVER ~^1~^7~\sv_fps\50\sv_floodProtectSlow\1\sv_floodProtect\1\sv_autoDemo\0\sv_allowDownload\0\serveruptime\54\protocol\26\mapname\mp/duel6\gamename\Lugormod\g_weaponDisable\0\g_stepSlideFix\0\g_siegeTeamSwitch\1\g_siegeTeam2\none\g_siegeTeam1\none\g_siegeRespawn\20\g_showDuelHealths\1\g_saberWallDamageScale\0.4\g_saberLocking\0\g_privateDuel\1535\g_noSpecMove\0\g_needpass\0\g_maxHolocronCarry\3\g_maxGameClients\0\g_maxForceRank\7\g_jediVmerc\0\g_gametype\0\g_gamemode\0\g_forceRegenTime\160\g_forcePowerDisable\0\g_forceBasedTeams\1\g_duelWeaponDisable\9\g_debugmelee\1\g_allowNPC\1\fs_game\lugormod\fraglimit\0\duel_fraglimit\10\dmflags\0\capturelimit\10\bot_minplayers\2\bg_fighterAltControl\0\Lugormod_Version\U#-0.0.0.91 Alpha
+2-16-2021 11:37 (633:11): ClientConnect: 1
+2-16-2021 11:37 (633:11): ClientUserinfoChanged handling info: 1 \name\Kyle\team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000
+2-16-2021 11:37 (633:11): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\0\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+2-16-2021 11:37 (633:11): ClientUserinfoChanged handling info: 1 \name\Kyle\team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\coloale\model\kyle\snaps\2le\snaps\20\rate\25000
+2-16-2021 11:37 (633:11): ClientUserinfoChanged: 1 n\Kyle\t\0\model\\c1\\c2\4\hc\0\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+2-16-2021 11:37 (633:11): ClientUserinfoChanged handling info: 1 \name\Kyle\team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\coloale\model\kyle\snaps\2le\snaps\20\rate\25000
+2-16-2021 11:37 (633:11): ClientUserinfoChanged: 1 n\Kyle\t\0\model\\c1\\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+2-16-2021 11:37 (633:11): ClientBegin: 1
+2-16-2021 11:37 (633:11): ClientConnect: 2
+2-16-2021 11:37 (633:11): ClientUserinfoChanged handling info: 2 \ip\77.191.21.184:61104\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\none\saber1\dual_5\cg_predictItems\1\sex\male\handicap\100\color2\0\color1\0\forcepowers\7-2-030020330000030333\model\reborn/blue\snaps\20\rate\4000\name\ed\teamtask\0\teamoverlay\1
+2-16-2021 11:37 (633:11): ClientUserinfoChanged: 2 n\Padawan\t\0\model\reborn/blue\c1\0\c2\0\hc\0\w\0\l\0\tt\0\tl\0\st\dual_5\st2\none\dt\0
+2-16-2021 11:37 (633:11): ClientUserinfoChanged handling info: 2 \ip\77.191.21.184:61104\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\none\saber1\dual_5\cg_predictItems\1\sex\male\handicap\100\color2\0\color1\0\forcepowers\7-2-030020330000030333\model\reborn/blue\snaps\20\rate\4000\name\ed\teamtask\0\teamoverlay\1
+2-16-2021 11:37 (633:11): ClientUserinfoChanged: 2 n\Padawan\t\0\model\reborn/blue\c1\0\c2\0\hc\0\w\0\l\0\tt\0\tl\0\st\dual_5\st2\none\dt\0
+2-16-2021 11:37 (633:11): ClientUserinfoChanged handling info: 2 \ip\77.191.21.184:61104\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\none\saber1\dual_5\cg_predictItems\1\sex\male\handicap\100\color2\0\color1\0\forcepowers\7-2-030020330000030333\model\reborn/blue\snaps\20\rate\4000\name\ed\teamtask\0\teamoverlay\1
+2-16-2021 11:37 (633:11): ClientUserinfoChanged: 2 n\Padawan\t\0\model\reborn/blue\c1\0\c2\0\hc\100\w\0\l\0\tt\0\tl\0\st\dual_5\st2\none\dt\0
+2-16-2021 11:37 (633:11): ClientBegin: 2
+2-16-2021 11:37 (633:43): Kill: 2 1 31: Padawan killed Kyle by MOD_FORCE_DARK
+2-16-2021 11:37 (633:44): ClientUserinfoChanged handling info: 1 \name\Kyle\team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\coloale\model\kyle\snaps\2le\snaps\20\rate\25000
+2-16-2021 11:37 (633:44): ClientUserinfoChanged: 1 n\Kyle\t\0\model\\c1\\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+2-16-2021 11:38 (634:45): Kill: 1 2 3: Kyle killed Padawan by MOD_SABER
+2-16-2021 11:38 (634:49): say: Padawan: gf
+2-16-2021 11:38 (634:50): ClientUserinfoChanged handling info: 2 \ip\77.191.21.184:61104\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\none\saber1\dual_5\cg_predictItems\1\sex\male\handicap\100\color2\0\color1\0\forcepowers\7-2-030020330000030333\model\reborn/blue\snaps\20\rate\4000\name\ed\teamtask\0\teamoverlay\1
+2-16-2021 11:38 (634:50): ClientUserinfoChanged: 2 n\Padawan\t\0\model\reborn/blue\c1\0\c2\0\hc\100\w\0\l\0\tt\0\tl\0\st\dual_5\st2\none\dt\0
+2-16-2021 11:40 (636:33): say: Padawan: hello?
+2-16-2021 11:40 (636:55): say: Kyle: to be honest Padawan I don't care about lamers.
+2-16-2021 11:41 (637:25): say: Padawan: what is a lamer
+2-16-2021 11:41 (637:48): Kill: 1 2 3: Kyle killed Padawan by MOD_SABER
+2-16-2021 11:41 (637:50): ClientUserinfoChanged handling info: 2 \ip\77.191.21.184:61104\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\none\saber1\dual_5\cg_predictItems\1\sex\male\handicap\100\color2\0\color1\0\forcepowers\7-2-030020330000030333\model\reborn/blue\snaps\20\rate\4000\name\ed\teamtask\0\teamoverlay\1
+2-16-2021 11:41 (637:50): ClientUserinfoChanged: 2 n\Padawan\t\0\model\reborn/blue\c1\0\c2\0\hc\100\w\0\l\0\tt\0\tl\0\st\dual_5\st2\none\dt\0
+2-16-2021 11:43 (639:31): Kill: 1 2 3: Kyle killed Padawan by MOD_SABER
+2-16-2021 11:43 (639:33): say: Kyle: Good Fight
+2-16-2021 11:43 (639:34): ClientUserinfoChanged handling info: 2 \ip\77.191.21.184:61104\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\none\saber1\dual_5\cg_predictItems\1\sex\male\handicap\100\color2\0\color1\0\forcepowers\7-2-030020330000030333\model\reborn/blue\snaps\20\rate\4000\name\ed\teamtask\0\teamoverlay\1
+2-16-2021 11:43 (639:34): ClientUserinfoChanged: 2 n\Padawan\t\0\model\reborn/blue\c1\0\c2\0\hc\100\w\0\l\0\tt\0\tl\0\st\dual_5\st2\none\dt\0
+2-16-2021 11:43 (639:49): Kill: 1 2 3: Kyle killed Padawan by MOD_SABER
+2-16-2021 11:43 (639:51): say: Kyle: Good Fight
+2-16-2021 11:43 (639:52): ClientUserinfoChanged handling info: 2 \ip\77.191.21.184:61104\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\none\saber1\dual_5\cg_predictItems\1\sex\male\handicap\100\color2\0\color1\0\forcepowers\7-2-030020330000030333\model\reborn/blue\snaps\20\rate\4000\name\ed\teamtask\0\teamoverlay\1
+2-16-2021 11:43 (639:52): ClientUserinfoChanged: 2 n\Padawan\t\0\model\reborn/blue\c1\0\c2\0\hc\100\w\0\l\0\tt\0\tl\0\st\dual_5\st2\none\dt\0
+2-16-2021 11:43 (640:01): Kill: 1 2 3: Kyle killed Padawan by MOD_SABER
+2-16-2021 11:43 (640:04): ClientUserinfoChanged handling info: 2 \ip\77.191.21.184:61104\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\none\saber1\dual_5\cg_predictItems\1\sex\male\handicap\100\color2\0\color1\0\forcepowers\7-2-030020330000030333\model\reborn/blue\snaps\20\rate\4000\name\ed\teamtask\0\teamoverlay\1
+2-16-2021 11:43 (640:04): ClientUserinfoChanged: 2 n\Padawan\t\0\model\reborn/blue\c1\0\c2\0\hc\100\w\0\l\0\tt\0\tl\0\st\dual_5\st2\none\dt\0
+2-16-2021 11:44 (641:02): Kill: 2 1 3: Padawan killed Kyle by MOD_SABER
+2-16-2021 11:44 (641:03): ClientUserinfoChanged handling info: 1 \name\Kyle\team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\coloale\model\kyle\snaps\2le\snaps\20\rate\25000
+2-16-2021 11:44 (641:03): ClientUserinfoChanged: 1 n\Kyle\t\0\model\\c1\\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+2-16-2021 11:45 (641:31): Kill: 1 2 3: Kyle killed Padawan by MOD_SABER
+2-16-2021 11:45 (641:34): ClientUserinfoChanged handling info: 2 \ip\77.191.21.184:61104\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\none\saber1\dual_5\cg_predictItems\1\sex\male\handicap\100\color2\0\color1\0\forcepowers\7-2-030020330000030333\model\reborn/blue\snaps\20\rate\4000\name\ed\teamtask\0\teamoverlay\1
+2-16-2021 11:45 (641:34): ClientUserinfoChanged: 2 n\Padawan\t\0\model\reborn/blue\c1\0\c2\0\hc\100\w\0\l\0\tt\0\tl\0\st\dual_5\st2\none\dt\0
+2-16-2021 11:45 (641:48): Kill: 2 1 3: Padawan killed Kyle by MOD_SABER
+2-16-2021 11:45 (641:49): ClientUserinfoChanged handling info: 1 \name\Kyle\team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\coloale\model\kyle\snaps\2le\snaps\20\rate\25000
+2-16-2021 11:45 (641:49): ClientUserinfoChanged: 1 n\Kyle\t\0\model\\c1\\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+2-16-2021 11:45 (641:49): say: Kyle: dang
+2-16-2021 11:46 (642:15): ClientUserinfoChanged handling info: 2 \ip\77.191.21.184:61104\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\none\saber1\dual_5\cg_predictItems\1\sex\male\handicap\100\color2\0\color1\5\forcepowers\7-2-030020330000030333\model\reborn/default\snaps\20\rate\4000\name\ed\teamtask\0\teamoverlay\1
+2-16-2021 11:46 (642:15): ClientUserinfoChanged: 2 n\Padawan\t\0\model\reborn/default\c1\5\c2\0\hc\100\w\0\l\0\tt\0\tl\0\st\dual_5\st2\none\dt\0
+2-16-2021 11:46 (642:21): ClientUserinfoChanged handling info: 2 \ip\77.191.21.184:61104\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\none\saber1\dual_5\cg_predictItems\1\sex\male\handicap\100\color2\0\color1\5\forcepowers\7-2-030300330000030332\model\reborn/blue\snaps\20\rate\4000\name\ed\teamtask\0\teamoverlay\1
+2-16-2021 11:46 (642:21): ClientUserinfoChanged: 2 n\Padawan\t\0\model\reborn/blue\c1\5\c2\0\hc\100\w\0\l\0\tt\0\tl\0\st\dual_5\st2\none\dt\0
+2-16-2021 11:46 (642:50): Kill: 2 1 3: Padawan killed Kyle by MOD_SABER
+2-16-2021 11:46 (642:51): ClientUserinfoChanged handling info: 1 \name\Kyle\team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\coloale\model\kyle\snaps\2le\snaps\20\rate\25000
+2-16-2021 11:46 (642:51): ClientUserinfoChanged: 1 n\Kyle\t\0\model\\c1\\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+2-16-2021 11:46 (642:54): say: Padawan: that was close
+2-16-2021 11:47 (643:17): say: Kyle: Quit laming Padawan!
+2-16-2021 11:47 (643:18): Kill: 1 2 3: Kyle killed Padawan by MOD_SABER
+2-16-2021 11:47 (643:20): say: Kyle: Rest in pieces Padawan !
+2-16-2021 11:47 (643:22): say: Padawan: lol
+2-16-2021 11:47 (643:23): ClientUserinfoChanged handling info: 2 \ip\77.191.21.184:61104\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\none\saber1\dual_5\cg_predictItems\1\sex\male\handicap\100\color2\0\color1\5\forcepowers\7-2-030300330000030332\model\reborn/blue\snaps\20\rate\4000\name\ed\teamtask\0\teamoverlay\1
+2-16-2021 11:47 (643:23): ClientUserinfoChanged: 2 n\Padawan\t\0\model\reborn/blue\c1\5\c2\0\hc\100\w\0\l\0\tt\0\tl\0\st\dual_5\st2\none\dt\0
+2-16-2021 11:48 (644:16): Kill: 1 2 3: Kyle killed Padawan by MOD_SABER
+2-16-2021 11:48 (644:19): ClientUserinfoChanged handling info: 2 \ip\77.191.21.184:61104\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\none\saber1\dual_5\cg_predictItems\1\sex\male\handicap\100\color2\0\color1\5\forcepowers\7-2-030300330000030332\model\reborn/blue\snaps\20\rate\4000\name\ed\teamtask\0\teamoverlay\1
+2-16-2021 11:48 (644:19): ClientUserinfoChanged: 2 n\Padawan\t\0\model\reborn/blue\c1\5\c2\0\hc\100\w\0\l\0\tt\0\tl\0\st\dual_5\st2\none\dt\0
+2-16-2021 11:49 (645:12): Kill: 2 1 3: Padawan killed Kyle by MOD_SABER
+2-16-2021 11:49 (645:13): ClientUserinfoChanged handling info: 1 \name\Kyle\team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\coloale\model\kyle\snaps\2le\snaps\20\rate\25000
+2-16-2021 11:49 (645:13): ClientUserinfoChanged: 1 n\Kyle\t\0\model\\c1\\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+2-16-2021 11:50 (646:12): Kill: 2 1 3: Padawan killed Kyle by MOD_SABER
+2-16-2021 11:50 (646:13): ClientUserinfoChanged handling info: 1 \name\Kyle\team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\coloale\model\kyle\snaps\2le\snaps\20\rate\25000
+2-16-2021 11:50 (646:13): ClientUserinfoChanged: 1 n\Kyle\t\0\model\\c1\\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+2-16-2021 11:50 (646:27): say: Padawan: good fight
+2-16-2021 11:50 (646:42): Kill: 1 2 3: Kyle killed Padawan by MOD_SABER
+2-16-2021 11:50 (646:43): say: Kyle: hehe!
+2-16-2021 11:50 (646:45): say: Padawan: ouch
+2-16-2021 11:50 (646:46): ClientUserinfoChanged handling info: 2 \ip\77.191.21.184:61104\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\none\saber1\dual_5\cg_predictItems\1\sex\male\handicap\100\color2\0\color1\5\forcepowers\7-2-030300330000030332\model\reborn/blue\snaps\20\rate\4000\name\ed\teamtask\0\teamoverlay\1
+2-16-2021 11:50 (646:46): ClientUserinfoChanged: 2 n\Padawan\t\0\model\reborn/blue\c1\5\c2\0\hc\100\w\0\l\0\tt\0\tl\0\st\dual_5\st2\none\dt\0
+2-16-2021 11:51 (647:08): Kill: 2 1 3: Padawan killed Kyle by MOD_SABER
+2-16-2021 11:51 (647:09): ClientUserinfoChanged handling info: 1 \name\Kyle\team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\coloale\model\kyle\snaps\2le\snaps\20\rate\25000
+2-16-2021 11:51 (647:09): ClientUserinfoChanged: 1 n\Kyle\t\0\model\\c1\\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+2-16-2021 11:51 (647:23): say: Kyle: Quit laming Padawan!
+2-16-2021 11:51 (647:57): Kill: 2 1 3: Padawan killed Kyle by MOD_SABER
+2-16-2021 11:51 (647:58): ClientUserinfoChanged handling info: 1 \name\Kyle\team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\coloale\model\kyle\snaps\2le\snaps\20\rate\25000
+2-16-2021 11:51 (647:58): ClientUserinfoChanged: 1 n\Kyle\t\0\model\\c1\\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+2-16-2021 11:52 (648:42): Kill: 1 2 3: Kyle killed Padawan by MOD_SABER
+2-16-2021 11:52 (648:47): ClientUserinfoChanged handling info: 2 \ip\77.191.21.184:61104\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\none\saber1\dual_5\cg_predictItems\1\sex\male\handicap\100\color2\0\color1\5\forcepowers\7-2-030300330000030332\model\reborn/blue\snaps\20\rate\4000\name\ed\teamtask\0\teamoverlay\1
+2-16-2021 11:52 (648:47): ClientUserinfoChanged: 2 n\Padawan\t\0\model\reborn/blue\c1\5\c2\0\hc\100\w\0\l\0\tt\0\tl\0\st\dual_5\st2\none\dt\0
+2-16-2021 11:53 (649:26): say: Padawan: how is it that they never made a sw game this good again
+2-16-2021 11:53 (649:55): Kill: 1 2 3: Kyle killed Padawan by MOD_SABER
+2-16-2021 11:53 (650:00): ClientUserinfoChanged handling info: 2 \ip\77.191.21.184:61104\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\none\saber1\dual_5\cg_predictItems\1\sex\male\handicap\100\color2\0\color1\5\forcepowers\7-2-030300330000030332\model\reborn/blue\snaps\20\rate\4000\name\ed\teamtask\0\teamoverlay\1
+2-16-2021 11:53 (650:00): ClientUserinfoChanged: 2 n\Padawan\t\0\model\reborn/blue\c1\5\c2\0\hc\100\w\0\l\0\tt\0\tl\0\st\dual_5\st2\none\dt\0
+2-16-2021 11:54 (650:31): Kill: 2 1 3: Padawan killed Kyle by MOD_SABER
+2-16-2021 11:54 (650:32): ClientUserinfoChanged handling info: 1 \name\Kyle\team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\coloale\model\kyle\snaps\2le\snaps\20\rate\25000
+2-16-2021 11:54 (650:32): ClientUserinfoChanged: 1 n\Kyle\t\0\model\\c1\\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+2-16-2021 11:54 (650:36): say: Padawan: good fight
+2-16-2021 11:55 (651:58): Kill: 2 1 3: Padawan killed Kyle by MOD_SABER
+2-16-2021 11:55 (651:59): ClientUserinfoChanged handling info: 1 \name\Kyle\team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\coloale\model\kyle\snaps\2le\snaps\20\rate\25000
+2-16-2021 11:55 (651:59): ClientUserinfoChanged: 1 n\Kyle\t\0\model\\c1\\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+2-16-2021 11:56 (652:23): Kill: 1 2 3: Kyle killed Padawan by MOD_SABER
+2-16-2021 11:56 (652:26): say: Kyle: ^1Good Fight ^7 Padawan
+2-16-2021 11:56 (652:29): say: Padawan: oof
+2-16-2021 11:56 (652:30): ClientUserinfoChanged handling info: 2 \ip\77.191.21.184:61104\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\none\saber1\dual_5\cg_predictItems\1\sex\male\handicap\100\color2\0\color1\5\forcepowers\7-2-030300330000030332\model\reborn/blue\snaps\20\rate\4000\name\ed\teamtask\0\teamoverlay\1
+2-16-2021 11:56 (652:30): ClientUserinfoChanged: 2 n\Padawan\t\0\model\reborn/blue\c1\5\c2\0\hc\100\w\0\l\0\tt\0\tl\0\st\dual_5\st2\none\dt\0
+2-16-2021 11:56 (652:53): Kill: 2 1 3: Padawan killed Kyle by MOD_SABER
+2-16-2021 11:56 (652:54): ClientUserinfoChanged handling info: 1 \name\Kyle\team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\coloale\model\kyle\snaps\2le\snaps\20\rate\25000
+2-16-2021 11:56 (652:54): ClientUserinfoChanged: 1 n\Kyle\t\0\model\\c1\\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+2-16-2021 11:56 (653:01): say: Padawan: gf
+2-16-2021 11:57 (653:46): Kill: 2 1 3: Padawan killed Kyle by MOD_SABER
+2-16-2021 11:57 (653:47): ClientUserinfoChanged handling info: 1 \name\Kyle\team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\coloale\model\kyle\snaps\2le\snaps\20\rate\25000
+2-16-2021 11:57 (653:47): ClientUserinfoChanged: 1 n\Kyle\t\0\model\\c1\\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+2-16-2021 11:58 (654:20): Kill: 2 1 3: Padawan killed Kyle by MOD_SABER
+2-16-2021 11:58 (654:21): ClientUserinfoChanged handling info: 1 \name\Kyle\team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\coloale\model\kyle\snaps\2le\snaps\20\rate\25000
+2-16-2021 11:58 (654:21): ClientUserinfoChanged: 1 n\Kyle\t\0\model\\c1\\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+2-16-2021 11:58 (654:29): say: Padawan: gf
+2-16-2021 11:59 (655:31): Kill: 2 1 3: Padawan killed Kyle by MOD_SABER
+2-16-2021 11:59 (655:32): ClientUserinfoChanged handling info: 1 \name\Kyle\team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\coloale\model\kyle\snaps\2le\snaps\20\rate\25000
+2-16-2021 11:59 (655:32): ClientUserinfoChanged: 1 n\Kyle\t\0\model\\c1\\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+2-16-2021 12: 0 (656:17): say: Kyle: Come on Padawan
+2-16-2021 12: 0 (657:03): Kill: 2 1 3: Padawan killed Kyle by MOD_SABER
+2-16-2021 12: 0 (657:04): ClientUserinfoChanged handling info: 1 \name\Kyle\team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\coloale\model\kyle\snaps\2le\snaps\20\rate\25000
+2-16-2021 12: 0 (657:04): ClientUserinfoChanged: 1 n\Kyle\t\0\model\\c1\\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+2-16-2021 12: 1 (657:08): say: Padawan: that was soooo close
+2-16-2021 12: 1 (657:10): say: Padawan: gf
+2-16-2021 12: 1 (657:27): say: Kyle: Quit laming Padawan!
+2-16-2021 12: 1 (657:36): say: Padawan: ii just need some health
+2-16-2021 12: 1 (658:00): Kill: 2 1 3: Padawan killed Kyle by MOD_SABER
+2-16-2021 12: 1 (658:02): ClientUserinfoChanged handling info: 1 \name\Kyle\team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\coloale\model\kyle\snaps\2le\snaps\20\rate\25000
+2-16-2021 12: 1 (658:02): ClientUserinfoChanged: 1 n\Kyle\t\0\model\\c1\\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+2-16-2021 12: 1 (658:02): say: Kyle: You suck Padawan.
+2-16-2021 12: 2 (658:09): say: Padawan: haha why
+2-16-2021 12: 2 (658:35): say: Padawan: okok i wont use any more force power
+2-16-2021 12: 3 (659:16): Kill: 1 2 3: Kyle killed Padawan by MOD_SABER
+2-16-2021 12: 3 (659:18): tell: Padawan to Kyle: i mean bouncing the whole time isnt much better
+2-16-2021 12: 3 (659:20): ClientUserinfoChanged handling info: 2 \ip\77.191.21.184:61104\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\none\saber1\dual_5\cg_predictItems\1\sex\male\handicap\100\color2\0\color1\5\forcepowers\7-2-030300330000030332\model\reborn/blue\snaps\20\rate\4000\name\ed\teamtask\0\teamoverlay\1
+2-16-2021 12: 3 (659:20): ClientUserinfoChanged: 2 n\Padawan\t\0\model\reborn/blue\c1\5\c2\0\hc\100\w\0\l\0\tt\0\tl\0\st\dual_5\st2\none\dt\0
+2-16-2021 12: 3 (659:35): say: Padawan: i mean bouncing the whole time isnt miuch better
+2-16-2021 12: 3 (659:54): Kill: 2 1 3: Padawan killed Kyle by MOD_SABER
+2-16-2021 12: 3 (659:56): ClientUserinfoChanged handling info: 1 \name\Kyle\team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\coloale\model\kyle\snaps\2le\snaps\20\rate\25000
+2-16-2021 12: 3 (659:56): ClientUserinfoChanged: 1 n\Kyle\t\0\model\\c1\\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+2-16-2021 12: 3 (659:56): say: Kyle: Good Fight
+2-16-2021 12: 4 (660:54): Kill: 1 2 3: Kyle killed Padawan by MOD_SABER
+2-16-2021 12: 4 (660:57): say: Padawan: gf
+2-16-2021 12: 4 (660:58): ClientUserinfoChanged handling info: 2 \ip\77.191.21.184:61104\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\none\saber1\dual_5\cg_predictItems\1\sex\male\handicap\100\color2\0\color1\5\forcepowers\7-2-030300330000030332\model\reborn/blue\snaps\20\rate\4000\name\ed\teamtask\0\teamoverlay\1
+2-16-2021 12: 4 (660:58): ClientUserinfoChanged: 2 n\Padawan\t\0\model\reborn/blue\c1\5\c2\0\hc\100\w\0\l\0\tt\0\tl\0\st\dual_5\st2\none\dt\0
+2-16-2021 12: 5 (661:10): say: Kyle: Hey!
+2-16-2021 12: 6 (662:18): Kill: 1 2 3: Kyle killed Padawan by MOD_SABER
+2-16-2021 12: 6 (662:20): say: Kyle: You suck Padawan!!
+2-16-2021 12: 6 (662:22): say: Padawan: sheeeeet
+2-16-2021 12: 6 (662:23): ClientUserinfoChanged handling info: 2 \ip\77.191.21.184:61104\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\none\saber1\dual_5\cg_predictItems\1\sex\male\handicap\100\color2\0\color1\5\forcepowers\7-2-030300330000030332\model\reborn/blue\snaps\20\rate\4000\name\ed\teamtask\0\teamoverlay\1
+2-16-2021 12: 6 (662:23): ClientUserinfoChanged: 2 n\Padawan\t\0\model\reborn/blue\c1\5\c2\0\hc\100\w\0\l\0\tt\0\tl\0\st\dual_5\st2\none\dt\0
+2-16-2021 12: 6 (662:41): Kill: 2 1 3: Padawan killed Kyle by MOD_SABER
+2-16-2021 12: 6 (662:42): ClientUserinfoChanged handling info: 1 \name\Kyle\team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\coloale\model\kyle\snaps\2le\snaps\20\rate\25000
+2-16-2021 12: 6 (662:42): ClientUserinfoChanged: 1 n\Kyle\t\0\model\\c1\\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+2-16-2021 12: 6 (662:47): say: Padawan: lol
+2-16-2021 12: 7 (663:57): Kill: 2 1 3: Padawan killed Kyle by MOD_SABER
+2-16-2021 12: 7 (663:58): ClientUserinfoChanged handling info: 1 \name\Kyle\team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\coloale\model\kyle\snaps\2le\snaps\20\rate\25000
+2-16-2021 12: 7 (663:58): ClientUserinfoChanged: 1 n\Kyle\t\0\model\\c1\\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+2-16-2021 12: 7 (663:58): say: Kyle: gf
+2-16-2021 12: 7 (664:00): say: Padawan: gf
+2-16-2021 12: 9 (665:25): say: Padawan: where u at buddy
+2-16-2021 12:10 (666:16): say: Padawan: dude??
+2-16-2021 12:11 (667:45): say: Padawan: u still there?
+2-16-2021 12:11 (667:50): say: Padawan: im probably gonna leave
+2-16-2021 12:11 (667:56): say: Padawan: if you dont come out
+2-16-2021 12:12 (668:30): Kill: 2 1 3: Padawan killed Kyle by MOD_SABER
+2-16-2021 12:12 (668:31): ClientUserinfoChanged handling info: 1 \name\Kyle\team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\coloale\model\kyle\snaps\2le\snaps\20\rate\25000
+2-16-2021 12:12 (668:31): ClientUserinfoChanged: 1 n\Kyle\t\0\model\\c1\\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+2-16-2021 12:12 (669:02): Kill: 2 1 3: Padawan killed Kyle by MOD_SABER
+2-16-2021 12:12 (669:03): ClientUserinfoChanged handling info: 1 \name\Kyle\team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\coloale\model\kyle\snaps\2le\snaps\20\rate\25000
+2-16-2021 12:12 (669:03): ClientUserinfoChanged: 1 n\Kyle\t\0\model\\c1\\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+2-16-2021 12:13 (669:21): Kill: 1 2 3: Kyle killed Padawan by MOD_SABER
+2-16-2021 12:13 (669:22): ClientUserinfoChanged handling info: 2 \ip\77.191.21.184:61104\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\none\saber1\dual_5\cg_predictItems\1\sex\male\handicap\100\color2\0\color1\5\forcepowers\7-2-030300330000030332\model\reborn/blue\snaps\20\rate\4000\name\ed\teamtask\0\teamoverlay\1
+2-16-2021 12:13 (669:22): ClientUserinfoChanged: 2 n\Padawan\t\0\model\reborn/blue\c1\5\c2\0\hc\100\w\0\l\0\tt\0\tl\0\st\dual_5\st2\none\dt\0
+2-16-2021 12:13 (669:22): say: Kyle: hehe!
+2-16-2021 12:14 (670:14): say: Padawan: sorry
+2-16-2021 12:14 (670:30): Kill: 2 1 3: Padawan killed Kyle by MOD_SABER
+2-16-2021 12:14 (670:32): ClientUserinfoChanged handling info: 1 \name\Kyle\team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\coloale\model\kyle\snaps\2le\snaps\20\rate\25000
+2-16-2021 12:14 (670:32): ClientUserinfoChanged: 1 n\Kyle\t\0\model\\c1\\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+2-16-2021 12:14 (670:32): say: Kyle: Good Fight
+2-16-2021 12:14 (670:46): ClientUserinfoChanged handling info: 2 \ip\77.191.21.184:61104\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\none\saber1\single_6\cg_predictItems\1\sex\male\handicap\100\color2\0\color1\5\forcepowers\7-2-030300330000030332\model\reborn/blue\snaps\20\rate\4000\name\ed\teamtask\0\teamoverlay\1
+2-16-2021 12:14 (670:46): ClientUserinfoChanged: 2 n\Padawan\t\0\model\reborn/blue\c1\5\c2\0\hc\100\w\0\l\0\tt\0\tl\0\st\dual_5\st2\none\dt\0
+2-16-2021 12:15 (671:30): Kill: 2 1 3: Padawan killed Kyle by MOD_SABER
+2-16-2021 12:15 (671:31): ClientUserinfoChanged handling info: 1 \name\Kyle\team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\coloale\model\kyle\snaps\2le\snaps\20\rate\25000
+2-16-2021 12:15 (671:31): ClientUserinfoChanged: 1 n\Kyle\t\0\model\\c1\\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+2-16-2021 12:16 (672:05): Kill: 2 1 3: Padawan killed Kyle by MOD_SABER
+2-16-2021 12:16 (672:07): ClientUserinfoChanged handling info: 1 \name\Kyle\team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\coloale\model\kyle\snaps\2le\snaps\20\rate\25000
+2-16-2021 12:16 (672:07): ClientUserinfoChanged: 1 n\Kyle\t\0\model\\c1\\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+2-16-2021 12:16 (672:07): say: Kyle: gf
+2-16-2021 12:16 (672:14): say: Padawan: gf
+2-16-2021 12:16 (672:42): Kill: 2 1 3: Padawan killed Kyle by MOD_SABER
+2-16-2021 12:16 (672:43): ClientUserinfoChanged handling info: 1 \name\Kyle\team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\coloale\model\kyle\snaps\2le\snaps\20\rate\25000
+2-16-2021 12:16 (672:43): ClientUserinfoChanged: 1 n\Kyle\t\0\model\\c1\\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+2-16-2021 12:18 (674:20): say: Kyle: to be honest Padawan I don't care about lamers.
+2-16-2021 12:18 (674:22): Kill: 1 2 3: Kyle killed Padawan by MOD_SABER
+2-16-2021 12:18 (674:26): ClientUserinfoChanged handling info: 2 \ip\77.191.21.184:61104\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\none\saber1\single_6\cg_predictItems\1\sex\male\handicap\100\color2\0\color1\5\forcepowers\7-2-030300330000030332\model\reborn/blue\snaps\20\rate\4000\name\ed\teamtask\0\teamoverlay\1
+2-16-2021 12:18 (674:26): ClientUserinfoChanged: 2 n\Padawan\t\0\model\reborn/blue\c1\5\c2\0\hc\100\w\0\l\0\tt\0\tl\0\st\single_6\st2\none\dt\0
+2-16-2021 12:18 (674:26): ClientUserinfoChanged handling info: 2 \ip\77.191.21.184:61104\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\none\saber1\single_6\cg_predictItems\1\sex\male\handicap\100\color2\0\color1\5\forcepowers\7-2-030300330000030332\model\reborn/blue\snaps\20\rate\4000\name\ed\teamtask\0\teamoverlay\1
+2-16-2021 12:18 (674:26): ClientUserinfoChanged: 2 n\Padawan\t\0\model\reborn/blue\c1\5\c2\0\hc\100\w\0\l\0\tt\0\tl\0\st\single_6\st2\none\dt\0
+2-16-2021 12:18 (674:56): Kill: 1 2 3: Kyle killed Padawan by MOD_SABER
+2-16-2021 12:18 (675:00): ClientUserinfoChanged handling info: 2 \ip\77.191.21.184:61104\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\none\saber1\single_6\cg_predictItems\1\sex\male\handicap\100\color2\0\color1\5\forcepowers\7-2-030300330000030332\model\reborn/blue\snaps\20\rate\4000\name\ed\teamtask\0\teamoverlay\1
+2-16-2021 12:18 (675:00): ClientUserinfoChanged: 2 n\Padawan\t\0\model\reborn/blue\c1\5\c2\0\hc\100\w\0\l\0\tt\0\tl\0\st\single_6\st2\none\dt\0
+2-16-2021 12:19 (675:25): Kill: 2 1 6: Padawan killed Kyle by MOD_BLASTER
+2-16-2021 12:19 (675:26): ClientUserinfoChanged handling info: 1 \name\Kyle\team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\coloale\model\kyle\snaps\2le\snaps\20\rate\25000
+2-16-2021 12:19 (675:26): ClientUserinfoChanged: 1 n\Kyle\t\0\model\\c1\\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+2-16-2021 12:20 (676:33): Kill: 1 2 3: Kyle killed Padawan by MOD_SABER
+2-16-2021 12:20 (676:35): say: Kyle: hehe!
+2-16-2021 12:20 (676:36): say: Padawan: ouch
+2-16-2021 12:20 (676:51): ClientUserinfoChanged handling info: 2 \ip\77.191.21.184:61104\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\none\saber1\single_6\cg_predictItems\1\sex\male\handicap\100\color2\0\color1\5\forcepowers\7-2-030300330000030332\model\reborn/blue\snaps\20\rate\4000\name\ed\teamtask\0\teamoverlay\1
+2-16-2021 12:20 (676:51): ClientUserinfoChanged: 2 n\Padawan\t\0\model\reborn/blue\c1\5\c2\0\hc\100\w\0\l\0\tt\0\tl\0\st\single_6\st2\none\dt\0
+2-16-2021 12:20 (676:56): say: Padawan: where are you from?
+2-16-2021 12:21 (677:14): Kill: 1 2 3: Kyle killed Padawan by MOD_SABER
+2-16-2021 12:21 (677:17): ClientUserinfoChanged handling info: 2 \ip\77.191.21.184:61104\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\none\saber1\single_6\cg_predictItems\1\sex\male\handicap\100\color2\0\color1\5\forcepowers\7-2-030300330000030332\model\reborn/blue\snaps\20\rate\4000\name\ed\teamtask\0\teamoverlay\1
+2-16-2021 12:21 (677:17): ClientUserinfoChanged: 2 n\Padawan\t\0\model\reborn/blue\c1\5\c2\0\hc\100\w\0\l\0\tt\0\tl\0\st\single_6\st2\none\dt\0
+2-16-2021 12:21 (677:52): Kill: 1 2 38: Kyle killed Padawan by MOD_FALLING
+2-16-2021 12:21 (677:55): say: Padawan: hhahaha
+2-16-2021 12:21 (677:57): ClientUserinfoChanged handling info: 2 \ip\77.191.21.184:61104\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\none\saber1\single_6\cg_predictItems\1\sex\male\handicap\100\color2\0\color1\5\forcepowers\7-2-030300330000030332\model\reborn/blue\snaps\20\rate\4000\name\ed\teamtask\0\teamoverlay\1
+2-16-2021 12:21 (677:57): ClientUserinfoChanged: 2 n\Padawan\t\0\model\reborn/blue\c1\5\c2\0\hc\100\w\0\l\0\tt\0\tl\0\st\single_6\st2\none\dt\0
+2-16-2021 12:22 (678:11): Exit: Timelimit hit.
+2-16-2021 12:22 (678:11): score: 26  ping: 105  client: 2 Padawan
+2-16-2021 12:22 (678:11): score: 21  ping: 52  client: 1 Kyle
+2-16-2021 12:22 (678:18): ShutdownGame:
+2-16-2021 12:22 (678:18): ------------------------------------------------------------
+2-16-2021 12:22 (678:18): ------------------------------------------------------------
+2-16-2021 12:22 (678:18): InitGame: \version\JAmp: v1.0.1.0 linux-i386 Mar 14 2020\timelimit\45\sv_privateClients\0\sv_minRate\0\sv_minPing\0\sv_maxclients\32\sv_maxRate\0\sv_maxPing\999\sv_hostname\^7~^1~^7~ COMM SERVER ~^1~^7~\sv_fps\50\sv_floodProtectSlow\1\sv_floodProtect\1\sv_autoDemo\0\sv_allowDownload\0\serveruptime\54\protocol\26\mapname\mp/duel6\gamename\Lugormod\g_weaponDisable\0\g_stepSlideFix\0\g_siegeTeamSwitch\1\g_siegeTeam2\none\g_siegeTeam1\none\g_siegeRespawn\20\g_showDuelHealths\1\g_saberWallDamageScale\0.4\g_saberLocking\0\g_privateDuel\1535\g_noSpecMove\0\g_needpass\0\g_maxHolocronCarry\3\g_maxGameClients\0\g_maxForceRank\7\g_jediVmerc\0\g_gametype\0\g_gamemode\0\g_forceRegenTime\160\g_forcePowerDisable\0\g_forceBasedTeams\1\g_duelWeaponDisable\9\g_debugmelee\1\g_allowNPC\1\fs_game\lugormod\fraglimit\0\duel_fraglimit\10\dmflags\0\capturelimit\10\bot_minplayers\2\bg_fighterAltControl\0\Lugormod_Version\U#-0.0.0.91 Alpha
+2-16-2021 12:22 (678:18): ClientConnect: 1
+2-16-2021 12:22 (678:18): ClientUserinfoChanged handling info: 1 \name\Kyle\team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\coloale\model\kyle\snaps\2le\snaps\20\rate\25000
+2-16-2021 12:22 (678:18): ClientUserinfoChanged: 1 n\Kyle\t\0\model\\c1\\c2\4\hc\0\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+2-16-2021 12:22 (678:18): ClientUserinfoChanged handling info: 1 \name\Kyle\team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\colokyle\snaps\2le\snaps\2le\snaps\20\rate\25000
+2-16-2021 12:22 (678:18): ClientUserinfoChanged: 1 n\Kyle\t\0\model\\c1\\c2\4\hc\0\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+2-16-2021 12:22 (678:18): ClientUserinfoChanged handling info: 1 \name\Kyle\team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\colokyle\snaps\2le\snaps\2le\snaps\20\rate\25000
+2-16-2021 12:22 (678:18): ClientUserinfoChanged: 1 n\Kyle\t\0\model\\c1\\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+2-16-2021 12:22 (678:18): ClientBegin: 1
+2-16-2021 12:22 (678:18): ClientConnect: 2
+2-16-2021 12:22 (678:18): ClientUserinfoChanged handling info: 2 \ip\77.191.21.184:61104\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\none\saber1\single_6\cg_predictItems\1\sex\male\handicap\100\color2\0\color1\5\forcepowers\7-2-030300330000030332\model\reborn/blue\snaps\20\rate\4000\name\ed\teamtask\0\teamoverlay\1
+2-16-2021 12:22 (678:18): ClientUserinfoChanged: 2 n\Padawan\t\0\model\reborn/blue\c1\5\c2\0\hc\0\w\0\l\0\tt\0\tl\0\st\single_6\st2\none\dt\0
+2-16-2021 12:22 (678:18): ClientUserinfoChanged handling info: 2 \ip\77.191.21.184:61104\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\none\saber1\single_6\cg_predictItems\1\sex\male\handicap\100\color2\0\color1\5\forcepowers\7-2-030300330000030332\model\reborn/blue\snaps\20\rate\4000\name\ed\teamtask\0\teamoverlay\1
+2-16-2021 12:22 (678:18): ClientUserinfoChanged: 2 n\Padawan\t\0\model\reborn/blue\c1\5\c2\0\hc\0\w\0\l\0\tt\0\tl\0\st\single_6\st2\none\dt\0
+2-16-2021 12:22 (678:18): ClientUserinfoChanged handling info: 2 \ip\77.191.21.184:61104\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\none\saber1\single_6\cg_predictItems\1\sex\male\handicap\100\color2\0\color1\5\forcepowers\7-2-030300330000030332\model\reborn/blue\snaps\20\rate\4000\name\ed\teamtask\0\teamoverlay\1
+2-16-2021 12:22 (678:18): ClientUserinfoChanged: 2 n\Padawan\t\0\model\reborn/blue\c1\5\c2\0\hc\100\w\0\l\0\tt\0\tl\0\st\single_6\st2\none\dt\0
+2-16-2021 12:22 (678:18): ClientBegin: 2
+2-16-2021 12:22 (678:57): Kill: 1 2 3: Kyle killed Padawan by MOD_SABER
+2-16-2021 12:22 (679:00): ClientUserinfoChanged handling info: 2 \ip\77.191.21.184:61104\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\none\saber1\single_6\cg_predictItems\1\sex\male\handicap\100\color2\0\color1\5\forcepowers\7-2-030300330000030332\model\reborn/blue\snaps\20\rate\4000\name\ed\teamtask\0\teamoverlay\1
+2-16-2021 12:22 (679:00): ClientUserinfoChanged: 2 n\Padawan\t\0\model\reborn/blue\c1\5\c2\0\hc\100\w\0\l\0\tt\0\tl\0\st\single_6\st2\none\dt\0
+2-16-2021 12:23 (679:24): Kill: 1 2 3: Kyle killed Padawan by MOD_SABER
+2-16-2021 12:23 (679:25): ClientUserinfoChanged handling info: 2 \ip\77.191.21.184:61104\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\none\saber1\single_6\cg_predictItems\1\sex\male\handicap\100\color2\0\color1\5\forcepowers\7-2-030300330000030332\model\reborn/blue\snaps\20\rate\4000\name\ed\teamtask\0\teamoverlay\1
+2-16-2021 12:23 (679:25): ClientUserinfoChanged: 2 n\Padawan\t\0\model\reborn/blue\c1\5\c2\0\hc\100\w\0\l\0\tt\0\tl\0\st\single_6\st2\none\dt\0
+2-16-2021 12:23 (679:42): ClientUserinfoChanged handling info: 2 \ip\77.191.21.184:61104\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\single_2\saber1\single_1\cg_predictItems\1\sex\male\handicap\100\color2\0\color1\5\forcepowers\7-2-030300330000030332\model\reborn/blue\snaps\20\rate\4000\name\ed\teamtask\0\teamoverlay\1
+2-16-2021 12:23 (679:42): ClientUserinfoChanged: 2 n\Padawan\t\0\model\reborn/blue\c1\5\c2\0\hc\100\w\0\l\0\tt\0\tl\0\st\single_6\st2\none\dt\0
+2-16-2021 12:23 (679:49): Kill: 2 1 31: Padawan killed Kyle by MOD_FORCE_DARK
+2-16-2021 12:23 (679:51): ClientUserinfoChanged handling info: 1 \name\Kyle\team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\colokyle\snaps\2le\snaps\2le\snaps\20\rate\25000
+2-16-2021 12:23 (679:51): ClientUserinfoChanged: 1 n\Kyle\t\0\model\\c1\\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+2-16-2021 12:23 (679:51): say: Kyle: Good Fight
+2-16-2021 12:23 (680:00): say: Padawan: you too
+2-16-2021 12:24 (680:35): Kill: 1 2 3: Kyle killed Padawan by MOD_SABER
+2-16-2021 12:24 (680:38): say: Padawan: ow
+2-16-2021 12:24 (680:39): ClientUserinfoChanged handling info: 2 \ip\77.191.21.184:61104\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\single_2\saber1\single_1\cg_predictItems\1\sex\male\handicap\100\color2\0\color1\5\forcepowers\7-2-030300330000030332\model\reborn/blue\snaps\20\rate\4000\name\ed\teamtask\0\teamoverlay\1
+2-16-2021 12:24 (680:39): ClientUserinfoChanged: 2 n\Padawan\t\0\model\reborn/blue\c1\5\c2\0\hc\100\w\0\l\0\tt\0\tl\0\st\single_1\st2\single_2\dt\0
+2-16-2021 12:24 (680:39): ClientUserinfoChanged handling info: 2 \ip\77.191.21.184:61104\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\single_2\saber1\single_1\cg_predictItems\1\sex\male\handicap\100\color2\0\color1\5\forcepowers\7-2-030300330000030332\model\reborn/blue\snaps\20\rate\4000\name\ed\teamtask\0\teamoverlay\1
+2-16-2021 12:24 (680:39): ClientUserinfoChanged: 2 n\Padawan\t\0\model\reborn/blue\c1\5\c2\0\hc\100\w\0\l\0\tt\0\tl\0\st\single_1\st2\single_2\dt\0
+2-16-2021 12:25 (681:06): Kill: 1 2 3: Kyle killed Padawan by MOD_SABER
+2-16-2021 12:25 (681:08): ClientUserinfoChanged handling info: 2 \ip\77.191.21.184:61104\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\single_2\saber1\single_1\cg_predictItems\1\sex\male\handicap\100\color2\0\color1\5\forcepowers\7-2-030300330000030332\model\reborn/blue\snaps\20\rate\4000\name\ed\teamtask\0\teamoverlay\1
+2-16-2021 12:25 (681:08): ClientUserinfoChanged: 2 n\Padawan\t\0\model\reborn/blue\c1\5\c2\0\hc\100\w\0\l\0\tt\0\tl\0\st\single_1\st2\single_2\dt\0
+2-16-2021 12:25 (681:08): say: Kyle: ^1Good Fight ^7 Padawan
+2-16-2021 12:25 (681:21): say: Padawan: you play like a person but talk like a bot
+2-16-2021 12:25 (681:25): say: Padawan: im worried
+2-16-2021 12:26 (682:24): Kill: 2 1 31: Padawan killed Kyle by MOD_FORCE_DARK
+2-16-2021 12:26 (682:26): ClientUserinfoChanged handling info: 1 \name\Kyle\team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\colokyle\snaps\2le\snaps\2le\snaps\20\rate\25000
+2-16-2021 12:26 (682:26): ClientUserinfoChanged: 1 n\Kyle\t\0\model\\c1\\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+2-16-2021 12:26 (682:26): say: Kyle: dang
+2-16-2021 12:29 (685:30): Kill: 1 2 3: Kyle killed Padawan by MOD_SABER
+2-16-2021 12:29 (685:32): ClientUserinfoChanged handling info: 2 \ip\77.191.21.184:61104\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\single_2\saber1\single_1\cg_predictItems\1\sex\male\handicap\100\color2\0\color1\5\forcepowers\7-2-030300330000030332\model\reborn/blue\snaps\20\rate\4000\name\ed\teamtask\0\teamoverlay\1
+2-16-2021 12:29 (685:32): ClientUserinfoChanged: 2 n\Padawan\t\0\model\reborn/blue\c1\5\c2\0\hc\100\w\0\l\0\tt\0\tl\0\st\single_1\st2\single_2\dt\0
+2-16-2021 12:29 (685:39): say: Padawan: gf
+2-16-2021 12:29 (685:54): say: Kyle: to be honest Padawan I don't care about lamers.
+2-16-2021 12:29 (686:04): Kill: 2 1 31: Padawan killed Kyle by MOD_FORCE_DARK
+2-16-2021 12:30 (686:05): ClientUserinfoChanged handling info: 1 \name\Kyle\team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\colokyle\snaps\2le\snaps\2le\snaps\20\rate\25000
+2-16-2021 12:30 (686:05): ClientUserinfoChanged: 1 n\Kyle\t\0\model\\c1\\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+2-16-2021 12:32 (688:24): Kill: 1 2 3: Kyle killed Padawan by MOD_SABER
+2-16-2021 12:32 (688:26): say: Kyle: You suck Padawan!!
+2-16-2021 12:32 (688:29): ClientUserinfoChanged handling info: 2 \ip\77.191.21.184:61104\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\single_2\saber1\single_1\cg_predictItems\1\sex\male\handicap\100\color2\0\color1\5\forcepowers\7-2-030300330000030332\model\reborn/blue\snaps\20\rate\4000\name\ed\teamtask\0\teamoverlay\1
+2-16-2021 12:32 (688:29): ClientUserinfoChanged: 2 n\Padawan\t\0\model\reborn/blue\c1\5\c2\0\hc\100\w\0\l\0\tt\0\tl\0\st\single_1\st2\single_2\dt\0
+2-16-2021 12:32 (688:56): say: Kyle: Hey!
+2-16-2021 12:33 (689:37): Kill: 1 2 3: Kyle killed Padawan by MOD_SABER
+2-16-2021 12:33 (689:39): say: Kyle: You suck Padawan!!
+2-16-2021 12:33 (689:46): ClientUserinfoChanged handling info: 2 \ip\77.191.21.184:61104\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\none\saber1\dual_4\cg_predictItems\1\sex\male\handicap\100\color2\0\color1\5\forcepowers\7-2-030300330000030332\model\reborn/blue\snaps\20\rate\4000\name\ed\teamtask\0\teamoverlay\1
+2-16-2021 12:33 (689:46): ClientUserinfoChanged: 2 n\Padawan\t\0\model\reborn/blue\c1\5\c2\0\hc\100\w\0\l\0\tt\0\tl\0\st\single_1\st2\single_2\dt\0
+2-16-2021 12:33 (689:46): ClientUserinfoChanged handling info: 2 \ip\77.191.21.184:61104\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\none\saber1\dual_4\cg_predictItems\1\sex\male\handicap\100\color2\0\color1\5\forcepowers\7-2-030300330000030332\model\reborn/blue\snaps\20\rate\4000\name\ed\teamtask\0\teamoverlay\1
+2-16-2021 12:33 (689:46): ClientUserinfoChanged: 2 n\Padawan\t\0\model\reborn/blue\c1\5\c2\0\hc\100\w\0\l\0\tt\0\tl\0\st\dual_4\st2\none\dt\0
+2-16-2021 12:33 (689:46): ClientUserinfoChanged handling info: 2 \ip\77.191.21.184:61104\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\none\saber1\dual_4\cg_predictItems\1\sex\male\handicap\100\color2\0\color1\5\forcepowers\7-2-030300330000030332\model\reborn/blue\snaps\20\rate\4000\name\ed\teamtask\0\teamoverlay\1
+2-16-2021 12:33 (689:46): ClientUserinfoChanged: 2 n\Padawan\t\0\model\reborn/blue\c1\5\c2\0\hc\100\w\0\l\0\tt\0\tl\0\st\dual_4\st2\none\dt\0
+2-16-2021 12:34 (690:15): Kill: 2 1 31: Padawan killed Kyle by MOD_FORCE_DARK
+2-16-2021 12:34 (690:16): ClientUserinfoChanged handling info: 1 \name\Kyle\team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\colokyle\snaps\2le\snaps\2le\snaps\20\rate\25000
+2-16-2021 12:34 (690:16): ClientUserinfoChanged: 1 n\Kyle\t\0\model\\c1\\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+2-16-2021 12:34 (690:16): say: Kyle: to be honest Padawan I don't care about lamers.
+2-16-2021 12:36 (692:16): Kill: 1022 2 38: <world> killed Padawan by MOD_FALLING
+2-16-2021 12:36 (692:18): say: Kyle: You suck Padawan!!
+2-16-2021 12:36 (692:20): say: Padawan: haha
+2-16-2021 12:36 (692:21): ClientUserinfoChanged handling info: 2 \ip\77.191.21.184:61104\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\none\saber1\dual_4\cg_predictItems\1\sex\male\handicap\100\color2\0\color1\5\forcepowers\7-2-030300330000030332\model\reborn/blue\snaps\20\rate\4000\name\ed\teamtask\0\teamoverlay\1
+2-16-2021 12:36 (692:21): ClientUserinfoChanged: 2 n\Padawan\t\0\model\reborn/blue\c1\5\c2\0\hc\100\w\0\l\0\tt\0\tl\0\st\dual_4\st2\none\dt\0
+2-16-2021 12:36 (692:39): say: Kyle: Quit laming Padawan!
+2-16-2021 12:37 (693:13): Kill: 1 2 3: Kyle killed Padawan by MOD_SABER
+2-16-2021 12:37 (693:17): ClientUserinfoChanged handling info: 2 \ip\77.191.21.184:61104\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\none\saber1\dual_4\cg_predictItems\1\sex\male\handicap\100\color2\0\color1\5\forcepowers\7-2-030300330000030332\model\reborn/blue\snaps\20\rate\4000\name\ed\teamtask\0\teamoverlay\1
+2-16-2021 12:37 (693:17): ClientUserinfoChanged: 2 n\Padawan\t\0\model\reborn/blue\c1\5\c2\0\hc\100\w\0\l\0\tt\0\tl\0\st\dual_4\st2\none\dt\0
+2-16-2021 12:37 (693:32): Kill: 2 1 3: Padawan killed Kyle by MOD_SABER
+2-16-2021 12:37 (693:33): ClientUserinfoChanged handling info: 1 \name\Kyle\team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\colokyle\snaps\2le\snaps\2le\snaps\20\rate\25000
+2-16-2021 12:37 (693:33): ClientUserinfoChanged: 1 n\Kyle\t\0\model\\c1\\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+2-16-2021 12:37 (693:49): ClientUserinfoChanged handling info: 2 \ip\77.191.21.184:61104\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\none\saber1\dual_4\cg_predictItems\1\sex\male\handicap\100\color2\0\color1\5\forcepowers\7-1-333303000000000332\model\reborn/blue\snaps\20\rate\4000\name\ed\teamtask\0\teamoverlay\1
+2-16-2021 12:37 (693:49): ClientUserinfoChanged: 2 n\Padawan\t\0\model\reborn/blue\c1\5\c2\0\hc\100\w\0\l\0\tt\0\tl\0\st\dual_4\st2\none\dt\0
+2-16-2021 12:38 (694:28): say: Kyle: Hey!
+2-16-2021 12:38 (694:40): Kill: 1 2 3: Kyle killed Padawan by MOD_SABER
+2-16-2021 12:38 (694:42): say: Kyle: You suck Padawan!!
+2-16-2021 12:38 (694:43): ClientUserinfoChanged handling info: 2 \ip\77.191.21.184:61104\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\none\saber1\dual_4\cg_predictItems\1\sex\male\handicap\100\color2\0\color1\5\forcepowers\7-1-333303000000000332\model\reborn/blue\snaps\20\rate\4000\name\ed\teamtask\0\teamoverlay\1
+2-16-2021 12:38 (694:43): ClientUserinfoChanged: 2 n\Padawan\t\0\model\reborn/blue\c1\5\c2\0\hc\100\w\0\l\0\tt\0\tl\0\st\dual_4\st2\none\dt\0
+2-16-2021 12:39 (695:35): Kill: 2 1 3: Padawan killed Kyle by MOD_SABER
+2-16-2021 12:39 (695:37): ClientUserinfoChanged handling info: 1 \name\Kyle\team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\colokyle\snaps\2le\snaps\2le\snaps\20\rate\25000
+2-16-2021 12:39 (695:37): ClientUserinfoChanged: 1 n\Kyle\t\0\model\\c1\\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+2-16-2021 12:39 (695:37): say: Kyle: gf
+2-16-2021 12:39 (696:04): Kill: 1 2 3: Kyle killed Padawan by MOD_SABER
+2-16-2021 12:40 (696:06): say: Kyle: ^1Good Fight ^7 Padawan
+2-16-2021 12:40 (696:07): say: Padawan: that didnt work
+2-16-2021 12:40 (696:08): ClientUserinfoChanged handling info: 2 \ip\77.191.21.184:61104\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\none\saber1\dual_4\cg_predictItems\1\sex\male\handicap\100\color2\0\color1\5\forcepowers\7-1-333303000000000332\model\reborn/blue\snaps\20\rate\4000\name\ed\teamtask\0\teamoverlay\1
+2-16-2021 12:40 (696:08): ClientUserinfoChanged: 2 n\Padawan\t\0\model\reborn/blue\c1\5\c2\0\hc\100\w\0\l\0\tt\0\tl\0\st\dual_4\st2\none\dt\0
+2-16-2021 12:40 (696:51): say: Padawan: come here you little bitch
+2-16-2021 12:40 (696:54): say: Kyle: Padawan language please!!
+2-16-2021 12:40 (697:04): say: Padawan: youre clearly a bot
+2-16-2021 12:41 (697:12): say: Padawan: what the fuck do you care
+2-16-2021 12:41 (697:53): Kill: 2 1 3: Padawan killed Kyle by MOD_SABER
+2-16-2021 12:41 (697:54): ClientUserinfoChanged handling info: 1 \name\Kyle\team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\colokyle\snaps\2le\snaps\2le\snaps\20\rate\25000
+2-16-2021 12:41 (697:54): ClientUserinfoChanged: 1 n\Kyle\t\0\model\\c1\\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+2-16-2021 12:41 (698:00): say: Padawan: shit
+2-16-2021 12:44 (700:15): Kill: 1 2 3: Kyle killed Padawan by MOD_SABER
+2-16-2021 12:44 (700:17): say: Kyle: hehe!
+2-16-2021 12:44 (700:21): say: Padawan: you should use dual sabers
+2-16-2021 12:44 (700:22): ClientUserinfoChanged handling info: 2 \ip\77.191.21.184:61104\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\none\saber1\dual_4\cg_predictItems\1\sex\male\handicap\100\color2\0\color1\5\forcepowers\7-1-333303000000000332\model\reborn/blue\snaps\20\rate\4000\name\ed\teamtask\0\teamoverlay\1
+2-16-2021 12:44 (700:22): ClientUserinfoChanged: 2 n\Padawan\t\0\model\reborn/blue\c1\5\c2\0\hc\100\w\0\l\0\tt\0\tl\0\st\dual_4\st2\none\dt\0
+2-16-2021 12:44 (700:59): Kill: 1 2 3: Kyle killed Padawan by MOD_SABER
+2-16-2021 12:44 (700:59): duel: Kyle won a duel against Padawan
+2-16-2021 12:44 (701:02): ClientUserinfoChanged handling info: 2 \ip\77.191.21.184:61104\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\none\saber1\dual_4\cg_predictItems\1\sex\male\handicap\100\color2\0\color1\5\forcepowers\7-1-333303000000000332\model\reborn/blue\snaps\20\rate\4000\name\ed\teamtask\0\teamoverlay\1
+2-16-2021 12:44 (701:02): ClientUserinfoChanged: 2 n\Padawan\t\0\model\reborn/blue\c1\5\c2\0\hc\100\w\0\l\0\tt\0\tl\0\st\dual_4\st2\none\dt\0
+2-16-2021 12:45 (701:45): Kill: 1 2 3: Kyle killed Padawan by MOD_SABER
+2-16-2021 12:45 (701:45): duel: Kyle won a duel against Padawan
+2-16-2021 12:45 (701:51): ClientUserinfoChanged handling info: 2 \ip\77.191.21.184:61104\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\none\saber1\dual_4\cg_predictItems\1\sex\male\handicap\100\color2\0\color1\5\forcepowers\7-1-333303000000000332\model\reborn/blue\snaps\20\rate\4000\name\ed\teamtask\0\teamoverlay\1
+2-16-2021 12:45 (701:51): ClientUserinfoChanged: 2 n\Padawan\t\0\model\reborn/blue\c1\5\c2\0\hc\100\w\0\l\0\tt\0\tl\0\st\dual_4\st2\none\dt\0
+2-16-2021 12:46 (702:25): say: Kyle: Come on Padawan
+2-16-2021 12:46 (703:03): Kill: 1 2 3: Kyle killed Padawan by MOD_SABER
+2-16-2021 12:46 (703:03): duel: Kyle won a duel against Padawan
+2-16-2021 12:47 (703:10): say: Padawan: why cant i kick you in a duel
+2-16-2021 12:47 (703:11): ClientUserinfoChanged handling info: 2 \ip\77.191.21.184:61104\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\none\saber1\dual_4\cg_predictItems\1\sex\male\handicap\100\color2\0\color1\5\forcepowers\7-1-333303000000000332\model\reborn/blue\snaps\20\rate\4000\name\ed\teamtask\0\teamoverlay\1
+2-16-2021 12:47 (703:11): ClientUserinfoChanged: 2 n\Padawan\t\0\model\reborn/blue\c1\5\c2\0\hc\100\w\0\l\0\tt\0\tl\0\st\dual_4\st2\none\dt\0
+2-16-2021 12:47 (703:40): Kill: 2 1 3: Padawan killed Kyle by MOD_SABER
+2-16-2021 12:47 (703:41): ClientUserinfoChanged handling info: 1 \name\Kyle\team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\colokyle\snaps\2le\snaps\2le\snaps\20\rate\25000
+2-16-2021 12:47 (703:41): ClientUserinfoChanged: 1 n\Kyle\t\0\model\\c1\\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+2-16-2021 12:48 (704:08): say: Padawan: come meet me in the middle
+2-16-2021 12:49 (705:15): say: Padawan: why cant i kick you
+2-16-2021 12:50 (706:23): Kill: 1 2 3: Kyle killed Padawan by MOD_SABER
+2-16-2021 12:50 (706:23): duel: Kyle won a duel against Padawan
+2-16-2021 12:50 (706:25): say: Kyle: hehe!
+2-16-2021 12:50 (706:26): ClientUserinfoChanged handling info: 2 \ip\77.191.21.184:61104\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\none\saber1\dual_4\cg_predictItems\1\sex\male\handicap\100\color2\0\color1\5\forcepowers\7-1-333303000000000332\model\reborn/blue\snaps\20\rate\4000\name\ed\teamtask\0\teamoverlay\1
+2-16-2021 12:50 (706:26): ClientUserinfoChanged: 2 n\Padawan\t\0\model\reborn/blue\c1\5\c2\0\hc\100\w\0\l\0\tt\0\tl\0\st\dual_4\st2\none\dt\0
+2-16-2021 12:50 (706:34): say: Padawan: meet me in the middle
+2-16-2021 12:50 (706:39): say: Padawan: come here
+2-16-2021 12:50 (706:47): say: Padawan: stop jumping in the corner
+2-16-2021 12:50 (706:57): say: Padawan: you look stupid
+2-16-2021 12:51 (707:55): Kill: 1 2 3: Kyle killed Padawan by MOD_SABER
+2-16-2021 12:51 (707:55): duel: Kyle won a duel against Padawan
+2-16-2021 12:51 (707:57): ClientUserinfoChanged handling info: 2 \ip\77.191.21.184:61104\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\none\saber1\dual_4\cg_predictItems\1\sex\male\handicap\100\color2\0\color1\5\forcepowers\7-1-333303000000000332\model\reborn/blue\snaps\20\rate\4000\name\ed\teamtask\0\teamoverlay\1
+2-16-2021 12:51 (707:57): ClientUserinfoChanged: 2 n\Padawan\t\0\model\reborn/blue\c1\5\c2\0\hc\100\w\0\l\0\tt\0\tl\0\st\dual_4\st2\none\dt\0
+2-16-2021 12:52 (708:19): say: Padawan: middle 
+2-16-2021 12:52 (708:36): Kill: 1 2 3: Kyle killed Padawan by MOD_SABER
+2-16-2021 12:52 (708:38): ClientUserinfoChanged handling info: 2 \ip\77.191.21.184:61104\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\none\saber1\dual_4\cg_predictItems\1\sex\male\handicap\100\color2\0\color1\5\forcepowers\7-1-333303000000000332\model\reborn/blue\snaps\20\rate\4000\name\ed\teamtask\0\teamoverlay\1
+2-16-2021 12:52 (708:38): ClientUserinfoChanged: 2 n\Padawan\t\0\model\reborn/blue\c1\5\c2\0\hc\100\w\0\l\0\tt\0\tl\0\st\dual_4\st2\none\dt\0
+2-16-2021 12:52 (708:54): say: Kyle: Come on Padawan
+2-16-2021 12:52 (708:59): say: Padawan: how do you use a jetpack
+2-16-2021 12:52 (709:03): say: Kyle: jump, and press use key when you are in the air.
+2-16-2021 12:53 (709:13): say: Padawan: so you arent a bot?>
+2-16-2021 12:53 (709:20): say: Kyle: Fight me Padawan
+2-16-2021 12:53 (709:31): say: Padawan: wait for real?
+2-16-2021 12:53 (709:36): say: Padawan: youre a person?
+2-16-2021 12:54 (710:22): say: Padawan: dude
+2-16-2021 12:54 (710:36): Kill: 1 2 3: Kyle killed Padawan by MOD_SABER
+2-16-2021 12:54 (710:38): ClientUserinfoChanged handling info: 2 \ip\77.191.21.184:61104\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\none\saber1\dual_4\cg_predictItems\1\sex\male\handicap\100\color2\0\color1\5\forcepowers\7-1-333303000000000332\model\reborn/blue\snaps\20\rate\4000\name\ed\teamtask\0\teamoverlay\1
+2-16-2021 12:54 (710:38): ClientUserinfoChanged: 2 n\Padawan\t\0\model\reborn/blue\c1\5\c2\0\hc\100\w\0\l\0\tt\0\tl\0\st\dual_4\st2\none\dt\0
+2-16-2021 12:54 (710:47): say: Padawan: ok im ready to duel
+2-16-2021 12:54 (710:51): say: Padawan: come to the middle
+2-16-2021 12:54 (710:59): say: Padawan: can we change the map after?
+2-16-2021 12:55 (711:06): say: Kyle: Come on Padawan
+2-16-2021 12:56 (712:17): Kill: 1 2 3: Kyle killed Padawan by MOD_SABER
+2-16-2021 12:56 (712:17): duel: Kyle won a duel against Padawan
+2-16-2021 12:56 (712:19): ClientUserinfoChanged handling info: 2 \ip\77.191.21.184:61104\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\none\saber1\dual_4\cg_predictItems\1\sex\male\handicap\100\color2\0\color1\5\forcepowers\7-1-333303000000000332\model\reborn/blue\snaps\20\rate\4000\name\ed\teamtask\0\teamoverlay\1
+2-16-2021 12:56 (712:19): ClientUserinfoChanged: 2 n\Padawan\t\0\model\reborn/blue\c1\5\c2\0\hc\100\w\0\l\0\tt\0\tl\0\st\dual_4\st2\none\dt\0
+2-16-2021 12:56 (712:19): say: Kyle: hehe!
+2-16-2021 12:56 (712:22): say: Padawan: wtf
+2-16-2021 12:57 (713:34): say: Padawan: come to the middle
+2-16-2021 12:57 (714:00): Kill: 2 1 3: Padawan killed Kyle by MOD_SABER
+2-16-2021 12:57 (714:00): duel: Padawan won a duel against Kyle
+2-16-2021 12:57 (714:01): ClientUserinfoChanged handling info: 1 \name\Kyle\team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\colokyle\snaps\2le\snaps\2le\snaps\20\rate\25000
+2-16-2021 12:57 (714:01): ClientUserinfoChanged: 1 n\Kyle\t\0\model\\c1\\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+2-16-2021 12:58 (714:45): Kill: 2 1 3: Padawan killed Kyle by MOD_SABER
+2-16-2021 12:58 (714:46): ClientUserinfoChanged handling info: 1 \name\Kyle\team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\colokyle\snaps\2le\snaps\2le\snaps\20\rate\25000
+2-16-2021 12:58 (714:46): ClientUserinfoChanged: 1 n\Kyle\t\0\model\\c1\\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+2-16-2021 12:59 (715:20): Kill: 1 2 3: Kyle killed Padawan by MOD_SABER
+2-16-2021 12:59 (715:26): say: Padawan: how do you use the jetpack?
+2-16-2021 12:59 (715:26): ClientUserinfoChanged handling info: 2 \ip\77.191.21.184:61104\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\none\saber1\dual_4\cg_predictItems\1\sex\male\handicap\100\color2\0\color1\5\forcepowers\7-1-333303000000000332\model\reborn/blue\snaps\20\rate\4000\name\ed\teamtask\0\teamoverlay\1
+2-16-2021 12:59 (715:26): ClientUserinfoChanged: 2 n\Padawan\t\0\model\reborn/blue\c1\5\c2\0\hc\100\w\0\l\0\tt\0\tl\0\st\dual_4\st2\none\dt\0
+2-16-2021 12:59 (715:29): say: Kyle: jump, and press use key when you are in the air.
+2-16-2021 12:59 (715:36): say: Padawan: fuck youre a bot
+2-16-2021 12:59 (715:38): say: Kyle: Hey, watch the language plz!
+2-16-2021 12:59 (715:42): say: Padawan: fuck
+2-16-2021 12:59 (715:44): say: Kyle: Padawan language please!!
+2-16-2021 12:59 (715:47): say: Padawan: fuck
+2-16-2021 12:59 (715:50): say: Kyle: Hey, watch the language plz!
+2-16-2021 12:59 (715:54): say: Padawan: shit
+2-16-2021 12:59 (716:00): say: Padawan: balls
+2-16-2021 13: 0 (716:10): say: Padawan: i have to say though super convincing
+2-16-2021 13: 0 (716:22): Kill: 1 2 3: Kyle killed Padawan by MOD_SABER
+2-16-2021 13: 0 (716:23): ClientUserinfoChanged handling info: 2 \ip\77.191.21.184:61104\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\none\saber1\dual_4\cg_predictItems\1\sex\male\handicap\100\color2\0\color1\5\forcepowers\7-1-333303000000000332\model\reborn/blue\snaps\20\rate\4000\name\ed\teamtask\0\teamoverlay\1
+2-16-2021 13: 0 (716:23): ClientUserinfoChanged: 2 n\Padawan\t\0\model\reborn/blue\c1\5\c2\0\hc\100\w\0\l\0\tt\0\tl\0\st\dual_4\st2\none\dt\0
+2-16-2021 13: 0 (716:24): say: Kyle: hehe!
+2-16-2021 13: 0 (716:44): ClientDisconnect: 2
+2-16-2021 13: 0 (716:56): ClientConnect: 0
+2-16-2021 13: 0 (716:56): ClientUserinfoChanged handling info: 0 \team\0\skill\ 5.00\personality\botfiles/astupidbot.jkb\saber2\none\saber1\kyle\color2\4\color1\4\sex\male\model\jawa\snaps\20\rate\25000\name\astupidbot
+2-16-2021 13: 0 (716:56): ClientUserinfoChanged: 0 n\astupidbot\t\0\model\jawa\c1\4\c2\4\hc\0\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\\st2\\dt\0\sdt\0
+2-16-2021 13: 0 (716:56): IP: localhost astupidbot
+2-16-2021 13: 0 (716:56): ClientUserinfoChanged handling info: 0 \team\0\skill\ 5.00\personality\botfiles/astupidbot.jkb\saber2\none\saber1\kyle\color2\4\color1\4\sex\male\model\jawa\snaps\20\rate\25000\name\astupidbot
+2-16-2021 13: 0 (716:56): ClientUserinfoChanged: 0 n\astupidbot\t\0\model\jawa\c1\4\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+2-16-2021 13: 0 (716:56): ClientBegin: 0
+2-16-2021 13: 7 (723:18): Exit: Timelimit hit.
+2-16-2021 13: 7 (723:18): score: 21  ping: 55  client: 1 Kyle
+2-16-2021 13: 7 (723:18): score: 0  ping: 47  client: 0 astupidbot
+2-16-2021 15: 4 (840:41): ClientConnect: 2
+2-16-2021 15: 4 (840:41): ClientUserinfoChanged handling info: 2 \ip\193.16.45.96:29070\challenge\115753909\qport\22498\protocol\26\name\^1XAn2^4DriyX\rate\4000\snaps\20\model\carbontrooper/default\forcepowers\7-1-010000000000000110\color1\4\color2\4\handicap\100\teamtask\0\sex\male\cg_predictItems\1\saber1\dual_5\saber2\none\char_color_red\255\char_color_green\255\char_color_blue\255\cp_pluginDisable\0\teamoverlay\1\cp_login\NOT SET\cp_clanPwd\none\cp_sbRGB1\0\cp_sbRGB2\0\cp_holster\1\cjp_client\1.4 beta3
+2-16-2021 15: 4 (840:41): ClientUserinfoChanged: 2 n\^1XAn2^4DriyX\t\0\model\carbontrooper/default\c1\4\c2\4\hc\0\w\0\l\0\tt\0\tl\0\st\\st2\\dt\0
+2-16-2021 15: 4 (840:41): IP: 193.16.45.96 ^1XAn2^4DriyX
+2-16-2021 15: 4 (840:48): ClientUserinfoChanged handling info: 2 \ip\193.16.45.96:29070\name\^1XAn2^4DriyX\rate\4000\snaps\20\model\carbontrooper/default\forcepowers\1-1-010000000000000100\color1\4\color2\4\handicap\100\teamtask\0\sex\male\cg_predictItems\1\saber1\dual_5\saber2\none\char_color_red\255\char_color_green\255\char_color_blue\255\cp_pluginDisable\0\teamoverlay\1\cp_login\NOT SET\cp_clanPwd\none\cp_sbRGB1\0\cp_sbRGB2\0\cp_holster\1\cjp_client\1.4 beta3
+2-16-2021 15: 4 (840:48): ClientUserinfoChanged: 2 n\^1XAn2^4DriyX\t\0\model\carbontrooper/default\c1\4\c2\4\hc\0\w\0\l\0\tt\0\tl\0\st\dual_5\st2\none\dt\0
+2-16-2021 15: 4 (840:48): ClientUserinfoChanged handling info: 2 \ip\193.16.45.96:29070\name\^1XAn2^4DriyX\rate\4000\snaps\20\model\carbontrooper/default\forcepowers\1-1-010000000000000100\color1\4\color2\4\handicap\100\teamtask\0\sex\male\cg_predictItems\1\saber1\dual_5\saber2\none\char_color_red\255\char_color_green\255\char_color_blue\255\cp_pluginDisable\0\teamoverlay\1\cp_login\NOT SET\cp_clanPwd\none\cp_sbRGB1\0\cp_sbRGB2\0\cp_holster\1\cjp_client\1.4 beta3
+2-16-2021 15: 4 (840:48): ClientUserinfoChanged: 2 n\^1XAn2^4DriyX\t\0\model\carbontrooper/default\c1\4\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\dual_5\st2\none\dt\0
+2-16-2021 15: 4 (840:48): ClientBegin: 2
+2-16-2021 15: 4 (840:48): ShutdownGame:
+2-16-2021 15: 4 (840:48): ------------------------------------------------------------
+2-16-2021 15: 4 (840:48): ------------------------------------------------------------
+2-16-2021 15: 4 (840:48): InitGame: \version\JAmp: v1.0.1.0 linux-i386 Mar 14 2020\timelimit\45\sv_privateClients\0\sv_minRate\0\sv_minPing\0\sv_maxclients\32\sv_maxRate\0\sv_maxPing\999\sv_hostname\^7~^1~^7~ COMM SERVER ~^1~^7~\sv_fps\50\sv_floodProtectSlow\1\sv_floodProtect\1\sv_autoDemo\0\sv_allowDownload\0\serveruptime\54\protocol\26\mapname\mp/duel6\gamename\Lugormod\g_weaponDisable\0\g_stepSlideFix\0\g_siegeTeamSwitch\1\g_siegeTeam2\none\g_siegeTeam1\none\g_siegeRespawn\20\g_showDuelHealths\1\g_saberWallDamageScale\0.4\g_saberLocking\0\g_privateDuel\1535\g_noSpecMove\0\g_needpass\0\g_maxHolocronCarry\3\g_maxGameClients\0\g_maxForceRank\7\g_jediVmerc\0\g_gametype\0\g_gamemode\0\g_forceRegenTime\160\g_forcePowerDisable\0\g_forceBasedTeams\1\g_duelWeaponDisable\9\g_debugmelee\1\g_allowNPC\1\fs_game\lugormod\fraglimit\0\duel_fraglimit\10\dmflags\0\capturelimit\10\bot_minplayers\2\bg_fighterAltControl\0\Lugormod_Version\U#-0.0.0.91 Alpha
+2-16-2021 15: 4 (840:49): ClientConnect: 0
+2-16-2021 15: 4 (840:49): ClientUserinfoChanged handling info: 0 \team\0\skill\ 5.00\personality\botfiles/astupidbot.jkb\saber2\none\saber1\kyle\color2\4\color1\4\sex\male\model\jawa\snaps\20\rate\25000\name\astupidbot
+2-16-2021 15: 4 (840:49): ClientUserinfoChanged: 0 n\astupidbot\t\0\model\jawa\c1\4\c2\4\hc\0\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+2-16-2021 15: 4 (840:49): ClientUserinfoChanged handling info: 0 \team\0\skill\ 5.00\personality\botfiles/astupidbot.jkb\saber2\none\saber1\kyle\color2\4\color1\4\sex\male\model\jawa\snaps\20\rate\25000\name\astupidbot
+2-16-2021 15: 4 (840:49): ClientUserinfoChanged: 0 n\astupidbot\t\0\model\jawa\c1\4\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+2-16-2021 15: 4 (840:49): ClientBegin: 0
+2-16-2021 15: 4 (840:49): ClientConnect: 1
+2-16-2021 15: 4 (840:49): ClientUserinfoChanged handling info: 1 \name\Kyle\team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\colokyle\snaps\2le\snaps\2le\snaps\20\rate\25000
+2-16-2021 15: 4 (840:49): ClientUserinfoChanged: 1 n\Kyle\t\0\model\\c1\\c2\4\hc\0\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+2-16-2021 15: 4 (840:49): ClientUserinfoChanged handling info: 1 \name\Kyle\team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\colo\2le\snaps\2le\snaps\2le\snaps\20\rate\25000
+2-16-2021 15: 4 (840:49): ClientUserinfoChanged: 1 n\Kyle\t\0\model\\c1\\c2\4\hc\0\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+2-16-2021 15: 4 (840:49): ClientUserinfoChanged handling info: 1 \name\Kyle\team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\colo\2le\snaps\2le\snaps\2le\snaps\20\rate\25000
+2-16-2021 15: 4 (840:49): ClientUserinfoChanged: 1 n\Kyle\t\0\model\\c1\\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+2-16-2021 15: 4 (840:49): ClientBegin: 1
+2-16-2021 15: 4 (840:49): ClientConnect: 2
+2-16-2021 15: 4 (840:49): ClientUserinfoChanged handling info: 2 \ip\193.16.45.96:29070\name\^1XAn2^4DriyX\rate\4000\snaps\20\model\carbontrooper/default\forcepowers\1-1-010000000000000100\color1\4\color2\4\handicap\100\teamtask\0\sex\male\cg_predictItems\1\saber1\dual_5\saber2\none\char_color_red\255\char_color_green\255\char_color_blue\255\cp_pluginDisable\0\teamoverlay\1\cp_login\NOT SET\cp_clanPwd\none\cp_sbRGB1\0\cp_sbRGB2\0\cp_holster\1\cjp_client\1.4 beta3
+2-16-2021 15: 4 (840:49): ClientUserinfoChanged: 2 n\^1XAn2^4DriyX\t\0\model\carbontrooper/default\c1\4\c2\4\hc\0\w\0\l\0\tt\0\tl\0\st\dual_5\st2\none\dt\0
+2-16-2021 15: 4 (840:49): ClientUserinfoChanged handling info: 2 \ip\193.16.45.96:29070\name\^1XAn2^4DriyX\rate\4000\snaps\20\model\carbontrooper/default\forcepowers\1-1-010000000000000100\color1\4\color2\4\handicap\100\teamtask\0\sex\male\cg_predictItems\1\saber1\dual_5\saber2\none\char_color_red\255\char_color_green\255\char_color_blue\255\cp_pluginDisable\0\teamoverlay\1\cp_login\NOT SET\cp_clanPwd\none\cp_sbRGB1\0\cp_sbRGB2\0\cp_holster\1\cjp_client\1.4 beta3
+2-16-2021 15: 4 (840:49): ClientUserinfoChanged: 2 n\^1XAn2^4DriyX\t\0\model\carbontrooper/default\c1\4\c2\4\hc\0\w\0\l\0\tt\0\tl\0\st\dual_5\st2\none\dt\0
+2-16-2021 15: 4 (840:49): ClientUserinfoChanged handling info: 2 \ip\193.16.45.96:29070\name\^1XAn2^4DriyX\rate\4000\snaps\20\model\carbontrooper/default\forcepowers\1-1-010000000000000100\color1\4\color2\4\handicap\100\teamtask\0\sex\male\cg_predictItems\1\saber1\dual_5\saber2\none\char_color_red\255\char_color_green\255\char_color_blue\255\cp_pluginDisable\0\teamoverlay\1\cp_login\NOT SET\cp_clanPwd\none\cp_sbRGB1\0\cp_sbRGB2\0\cp_holster\1\cjp_client\1.4 beta3
+2-16-2021 15: 4 (840:49): ClientUserinfoChanged: 2 n\^1XAn2^4DriyX\t\0\model\carbontrooper/default\c1\4\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\dual_5\st2\none\dt\0
+2-16-2021 15: 4 (840:49): ClientBegin: 2
+2-16-2021 15: 5 (841:08): ClientDisconnect: 2
+2-17-2021 6:27 (1763:58): ShutdownGame:
+2-17-2021 6:27 (1763:58): ------------------------------------------------------------

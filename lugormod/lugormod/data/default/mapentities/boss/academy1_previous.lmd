@@ -1,0 +1,231 @@
+{
+"ambient" "15"
+"_minlight" "65"
+"soundSet" "yavin_interior"
+"music" "music/yavin2_old/yavtemp_explore.mp3"
+"classname" "worldspawn"
+}
+{
+"classname" "misc_shield_floor_unit"
+"nodrain" "1"
+"origin" "-1694 -162 648"
+}
+{
+"classname" "ammo_all"
+"wait" "1"
+"origin" "-1123 -158 648"
+}
+{
+"classname" "misc_model_breakable"
+"model" "map_objects/factory/catw2_b"
+"spawnflags" "1"
+"origin" "-1081 -905 915"
+}
+{
+"groupname" "Placements"
+"angle" "335"
+"classname" "ref_tag"
+"targetname" "putstudent6here"
+"origin" "-1624 -536 673"
+"angles" "0 -80 0"
+}
+{
+"groupname" "Placements"
+"angle" "315"
+"classname" "ref_tag"
+"targetname" "putstudent7here"
+"origin" "-1616 -512 673"
+"angles" "0 -80 0"
+}
+{
+"groupname" "Placements"
+"angle" "135"
+"classname" "ref_tag"
+"targetname" "putmaster1here"
+"origin" "-1568 -552 673"
+"angles" "0 -80 0"
+}
+{
+"classname" "misc_shield_floor_unit"
+"nodrain" "1"
+"origin" "-1106 -941 923"
+}
+{
+"groupname" "Placements"
+"angle" "335"
+"classname" "ref_tag"
+"targetname" "putroshhere"
+"origin" "-1336 -1064 673"
+"angles" "0 -80 0"
+}
+{
+"groupname" "Placements"
+"angle" "360"
+"classname" "ref_tag"
+"targetname" "putjadenhere"
+"origin" "-1356 -1080 673"
+"angles" "0 -80 0"
+}
+{
+"groupname" "Placements"
+"angle" "180"
+"classname" "ref_tag"
+"targetname" "putkylehere"
+"origin" "-1290 -1078 673"
+"angles" "0 -80 0"
+}
+{
+"groupname" "newcams"
+"angle" "335"
+"classname" "ref_tag"
+"targetname" "allfour01"
+"origin" "-1361 -1067 706"
+"angles" "0 326 0"
+"fov" "80"
+}
+{
+"groupname" "newcams"
+"classname" "ref_tag"
+"targetname" "new_cam5"
+"origin" "-1445 -990 693"
+"angles" "-7 40 0"
+"fov" "80"
+}
+{
+"groupname" "newcams"
+"classname" "ref_tag"
+"targetname" "new_cam6a"
+"origin" "-1367 -1003 705"
+"angles" "11 46 0"
+"fov" "80"
+}
+{
+"groupname" "newcams"
+"classname" "ref_tag"
+"targetname" "new_cam6b"
+"origin" "-1389 -1040 702"
+"angles" "6 45 0"
+"fov" "80"
+}
+{
+"groupname" "newcams"
+"classname" "ref_tag"
+"targetname" "new_cam7"
+"origin" "-1335 -1083 698"
+"angles" "-6 -18 0"
+"fov" "80"
+}
+{
+"groupname" "newcams"
+"classname" "ref_tag"
+"targetname" "new_cam8"
+"origin" "-1395 -1055 705"
+"angles" "5 -22 0"
+"fov" "65"
+}
+{
+"groupname" "newcams"
+"classname" "ref_tag"
+"targetname" "new_cam9"
+"origin" "-1313 -1087 703"
+"angles" "0 25 0"
+"fov" "65"
+}
+{
+"groupname" "newcams"
+"classname" "ref_tag"
+"targetname" "new_cam10"
+"origin" "-1339 -1113 703"
+"angles" "0 108 0"
+"fov" "65"
+}
+{
+"groupname" "newcams"
+"classname" "ref_tag"
+"targetname" "new_cam11"
+"origin" "-1358 -1172 780"
+"angles" "40 64 0"
+"fov" "50"
+}
+{
+"targetname" "students_stand"
+"usescript" "academy1/students_stand"
+"origin" "-1760 -1160 680"
+"classname" "target_scriptrunner"
+}
+{
+"groupname" "newcams"
+"classname" "ref_tag"
+"targetname" "lukewalk2"
+"origin" "-1383 -1021 704"
+"angles" "1 -112 0"
+"fov" "40"
+}
+{
+"groupname" "newcams"
+"classname" "ref_tag"
+"targetname" "lukewalk1"
+"origin" "-1383 -1245 780"
+"angles" "1 -112 0"
+"fov" "40"
+}
+{
+"groupname" "newcams"
+"classname" "ref_tag"
+"targetname" "cam17"
+"origin" "-1398 -1080 674"
+"angles" "-2 90 0"
+"fov" "80"
+}
+{
+"groupname" "newcams"
+"classname" "ref_tag"
+"targetname" "cam3"
+"origin" "-1552 -800 672"
+"angles" "-7 -88 0"
+"fov" "80"
+}
+{
+"groupname" "newcams"
+"classname" "ref_tag"
+"targetname" "cam3b"
+"origin" "-1264 -800 672"
+"angles" "-7 -92 0"
+"fov" "80"
+}
+{
+"groupname" "newcams"
+"classname" "ref_tag"
+"targetname" "lukeCam1"
+"origin" "-1407 -1228 782"
+"angles" "5 -90 0"
+"fov" "80"
+}
+{
+"targetname" "t397"
+"usescript" "academy1/intro"
+"origin" "-1560 264 736"
+"classname" "target_scriptrunner"
+}
+{
+"groupname" "newcams"
+"classname" "ref_tag"
+"targetname" "cam1"
+"origin" "-1645 -836 1158"
+"angles" "53 -47 0"
+"fov" "80"
+}
+{
+"targetname" "end_level"
+"script_targetname" "end_level"
+"mapname" "yavin2"
+"origin" "-1568 -168 832"
+"classname" "target_level_change"
+}
+{
+"spawnflags" "64"
+"target" "t397"
+"angle" "270"
+"origin" "-1408 272 728"
+"classname" "info_player_deathmatch"
+}

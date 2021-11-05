@@ -1,0 +1,166 @@
+10-6-2021 1:17 (97:46): ------------------------------------------------------------
+10-6-2021 1:17 (97:46): InitGame: \version\JAmp: v1.0.1.0 linux-i386 Mar 14 2020\timelimit\45\sv_privateClients\0\sv_minRate\0\sv_minPing\0\sv_maxclients\32\sv_maxRate\0\sv_maxPing\999\sv_hostname\^7~^1~^7~ COMM SERVER ~^1~^7~\sv_fps\50\sv_floodProtectSlow\1\sv_floodProtect\1\sv_autoDemo\0\sv_allowDownload\0\serveruptime\212\protocol\26\mapname\academy6\gamename\Lugormod\g_weaponDisable\0\g_stepSlideFix\0\g_siegeTeamSwitch\1\g_siegeTeam2\none\g_siegeTeam1\none\g_siegeRespawn\20\g_showDuelHealths\1\g_saberWallDamageScale\0.4\g_saberLocking\0\g_privateDuel\1535\g_noSpecMove\0\g_needpass\0\g_maxHolocronCarry\3\g_maxGameClients\0\g_maxForceRank\7\g_jediVmerc\0\g_gametype\0\g_gamemode\0\g_forceRegenTime\160\g_forcePowerDisable\0\g_forceBasedTeams\1\g_duelWeaponDisable\9\g_debugmelee\1\g_allowNPC\1\fs_game\lugormod\fraglimit\0\duel_fraglimit\10\dmflags\0\capturelimit\10\bot_minplayers\2\bg_fighterAltControl\0\Lugormod_Version\U#-0.0.0.91 Alpha
+10-6-2021 1:17 (97:47): ClientConnect: 1
+10-6-2021 1:17 (97:47): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+10-6-2021 1:17 (97:47): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\0\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+10-6-2021 1:17 (97:47): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+10-6-2021 1:17 (97:47): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+10-6-2021 1:17 (97:47): ClientBegin: 1
+10-6-2021 1:17 (97:47): ClientConnect: 2
+10-6-2021 1:17 (97:47): ClientUserinfoChanged handling info: 2 \ip\184.189.56.250:29070\teamoverlay\1\snaps\40\sex\male\saber2\none\saber1\single_1\rate\25000\name\Padawan\model\jedi_tf/head_a1|torso_a1|lower_a1\ja_guid\62642FE6B7139EBCF811862B67DBE80A\handicap\100\forcepowers\7-1-030000000000000330\color2\4\color1\3\char_color_red\255\char_color_green\255\char_color_blue\255\cg_predictItems\1
+10-6-2021 1:17 (97:47): ClientUserinfoChanged: 2 n\Padawan\t\0\model\jedi_tf/head_a1|torso_a1|lower_a1\c1\3\c2\4\hc\0\w\0\l\0\tt\0\tl\0\st\single_1\st2\none\dt\0
+10-6-2021 1:17 (97:47): ClientUserinfoChanged handling info: 2 \ip\184.189.56.250:29070\teamoverlay\1\snaps\40\sex\male\saber2\none\saber1\single_1\rate\25000\name\Padawan\model\jedi_tf/head_a1|torso_a1|lower_a1\ja_guid\62642FE6B7139EBCF811862B67DBE80A\handicap\100\forcepowers\7-1-030000000000000330\color2\4\color1\3\char_color_red\255\char_color_green\255\char_color_blue\255\cg_predictItems\1
+10-6-2021 1:17 (97:47): ClientUserinfoChanged: 2 n\Padawan\t\0\model\jedi_tf/head_a1|torso_a1|lower_a1\c1\3\c2\4\hc\0\w\0\l\0\tt\0\tl\0\st\single_1\st2\none\dt\0
+10-6-2021 1:17 (97:47): ClientUserinfoChanged handling info: 2 \ip\184.189.56.250:29070\teamoverlay\1\snaps\40\sex\male\saber2\none\saber1\single_1\rate\25000\name\Padawan\model\jedi_tf/head_a1|torso_a1|lower_a1\ja_guid\62642FE6B7139EBCF811862B67DBE80A\handicap\100\forcepowers\7-1-030000000000000330\color2\4\color1\3\char_color_red\255\char_color_green\255\char_color_blue\255\cg_predictItems\1
+10-6-2021 1:17 (97:47): ClientUserinfoChanged: 2 n\Padawan\t\0\model\jedi_tf/head_a1|torso_a1|lower_a1\c1\3\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\single_1\st2\none\dt\0
+10-6-2021 1:17 (97:47): ClientBegin: 2
+10-6-2021 1:17 (97:53): ClientDisconnect: 2
+10-6-2021 1:17 (98:16): ClientConnect: 0
+10-6-2021 1:17 (98:16): ClientUserinfoChanged handling info: 0 \team\0\skill\ 5.00\personality\botfiles/astupidbot.jkb\saber2\none\saber1\kyle\color2\4\color1\4\sex\male\model\jawa\snaps\20\rate\25000\name\astupidbot
+10-6-2021 1:17 (98:16): ClientUserinfoChanged: 0 n\astupidbot\t\0\model\jawa\c1\4\c2\4\hc\0\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\\st2\\dt\0\sdt\0
+10-6-2021 1:17 (98:16): IP: localhost astupidbot
+10-6-2021 1:17 (98:16): ClientUserinfoChanged handling info: 0 \team\0\skill\ 5.00\personality\botfiles/astupidbot.jkb\saber2\none\saber1\kyle\color2\4\color1\4\sex\male\model\jawa\snaps\20\rate\25000\name\astupidbot
+10-6-2021 1:17 (98:16): ClientUserinfoChanged: 0 n\astupidbot\t\0\model\jawa\c1\4\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+10-6-2021 1:17 (98:16): ClientBegin: 0
+10-6-2021 15: 0 (921:08): ClientConnect: 2
+10-6-2021 15: 0 (921:08): ClientUserinfoChanged handling info: 2 \ip\213.87.163.22:58696\challenge\-333156790\qport\21292\protocol\26\cg_predictItems\1\char_color_blue\255\char_color_green\255\char_color_red\255\color1\4\color2\4\forcepowers\7-1-233330000030000333\handicap\100\model\jawa\name\AMOGUS [on mobile]\rate\25000\saber1\Kyle\saber2\Kyle\sex\male\snaps\40\ja_guid\EA1BB3BC6AF6E469C3F5641DF32D5D7E
+10-6-2021 15: 0 (921:08): ClientUserinfoChanged: 2 n\AMOGUS [on mobile]\t\0\model\jawa\c1\4\c2\4\hc\0\w\0\l\0\tt\0\tl\0\st\\st2\\dt\0
+10-6-2021 15: 0 (921:08): IP: 213.87.163.22 AMOGUS [on mobile]
+10-6-2021 15: 0 (921:25): ClientUserinfoChanged handling info: 2 \ip\213.87.163.22:58696\cg_predictItems\1\char_color_blue\255\char_color_green\255\char_color_red\255\color1\4\color2\4\forcepowers\7-1-233330000030000333\handicap\100\model\jawa\name\AMOGUS [on mobile]\rate\25000\saber1\Kyle\saber2\Kyle\sex\male\snaps\40\ja_guid\EA1BB3BC6AF6E469C3F5641DF32D5D7E\teamoverlay\0
+10-6-2021 15: 0 (921:25): ClientUserinfoChanged: 2 n\AMOGUS [on mobile]\t\0\model\jawa\c1\4\c2\4\hc\0\w\0\l\0\tt\0\tl\0\st\Kyle\st2\Kyle\dt\0
+10-6-2021 15: 0 (921:25): ClientUserinfoChanged handling info: 2 \ip\213.87.163.22:58696\cg_predictItems\1\char_color_blue\255\char_color_green\255\char_color_red\255\color1\4\color2\4\forcepowers\7-1-233330000030000333\handicap\100\model\jawa\name\AMOGUS [on mobile]\rate\25000\saber1\Kyle\saber2\Kyle\sex\male\snaps\40\ja_guid\EA1BB3BC6AF6E469C3F5641DF32D5D7E\teamoverlay\0
+10-6-2021 15: 0 (921:25): ClientUserinfoChanged: 2 n\AMOGUS [on mobile]\t\0\model\jawa\c1\4\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\Kyle\st2\Kyle\dt\0
+10-6-2021 15: 0 (921:25): ClientBegin: 2
+10-6-2021 15: 0 (921:38): say: astupidbot: bye all
+10-6-2021 15: 0 (921:38): ClientDisconnect: 0
+10-6-2021 15: 1 (921:48): say: AMOGUS [on mobile]: bot?
+10-6-2021 15: 1 (922:05): say: AMOGUS [on mobile]: kyle
+10-6-2021 15: 1 (922:07): say: Kyle: what?
+10-6-2021 15: 1 (922:09): say: AMOGUS [on mobile]: bot?
+10-6-2021 15: 1 (922:24): say: AMOGUS [on mobile]: kyle
+10-6-2021 15: 1 (922:27): say: Kyle: shut up Amogus on mobile!
+10-6-2021 15: 1 (922:36): say: AMOGUS [on mobile]: are you bot?
+10-6-2021 15: 2 (922:42): Kill: 1 2 3: Kyle killed AMOGUS [on mobile] by MOD_SABER
+10-6-2021 15: 2 (922:42): Exit: Timelimit hit.
+10-6-2021 15: 2 (922:42): score: 1  ping: 56  client: 1 Kyle
+10-6-2021 15: 2 (922:42): score: 0  ping: 147  client: 2 AMOGUS [on mobile]
+10-6-2021 15: 2 (922:43): ClientUserinfoChanged handling info: 2 \ip\213.87.163.22:58696\cg_predictItems\1\char_color_blue\255\char_color_green\255\char_color_red\255\color1\4\color2\4\forcepowers\7-1-233330000030000333\handicap\100\model\jawa\name\AMOGUS [on mobile]\rate\25000\saber1\Kyle\saber2\Kyle\sex\male\snaps\40\ja_guid\EA1BB3BC6AF6E469C3F5641DF32D5D7E\teamoverlay\0
+10-6-2021 15: 2 (922:43): ClientUserinfoChanged: 2 n\AMOGUS [on mobile]\t\0\model\jawa\c1\4\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\Kyle\st2\Kyle\dt\0
+10-6-2021 15: 2 (922:47): say: AMOGUS [on mobile]: lol
+10-6-2021 15: 2 (922:48): ShutdownGame:
+10-6-2021 15: 2 (922:48): ------------------------------------------------------------
+10-6-2021 15: 2 (922:48): ------------------------------------------------------------
+10-6-2021 15: 2 (922:48): InitGame: \version\JAmp: v1.0.1.0 linux-i386 Mar 14 2020\timelimit\45\sv_privateClients\0\sv_minRate\0\sv_minPing\0\sv_maxclients\32\sv_maxRate\0\sv_maxPing\999\sv_hostname\^7~^1~^7~ COMM SERVER ~^1~^7~\sv_fps\50\sv_floodProtectSlow\1\sv_floodProtect\1\sv_autoDemo\0\sv_allowDownload\0\serveruptime\212\protocol\26\mapname\academy6\gamename\Lugormod\g_weaponDisable\0\g_stepSlideFix\0\g_siegeTeamSwitch\1\g_siegeTeam2\none\g_siegeTeam1\none\g_siegeRespawn\20\g_showDuelHealths\1\g_saberWallDamageScale\0.4\g_saberLocking\0\g_privateDuel\1535\g_noSpecMove\0\g_needpass\0\g_maxHolocronCarry\3\g_maxGameClients\0\g_maxForceRank\7\g_jediVmerc\0\g_gametype\0\g_gamemode\0\g_forceRegenTime\160\g_forcePowerDisable\0\g_forceBasedTeams\1\g_duelWeaponDisable\9\g_debugmelee\1\g_allowNPC\1\fs_game\lugormod\fraglimit\0\duel_fraglimit\10\dmflags\0\capturelimit\10\bot_minplayers\2\bg_fighterAltControl\0\Lugormod_Version\U#-0.0.0.91 Alpha
+10-6-2021 15: 2 (922:48): ClientConnect: 1
+10-6-2021 15: 2 (922:48): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+10-6-2021 15: 2 (922:48): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\0\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+10-6-2021 15: 2 (922:48): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+10-6-2021 15: 2 (922:48): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+10-6-2021 15: 2 (922:48): ClientBegin: 1
+10-6-2021 15: 2 (922:48): ClientConnect: 2
+10-6-2021 15: 2 (922:48): ClientUserinfoChanged handling info: 2 \ip\213.87.163.22:58696\cg_predictItems\1\char_color_blue\255\char_color_green\255\char_color_red\255\color1\4\color2\4\forcepowers\7-1-233330000030000333\handicap\100\model\jawa\name\AMOGUS [on mobile]\rate\25000\saber1\Kyle\saber2\Kyle\sex\male\snaps\40\ja_guid\EA1BB3BC6AF6E469C3F5641DF32D5D7E\teamoverlay\0
+10-6-2021 15: 2 (922:48): ClientUserinfoChanged: 2 n\AMOGUS [on mobile]\t\0\model\jawa\c1\4\c2\4\hc\0\w\0\l\0\tt\0\tl\0\st\Kyle\st2\Kyle\dt\0
+10-6-2021 15: 2 (922:48): ClientUserinfoChanged handling info: 2 \ip\213.87.163.22:58696\cg_predictItems\1\char_color_blue\255\char_color_green\255\char_color_red\255\color1\4\color2\4\forcepowers\7-1-233330000030000333\handicap\100\model\jawa\name\AMOGUS [on mobile]\rate\25000\saber1\Kyle\saber2\Kyle\sex\male\snaps\40\ja_guid\EA1BB3BC6AF6E469C3F5641DF32D5D7E\teamoverlay\0
+10-6-2021 15: 2 (922:48): ClientUserinfoChanged: 2 n\AMOGUS [on mobile]\t\0\model\jawa\c1\4\c2\4\hc\0\w\0\l\0\tt\0\tl\0\st\Kyle\st2\Kyle\dt\0
+10-6-2021 15: 2 (922:48): ClientUserinfoChanged handling info: 2 \ip\213.87.163.22:58696\cg_predictItems\1\char_color_blue\255\char_color_green\255\char_color_red\255\color1\4\color2\4\forcepowers\7-1-233330000030000333\handicap\100\model\jawa\name\AMOGUS [on mobile]\rate\25000\saber1\Kyle\saber2\Kyle\sex\male\snaps\40\ja_guid\EA1BB3BC6AF6E469C3F5641DF32D5D7E\teamoverlay\0
+10-6-2021 15: 2 (922:48): ClientUserinfoChanged: 2 n\AMOGUS [on mobile]\t\0\model\jawa\c1\4\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\Kyle\st2\Kyle\dt\0
+10-6-2021 15: 2 (922:48): ClientBegin: 2
+10-6-2021 15: 2 (923:35): Kill: 2 1 3: AMOGUS [on mobile] killed Kyle by MOD_SABER
+10-6-2021 15: 2 (923:35): duel: AMOGUS [on mobile] won a duel against Kyle
+10-6-2021 15: 2 (923:36): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+10-6-2021 15: 2 (923:36): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+10-6-2021 15: 2 (923:36): say: Kyle: gf
+10-6-2021 15: 2 (923:39): say: AMOGUS [on mobile]: gf
+10-6-2021 15: 3 (923:52): say: AMOGUS [on mobile]: why i see in tab
+10-6-2021 15: 3 (923:57): say: AMOGUS [on mobile]: uou ar ebot
+10-6-2021 15: 3 (924:00): say: AMOGUS [on mobile]: in tab
+10-6-2021 15: 3 (924:06): say: AMOGUS [on mobile]: bot*
+10-6-2021 15: 4 (924:49): Kill: 2 1 3: AMOGUS [on mobile] killed Kyle by MOD_SABER
+10-6-2021 15: 4 (924:50): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+10-6-2021 15: 4 (924:50): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+10-6-2021 15: 4 (925:30): Kill: 2 1 3: AMOGUS [on mobile] killed Kyle by MOD_SABER
+10-6-2021 15: 4 (925:31): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+10-6-2021 15: 4 (925:31): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+10-6-2021 15: 4 (925:40): ClientDisconnect: 2
+10-6-2021 15: 5 (925:57): ClientConnect: 0
+10-6-2021 15: 5 (925:57): ClientUserinfoChanged handling info: 0 \team\0\skill\ 5.00\personality\botfiles/astupidbot.jkb\saber2\none\saber1\kyle\color2\4\color1\4\sex\male\model\jawa\snaps\20\rate\25000\name\astupidbot
+10-6-2021 15: 5 (925:57): ClientUserinfoChanged: 0 n\astupidbot\t\0\model\jawa\c1\4\c2\4\hc\0\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\\st2\\dt\0\sdt\0
+10-6-2021 15: 5 (925:57): IP: localhost astupidbot
+10-6-2021 15: 5 (925:57): ClientUserinfoChanged handling info: 0 \team\0\skill\ 5.00\personality\botfiles/astupidbot.jkb\saber2\none\saber1\kyle\color2\4\color1\4\sex\male\model\jawa\snaps\20\rate\25000\name\astupidbot
+10-6-2021 15: 5 (925:57): ClientUserinfoChanged: 0 n\astupidbot\t\0\model\jawa\c1\4\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+10-6-2021 15: 5 (925:57): ClientBegin: 0
+10-7-2021 1: 9 (1529:57): ClientConnect: 2
+10-7-2021 1: 9 (1529:57): ClientUserinfoChanged handling info: 2 \ip\78.165.4.39:29070\challenge\1274644009\qport\14253\protocol\26\teamoverlay\0\snaps\40\sex\male\saber2\Kyle\saber1\Kyle\rate\25000\name\DarthThed\model\jedi_tf/default\ja_guid\7401E54E714F60D3FAF577457C97E86A\handicap\100\forcepowers\7-1-133330000200003332\cp_sbRGB2\0\cp_sbRGB1\0\cp_pluginDisable\1536\cp_cosmetics\0\cp_clanPwd\none\color2\11\color1\2\cjp_client\1.4JAPRO\char_color_red\255\char_color_green\255\char_color_blue\255\cg_predictItems\1\cg_displayNetSettings\125 0 125\cg_displayCameraPosition\1 80 16
+10-7-2021 1: 9 (1529:57): ClientUserinfoChanged: 2 n\DarthThed\t\0\model\jedi_tf/default\c1\2\c2\11\hc\0\w\0\l\0\tt\0\tl\0\st\\st2\\dt\0
+10-7-2021 1: 9 (1529:57): IP: 78.165.4.39 DarthThed
+10-7-2021 1: 9 (1530:02): ClientUserinfoChanged handling info: 2 \ip\78.165.4.39:29070\teamoverlay\0\snaps\40\sex\male\saber2\Kyle\saber1\Kyle\rate\25000\name\DarthThed\model\jedi_tf/default\ja_guid\7401E54E714F60D3FAF577457C97E86A\handicap\100\forcepowers\7-1-133330000200003332\cp_sbRGB2\0\cp_sbRGB1\0\cp_pluginDisable\1536\cp_cosmetics\0\cp_clanPwd\none\color2\11\color1\2\cjp_client\1.4JAPRO\char_color_red\255\char_color_green\255\char_color_blue\255\cg_predictItems\1\cg_displayNetSettings\125 0 125\cg_displayCameraPosition\1 80 16
+10-7-2021 1: 9 (1530:02): ClientUserinfoChanged: 2 n\DarthThed\t\0\model\jedi_tf/default\c1\2\c2\11\hc\0\w\0\l\0\tt\0\tl\0\st\Kyle\st2\Kyle\dt\0
+10-7-2021 1: 9 (1530:02): ClientUserinfoChanged handling info: 2 \ip\78.165.4.39:29070\teamoverlay\0\snaps\40\sex\male\saber2\Kyle\saber1\Kyle\rate\25000\name\DarthThed\model\jedi_tf/default\ja_guid\7401E54E714F60D3FAF577457C97E86A\handicap\100\forcepowers\7-1-133330000200003332\cp_sbRGB2\0\cp_sbRGB1\0\cp_pluginDisable\1536\cp_cosmetics\0\cp_clanPwd\none\color2\11\color1\2\cjp_client\1.4JAPRO\char_color_red\255\char_color_green\255\char_color_blue\255\cg_predictItems\1\cg_displayNetSettings\125 0 125\cg_displayCameraPosition\1 80 16
+10-7-2021 1: 9 (1530:02): ClientUserinfoChanged: 2 n\DarthThed\t\0\model\jedi_tf/default\c1\2\c2\11\hc\100\w\0\l\0\tt\0\tl\0\st\Kyle\st2\Kyle\dt\0
+10-7-2021 1: 9 (1530:02): ClientBegin: 2
+10-7-2021 1:10 (1531:01): ClientUserinfoChanged handling info: 2 \ip\78.165.4.39:29070\teamoverlay\0\snaps\40\sex\male\saber2\Kyle\saber1\Kyle\rate\25000\name\DarthThed\model\jedi_tf/default\ja_guid\7401E54E714F60D3FAF577457C97E86A\handicap\100\forcepowers\7-1-033330000200003332\cp_sbRGB2\0\cp_sbRGB1\0\cp_pluginDisable\1536\cp_cosmetics\0\cp_clanPwd\none\color2\11\color1\2\cjp_client\1.4JAPRO\char_color_red\255\char_color_green\255\char_color_blue\255\cg_predictItems\1\cg_displayNetSettings\125 0 125\cg_displayCameraPosition\1 80 16
+10-7-2021 1:10 (1531:01): ClientUserinfoChanged: 2 n\DarthThed\t\0\model\jedi_tf/default\c1\2\c2\11\hc\100\w\0\l\0\tt\0\tl\0\st\Kyle\st2\Kyle\dt\0
+10-7-2021 1:10 (1531:33): ClientDisconnect: 2
+10-7-2021 15:26 (2387:01): ClientConnect: 2
+10-7-2021 15:26 (2387:01): ClientUserinfoChanged handling info: 2 \ip\213.24.135.187:8960\challenge\-678177511\qport\46339\protocol\26\name\ооо\rate\4000\snaps\20\model\cultist/default\forcepowers\7-1-030000000000000330\color1\4\color2\4\handicap\100\sex\male\cg_predictItems\1\saber1\jpst1\saber2\none\char_color_red\255\char_color_green\255\char_color_blue\255\cp_pluginDisable\0\teamtask\0
+10-7-2021 15:26 (2387:01): ClientUserinfoChanged: 2 n\Padawan\t\0\model\cultist/default\c1\4\c2\4\hc\0\w\0\l\0\tt\0\tl\0\st\\st2\\dt\0
+10-7-2021 15:26 (2387:01): IP: 213.24.135.187 Padawan
+10-7-2021 15:26 (2387:27): ClientUserinfoChanged handling info: 2 \ip\213.24.135.187:8960\name\ооо\rate\4000\snaps\20\model\cultist/default\forcepowers\7-1-030000000000000330\color1\4\color2\4\handicap\100\sex\male\cg_predictItems\1\saber1\jpst1\saber2\none\char_color_red\255\char_color_green\255\char_color_blue\255\cp_pluginDisable\0\teamtask\0\teamoverlay\1
+10-7-2021 15:26 (2387:27): ClientUserinfoChanged: 2 n\Padawan\t\0\model\cultist/default\c1\4\c2\4\hc\0\w\0\l\0\tt\0\tl\0\st\default\st2\none\dt\0
+10-7-2021 15:26 (2387:27): ClientUserinfoChanged handling info: 2 \saber2\none\saber1\default\ip\213.24.135.187:8960\name\ооо\rate\4000\snaps\20\model\cultist/default\forcepowers\7-1-030000000000000330\color1\4\color2\4\handicap\100\sex\male\cg_predictItems\1\haber2\none\char_color_red\255\char_color_green\255\char_color_buginDisable\0\teamtask\0\teamoverla\0\teamoverlay\1
+10-7-2021 15:26 (2387:27): ClientUserinfoChanged: 2 n\Padawan\t\0\model\cultist/default\c1\4\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\default\st2\none\dt\0
+10-7-2021 15:26 (2387:27): ClientBegin: 2
+10-7-2021 15:27 (2388:31): ClientUserinfoChanged handling info: 2 \ip\213.24.135.187:8960\name\ооо\rate\4000\snaps\20\model\trandoshan/default\forcepowers\7-1-030000000000000330\color1\4\color2\4\handicap\100\sex\male\cg_predictItems\1\saber1\jpst1\saber2\none\char_color_red\255\char_color_green\255\char_color_blue\255\cp_pluginDisable\0\teamtask\0\teamoverlay\1
+10-7-2021 15:27 (2388:31): ClientUserinfoChanged: 2 n\Padawan\t\0\model\trandoshan/default\c1\4\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\default\st2\none\dt\0
+10-7-2021 15:27 (2388:41): ClientUserinfoChanged handling info: 2 \ip\213.24.135.187:8960\name\ооо\rate\4000\snaps\20\model\trandoshan/default\forcepowers\7-1-030000000000000330\color1\0\color2\4\handicap\100\sex\male\cg_predictItems\1\saber1\jpst1\saber2\none\char_color_red\255\char_color_green\255\char_color_blue\255\cp_pluginDisable\0\teamtask\0\teamoverlay\1
+10-7-2021 15:27 (2388:41): ClientUserinfoChanged: 2 n\Padawan\t\0\model\trandoshan/default\c1\0\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\default\st2\none\dt\0
+10-7-2021 15:30 (2391:09): ClientUserinfoChanged handling info: 2 \ip\213.24.135.187:8960\name\ооо\rate\4000\snaps\20\model\morgan/default\forcepowers\7-1-030000000000000330\color1\0\color2\0\handicap\100\sex\male\cg_predictItems\1\saber1\dual_1\saber2\none\char_color_red\255\char_color_green\255\char_color_blue\255\cp_pluginDisable\0\teamtask\0\teamoverlay\1
+10-7-2021 15:30 (2391:09): ClientUserinfoChanged: 2 n\Padawan\t\0\model\morgan/default\c1\0\c2\0\hc\100\w\0\l\0\tt\0\tl\0\st\default\st2\none\dt\0
+10-7-2021 15:31 (2392:03): ClientDisconnect: 2
+10-7-2021 23: 4 (2844:48): ClientConnect: 2
+10-7-2021 23: 4 (2844:48): ClientUserinfoChanged handling info: 2 \ip\159.146.34.72:29070\challenge\-275820532\qport\41040\protocol\26\teamoverlay\0\snaps\40\sex\male\saber2\none\saber1\single_8\rate\25000\name\31wicyut31\model\alora2/blue\ja_guid\817C4BA7B84F8E92E8617F85014BB544\handicap\100\forcepowers\7-2-030000000000000330\cp_sbRGB2\0\cp_sbRGB1\0\cp_pluginDisable\1536\cp_cosmetics\0\cp_clanPwd\none\color2\5\color1\0\cjp_client\1.4JAPRO\char_color_red\255\char_color_green\255\char_color_blue\255\cg_predictItems\1\cg_displayNetSettings\125 0 125\cg_displayCameraPosition\1 80 16
+10-7-2021 23: 4 (2844:48): ClientUserinfoChanged: 2 n\31wicyut31\t\0\model\alora2/blue\c1\0\c2\5\hc\0\w\0\l\0\tt\0\tl\0\st\\st2\\dt\0
+10-7-2021 23: 4 (2844:48): IP: 159.146.34.72 31wicyut31
+10-7-2021 23: 4 (2845:01): ClientUserinfoChanged handling info: 2 \ip\159.146.34.72:29070\teamoverlay\0\snaps\40\sex\male\saber2\none\saber1\single_8\rate\25000\name\31wicyut31\model\alora2/blue\ja_guid\817C4BA7B84F8E92E8617F85014BB544\handicap\100\forcepowers\7-2-030000000000000330\cp_sbRGB2\0\cp_sbRGB1\0\cp_pluginDisable\1536\cp_cosmetics\0\cp_clanPwd\none\color2\5\color1\0\cjp_client\1.4JAPRO\char_color_red\255\char_color_green\255\char_color_blue\255\cg_predictItems\1\cg_displayNetSettings\125 0 125\cg_displayCameraPosition\1 80 16
+10-7-2021 23: 4 (2845:01): ClientUserinfoChanged: 2 n\31wicyut31\t\0\model\alora2/blue\c1\0\c2\5\hc\0\w\0\l\0\tt\0\tl\0\st\single_8\st2\none\dt\0
+10-7-2021 23: 4 (2845:01): ClientUserinfoChanged handling info: 2 \ip\159.146.34.72:29070\teamoverlay\0\snaps\40\sex\male\saber2\none\saber1\single_8\rate\25000\name\31wicyut31\model\alora2/blue\ja_guid\817C4BA7B84F8E92E8617F85014BB544\handicap\100\forcepowers\7-2-030000000000000330\cp_sbRGB2\0\cp_sbRGB1\0\cp_pluginDisable\1536\cp_cosmetics\0\cp_clanPwd\none\color2\5\color1\0\cjp_client\1.4JAPRO\char_color_red\255\char_color_green\255\char_color_blue\255\cg_predictItems\1\cg_displayNetSettings\125 0 125\cg_displayCameraPosition\1 80 16
+10-7-2021 23: 4 (2845:01): ClientUserinfoChanged: 2 n\31wicyut31\t\0\model\alora2/blue\c1\0\c2\5\hc\100\w\0\l\0\tt\0\tl\0\st\single_8\st2\none\dt\0
+10-7-2021 23: 4 (2845:01): ClientBegin: 2
+10-7-2021 23: 4 (2845:06): ClientDisconnect: 2
+10-8-2021 22:36 (4257:21): ClientConnect: 2
+10-8-2021 22:36 (4257:21): ClientUserinfoChanged handling info: 2 \ip\5.173.138.95:35830\challenge\1794668468\qport\53856\protocol\26\teamoverlay\1\snaps\40\sex\male\saber2\none\saber1\Kyle\rate\25000\name\a\model\jedi_kdm/head_a1|torso_b1|lower_c1\ja_guid\DAC59C0F36E913ABE7B5C7E3527C6399\handicap\100\forcepowers\7-1-331330000330000331\color2\0\color1\5\char_color_red\333\char_color_green\333\char_color_blue\333\cg_predictItems\1
+10-8-2021 22:36 (4257:21): ClientUserinfoChanged: 2 n\Padawan\t\0\model\jedi_kdm/head_a1|torso_b1|lower_c1\c1\5\c2\0\hc\0\w\0\l\0\tt\0\tl\0\st\\st2\\dt\0
+10-8-2021 22:36 (4257:21): IP: 5.173.138.95 Padawan
+10-8-2021 22:36 (4257:36): ClientUserinfoChanged handling info: 2 \ip\5.173.138.95:35830\teamoverlay\1\snaps\40\sex\male\saber2\none\saber1\Kyle\rate\25000\name\a\model\jedi_kdm/head_a1|torso_b1|lower_c1\ja_guid\DAC59C0F36E913ABE7B5C7E3527C6399\handicap\100\forcepowers\7-1-331330000330000331\color2\0\color1\5\char_color_red\333\char_color_green\333\char_color_blue\333\cg_predictItems\1
+10-8-2021 22:36 (4257:36): ClientUserinfoChanged: 2 n\Padawan\t\0\model\jedi_kdm/head_a1|torso_b1|lower_c1\c1\5\c2\0\hc\0\w\0\l\0\tt\0\tl\0\st\Kyle\st2\none\dt\0
+10-8-2021 22:36 (4257:36): ClientUserinfoChanged handling info: 2 \ip\5.173.138.95:35830\teamoverlay\1\snaps\40\sex\male\saber2\none\saber1\Kyle\rate\25000\name\a\model\jedi_kdm/head_a1|torso_b1|lower_c1\ja_guid\DAC59C0F36E913ABE7B5C7E3527C6399\handicap\100\forcepowers\7-1-331330000330000331\color2\0\color1\5\char_color_red\333\char_color_green\333\char_color_blue\333\cg_predictItems\1
+10-8-2021 22:36 (4257:36): ClientUserinfoChanged: 2 n\Padawan\t\0\model\jedi_kdm/head_a1|torso_b1|lower_c1\c1\5\c2\0\hc\100\w\0\l\0\tt\0\tl\0\st\Kyle\st2\none\dt\0
+10-8-2021 22:36 (4257:36): ClientBegin: 2
+10-8-2021 22:37 (4258:23): ClientDisconnect: 2
+10-12-2021 15:43 (9604:04): ClientConnect: 2
+10-12-2021 15:43 (9604:04): ClientUserinfoChanged handling info: 2 \ip\91.199.50.131:29070\challenge\-292994079\qport\16884\protocol\26\teamoverlay\1\snaps\40\sex\male\saber2\none\saber1\Kyle\rate\25000\name\discount\model\prisoner/elder\ja_guid\3ED374901E5E5518A392932EE921AF3A\handicap\100\forcepowers\7-1-030000000000000330\cp_sbRGB2\0\cp_sbRGB1\0\cp_pluginDisable\0\cp_login\NOT SET\cp_holster\1\cp_clanPwd\none\color2\4\color1\4\cjp_client\1.4B4\char_color_red\255\char_color_green\255\char_color_blue\255\cg_predictItems\1
+10-12-2021 15:43 (9604:04): ClientUserinfoChanged: 2 n\discount\t\0\model\prisoner/elder\c1\4\c2\4\hc\0\w\0\l\0\tt\0\tl\0\st\\st2\\dt\0
+10-12-2021 15:43 (9604:04): IP: 91.199.50.131 discount
+10-12-2021 15:44 (9604:53): ClientUserinfoChanged handling info: 2 \ip\91.199.50.131:29070\teamoverlay\1\snaps\40\sex\male\saber2\none\saber1\single_4\rate\25000\name\discount\model\jeditrainer/default\ja_guid\3ED374901E5E5518A392932EE921AF3A\handicap\100\forcepowers\7-1-032330000000001333\cp_sbRGB2\0\cp_sbRGB1\0\cp_pluginDisable\0\cp_login\NOT SET\cp_holster\1\cp_clanPwd\none\color2\4\color1\1\cjp_client\1.4B4\char_color_red\255\char_color_green\255\char_color_blue\255\cg_predictItems\1
+10-12-2021 15:44 (9604:53): ClientUserinfoChanged: 2 n\discount\t\0\model\jeditrainer/default\c1\1\c2\4\hc\0\w\0\l\0\tt\0\tl\0\st\single_4\st2\none\dt\0
+10-12-2021 15:44 (9604:53): ClientUserinfoChanged handling info: 2 \ip\91.199.50.131:29070\teamoverlay\1\snaps\40\sex\male\saber2\none\saber1\single_4\rate\25000\name\discount\model\jeditrainer/default\ja_guid\3ED374901E5E5518A392932EE921AF3A\handicap\100\forcepowers\7-1-032330000000001333\cp_sbRGB2\0\cp_sbRGB1\0\cp_pluginDisable\0\cp_login\NOT SET\cp_holster\1\cp_clanPwd\none\color2\4\color1\1\cjp_client\1.4B4\char_color_red\255\char_color_green\255\char_color_blue\255\cg_predictItems\1
+10-12-2021 15:44 (9604:53): ClientUserinfoChanged: 2 n\discount\t\0\model\jeditrainer/default\c1\1\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\single_4\st2\none\dt\0
+10-12-2021 15:44 (9604:53): ClientBegin: 2
+10-12-2021 15:45 (9606:00): ClientDisconnect: 2
+10-13-2021 1:19 (10180:41): ClientConnect: 2
+10-13-2021 1:19 (10180:41): ClientUserinfoChanged handling info: 2 \ip\65.130.176.198:29070\challenge\1055731654\qport\61600\protocol\26\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\none\saber1\kyle\cg_predictItems\1\sex\male\handicap\100\color2\4\color1\0\forcepowers\7-1-331330000030001333\model\boba_fett/default\snaps\40\rate\25000\name\Lister\teamtask\0
+10-13-2021 1:19 (10180:41): ClientUserinfoChanged: 2 n\Lister\t\0\model\boba_fett/default\c1\0\c2\4\hc\0\w\0\l\0\tt\0\tl\0\st\\st2\\dt\0
+10-13-2021 1:19 (10180:41): IP: 65.130.176.198 Lister
+10-13-2021 1:20 (10180:51): ClientUserinfoChanged handling info: 2 \ip\65.130.176.198:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\none\saber1\kyle\cg_predictItems\1\sex\male\handicap\100\color2\0\color1\0\forcepowers\1-1-010000000000000100\model\reborn/boss\snaps\40\rate\25000\name\Lister\teamtask\0\teamoverlay\1
+10-13-2021 1:20 (10180:51): ClientUserinfoChanged: 2 n\Lister\t\0\model\reborn/boss\c1\0\c2\0\hc\0\w\0\l\0\tt\0\tl\0\st\kyle\st2\none\dt\0
+10-13-2021 1:20 (10180:51): ClientUserinfoChanged handling info: 2 \ip\65.130.176.198:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\none\saber1\kyle\cg_predictItems\1\sex\male\handicap\100\color2\0\color1\0\forcepowers\1-1-010000000000000100\model\reborn/boss\snaps\40\rate\25000\name\Lister\teamtask\0\teamoverlay\1
+10-13-2021 1:20 (10180:51): ClientUserinfoChanged: 2 n\Lister\t\0\model\reborn/boss\c1\0\c2\0\hc\100\w\0\l\0\tt\0\tl\0\st\kyle\st2\none\dt\0
+10-13-2021 1:20 (10180:51): ClientBegin: 2
+10-13-2021 1:20 (10181:03): ClientUserinfoChanged handling info: 2 \name\Lister\ip\65.130.176.198:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\none\saber1\kyle\cg_predictItems\1\sex\male\handicap\100\color2\0\color1\0\forcepowers\1-1-010000000000000100\model\reborn/boss\snaps\40\rate\25000\teamtask\0\teamoverlay\1
+10-13-2021 1:20 (10181:03): ClientUserinfoChanged: 2 n\Lister\t\0\model\reborn/boss\c1\0\c2\0\hc\100\w\0\l\0\tt\0\tl\0\st\kyle\st2\none\dt\0
+10-13-2021 1:20 (10181:25): Kill: 2 2 39: Lister killed Lister by MOD_SUICIDE
+10-13-2021 1:20 (10181:29): ClientUserinfoChanged handling info: 2 \name\Lister\ip\65.130.176.198:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\none\saber1\kyle\cg_predictItems\1\sex\male\handicap\100\color2\0\color1\0\forcepowers\1-1-010000000000000100\model\reborn/boss\snaps\40\rate\25000\teamtask\0\teamoverlay\1
+10-13-2021 1:20 (10181:29): ClientUserinfoChanged: 2 n\Lister\t\0\model\reborn/boss\c1\0\c2\0\hc\100\w\0\l\0\tt\0\tl\0\st\kyle\st2\none\dt\0
+10-13-2021 1:21 (10182:22): ClientDisconnect: 2
+10-13-2021 1:58 (10219:14): ShutdownGame:
+10-13-2021 1:58 (10219:14): ------------------------------------------------------------

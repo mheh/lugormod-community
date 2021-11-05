@@ -1,0 +1,626 @@
+6-7-2021 15: 4 (2363:47): ------------------------------------------------------------
+6-7-2021 15: 4 (2363:47): InitGame: \version\JAmp: v1.0.1.0 linux-i386 Mar 14 2020\timelimit\45\sv_privateClients\0\sv_minRate\0\sv_minPing\0\sv_maxclients\32\sv_maxRate\0\sv_maxPing\999\sv_hostname\^7~^1~^7~ COMM SERVER ~^1~^7~\sv_fps\50\sv_floodProtectSlow\1\sv_floodProtect\1\sv_autoDemo\0\sv_allowDownload\0\serveruptime\39\protocol\26\mapname\academy6\gamename\Lugormod\g_weaponDisable\0\g_stepSlideFix\0\g_siegeTeamSwitch\1\g_siegeTeam2\none\g_siegeTeam1\none\g_siegeRespawn\20\g_showDuelHealths\1\g_saberWallDamageScale\0.4\g_saberLocking\0\g_privateDuel\1535\g_noSpecMove\0\g_needpass\0\g_maxHolocronCarry\3\g_maxGameClients\0\g_maxForceRank\7\g_jediVmerc\0\g_gametype\0\g_gamemode\0\g_forceRegenTime\160\g_forcePowerDisable\0\g_forceBasedTeams\1\g_duelWeaponDisable\9\g_debugmelee\1\g_allowNPC\1\fs_game\lugormod\fraglimit\0\duel_fraglimit\10\dmflags\0\capturelimit\10\bot_minplayers\2\bg_fighterAltControl\0\Lugormod_Version\U#-0.0.0.91 Alpha
+6-7-2021 15: 4 (2363:47): ClientConnect: 0
+6-7-2021 15: 4 (2363:47): ClientUserinfoChanged handling info: 0 \ip\188.242.92.189:29070\name\Padawan\rate\4000\snaps\20\model\boba_fett/default\forcepowers\7-2-012320333000030321\color1\0\color2\0\handicap\100\sex\male\cg_predictItems\1\saber1\single_1\saber2\single_1\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+6-7-2021 15: 4 (2363:47): ClientUserinfoChanged: 0 n\Padawan\t\0\model\boba_fett/default\c1\0\c2\0\hc\0\w\0\l\0\tt\0\tl\0\st\single_1\st2\single_1\dt\0
+6-7-2021 15: 4 (2363:47): ClientUserinfoChanged handling info: 0 \ip\188.242.92.189:29070\name\Padawan\rate\4000\snaps\20\model\boba_fett/default\forcepowers\7-2-012320333000030321\color1\0\color2\0\handicap\100\sex\male\cg_predictItems\1\saber1\single_1\saber2\single_1\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+6-7-2021 15: 4 (2363:47): ClientUserinfoChanged: 0 n\Padawan\t\0\model\boba_fett/default\c1\0\c2\0\hc\0\w\0\l\0\tt\0\tl\0\st\single_1\st2\single_1\dt\0
+6-7-2021 15: 4 (2363:47): ClientUserinfoChanged handling info: 0 \ip\188.242.92.189:29070\name\Padawan\rate\4000\snaps\20\model\boba_fett/default\forcepowers\7-2-012320333000030321\color1\0\color2\0\handicap\100\sex\male\cg_predictItems\1\saber1\single_1\saber2\single_1\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+6-7-2021 15: 4 (2363:47): ClientUserinfoChanged: 0 n\Padawan\t\0\model\boba_fett/default\c1\0\c2\0\hc\100\w\0\l\0\tt\0\tl\0\st\single_1\st2\single_1\dt\0
+6-7-2021 15: 4 (2363:47): ClientBegin: 0
+6-7-2021 15: 4 (2363:47): ClientConnect: 1
+6-7-2021 15: 4 (2363:47): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/astupidbot.jkb\saber2\none\saber1\kyle\color2\4\color1\4\sex\male\model\jawa\snaps\20\rate\25000\name\astupidbot
+6-7-2021 15: 4 (2363:47): ClientUserinfoChanged: 1 n\astupidbot\t\0\model\jawa\c1\4\c2\4\hc\0\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+6-7-2021 15: 4 (2363:47): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/astupidbot.jkb\saber2\none\saber1\kyle\color2\4\color1\4\sex\male\model\jawa\snaps\20\rate\25000\name\astupidbot
+6-7-2021 15: 4 (2363:47): ClientUserinfoChanged: 1 n\astupidbot\t\0\model\jawa\c1\4\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+6-7-2021 15: 4 (2363:47): ClientBegin: 1
+6-7-2021 15: 5 (2364:11): say: astupidbot: Padawan is a lamer.
+6-7-2021 15: 5 (2364:48): Kill: 0 1 3: Padawan killed astupidbot by MOD_SABER
+6-7-2021 15: 5 (2364:49): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/astupidbot.jkb\saber2\none\saber1\kyle\color2\4\color1\4\sex\male\model\jawa\snaps\20\rate\25000\name\astupidbot
+6-7-2021 15: 5 (2364:49): ClientUserinfoChanged: 1 n\astupidbot\t\0\model\jawa\c1\4\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+6-7-2021 15: 5 (2364:58): ClientConnect: 2
+6-7-2021 15: 5 (2364:58): ClientUserinfoChanged handling info: 2 \ip\188.242.82.139:29070\challenge\-1612603648\qport\33402\protocol\26\char_color_blue\120\char_color_green\110\char_color_red\255\saber2\none\saber1\dual_2\cg_predictItems\1\sex\male\handicap\100\color2\0\color1\0\forcepowers\7-1-030000000000000330\model\jedi_tf/head_b4|torso_f1|lower_b1\snaps\20\rate\4000\name\Padawan\teamtask\0
+6-7-2021 15: 5 (2364:58): ClientUserinfoChanged: 2 n\Padawan 2\t\0\model\jedi_tf/head_b4|torso_f1|lower_b1\c1\0\c2\0\hc\0\w\0\l\0\tt\0\tl\0\st\\st2\\dt\0
+6-7-2021 15: 5 (2364:58): IP: 188.242.82.139 Padawan 2
+6-7-2021 15: 5 (2365:04): ClientUserinfoChanged handling info: 2 \ip\188.242.82.139:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\none\saber1\single_4\cg_predictItems\1\sex\male\handicap\100\color2\0\color1\0\forcepowers\7-2-012320333000030321\model\luke/default\snaps\20\rate\4000\name\Padawan\teamtask\0\teamoverlay\1
+6-7-2021 15: 5 (2365:04): ClientUserinfoChanged: 2 n\Padawan 2\t\0\model\luke/default\c1\0\c2\0\hc\0\w\0\l\0\tt\0\tl\0\st\single_4\st2\none\dt\0
+6-7-2021 15: 5 (2365:04): ClientUserinfoChanged handling info: 2 \ip\188.242.82.139:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\none\saber1\single_4\cg_predictItems\1\sex\male\handicap\100\color2\0\color1\0\forcepowers\7-2-012320333000030321\model\luke/default\snaps\20\rate\4000\name\Padawan\teamtask\0\teamoverlay\1
+6-7-2021 15: 5 (2365:04): ClientUserinfoChanged: 2 n\Padawan 2\t\0\model\luke/default\c1\0\c2\0\hc\100\w\0\l\0\tt\0\tl\0\st\single_4\st2\none\dt\0
+6-7-2021 15: 5 (2365:04): ClientBegin: 2
+6-7-2021 15: 5 (2365:05): Kill: 1 0 3: astupidbot killed Padawan by MOD_SABER
+6-7-2021 15: 5 (2365:07): say: astupidbot: You suck Padawan!!
+6-7-2021 15: 5 (2365:07): ClientUserinfoChanged handling info: 0 \ip\188.242.92.189:29070\name\Padawan\rate\4000\snaps\20\model\boba_fett/default\forcepowers\7-2-012320333000030321\color1\0\color2\0\handicap\100\sex\male\cg_predictItems\1\saber1\single_1\saber2\single_1\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+6-7-2021 15: 5 (2365:07): ClientUserinfoChanged: 0 n\Padawan\t\0\model\boba_fett/default\c1\0\c2\0\hc\100\w\0\l\0\tt\0\tl\0\st\single_1\st2\single_1\dt\0
+6-7-2021 15: 6 (2365:15): say: astupidbot: g2g
+6-7-2021 15: 6 (2365:15): ClientDisconnect: 1
+6-7-2021 15: 7 (2366:56): ClientUserinfoChanged handling info: 2 \ip\188.242.82.139:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\none\saber1\single_4\cg_predictItems\1\sex\male\handicap\100\color2\0\color1\3\forcepowers\7-2-012320333000030321\model\luke/default\snaps\20\rate\4000\name\Padawan\teamtask\0\teamoverlay\1
+6-7-2021 15: 7 (2366:56): ClientUserinfoChanged: 2 n\Padawan 2\t\0\model\luke/default\c1\3\c2\0\hc\100\w\0\l\0\tt\0\tl\0\st\single_4\st2\none\dt\0
+6-7-2021 15: 8 (2367:51): ClientUserinfoChanged handling info: 2 \ip\188.242.82.139:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\none\saber1\single_4\cg_predictItems\1\sex\male\handicap\100\color2\0\color1\3\forcepowers\7-1-332300000330003230\model\luke/default\snaps\20\rate\4000\name\Padawan\teamtask\0\teamoverlay\1
+6-7-2021 15: 8 (2367:51): ClientUserinfoChanged: 2 n\Padawan 2\t\0\model\luke/default\c1\3\c2\0\hc\100\w\0\l\0\tt\0\tl\0\st\single_4\st2\none\dt\0
+6-7-2021 15: 8 (2368:08): Kill: 0 2 3: Padawan killed Padawan 2 by MOD_SABER
+6-7-2021 15: 9 (2368:10): ClientUserinfoChanged handling info: 2 \ip\188.242.82.139:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\none\saber1\single_4\cg_predictItems\1\sex\male\handicap\100\color2\0\color1\3\forcepowers\7-1-332300000330003230\model\luke/default\snaps\20\rate\4000\name\Padawan\teamtask\0\teamoverlay\1
+6-7-2021 15: 9 (2368:10): ClientUserinfoChanged: 2 n\Padawan 2\t\0\model\luke/default\c1\3\c2\0\hc\100\w\0\l\0\tt\0\tl\0\st\single_4\st2\none\dt\0
+6-7-2021 15:10 (2369:49): Kill: 0 2 3: Padawan killed Padawan 2 by MOD_SABER
+6-7-2021 15:10 (2369:49): duel: Padawan won a duel against Padawan 2
+6-7-2021 15:10 (2369:52): ClientUserinfoChanged handling info: 2 \ip\188.242.82.139:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\none\saber1\single_4\cg_predictItems\1\sex\male\handicap\100\color2\0\color1\3\forcepowers\7-1-332300000330003230\model\luke/default\snaps\20\rate\4000\name\Padawan\teamtask\0\teamoverlay\1
+6-7-2021 15:10 (2369:52): ClientUserinfoChanged: 2 n\Padawan 2\t\0\model\luke/default\c1\3\c2\0\hc\100\w\0\l\0\tt\0\tl\0\st\single_4\st2\none\dt\0
+6-7-2021 15:12 (2371:21): Kill: 1022 2 38: <world> killed Padawan 2 by MOD_FALLING
+6-7-2021 15:12 (2371:25): ClientUserinfoChanged handling info: 2 \ip\188.242.82.139:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\none\saber1\single_4\cg_predictItems\1\sex\male\handicap\100\color2\0\color1\3\forcepowers\7-1-332300000330003230\model\luke/default\snaps\20\rate\4000\name\Padawan\teamtask\0\teamoverlay\1
+6-7-2021 15:12 (2371:25): ClientUserinfoChanged: 2 n\Padawan 2\t\0\model\luke/default\c1\3\c2\0\hc\100\w\0\l\0\tt\0\tl\0\st\single_4\st2\none\dt\0
+6-7-2021 15:13 (2372:36): Kill: 2 0 5: Padawan 2 killed Padawan by MOD_BRYAR_PISTOL_ALT
+6-7-2021 15:13 (2372:43): ClientUserinfoChanged handling info: 0 \ip\188.242.92.189:29070\name\Padawan\rate\4000\snaps\20\model\boba_fett/default\forcepowers\7-2-012320333000030321\color1\0\color2\0\handicap\100\sex\male\cg_predictItems\1\saber1\single_1\saber2\single_1\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+6-7-2021 15:13 (2372:43): ClientUserinfoChanged: 0 n\Padawan\t\0\model\boba_fett/default\c1\0\c2\0\hc\100\w\0\l\0\tt\0\tl\0\st\single_1\st2\single_1\dt\0
+6-7-2021 15:16 (2375:17): Kill: 0 2 3: Padawan killed Padawan 2 by MOD_SABER
+6-7-2021 15:16 (2375:19): ClientUserinfoChanged handling info: 2 \ip\188.242.82.139:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\none\saber1\single_4\cg_predictItems\1\sex\male\handicap\100\color2\0\color1\3\forcepowers\7-1-332300000330003230\model\luke/default\snaps\20\rate\4000\name\Padawan\teamtask\0\teamoverlay\1
+6-7-2021 15:16 (2375:19): ClientUserinfoChanged: 2 n\Padawan 2\t\0\model\luke/default\c1\3\c2\0\hc\100\w\0\l\0\tt\0\tl\0\st\single_4\st2\none\dt\0
+6-7-2021 15:16 (2375:41): Kill: 0 2 3: Padawan killed Padawan 2 by MOD_SABER
+6-7-2021 15:16 (2375:42): ClientUserinfoChanged handling info: 2 \ip\188.242.82.139:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\none\saber1\single_4\cg_predictItems\1\sex\male\handicap\100\color2\0\color1\3\forcepowers\7-1-332300000330003230\model\luke/default\snaps\20\rate\4000\name\Padawan\teamtask\0\teamoverlay\1
+6-7-2021 15:16 (2375:42): ClientUserinfoChanged: 2 n\Padawan 2\t\0\model\luke/default\c1\3\c2\0\hc\100\w\0\l\0\tt\0\tl\0\st\single_4\st2\none\dt\0
+6-7-2021 15:17 (2377:00): Kill: 2 0 3: Padawan 2 killed Padawan by MOD_SABER
+6-7-2021 15:17 (2377:03): ClientUserinfoChanged handling info: 0 \ip\188.242.92.189:29070\name\Padawan\rate\4000\snaps\20\model\boba_fett/default\forcepowers\7-2-012320333000030321\color1\0\color2\0\handicap\100\sex\male\cg_predictItems\1\saber1\single_1\saber2\single_1\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+6-7-2021 15:17 (2377:03): ClientUserinfoChanged: 0 n\Padawan\t\0\model\boba_fett/default\c1\0\c2\0\hc\100\w\0\l\0\tt\0\tl\0\st\single_1\st2\single_1\dt\0
+6-7-2021 15:18 (2377:55): Kill: 0 2 31: Padawan killed Padawan 2 by MOD_FORCE_DARK
+6-7-2021 15:18 (2377:56): ClientUserinfoChanged handling info: 2 \ip\188.242.82.139:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\none\saber1\single_4\cg_predictItems\1\sex\male\handicap\100\color2\0\color1\3\forcepowers\7-1-332300000330003230\model\luke/default\snaps\20\rate\4000\name\Padawan\teamtask\0\teamoverlay\1
+6-7-2021 15:18 (2377:56): ClientUserinfoChanged: 2 n\Padawan 2\t\0\model\luke/default\c1\3\c2\0\hc\100\w\0\l\0\tt\0\tl\0\st\single_4\st2\none\dt\0
+6-7-2021 15:19 (2378:38): Kill: 2 0 5: Padawan 2 killed Padawan by MOD_BRYAR_PISTOL_ALT
+6-7-2021 15:19 (2378:39): ClientUserinfoChanged handling info: 0 \ip\188.242.92.189:29070\name\Padawan\rate\4000\snaps\20\model\boba_fett/default\forcepowers\7-2-012320333000030321\color1\0\color2\0\handicap\100\sex\male\cg_predictItems\1\saber1\single_1\saber2\single_1\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+6-7-2021 15:19 (2378:39): ClientUserinfoChanged: 0 n\Padawan\t\0\model\boba_fett/default\c1\0\c2\0\hc\100\w\0\l\0\tt\0\tl\0\st\single_1\st2\single_1\dt\0
+6-7-2021 15:20 (2379:20): Kill: 0 2 3: Padawan killed Padawan 2 by MOD_SABER
+6-7-2021 15:20 (2379:22): ClientUserinfoChanged handling info: 2 \ip\188.242.82.139:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\none\saber1\single_4\cg_predictItems\1\sex\male\handicap\100\color2\0\color1\3\forcepowers\7-1-332300000330003230\model\luke/default\snaps\20\rate\4000\name\Padawan\teamtask\0\teamoverlay\1
+6-7-2021 15:20 (2379:22): ClientUserinfoChanged: 2 n\Padawan 2\t\0\model\luke/default\c1\3\c2\0\hc\100\w\0\l\0\tt\0\tl\0\st\single_4\st2\none\dt\0
+6-7-2021 15:24 (2383:11): Kill: 0 2 5: Padawan killed Padawan 2 by MOD_BRYAR_PISTOL_ALT
+6-7-2021 15:24 (2383:15): ClientUserinfoChanged handling info: 2 \ip\188.242.82.139:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\none\saber1\single_4\cg_predictItems\1\sex\male\handicap\100\color2\0\color1\3\forcepowers\7-1-332300000330003230\model\luke/default\snaps\20\rate\4000\name\Padawan\teamtask\0\teamoverlay\1
+6-7-2021 15:24 (2383:15): ClientUserinfoChanged: 2 n\Padawan 2\t\0\model\luke/default\c1\3\c2\0\hc\100\w\0\l\0\tt\0\tl\0\st\single_4\st2\none\dt\0
+6-7-2021 15:24 (2383:27): Kill: 2 0 3: Padawan 2 killed Padawan by MOD_SABER
+6-7-2021 15:24 (2383:28): ClientUserinfoChanged handling info: 0 \ip\188.242.92.189:29070\name\Padawan\rate\4000\snaps\20\model\boba_fett/default\forcepowers\7-2-012320333000030321\color1\0\color2\0\handicap\100\sex\male\cg_predictItems\1\saber1\single_1\saber2\single_1\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+6-7-2021 15:24 (2383:28): ClientUserinfoChanged: 0 n\Padawan\t\0\model\boba_fett/default\c1\0\c2\0\hc\100\w\0\l\0\tt\0\tl\0\st\single_1\st2\single_1\dt\0
+6-7-2021 15:27 (2386:10): Kill: 0 2 3: Padawan killed Padawan 2 by MOD_SABER
+6-7-2021 15:27 (2386:12): ClientUserinfoChanged handling info: 2 \ip\188.242.82.139:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\none\saber1\single_4\cg_predictItems\1\sex\male\handicap\100\color2\0\color1\3\forcepowers\7-1-332300000330003230\model\luke/default\snaps\20\rate\4000\name\Padawan\teamtask\0\teamoverlay\1
+6-7-2021 15:27 (2386:12): ClientUserinfoChanged: 2 n\Padawan 2\t\0\model\luke/default\c1\3\c2\0\hc\100\w\0\l\0\tt\0\tl\0\st\single_4\st2\none\dt\0
+6-7-2021 15:28 (2387:17): Kill: 0 2 3: Padawan killed Padawan 2 by MOD_SABER
+6-7-2021 15:28 (2387:17): duel: Padawan won a duel against Padawan 2
+6-7-2021 15:28 (2387:22): ClientUserinfoChanged handling info: 2 \ip\188.242.82.139:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\none\saber1\single_4\cg_predictItems\1\sex\male\handicap\100\color2\0\color1\3\forcepowers\7-1-332300000330003230\model\luke/default\snaps\20\rate\4000\name\Padawan\teamtask\0\teamoverlay\1
+6-7-2021 15:28 (2387:22): ClientUserinfoChanged: 2 n\Padawan 2\t\0\model\luke/default\c1\3\c2\0\hc\100\w\0\l\0\tt\0\tl\0\st\single_4\st2\none\dt\0
+6-7-2021 15:29 (2388:36): Kill: 0 2 31: Padawan killed Padawan 2 by MOD_FORCE_DARK
+6-7-2021 15:29 (2388:37): ClientUserinfoChanged handling info: 2 \ip\188.242.82.139:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\none\saber1\single_4\cg_predictItems\1\sex\male\handicap\100\color2\0\color1\3\forcepowers\7-1-332300000330003230\model\luke/default\snaps\20\rate\4000\name\Padawan\teamtask\0\teamoverlay\1
+6-7-2021 15:29 (2388:37): ClientUserinfoChanged: 2 n\Padawan 2\t\0\model\luke/default\c1\3\c2\0\hc\100\w\0\l\0\tt\0\tl\0\st\single_4\st2\none\dt\0
+6-7-2021 15:29 (2388:59): Kill: 0 2 31: Padawan killed Padawan 2 by MOD_FORCE_DARK
+6-7-2021 15:29 (2389:00): ClientUserinfoChanged handling info: 2 \ip\188.242.82.139:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\none\saber1\single_4\cg_predictItems\1\sex\male\handicap\100\color2\0\color1\3\forcepowers\7-1-332300000330003230\model\luke/default\snaps\20\rate\4000\name\Padawan\teamtask\0\teamoverlay\1
+6-7-2021 15:29 (2389:00): ClientUserinfoChanged: 2 n\Padawan 2\t\0\model\luke/default\c1\3\c2\0\hc\100\w\0\l\0\tt\0\tl\0\st\single_4\st2\none\dt\0
+6-7-2021 15:30 (2389:27): Kill: 2 0 3: Padawan 2 killed Padawan by MOD_SABER
+6-7-2021 15:30 (2389:29): ClientUserinfoChanged handling info: 0 \ip\188.242.92.189:29070\name\Padawan\rate\4000\snaps\20\model\boba_fett/default\forcepowers\7-2-012320333000030321\color1\0\color2\0\handicap\100\sex\male\cg_predictItems\1\saber1\single_1\saber2\single_1\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+6-7-2021 15:30 (2389:29): ClientUserinfoChanged: 0 n\Padawan\t\0\model\boba_fett/default\c1\0\c2\0\hc\100\w\0\l\0\tt\0\tl\0\st\single_1\st2\single_1\dt\0
+6-7-2021 15:30 (2389:48): ClientUserinfoChanged handling info: 2 \ip\188.242.82.139:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\single_2\saber1\single_2\cg_predictItems\1\sex\male\handicap\100\color2\3\color1\3\forcepowers\7-1-332300000330003230\model\luke/default\snaps\20\rate\4000\name\Padawan\teamtask\0\teamoverlay\1
+6-7-2021 15:30 (2389:48): ClientUserinfoChanged: 2 n\Padawan 2\t\0\model\luke/default\c1\3\c2\3\hc\100\w\0\l\0\tt\0\tl\0\st\single_4\st2\none\dt\0
+6-7-2021 15:31 (2391:01): Kill: 2 0 3: Padawan 2 killed Padawan by MOD_SABER
+6-7-2021 15:31 (2391:02): ClientUserinfoChanged handling info: 0 \ip\188.242.92.189:29070\name\Padawan\rate\4000\snaps\20\model\boba_fett/default\forcepowers\7-2-012320333000030321\color1\0\color2\0\handicap\100\sex\male\cg_predictItems\1\saber1\single_1\saber2\single_1\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+6-7-2021 15:31 (2391:02): ClientUserinfoChanged: 0 n\Padawan\t\0\model\boba_fett/default\c1\0\c2\0\hc\100\w\0\l\0\tt\0\tl\0\st\single_1\st2\single_1\dt\0
+6-7-2021 15:32 (2391:36): Kill: 2 0 3: Padawan 2 killed Padawan by MOD_SABER
+6-7-2021 15:32 (2391:37): ClientUserinfoChanged handling info: 0 \ip\188.242.92.189:29070\name\Padawan\rate\4000\snaps\20\model\boba_fett/default\forcepowers\7-2-012320333000030321\color1\0\color2\0\handicap\100\sex\male\cg_predictItems\1\saber1\single_1\saber2\single_1\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+6-7-2021 15:32 (2391:37): ClientUserinfoChanged: 0 n\Padawan\t\0\model\boba_fett/default\c1\0\c2\0\hc\100\w\0\l\0\tt\0\tl\0\st\single_1\st2\single_1\dt\0
+6-7-2021 15:34 (2393:53): Kill: 0 2 3: Padawan killed Padawan 2 by MOD_SABER
+6-7-2021 15:34 (2393:53): duel: Padawan won a duel against Padawan 2
+6-7-2021 15:34 (2393:57): ClientUserinfoChanged handling info: 2 \ip\188.242.82.139:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\single_2\saber1\single_2\cg_predictItems\1\sex\male\handicap\100\color2\3\color1\3\forcepowers\7-1-332300000330003230\model\luke/default\snaps\20\rate\4000\name\Padawan\teamtask\0\teamoverlay\1
+6-7-2021 15:34 (2393:57): ClientUserinfoChanged: 2 n\Padawan 2\t\0\model\luke/default\c1\3\c2\3\hc\100\w\0\l\0\tt\0\tl\0\st\single_2\st2\single_2\dt\0
+6-7-2021 15:34 (2393:57): ClientUserinfoChanged handling info: 2 \ip\188.242.82.139:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\single_2\saber1\single_2\cg_predictItems\1\sex\male\handicap\100\color2\3\color1\3\forcepowers\7-1-332300000330003230\model\luke/default\snaps\20\rate\4000\name\Padawan\teamtask\0\teamoverlay\1
+6-7-2021 15:34 (2393:57): ClientUserinfoChanged: 2 n\Padawan 2\t\0\model\luke/default\c1\3\c2\3\hc\100\w\0\l\0\tt\0\tl\0\st\single_2\st2\single_2\dt\0
+6-7-2021 15:35 (2394:45): Kill: 0 2 3: Padawan killed Padawan 2 by MOD_SABER
+6-7-2021 15:35 (2394:45): duel: Padawan won a duel against Padawan 2
+6-7-2021 15:35 (2394:46): ClientUserinfoChanged handling info: 2 \ip\188.242.82.139:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\single_2\saber1\single_2\cg_predictItems\1\sex\male\handicap\100\color2\3\color1\3\forcepowers\7-1-332300000330003230\model\luke/default\snaps\20\rate\4000\name\Padawan\teamtask\0\teamoverlay\1
+6-7-2021 15:35 (2394:46): ClientUserinfoChanged: 2 n\Padawan 2\t\0\model\luke/default\c1\3\c2\3\hc\100\w\0\l\0\tt\0\tl\0\st\single_2\st2\single_2\dt\0
+6-7-2021 15:36 (2395:22): Kill: 2 0 3: Padawan 2 killed Padawan by MOD_SABER
+6-7-2021 15:36 (2395:22): duel: Padawan 2 won a duel against Padawan
+6-7-2021 15:36 (2395:23): ClientUserinfoChanged handling info: 0 \ip\188.242.92.189:29070\name\Padawan\rate\4000\snaps\20\model\boba_fett/default\forcepowers\7-2-012320333000030321\color1\0\color2\0\handicap\100\sex\male\cg_predictItems\1\saber1\single_1\saber2\single_1\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+6-7-2021 15:36 (2395:23): ClientUserinfoChanged: 0 n\Padawan\t\0\model\boba_fett/default\c1\0\c2\0\hc\100\w\0\l\0\tt\0\tl\0\st\single_1\st2\single_1\dt\0
+6-7-2021 15:37 (2396:36): Kill: 2 0 3: Padawan 2 killed Padawan by MOD_SABER
+6-7-2021 15:37 (2396:36): duel: Padawan 2 won a duel against Padawan
+6-7-2021 15:37 (2396:37): ClientUserinfoChanged handling info: 0 \ip\188.242.92.189:29070\name\Padawan\rate\4000\snaps\20\model\boba_fett/default\forcepowers\7-2-012320333000030321\color1\0\color2\0\handicap\100\sex\male\cg_predictItems\1\saber1\single_1\saber2\single_1\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+6-7-2021 15:37 (2396:37): ClientUserinfoChanged: 0 n\Padawan\t\0\model\boba_fett/default\c1\0\c2\0\hc\100\w\0\l\0\tt\0\tl\0\st\single_1\st2\single_1\dt\0
+6-7-2021 15:38 (2397:31): Kill: 2 0 3: Padawan 2 killed Padawan by MOD_SABER
+6-7-2021 15:38 (2397:31): duel: Padawan 2 won a duel against Padawan
+6-7-2021 15:38 (2397:32): ClientUserinfoChanged handling info: 0 \ip\188.242.92.189:29070\name\Padawan\rate\4000\snaps\20\model\boba_fett/default\forcepowers\7-2-012320333000030321\color1\0\color2\0\handicap\100\sex\male\cg_predictItems\1\saber1\single_1\saber2\single_1\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+6-7-2021 15:38 (2397:32): ClientUserinfoChanged: 0 n\Padawan\t\0\model\boba_fett/default\c1\0\c2\0\hc\100\w\0\l\0\tt\0\tl\0\st\single_1\st2\single_1\dt\0
+6-7-2021 15:39 (2398:17): ClientUserinfoChanged handling info: 0 \ip\188.242.92.189:29070\name\Padawan\rate\4000\snaps\20\model\boba_fett/default\forcepowers\7-2-033330002000011333\color1\0\color2\0\handicap\100\sex\male\cg_predictItems\1\saber1\single_1\saber2\single_1\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+6-7-2021 15:39 (2398:17): ClientUserinfoChanged: 0 n\Padawan\t\0\model\boba_fett/default\c1\0\c2\0\hc\100\w\0\l\0\tt\0\tl\0\st\single_1\st2\single_1\dt\0
+6-7-2021 15:39 (2398:54): Kill: 0 2 3: Padawan killed Padawan 2 by MOD_SABER
+6-7-2021 15:39 (2399:00): ClientUserinfoChanged handling info: 2 \ip\188.242.82.139:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\single_2\saber1\single_2\cg_predictItems\1\sex\male\handicap\100\color2\3\color1\3\forcepowers\7-1-332300000330003230\model\luke/default\snaps\20\rate\4000\name\Padawan\teamtask\0\teamoverlay\1
+6-7-2021 15:39 (2399:00): ClientUserinfoChanged: 2 n\Padawan 2\t\0\model\luke/default\c1\3\c2\3\hc\100\w\0\l\0\tt\0\tl\0\st\single_2\st2\single_2\dt\0
+6-7-2021 15:40 (2399:11): Kill: 2 0 3: Padawan 2 killed Padawan by MOD_SABER
+6-7-2021 15:40 (2399:12): ClientUserinfoChanged handling info: 0 \ip\188.242.92.189:29070\name\Padawan\rate\4000\snaps\20\model\boba_fett/default\forcepowers\7-2-033330002000011333\color1\0\color2\0\handicap\100\sex\male\cg_predictItems\1\saber1\single_1\saber2\single_1\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+6-7-2021 15:40 (2399:12): ClientUserinfoChanged: 0 n\Padawan\t\0\model\boba_fett/default\c1\0\c2\0\hc\100\w\0\l\0\tt\0\tl\0\st\single_1\st2\single_1\dt\0
+6-7-2021 15:40 (2399:49): Kill: 2 0 3: Padawan 2 killed Padawan by MOD_SABER
+6-7-2021 15:40 (2399:49): duel: Padawan 2 won a duel against Padawan
+6-7-2021 15:40 (2399:50): ClientUserinfoChanged handling info: 0 \ip\188.242.92.189:29070\name\Padawan\rate\4000\snaps\20\model\boba_fett/default\forcepowers\7-2-033330002000011333\color1\0\color2\0\handicap\100\sex\male\cg_predictItems\1\saber1\single_1\saber2\single_1\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+6-7-2021 15:40 (2399:50): ClientUserinfoChanged: 0 n\Padawan\t\0\model\boba_fett/default\c1\0\c2\0\hc\100\w\0\l\0\tt\0\tl\0\st\single_1\st2\single_1\dt\0
+6-7-2021 15:41 (2400:51): Kill: 2 0 3: Padawan 2 killed Padawan by MOD_SABER
+6-7-2021 15:41 (2400:51): duel: Padawan 2 won a duel against Padawan
+6-7-2021 15:41 (2400:52): ClientUserinfoChanged handling info: 0 \ip\188.242.92.189:29070\name\Padawan\rate\4000\snaps\20\model\boba_fett/default\forcepowers\7-2-033330002000011333\color1\0\color2\0\handicap\100\sex\male\cg_predictItems\1\saber1\single_1\saber2\single_1\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+6-7-2021 15:41 (2400:52): ClientUserinfoChanged: 0 n\Padawan\t\0\model\boba_fett/default\c1\0\c2\0\hc\100\w\0\l\0\tt\0\tl\0\st\single_1\st2\single_1\dt\0
+6-7-2021 15:43 (2402:28): Kill: 2 0 3: Padawan 2 killed Padawan by MOD_SABER
+6-7-2021 15:43 (2402:28): duel: Padawan 2 won a duel against Padawan
+6-7-2021 15:43 (2402:29): ClientUserinfoChanged handling info: 0 \ip\188.242.92.189:29070\name\Padawan\rate\4000\snaps\20\model\boba_fett/default\forcepowers\7-2-033330002000011333\color1\0\color2\0\handicap\100\sex\male\cg_predictItems\1\saber1\single_1\saber2\single_1\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+6-7-2021 15:43 (2402:29): ClientUserinfoChanged: 0 n\Padawan\t\0\model\boba_fett/default\c1\0\c2\0\hc\100\w\0\l\0\tt\0\tl\0\st\single_1\st2\single_1\dt\0
+6-7-2021 15:43 (2402:54): Kill: 0 2 3: Padawan killed Padawan 2 by MOD_SABER
+6-7-2021 15:43 (2402:54): duel: Padawan won a duel against Padawan 2
+6-7-2021 15:43 (2402:58): ClientUserinfoChanged handling info: 2 \ip\188.242.82.139:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\single_2\saber1\single_2\cg_predictItems\1\sex\male\handicap\100\color2\3\color1\3\forcepowers\7-1-332300000330003230\model\luke/default\snaps\20\rate\4000\name\Padawan\teamtask\0\teamoverlay\1
+6-7-2021 15:43 (2402:58): ClientUserinfoChanged: 2 n\Padawan 2\t\0\model\luke/default\c1\3\c2\3\hc\100\w\0\l\0\tt\0\tl\0\st\single_2\st2\single_2\dt\0
+6-7-2021 15:44 (2403:45): Kill: 2 0 3: Padawan 2 killed Padawan by MOD_SABER
+6-7-2021 15:44 (2403:45): duel: Padawan 2 won a duel against Padawan
+6-7-2021 15:44 (2403:46): ClientUserinfoChanged handling info: 0 \ip\188.242.92.189:29070\name\Padawan\rate\4000\snaps\20\model\boba_fett/default\forcepowers\7-2-033330002000011333\color1\0\color2\0\handicap\100\sex\male\cg_predictItems\1\saber1\single_1\saber2\single_1\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+6-7-2021 15:44 (2403:46): ClientUserinfoChanged: 0 n\Padawan\t\0\model\boba_fett/default\c1\0\c2\0\hc\100\w\0\l\0\tt\0\tl\0\st\single_1\st2\single_1\dt\0
+6-7-2021 15:44 (2404:06): Kill: 0 2 3: Padawan killed Padawan 2 by MOD_SABER
+6-7-2021 15:44 (2404:06): duel: Padawan won a duel against Padawan 2
+6-7-2021 15:44 (2404:08): ClientUserinfoChanged handling info: 2 \ip\188.242.82.139:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\single_2\saber1\single_2\cg_predictItems\1\sex\male\handicap\100\color2\3\color1\3\forcepowers\7-1-332300000330003230\model\luke/default\snaps\20\rate\4000\name\Padawan\teamtask\0\teamoverlay\1
+6-7-2021 15:44 (2404:08): ClientUserinfoChanged: 2 n\Padawan 2\t\0\model\luke/default\c1\3\c2\3\hc\100\w\0\l\0\tt\0\tl\0\st\single_2\st2\single_2\dt\0
+6-7-2021 15:45 (2404:54): Kill: 2 0 3: Padawan 2 killed Padawan by MOD_SABER
+6-7-2021 15:45 (2404:54): duel: Padawan 2 won a duel against Padawan
+6-7-2021 15:45 (2404:58): ClientUserinfoChanged handling info: 0 \ip\188.242.92.189:29070\name\Padawan\rate\4000\snaps\20\model\boba_fett/default\forcepowers\7-2-033330002000011333\color1\0\color2\0\handicap\100\sex\male\cg_predictItems\1\saber1\single_1\saber2\single_1\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+6-7-2021 15:45 (2404:58): ClientUserinfoChanged: 0 n\Padawan\t\0\model\boba_fett/default\c1\0\c2\0\hc\100\w\0\l\0\tt\0\tl\0\st\single_1\st2\single_1\dt\0
+6-7-2021 15:47 (2406:10): Kill: 0 2 3: Padawan killed Padawan 2 by MOD_SABER
+6-7-2021 15:47 (2406:10): duel: Padawan won a duel against Padawan 2
+6-7-2021 15:47 (2406:13): ClientUserinfoChanged handling info: 2 \ip\188.242.82.139:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\single_2\saber1\single_2\cg_predictItems\1\sex\male\handicap\100\color2\3\color1\3\forcepowers\7-1-332300000330003230\model\luke/default\snaps\20\rate\4000\name\Padawan\teamtask\0\teamoverlay\1
+6-7-2021 15:47 (2406:13): ClientUserinfoChanged: 2 n\Padawan 2\t\0\model\luke/default\c1\3\c2\3\hc\100\w\0\l\0\tt\0\tl\0\st\single_2\st2\single_2\dt\0
+6-7-2021 15:48 (2407:25): Kill: 0 2 3: Padawan killed Padawan 2 by MOD_SABER
+6-7-2021 15:48 (2407:25): duel: Padawan won a duel against Padawan 2
+6-7-2021 15:48 (2407:27): ClientUserinfoChanged handling info: 2 \ip\188.242.82.139:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\single_2\saber1\single_2\cg_predictItems\1\sex\male\handicap\100\color2\3\color1\3\forcepowers\7-1-332300000330003230\model\luke/default\snaps\20\rate\4000\name\Padawan\teamtask\0\teamoverlay\1
+6-7-2021 15:48 (2407:27): ClientUserinfoChanged: 2 n\Padawan 2\t\0\model\luke/default\c1\3\c2\3\hc\100\w\0\l\0\tt\0\tl\0\st\single_2\st2\single_2\dt\0
+6-7-2021 15:49 (2408:19): Kill: 0 2 3: Padawan killed Padawan 2 by MOD_SABER
+6-7-2021 15:49 (2408:19): duel: Padawan won a duel against Padawan 2
+6-7-2021 15:49 (2408:21): ClientUserinfoChanged handling info: 2 \ip\188.242.82.139:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\single_2\saber1\single_2\cg_predictItems\1\sex\male\handicap\100\color2\3\color1\3\forcepowers\7-1-332300000330003230\model\luke/default\snaps\20\rate\4000\name\Padawan\teamtask\0\teamoverlay\1
+6-7-2021 15:49 (2408:21): ClientUserinfoChanged: 2 n\Padawan 2\t\0\model\luke/default\c1\3\c2\3\hc\100\w\0\l\0\tt\0\tl\0\st\single_2\st2\single_2\dt\0
+6-7-2021 15:49 (2408:47): Exit: Timelimit hit.
+6-7-2021 15:49 (2408:47): score: 20  ping: 107  client: 0 Padawan
+6-7-2021 15:49 (2408:47): score: 15  ping: 110  client: 2 Padawan 2
+6-7-2021 15:49 (2408:53): ShutdownGame:
+6-7-2021 15:49 (2408:53): ------------------------------------------------------------
+6-7-2021 15:49 (2408:53): ------------------------------------------------------------
+6-7-2021 15:49 (2408:53): InitGame: \version\JAmp: v1.0.1.0 linux-i386 Mar 14 2020\timelimit\45\sv_privateClients\0\sv_minRate\0\sv_minPing\0\sv_maxclients\32\sv_maxRate\0\sv_maxPing\999\sv_hostname\^7~^1~^7~ COMM SERVER ~^1~^7~\sv_fps\50\sv_floodProtectSlow\1\sv_floodProtect\1\sv_autoDemo\0\sv_allowDownload\0\serveruptime\40\protocol\26\mapname\academy6\gamename\Lugormod\g_weaponDisable\0\g_stepSlideFix\0\g_siegeTeamSwitch\1\g_siegeTeam2\none\g_siegeTeam1\none\g_siegeRespawn\20\g_showDuelHealths\1\g_saberWallDamageScale\0.4\g_saberLocking\0\g_privateDuel\1535\g_noSpecMove\0\g_needpass\0\g_maxHolocronCarry\3\g_maxGameClients\0\g_maxForceRank\7\g_jediVmerc\0\g_gametype\0\g_gamemode\0\g_forceRegenTime\160\g_forcePowerDisable\0\g_forceBasedTeams\1\g_duelWeaponDisable\9\g_debugmelee\1\g_allowNPC\1\fs_game\lugormod\fraglimit\0\duel_fraglimit\10\dmflags\0\capturelimit\10\bot_minplayers\2\bg_fighterAltControl\0\Lugormod_Version\U#-0.0.0.91 Alpha
+6-7-2021 15:49 (2408:53): ClientConnect: 0
+6-7-2021 15:49 (2408:53): ClientUserinfoChanged handling info: 0 \ip\188.242.92.189:29070\name\Padawan\rate\4000\snaps\20\model\boba_fett/default\forcepowers\7-2-033330002000011333\color1\0\color2\0\handicap\100\sex\male\cg_predictItems\1\saber1\single_1\saber2\single_1\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+6-7-2021 15:49 (2408:53): ClientUserinfoChanged: 0 n\Padawan\t\0\model\boba_fett/default\c1\0\c2\0\hc\0\w\0\l\0\tt\0\tl\0\st\single_1\st2\single_1\dt\0
+6-7-2021 15:49 (2408:53): ClientUserinfoChanged handling info: 0 \ip\188.242.92.189:29070\name\Padawan\rate\4000\snaps\20\model\boba_fett/default\forcepowers\7-2-033330002000011333\color1\0\color2\0\handicap\100\sex\male\cg_predictItems\1\saber1\single_1\saber2\single_1\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+6-7-2021 15:49 (2408:53): ClientUserinfoChanged: 0 n\Padawan\t\0\model\boba_fett/default\c1\0\c2\0\hc\0\w\0\l\0\tt\0\tl\0\st\single_1\st2\single_1\dt\0
+6-7-2021 15:49 (2408:53): ClientUserinfoChanged handling info: 0 \ip\188.242.92.189:29070\name\Padawan\rate\4000\snaps\20\model\boba_fett/default\forcepowers\7-2-033330002000011333\color1\0\color2\0\handicap\100\sex\male\cg_predictItems\1\saber1\single_1\saber2\single_1\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+6-7-2021 15:49 (2408:53): ClientUserinfoChanged: 0 n\Padawan\t\0\model\boba_fett/default\c1\0\c2\0\hc\100\w\0\l\0\tt\0\tl\0\st\single_1\st2\single_1\dt\0
+6-7-2021 15:49 (2408:53): ClientBegin: 0
+6-7-2021 15:49 (2408:53): ClientConnect: 2
+6-7-2021 15:49 (2408:53): ClientUserinfoChanged handling info: 2 \ip\188.242.82.139:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\single_2\saber1\single_2\cg_predictItems\1\sex\male\handicap\100\color2\3\color1\3\forcepowers\7-1-332300000330003230\model\luke/default\snaps\20\rate\4000\name\Padawan\teamtask\0\teamoverlay\1
+6-7-2021 15:49 (2408:53): ClientUserinfoChanged: 2 n\Padawan 2\t\0\model\luke/default\c1\3\c2\3\hc\0\w\0\l\0\tt\0\tl\0\st\single_2\st2\single_2\dt\0
+6-7-2021 15:49 (2408:53): ClientUserinfoChanged handling info: 2 \ip\188.242.82.139:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\single_2\saber1\single_2\cg_predictItems\1\sex\male\handicap\100\color2\3\color1\3\forcepowers\7-1-332300000330003230\model\luke/default\snaps\20\rate\4000\name\Padawan\teamtask\0\teamoverlay\1
+6-7-2021 15:49 (2408:53): ClientUserinfoChanged: 2 n\Padawan 2\t\0\model\luke/default\c1\3\c2\3\hc\0\w\0\l\0\tt\0\tl\0\st\single_2\st2\single_2\dt\0
+6-7-2021 15:49 (2408:53): ClientUserinfoChanged handling info: 2 \ip\188.242.82.139:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\single_2\saber1\single_2\cg_predictItems\1\sex\male\handicap\100\color2\3\color1\3\forcepowers\7-1-332300000330003230\model\luke/default\snaps\20\rate\4000\name\Padawan\teamtask\0\teamoverlay\1
+6-7-2021 15:49 (2408:53): ClientUserinfoChanged: 2 n\Padawan 2\t\0\model\luke/default\c1\3\c2\3\hc\100\w\0\l\0\tt\0\tl\0\st\single_2\st2\single_2\dt\0
+6-7-2021 15:49 (2408:53): ClientBegin: 2
+6-7-2021 15:50 (2409:23): Kill: 2 0 3: Padawan 2 killed Padawan by MOD_SABER
+6-7-2021 15:50 (2409:25): ClientUserinfoChanged handling info: 0 \ip\188.242.92.189:29070\name\Padawan\rate\4000\snaps\20\model\boba_fett/default\forcepowers\7-2-033330002000011333\color1\0\color2\0\handicap\100\sex\male\cg_predictItems\1\saber1\single_1\saber2\single_1\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+6-7-2021 15:50 (2409:25): ClientUserinfoChanged: 0 n\Padawan\t\0\model\boba_fett/default\c1\0\c2\0\hc\100\w\0\l\0\tt\0\tl\0\st\single_1\st2\single_1\dt\0
+6-7-2021 15:50 (2409:40): Kill: 2 0 3: Padawan 2 killed Padawan by MOD_SABER
+6-7-2021 15:50 (2409:47): ClientUserinfoChanged handling info: 0 \ip\188.242.92.189:29070\name\Padawan\rate\4000\snaps\20\model\boba_fett/default\forcepowers\7-2-033330002000011333\color1\0\color2\0\handicap\100\sex\male\cg_predictItems\1\saber1\single_1\saber2\single_1\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+6-7-2021 15:50 (2409:47): ClientUserinfoChanged: 0 n\Padawan\t\0\model\boba_fett/default\c1\0\c2\0\hc\100\w\0\l\0\tt\0\tl\0\st\single_1\st2\single_1\dt\0
+6-7-2021 15:51 (2410:40): Kill: 2 0 3: Padawan 2 killed Padawan by MOD_SABER
+6-7-2021 15:51 (2410:40): duel: Padawan 2 won a duel against Padawan
+6-7-2021 15:51 (2410:42): ClientUserinfoChanged handling info: 0 \ip\188.242.92.189:29070\name\Padawan\rate\4000\snaps\20\model\boba_fett/default\forcepowers\7-2-033330002000011333\color1\0\color2\0\handicap\100\sex\male\cg_predictItems\1\saber1\single_1\saber2\single_1\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+6-7-2021 15:51 (2410:42): ClientUserinfoChanged: 0 n\Padawan\t\0\model\boba_fett/default\c1\0\c2\0\hc\100\w\0\l\0\tt\0\tl\0\st\single_1\st2\single_1\dt\0
+6-7-2021 15:52 (2411:50): Kill: 0 2 3: Padawan killed Padawan 2 by MOD_SABER
+6-7-2021 15:52 (2411:50): duel: Padawan won a duel against Padawan 2
+6-7-2021 15:52 (2411:54): ClientUserinfoChanged handling info: 2 \ip\188.242.82.139:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\single_2\saber1\single_2\cg_predictItems\1\sex\male\handicap\100\color2\3\color1\3\forcepowers\7-1-332300000330003230\model\luke/default\snaps\20\rate\4000\name\Padawan\teamtask\0\teamoverlay\1
+6-7-2021 15:52 (2411:54): ClientUserinfoChanged: 2 n\Padawan 2\t\0\model\luke/default\c1\3\c2\3\hc\100\w\0\l\0\tt\0\tl\0\st\single_2\st2\single_2\dt\0
+6-7-2021 15:53 (2413:02): Kill: 0 2 3: Padawan killed Padawan 2 by MOD_SABER
+6-7-2021 15:53 (2413:02): duel: Padawan won a duel against Padawan 2
+6-7-2021 15:53 (2413:04): ClientUserinfoChanged handling info: 2 \ip\188.242.82.139:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\single_2\saber1\single_2\cg_predictItems\1\sex\male\handicap\100\color2\3\color1\3\forcepowers\7-1-332300000330003230\model\luke/default\snaps\20\rate\4000\name\Padawan\teamtask\0\teamoverlay\1
+6-7-2021 15:53 (2413:04): ClientUserinfoChanged: 2 n\Padawan 2\t\0\model\luke/default\c1\3\c2\3\hc\100\w\0\l\0\tt\0\tl\0\st\single_2\st2\single_2\dt\0
+6-7-2021 15:54 (2413:26): Kill: 2 0 3: Padawan 2 killed Padawan by MOD_SABER
+6-7-2021 15:54 (2413:26): duel: Padawan 2 won a duel against Padawan
+6-7-2021 15:54 (2413:28): ClientUserinfoChanged handling info: 0 \ip\188.242.92.189:29070\name\Padawan\rate\4000\snaps\20\model\boba_fett/default\forcepowers\7-2-033330002000011333\color1\0\color2\0\handicap\100\sex\male\cg_predictItems\1\saber1\single_1\saber2\single_1\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+6-7-2021 15:54 (2413:28): ClientUserinfoChanged: 0 n\Padawan\t\0\model\boba_fett/default\c1\0\c2\0\hc\100\w\0\l\0\tt\0\tl\0\st\single_1\st2\single_1\dt\0
+6-7-2021 15:54 (2413:44): ClientUserinfoChanged handling info: 2 \ip\188.242.82.139:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\single_2\saber1\single_2\cg_predictItems\1\sex\male\handicap\100\color2\3\color1\3\forcepowers\7-1-331322000200003322\model\luke/default\snaps\20\rate\4000\name\Padawan\teamtask\0\teamoverlay\1
+6-7-2021 15:54 (2413:44): ClientUserinfoChanged: 2 n\Padawan 2\t\0\model\luke/default\c1\3\c2\3\hc\100\w\0\l\0\tt\0\tl\0\st\single_2\st2\single_2\dt\0
+6-7-2021 15:55 (2414:56): Kill: 2 0 3: Padawan 2 killed Padawan by MOD_SABER
+6-7-2021 15:55 (2414:56): duel: Padawan 2 won a duel against Padawan
+6-7-2021 15:55 (2414:58): ClientUserinfoChanged handling info: 0 \ip\188.242.92.189:29070\name\Padawan\rate\4000\snaps\20\model\boba_fett/default\forcepowers\7-2-033330002000011333\color1\0\color2\0\handicap\100\sex\male\cg_predictItems\1\saber1\single_1\saber2\single_1\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+6-7-2021 15:55 (2414:58): ClientUserinfoChanged: 0 n\Padawan\t\0\model\boba_fett/default\c1\0\c2\0\hc\100\w\0\l\0\tt\0\tl\0\st\single_1\st2\single_1\dt\0
+6-7-2021 15:56 (2415:29): Kill: 2 0 3: Padawan 2 killed Padawan by MOD_SABER
+6-7-2021 15:56 (2415:29): duel: Padawan 2 won a duel against Padawan
+6-7-2021 15:56 (2415:30): ClientUserinfoChanged handling info: 0 \ip\188.242.92.189:29070\name\Padawan\rate\4000\snaps\20\model\boba_fett/default\forcepowers\7-2-033330002000011333\color1\0\color2\0\handicap\100\sex\male\cg_predictItems\1\saber1\single_1\saber2\single_1\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+6-7-2021 15:56 (2415:30): ClientUserinfoChanged: 0 n\Padawan\t\0\model\boba_fett/default\c1\0\c2\0\hc\100\w\0\l\0\tt\0\tl\0\st\single_1\st2\single_1\dt\0
+6-7-2021 15:57 (2416:24): Kill: 0 2 3: Padawan killed Padawan 2 by MOD_SABER
+6-7-2021 15:57 (2416:24): duel: Padawan won a duel against Padawan 2
+6-7-2021 15:57 (2416:27): ClientUserinfoChanged handling info: 2 \ip\188.242.82.139:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\single_2\saber1\single_2\cg_predictItems\1\sex\male\handicap\100\color2\3\color1\3\forcepowers\7-1-331322000200003322\model\luke/default\snaps\20\rate\4000\name\Padawan\teamtask\0\teamoverlay\1
+6-7-2021 15:57 (2416:27): ClientUserinfoChanged: 2 n\Padawan 2\t\0\model\luke/default\c1\3\c2\3\hc\100\w\0\l\0\tt\0\tl\0\st\single_2\st2\single_2\dt\0
+6-7-2021 15:57 (2416:58): Kill: 2 0 3: Padawan 2 killed Padawan by MOD_SABER
+6-7-2021 15:57 (2416:58): duel: Padawan 2 won a duel against Padawan
+6-7-2021 15:57 (2416:59): ClientUserinfoChanged handling info: 0 \ip\188.242.92.189:29070\name\Padawan\rate\4000\snaps\20\model\boba_fett/default\forcepowers\7-2-033330002000011333\color1\0\color2\0\handicap\100\sex\male\cg_predictItems\1\saber1\single_1\saber2\single_1\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+6-7-2021 15:57 (2416:59): ClientUserinfoChanged: 0 n\Padawan\t\0\model\boba_fett/default\c1\0\c2\0\hc\100\w\0\l\0\tt\0\tl\0\st\single_1\st2\single_1\dt\0
+6-7-2021 15:59 (2418:27): Kill: 0 2 3: Padawan killed Padawan 2 by MOD_SABER
+6-7-2021 15:59 (2418:27): duel: Padawan won a duel against Padawan 2
+6-7-2021 15:59 (2418:28): ClientUserinfoChanged handling info: 2 \ip\188.242.82.139:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\single_2\saber1\single_2\cg_predictItems\1\sex\male\handicap\100\color2\3\color1\3\forcepowers\7-1-331322000200003322\model\luke/default\snaps\20\rate\4000\name\Padawan\teamtask\0\teamoverlay\1
+6-7-2021 15:59 (2418:28): ClientUserinfoChanged: 2 n\Padawan 2\t\0\model\luke/default\c1\3\c2\3\hc\100\w\0\l\0\tt\0\tl\0\st\single_2\st2\single_2\dt\0
+6-7-2021 16: 0 (2419:15): Kill: 2 0 3: Padawan 2 killed Padawan by MOD_SABER
+6-7-2021 16: 0 (2419:15): duel: Padawan 2 won a duel against Padawan
+6-7-2021 16: 0 (2419:17): ClientUserinfoChanged handling info: 0 \ip\188.242.92.189:29070\name\Padawan\rate\4000\snaps\20\model\boba_fett/default\forcepowers\7-2-033330002000011333\color1\0\color2\0\handicap\100\sex\male\cg_predictItems\1\saber1\single_1\saber2\single_1\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+6-7-2021 16: 0 (2419:17): ClientUserinfoChanged: 0 n\Padawan\t\0\model\boba_fett/default\c1\0\c2\0\hc\100\w\0\l\0\tt\0\tl\0\st\single_1\st2\single_1\dt\0
+6-7-2021 16: 0 (2419:30): Kill: 2 0 3: Padawan 2 killed Padawan by MOD_SABER
+6-7-2021 16: 0 (2419:30): duel: Padawan 2 won a duel against Padawan
+6-7-2021 16: 0 (2419:31): ClientUserinfoChanged handling info: 0 \ip\188.242.92.189:29070\name\Padawan\rate\4000\snaps\20\model\boba_fett/default\forcepowers\7-2-033330002000011333\color1\0\color2\0\handicap\100\sex\male\cg_predictItems\1\saber1\single_1\saber2\single_1\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+6-7-2021 16: 0 (2419:31): ClientUserinfoChanged: 0 n\Padawan\t\0\model\boba_fett/default\c1\0\c2\0\hc\100\w\0\l\0\tt\0\tl\0\st\single_1\st2\single_1\dt\0
+6-7-2021 16: 1 (2420:17): Kill: 0 2 3: Padawan killed Padawan 2 by MOD_SABER
+6-7-2021 16: 1 (2420:17): duel: Padawan won a duel against Padawan 2
+6-7-2021 16: 1 (2420:19): ClientUserinfoChanged handling info: 2 \ip\188.242.82.139:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\single_2\saber1\single_2\cg_predictItems\1\sex\male\handicap\100\color2\3\color1\3\forcepowers\7-1-331322000200003322\model\luke/default\snaps\20\rate\4000\name\Padawan\teamtask\0\teamoverlay\1
+6-7-2021 16: 1 (2420:19): ClientUserinfoChanged: 2 n\Padawan 2\t\0\model\luke/default\c1\3\c2\3\hc\100\w\0\l\0\tt\0\tl\0\st\single_2\st2\single_2\dt\0
+6-7-2021 16: 1 (2420:50): Kill: 2 0 3: Padawan 2 killed Padawan by MOD_SABER
+6-7-2021 16: 1 (2420:50): duel: Padawan 2 won a duel against Padawan
+6-7-2021 16: 1 (2420:51): ClientUserinfoChanged handling info: 0 \ip\188.242.92.189:29070\name\Padawan\rate\4000\snaps\20\model\boba_fett/default\forcepowers\7-2-033330002000011333\color1\0\color2\0\handicap\100\sex\male\cg_predictItems\1\saber1\single_1\saber2\single_1\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+6-7-2021 16: 1 (2420:51): ClientUserinfoChanged: 0 n\Padawan\t\0\model\boba_fett/default\c1\0\c2\0\hc\100\w\0\l\0\tt\0\tl\0\st\single_1\st2\single_1\dt\0
+6-7-2021 16: 1 (2421:09): Kill: 0 2 3: Padawan killed Padawan 2 by MOD_SABER
+6-7-2021 16: 1 (2421:09): duel: Padawan won a duel against Padawan 2
+6-7-2021 16: 2 (2421:14): ClientUserinfoChanged handling info: 2 \ip\188.242.82.139:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\single_2\saber1\single_2\cg_predictItems\1\sex\male\handicap\100\color2\3\color1\3\forcepowers\7-1-331322000200003322\model\luke/default\snaps\20\rate\4000\name\Padawan\teamtask\0\teamoverlay\1
+6-7-2021 16: 2 (2421:14): ClientUserinfoChanged: 2 n\Padawan 2\t\0\model\luke/default\c1\3\c2\3\hc\100\w\0\l\0\tt\0\tl\0\st\single_2\st2\single_2\dt\0
+6-7-2021 16: 3 (2422:18): Kill: 2 0 3: Padawan 2 killed Padawan by MOD_SABER
+6-7-2021 16: 3 (2422:18): duel: Padawan 2 won a duel against Padawan
+6-7-2021 16: 3 (2422:19): ClientUserinfoChanged handling info: 0 \ip\188.242.92.189:29070\name\Padawan\rate\4000\snaps\20\model\boba_fett/default\forcepowers\7-2-033330002000011333\color1\0\color2\0\handicap\100\sex\male\cg_predictItems\1\saber1\single_1\saber2\single_1\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+6-7-2021 16: 3 (2422:19): ClientUserinfoChanged: 0 n\Padawan\t\0\model\boba_fett/default\c1\0\c2\0\hc\100\w\0\l\0\tt\0\tl\0\st\single_1\st2\single_1\dt\0
+6-7-2021 16: 3 (2422:45): Kill: 0 2 3: Padawan killed Padawan 2 by MOD_SABER
+6-7-2021 16: 3 (2422:45): duel: Padawan won a duel against Padawan 2
+6-7-2021 16: 3 (2422:48): ClientUserinfoChanged handling info: 2 \ip\188.242.82.139:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\single_2\saber1\single_2\cg_predictItems\1\sex\male\handicap\100\color2\3\color1\3\forcepowers\7-1-331322000200003322\model\luke/default\snaps\20\rate\4000\name\Padawan\teamtask\0\teamoverlay\1
+6-7-2021 16: 3 (2422:48): ClientUserinfoChanged: 2 n\Padawan 2\t\0\model\luke/default\c1\3\c2\3\hc\100\w\0\l\0\tt\0\tl\0\st\single_2\st2\single_2\dt\0
+6-7-2021 16: 4 (2423:37): Kill: 0 2 5: Padawan killed Padawan 2 by MOD_BRYAR_PISTOL_ALT
+6-7-2021 16: 4 (2423:55): ClientUserinfoChanged handling info: 2 \ip\188.242.82.139:29070\char_color_blue\255\char_color_green\120\char_color_red\85\saber2\none\saber1\dual_4\cg_predictItems\1\sex\male\handicap\100\color2\3\color1\4\forcepowers\7-1-331322000200003322\model\jedi_kdm/head_c1|torso_b1|lower_d1\snaps\20\rate\4000\name\Padawan\teamtask\0\teamoverlay\1
+6-7-2021 16: 4 (2423:55): ClientUserinfoChanged: 2 n\Padawan 2\t\0\model\jedi_kdm/head_c1|torso_b1|lower_d1\c1\4\c2\3\hc\100\w\0\l\0\tt\0\tl\0\st\dual_4\st2\none\dt\0
+6-7-2021 16: 4 (2423:55): ClientUserinfoChanged handling info: 2 \ip\188.242.82.139:29070\char_color_blue\255\char_color_green\120\char_color_red\85\saber2\none\saber1\dual_4\cg_predictItems\1\sex\male\handicap\100\color2\3\color1\4\forcepowers\7-1-331322000200003322\model\jedi_kdm/head_c1|torso_b1|lower_d1\snaps\20\rate\4000\name\Padawan\teamtask\0\teamoverlay\1
+6-7-2021 16: 4 (2423:55): ClientUserinfoChanged: 2 n\Padawan 2\t\0\model\jedi_kdm/head_c1|torso_b1|lower_d1\c1\4\c2\3\hc\100\w\0\l\0\tt\0\tl\0\st\dual_4\st2\none\dt\0
+6-7-2021 16: 5 (2424:35): Kill: 0 2 3: Padawan killed Padawan 2 by MOD_SABER
+6-7-2021 16: 5 (2424:35): duel: Padawan won a duel against Padawan 2
+6-7-2021 16: 5 (2425:03): ClientUserinfoChanged handling info: 2 \ip\188.242.82.139:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\Kyle\saber1\Kyle\cg_predictItems\1\sex\male\handicap\100\color2\5\color1\5\forcepowers\7-1-331322000200003322\model\trandoshan/default\snaps\20\rate\4000\name\Padawan\teamtask\0\teamoverlay\1
+6-7-2021 16: 5 (2425:03): ClientUserinfoChanged: 2 n\Padawan 2\t\0\model\trandoshan/default\c1\5\c2\5\hc\100\w\0\l\0\tt\0\tl\0\st\Kyle\st2\Kyle\dt\0
+6-7-2021 16: 5 (2425:03): ClientUserinfoChanged handling info: 2 \ip\188.242.82.139:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\Kyle\saber1\Kyle\cg_predictItems\1\sex\male\handicap\100\color2\5\color1\5\forcepowers\7-1-331322000200003322\model\trandoshan/default\snaps\20\rate\4000\name\Padawan\teamtask\0\teamoverlay\1
+6-7-2021 16: 5 (2425:03): ClientUserinfoChanged: 2 n\Padawan 2\t\0\model\trandoshan/default\c1\5\c2\5\hc\100\w\0\l\0\tt\0\tl\0\st\Kyle\st2\Kyle\dt\0
+6-7-2021 16: 7 (2426:40): Kill: 0 2 3: Padawan killed Padawan 2 by MOD_SABER
+6-7-2021 16: 7 (2426:40): duel: Padawan won a duel against Padawan 2
+6-7-2021 16: 7 (2426:41): ClientUserinfoChanged handling info: 2 \ip\188.242.82.139:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\Kyle\saber1\Kyle\cg_predictItems\1\sex\male\handicap\100\color2\5\color1\5\forcepowers\7-1-331322000200003322\model\trandoshan/default\snaps\20\rate\4000\name\Padawan\teamtask\0\teamoverlay\1
+6-7-2021 16: 7 (2426:41): ClientUserinfoChanged: 2 n\Padawan 2\t\0\model\trandoshan/default\c1\5\c2\5\hc\100\w\0\l\0\tt\0\tl\0\st\Kyle\st2\Kyle\dt\0
+6-7-2021 16: 7 (2427:06): Kill: 2 0 3: Padawan 2 killed Padawan by MOD_SABER
+6-7-2021 16: 7 (2427:06): duel: Padawan 2 won a duel against Padawan
+6-7-2021 16: 7 (2427:08): ClientUserinfoChanged handling info: 0 \ip\188.242.92.189:29070\name\Padawan\rate\4000\snaps\20\model\boba_fett/default\forcepowers\7-2-033330002000011333\color1\0\color2\0\handicap\100\sex\male\cg_predictItems\1\saber1\single_1\saber2\single_1\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+6-7-2021 16: 7 (2427:08): ClientUserinfoChanged: 0 n\Padawan\t\0\model\boba_fett/default\c1\0\c2\0\hc\100\w\0\l\0\tt\0\tl\0\st\single_1\st2\single_1\dt\0
+6-7-2021 16: 8 (2427:47): Kill: 2 0 3: Padawan 2 killed Padawan by MOD_SABER
+6-7-2021 16: 8 (2427:47): duel: Padawan 2 won a duel against Padawan
+6-7-2021 16: 8 (2427:48): ClientUserinfoChanged handling info: 0 \ip\188.242.92.189:29070\name\Padawan\rate\4000\snaps\20\model\boba_fett/default\forcepowers\7-2-033330002000011333\color1\0\color2\0\handicap\100\sex\male\cg_predictItems\1\saber1\single_1\saber2\single_1\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+6-7-2021 16: 8 (2427:48): ClientUserinfoChanged: 0 n\Padawan\t\0\model\boba_fett/default\c1\0\c2\0\hc\100\w\0\l\0\tt\0\tl\0\st\single_1\st2\single_1\dt\0
+6-7-2021 16: 9 (2428:22): Kill: 2 0 3: Padawan 2 killed Padawan by MOD_SABER
+6-7-2021 16: 9 (2428:22): duel: Padawan 2 won a duel against Padawan
+6-7-2021 16: 9 (2428:23): ClientUserinfoChanged handling info: 0 \ip\188.242.92.189:29070\name\Padawan\rate\4000\snaps\20\model\boba_fett/default\forcepowers\7-2-033330002000011333\color1\0\color2\0\handicap\100\sex\male\cg_predictItems\1\saber1\single_1\saber2\single_1\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+6-7-2021 16: 9 (2428:23): ClientUserinfoChanged: 0 n\Padawan\t\0\model\boba_fett/default\c1\0\c2\0\hc\100\w\0\l\0\tt\0\tl\0\st\single_1\st2\single_1\dt\0
+6-7-2021 16: 9 (2428:37): Kill: 2 0 3: Padawan 2 killed Padawan by MOD_SABER
+6-7-2021 16: 9 (2428:37): duel: Padawan 2 won a duel against Padawan
+6-7-2021 16: 9 (2428:38): ClientUserinfoChanged handling info: 0 \ip\188.242.92.189:29070\name\Padawan\rate\4000\snaps\20\model\boba_fett/default\forcepowers\7-2-033330002000011333\color1\0\color2\0\handicap\100\sex\male\cg_predictItems\1\saber1\single_1\saber2\single_1\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+6-7-2021 16: 9 (2428:38): ClientUserinfoChanged: 0 n\Padawan\t\0\model\boba_fett/default\c1\0\c2\0\hc\100\w\0\l\0\tt\0\tl\0\st\single_1\st2\single_1\dt\0
+6-7-2021 16: 9 (2429:02): Kill: 0 2 3: Padawan killed Padawan 2 by MOD_SABER
+6-7-2021 16: 9 (2429:02): duel: Padawan won a duel against Padawan 2
+6-7-2021 16: 9 (2429:05): ClientUserinfoChanged handling info: 2 \ip\188.242.82.139:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\Kyle\saber1\Kyle\cg_predictItems\1\sex\male\handicap\100\color2\5\color1\5\forcepowers\7-1-331322000200003322\model\trandoshan/default\snaps\20\rate\4000\name\Padawan\teamtask\0\teamoverlay\1
+6-7-2021 16: 9 (2429:05): ClientUserinfoChanged: 2 n\Padawan 2\t\0\model\trandoshan/default\c1\5\c2\5\hc\100\w\0\l\0\tt\0\tl\0\st\Kyle\st2\Kyle\dt\0
+6-7-2021 16:11 (2430:11): Kill: 2 0 3: Padawan 2 killed Padawan by MOD_SABER
+6-7-2021 16:11 (2430:11): duel: Padawan 2 won a duel against Padawan
+6-7-2021 16:11 (2430:12): ClientUserinfoChanged handling info: 0 \ip\188.242.92.189:29070\name\Padawan\rate\4000\snaps\20\model\boba_fett/default\forcepowers\7-2-033330002000011333\color1\0\color2\0\handicap\100\sex\male\cg_predictItems\1\saber1\single_1\saber2\single_1\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+6-7-2021 16:11 (2430:12): ClientUserinfoChanged: 0 n\Padawan\t\0\model\boba_fett/default\c1\0\c2\0\hc\100\w\0\l\0\tt\0\tl\0\st\single_1\st2\single_1\dt\0
+6-7-2021 16:11 (2431:08): Kill: 0 2 3: Padawan killed Padawan 2 by MOD_SABER
+6-7-2021 16:11 (2431:08): duel: Padawan won a duel against Padawan 2
+6-7-2021 16:11 (2431:10): ClientUserinfoChanged handling info: 2 \ip\188.242.82.139:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\Kyle\saber1\Kyle\cg_predictItems\1\sex\male\handicap\100\color2\5\color1\5\forcepowers\7-1-331322000200003322\model\trandoshan/default\snaps\20\rate\4000\name\Padawan\teamtask\0\teamoverlay\1
+6-7-2021 16:11 (2431:10): ClientUserinfoChanged: 2 n\Padawan 2\t\0\model\trandoshan/default\c1\5\c2\5\hc\100\w\0\l\0\tt\0\tl\0\st\Kyle\st2\Kyle\dt\0
+6-7-2021 16:12 (2431:59): Kill: 2 0 3: Padawan 2 killed Padawan by MOD_SABER
+6-7-2021 16:12 (2431:59): duel: Padawan 2 won a duel against Padawan
+6-7-2021 16:12 (2432:00): ClientUserinfoChanged handling info: 0 \ip\188.242.92.189:29070\name\Padawan\rate\4000\snaps\20\model\boba_fett/default\forcepowers\7-2-033330002000011333\color1\0\color2\0\handicap\100\sex\male\cg_predictItems\1\saber1\single_1\saber2\single_1\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+6-7-2021 16:12 (2432:00): ClientUserinfoChanged: 0 n\Padawan\t\0\model\boba_fett/default\c1\0\c2\0\hc\100\w\0\l\0\tt\0\tl\0\st\single_1\st2\single_1\dt\0
+6-7-2021 16:13 (2432:13): ClientUserinfoChanged handling info: 2 \ip\188.242.82.139:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\none\saber1\single_3\cg_predictItems\1\sex\male\handicap\100\color2\5\color1\5\forcepowers\7-1-331322000200003322\model\trandoshan/default\snaps\20\rate\4000\name\Padawan\teamtask\0\teamoverlay\1
+6-7-2021 16:13 (2432:13): ClientUserinfoChanged: 2 n\Padawan 2\t\0\model\trandoshan/default\c1\5\c2\5\hc\100\w\0\l\0\tt\0\tl\0\st\Kyle\st2\Kyle\dt\0
+6-7-2021 16:13 (2432:44): Kill: 0 2 3: Padawan killed Padawan 2 by MOD_SABER
+6-7-2021 16:13 (2432:44): duel: Padawan won a duel against Padawan 2
+6-7-2021 16:13 (2432:47): ClientUserinfoChanged handling info: 2 \ip\188.242.82.139:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\none\saber1\single_3\cg_predictItems\1\sex\male\handicap\100\color2\5\color1\5\forcepowers\7-1-331322000200003322\model\trandoshan/default\snaps\20\rate\4000\name\Padawan\teamtask\0\teamoverlay\1
+6-7-2021 16:13 (2432:47): ClientUserinfoChanged: 2 n\Padawan 2\t\0\model\trandoshan/default\c1\5\c2\5\hc\100\w\0\l\0\tt\0\tl\0\st\single_3\st2\none\dt\0
+6-7-2021 16:13 (2432:47): ClientUserinfoChanged handling info: 2 \ip\188.242.82.139:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\none\saber1\single_3\cg_predictItems\1\sex\male\handicap\100\color2\5\color1\5\forcepowers\7-1-331322000200003322\model\trandoshan/default\snaps\20\rate\4000\name\Padawan\teamtask\0\teamoverlay\1
+6-7-2021 16:13 (2432:47): ClientUserinfoChanged: 2 n\Padawan 2\t\0\model\trandoshan/default\c1\5\c2\5\hc\100\w\0\l\0\tt\0\tl\0\st\single_3\st2\none\dt\0
+6-7-2021 16:13 (2433:04): Kill: 2 0 3: Padawan 2 killed Padawan by MOD_SABER
+6-7-2021 16:13 (2433:05): duel: Padawan 2 won a duel against Padawan
+6-7-2021 16:13 (2433:06): ClientUserinfoChanged handling info: 0 \ip\188.242.92.189:29070\name\Padawan\rate\4000\snaps\20\model\boba_fett/default\forcepowers\7-2-033330002000011333\color1\0\color2\0\handicap\100\sex\male\cg_predictItems\1\saber1\single_1\saber2\single_1\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+6-7-2021 16:13 (2433:06): ClientUserinfoChanged: 0 n\Padawan\t\0\model\boba_fett/default\c1\0\c2\0\hc\100\w\0\l\0\tt\0\tl\0\st\single_1\st2\single_1\dt\0
+6-7-2021 16:14 (2433:33): Kill: 2 0 3: Padawan 2 killed Padawan by MOD_SABER
+6-7-2021 16:14 (2433:33): duel: Padawan 2 won a duel against Padawan
+6-7-2021 16:14 (2433:34): ClientUserinfoChanged handling info: 0 \ip\188.242.92.189:29070\name\Padawan\rate\4000\snaps\20\model\boba_fett/default\forcepowers\7-2-033330002000011333\color1\0\color2\0\handicap\100\sex\male\cg_predictItems\1\saber1\single_1\saber2\single_1\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+6-7-2021 16:14 (2433:34): ClientUserinfoChanged: 0 n\Padawan\t\0\model\boba_fett/default\c1\0\c2\0\hc\100\w\0\l\0\tt\0\tl\0\st\single_1\st2\single_1\dt\0
+6-7-2021 16:14 (2433:38): Kill: 0 2 3: Padawan killed Padawan 2 by MOD_SABER
+6-7-2021 16:14 (2433:40): ClientUserinfoChanged handling info: 2 \ip\188.242.82.139:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\none\saber1\single_3\cg_predictItems\1\sex\male\handicap\100\color2\5\color1\5\forcepowers\7-1-331322000200003322\model\trandoshan/default\snaps\20\rate\4000\name\Padawan\teamtask\0\teamoverlay\1
+6-7-2021 16:14 (2433:40): ClientUserinfoChanged: 2 n\Padawan 2\t\0\model\trandoshan/default\c1\5\c2\5\hc\100\w\0\l\0\tt\0\tl\0\st\single_3\st2\none\dt\0
+6-7-2021 16:14 (2434:10): Kill: 2 0 3: Padawan 2 killed Padawan by MOD_SABER
+6-7-2021 16:14 (2434:10): duel: Padawan 2 won a duel against Padawan
+6-7-2021 16:15 (2434:11): ClientUserinfoChanged handling info: 0 \ip\188.242.92.189:29070\name\Padawan\rate\4000\snaps\20\model\boba_fett/default\forcepowers\7-2-033330002000011333\color1\0\color2\0\handicap\100\sex\male\cg_predictItems\1\saber1\single_1\saber2\single_1\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+6-7-2021 16:15 (2434:11): ClientUserinfoChanged: 0 n\Padawan\t\0\model\boba_fett/default\c1\0\c2\0\hc\100\w\0\l\0\tt\0\tl\0\st\single_1\st2\single_1\dt\0
+6-7-2021 16:15 (2434:24): Kill: 2 0 3: Padawan 2 killed Padawan by MOD_SABER
+6-7-2021 16:15 (2434:24): duel: Padawan 2 won a duel against Padawan
+6-7-2021 16:15 (2434:25): ClientUserinfoChanged handling info: 0 \ip\188.242.92.189:29070\name\Padawan\rate\4000\snaps\20\model\boba_fett/default\forcepowers\7-2-033330002000011333\color1\0\color2\0\handicap\100\sex\male\cg_predictItems\1\saber1\single_1\saber2\single_1\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+6-7-2021 16:15 (2434:25): ClientUserinfoChanged: 0 n\Padawan\t\0\model\boba_fett/default\c1\0\c2\0\hc\100\w\0\l\0\tt\0\tl\0\st\single_1\st2\single_1\dt\0
+6-7-2021 16:15 (2434:45): Kill: 2 0 3: Padawan 2 killed Padawan by MOD_SABER
+6-7-2021 16:15 (2434:45): duel: Padawan 2 won a duel against Padawan
+6-7-2021 16:15 (2434:47): ClientUserinfoChanged handling info: 0 \ip\188.242.92.189:29070\name\Padawan\rate\4000\snaps\20\model\boba_fett/default\forcepowers\7-2-033330002000011333\color1\0\color2\0\handicap\100\sex\male\cg_predictItems\1\saber1\single_1\saber2\single_1\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+6-7-2021 16:15 (2434:47): ClientUserinfoChanged: 0 n\Padawan\t\0\model\boba_fett/default\c1\0\c2\0\hc\100\w\0\l\0\tt\0\tl\0\st\single_1\st2\single_1\dt\0
+6-7-2021 16:15 (2435:08): Kill: 0 2 3: Padawan killed Padawan 2 by MOD_SABER
+6-7-2021 16:15 (2435:08): duel: Padawan won a duel against Padawan 2
+6-7-2021 16:15 (2435:10): ClientUserinfoChanged handling info: 2 \ip\188.242.82.139:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\none\saber1\single_3\cg_predictItems\1\sex\male\handicap\100\color2\5\color1\5\forcepowers\7-1-331322000200003322\model\trandoshan/default\snaps\20\rate\4000\name\Padawan\teamtask\0\teamoverlay\1
+6-7-2021 16:15 (2435:10): ClientUserinfoChanged: 2 n\Padawan 2\t\0\model\trandoshan/default\c1\5\c2\5\hc\100\w\0\l\0\tt\0\tl\0\st\single_3\st2\none\dt\0
+6-7-2021 16:16 (2435:39): Kill: 2 0 3: Padawan 2 killed Padawan by MOD_SABER
+6-7-2021 16:16 (2435:39): duel: Padawan 2 won a duel against Padawan
+6-7-2021 16:16 (2435:40): ClientUserinfoChanged handling info: 0 \ip\188.242.92.189:29070\name\Padawan\rate\4000\snaps\20\model\boba_fett/default\forcepowers\7-2-033330002000011333\color1\0\color2\0\handicap\100\sex\male\cg_predictItems\1\saber1\single_1\saber2\single_1\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+6-7-2021 16:16 (2435:40): ClientUserinfoChanged: 0 n\Padawan\t\0\model\boba_fett/default\c1\0\c2\0\hc\100\w\0\l\0\tt\0\tl\0\st\single_1\st2\single_1\dt\0
+6-7-2021 16:17 (2436:32): Kill: 0 2 3: Padawan killed Padawan 2 by MOD_SABER
+6-7-2021 16:17 (2436:32): duel: Padawan won a duel against Padawan 2
+6-7-2021 16:17 (2436:35): ClientUserinfoChanged handling info: 2 \ip\188.242.82.139:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\none\saber1\single_3\cg_predictItems\1\sex\male\handicap\100\color2\5\color1\5\forcepowers\7-1-331322000200003322\model\trandoshan/default\snaps\20\rate\4000\name\Padawan\teamtask\0\teamoverlay\1
+6-7-2021 16:17 (2436:35): ClientUserinfoChanged: 2 n\Padawan 2\t\0\model\trandoshan/default\c1\5\c2\5\hc\100\w\0\l\0\tt\0\tl\0\st\single_3\st2\none\dt\0
+6-7-2021 16:17 (2437:04): Kill: 0 2 3: Padawan killed Padawan 2 by MOD_SABER
+6-7-2021 16:17 (2437:04): duel: Padawan won a duel against Padawan 2
+6-7-2021 16:17 (2437:06): ClientUserinfoChanged handling info: 2 \ip\188.242.82.139:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\none\saber1\single_3\cg_predictItems\1\sex\male\handicap\100\color2\5\color1\5\forcepowers\7-1-331322000200003322\model\trandoshan/default\snaps\20\rate\4000\name\Padawan\teamtask\0\teamoverlay\1
+6-7-2021 16:17 (2437:06): ClientUserinfoChanged: 2 n\Padawan 2\t\0\model\trandoshan/default\c1\5\c2\5\hc\100\w\0\l\0\tt\0\tl\0\st\single_3\st2\none\dt\0
+6-7-2021 16:18 (2437:52): Kill: 2 0 3: Padawan 2 killed Padawan by MOD_SABER
+6-7-2021 16:18 (2437:52): duel: Padawan 2 won a duel against Padawan
+6-7-2021 16:18 (2437:53): ClientUserinfoChanged handling info: 0 \ip\188.242.92.189:29070\name\Padawan\rate\4000\snaps\20\model\boba_fett/default\forcepowers\7-2-033330002000011333\color1\0\color2\0\handicap\100\sex\male\cg_predictItems\1\saber1\single_1\saber2\single_1\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+6-7-2021 16:18 (2437:53): ClientUserinfoChanged: 0 n\Padawan\t\0\model\boba_fett/default\c1\0\c2\0\hc\100\w\0\l\0\tt\0\tl\0\st\single_1\st2\single_1\dt\0
+6-7-2021 16:19 (2438:24): Kill: 2 0 3: Padawan 2 killed Padawan by MOD_SABER
+6-7-2021 16:19 (2438:24): duel: Padawan 2 won a duel against Padawan
+6-7-2021 16:19 (2438:25): ClientUserinfoChanged handling info: 0 \ip\188.242.92.189:29070\name\Padawan\rate\4000\snaps\20\model\boba_fett/default\forcepowers\7-2-033330002000011333\color1\0\color2\0\handicap\100\sex\male\cg_predictItems\1\saber1\single_1\saber2\single_1\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+6-7-2021 16:19 (2438:25): ClientUserinfoChanged: 0 n\Padawan\t\0\model\boba_fett/default\c1\0\c2\0\hc\100\w\0\l\0\tt\0\tl\0\st\single_1\st2\single_1\dt\0
+6-7-2021 16:19 (2439:03): Kill: 2 0 3: Padawan 2 killed Padawan by MOD_SABER
+6-7-2021 16:19 (2439:03): duel: Padawan 2 won a duel against Padawan
+6-7-2021 16:19 (2439:04): ClientUserinfoChanged handling info: 0 \ip\188.242.92.189:29070\name\Padawan\rate\4000\snaps\20\model\boba_fett/default\forcepowers\7-2-033330002000011333\color1\0\color2\0\handicap\100\sex\male\cg_predictItems\1\saber1\single_1\saber2\single_1\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+6-7-2021 16:19 (2439:04): ClientUserinfoChanged: 0 n\Padawan\t\0\model\boba_fett/default\c1\0\c2\0\hc\100\w\0\l\0\tt\0\tl\0\st\single_1\st2\single_1\dt\0
+6-7-2021 16:20 (2439:56): Kill: 2 0 3: Padawan 2 killed Padawan by MOD_SABER
+6-7-2021 16:20 (2439:56): duel: Padawan 2 won a duel against Padawan
+6-7-2021 16:20 (2439:57): ClientUserinfoChanged handling info: 0 \ip\188.242.92.189:29070\name\Padawan\rate\4000\snaps\20\model\boba_fett/default\forcepowers\7-2-033330002000011333\color1\0\color2\0\handicap\100\sex\male\cg_predictItems\1\saber1\single_1\saber2\single_1\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+6-7-2021 16:20 (2439:57): ClientUserinfoChanged: 0 n\Padawan\t\0\model\boba_fett/default\c1\0\c2\0\hc\100\w\0\l\0\tt\0\tl\0\st\single_1\st2\single_1\dt\0
+6-7-2021 16:21 (2440:19): Kill: 2 0 3: Padawan 2 killed Padawan by MOD_SABER
+6-7-2021 16:21 (2440:19): duel: Padawan 2 won a duel against Padawan
+6-7-2021 16:21 (2440:20): ClientUserinfoChanged handling info: 0 \ip\188.242.92.189:29070\name\Padawan\rate\4000\snaps\20\model\boba_fett/default\forcepowers\7-2-033330002000011333\color1\0\color2\0\handicap\100\sex\male\cg_predictItems\1\saber1\single_1\saber2\single_1\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+6-7-2021 16:21 (2440:20): ClientUserinfoChanged: 0 n\Padawan\t\0\model\boba_fett/default\c1\0\c2\0\hc\100\w\0\l\0\tt\0\tl\0\st\single_1\st2\single_1\dt\0
+6-7-2021 16:24 (2443:14): Kill: 0 2 3: Padawan killed Padawan 2 by MOD_SABER
+6-7-2021 16:24 (2443:14): duel: Padawan won a duel against Padawan 2
+6-7-2021 16:24 (2443:16): ClientUserinfoChanged handling info: 2 \ip\188.242.82.139:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\none\saber1\single_3\cg_predictItems\1\sex\male\handicap\100\color2\5\color1\5\forcepowers\7-1-331322000200003322\model\trandoshan/default\snaps\20\rate\4000\name\Padawan\teamtask\0\teamoverlay\1
+6-7-2021 16:24 (2443:16): ClientUserinfoChanged: 2 n\Padawan 2\t\0\model\trandoshan/default\c1\5\c2\5\hc\100\w\0\l\0\tt\0\tl\0\st\single_3\st2\none\dt\0
+6-7-2021 16:24 (2443:36): Kill: 0 2 3: Padawan killed Padawan 2 by MOD_SABER
+6-7-2021 16:24 (2443:36): duel: Padawan won a duel against Padawan 2
+6-7-2021 16:24 (2443:38): ClientUserinfoChanged handling info: 2 \ip\188.242.82.139:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\none\saber1\single_3\cg_predictItems\1\sex\male\handicap\100\color2\5\color1\5\forcepowers\7-1-331322000200003322\model\trandoshan/default\snaps\20\rate\4000\name\Padawan\teamtask\0\teamoverlay\1
+6-7-2021 16:24 (2443:38): ClientUserinfoChanged: 2 n\Padawan 2\t\0\model\trandoshan/default\c1\5\c2\5\hc\100\w\0\l\0\tt\0\tl\0\st\single_3\st2\none\dt\0
+6-7-2021 16:24 (2444:07): Kill: 0 2 3: Padawan killed Padawan 2 by MOD_SABER
+6-7-2021 16:24 (2444:07): duel: Padawan won a duel against Padawan 2
+6-7-2021 16:24 (2444:09): ClientUserinfoChanged handling info: 2 \ip\188.242.82.139:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\none\saber1\single_3\cg_predictItems\1\sex\male\handicap\100\color2\5\color1\5\forcepowers\7-1-331322000200003322\model\trandoshan/default\snaps\20\rate\4000\name\Padawan\teamtask\0\teamoverlay\1
+6-7-2021 16:24 (2444:09): ClientUserinfoChanged: 2 n\Padawan 2\t\0\model\trandoshan/default\c1\5\c2\5\hc\100\w\0\l\0\tt\0\tl\0\st\single_3\st2\none\dt\0
+6-7-2021 16:25 (2445:10): Kill: 0 2 3: Padawan killed Padawan 2 by MOD_SABER
+6-7-2021 16:25 (2445:10): duel: Padawan won a duel against Padawan 2
+6-7-2021 16:26 (2445:12): ClientUserinfoChanged handling info: 2 \ip\188.242.82.139:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\none\saber1\single_3\cg_predictItems\1\sex\male\handicap\100\color2\5\color1\5\forcepowers\7-1-331322000200003322\model\trandoshan/default\snaps\20\rate\4000\name\Padawan\teamtask\0\teamoverlay\1
+6-7-2021 16:26 (2445:12): ClientUserinfoChanged: 2 n\Padawan 2\t\0\model\trandoshan/default\c1\5\c2\5\hc\100\w\0\l\0\tt\0\tl\0\st\single_3\st2\none\dt\0
+6-7-2021 16:26 (2445:47): Kill: 0 2 3: Padawan killed Padawan 2 by MOD_SABER
+6-7-2021 16:26 (2445:47): duel: Padawan won a duel against Padawan 2
+6-7-2021 16:26 (2445:48): ClientUserinfoChanged handling info: 2 \ip\188.242.82.139:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\none\saber1\single_3\cg_predictItems\1\sex\male\handicap\100\color2\5\color1\5\forcepowers\7-1-331322000200003322\model\trandoshan/default\snaps\20\rate\4000\name\Padawan\teamtask\0\teamoverlay\1
+6-7-2021 16:26 (2445:48): ClientUserinfoChanged: 2 n\Padawan 2\t\0\model\trandoshan/default\c1\5\c2\5\hc\100\w\0\l\0\tt\0\tl\0\st\single_3\st2\none\dt\0
+6-7-2021 16:27 (2446:14): Kill: 2 0 3: Padawan 2 killed Padawan by MOD_SABER
+6-7-2021 16:27 (2446:14): duel: Padawan 2 won a duel against Padawan
+6-7-2021 16:27 (2446:16): ClientUserinfoChanged handling info: 0 \ip\188.242.92.189:29070\name\Padawan\rate\4000\snaps\20\model\boba_fett/default\forcepowers\7-2-033330002000011333\color1\0\color2\0\handicap\100\sex\male\cg_predictItems\1\saber1\single_1\saber2\single_1\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+6-7-2021 16:27 (2446:16): ClientUserinfoChanged: 0 n\Padawan\t\0\model\boba_fett/default\c1\0\c2\0\hc\100\w\0\l\0\tt\0\tl\0\st\single_1\st2\single_1\dt\0
+6-7-2021 16:27 (2447:02): Kill: 0 2 3: Padawan killed Padawan 2 by MOD_SABER
+6-7-2021 16:27 (2447:02): duel: Padawan won a duel against Padawan 2
+6-7-2021 16:27 (2447:04): ClientUserinfoChanged handling info: 2 \ip\188.242.82.139:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\none\saber1\single_3\cg_predictItems\1\sex\male\handicap\100\color2\5\color1\5\forcepowers\7-1-331322000200003322\model\trandoshan/default\snaps\20\rate\4000\name\Padawan\teamtask\0\teamoverlay\1
+6-7-2021 16:27 (2447:04): ClientUserinfoChanged: 2 n\Padawan 2\t\0\model\trandoshan/default\c1\5\c2\5\hc\100\w\0\l\0\tt\0\tl\0\st\single_3\st2\none\dt\0
+6-7-2021 16:28 (2447:54): Kill: 2 0 3: Padawan 2 killed Padawan by MOD_SABER
+6-7-2021 16:28 (2447:54): duel: Padawan 2 won a duel against Padawan
+6-7-2021 16:28 (2447:55): ClientUserinfoChanged handling info: 0 \ip\188.242.92.189:29070\name\Padawan\rate\4000\snaps\20\model\boba_fett/default\forcepowers\7-2-033330002000011333\color1\0\color2\0\handicap\100\sex\male\cg_predictItems\1\saber1\single_1\saber2\single_1\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+6-7-2021 16:28 (2447:55): ClientUserinfoChanged: 0 n\Padawan\t\0\model\boba_fett/default\c1\0\c2\0\hc\100\w\0\l\0\tt\0\tl\0\st\single_1\st2\single_1\dt\0
+6-7-2021 16:29 (2448:20): Kill: 0 2 3: Padawan killed Padawan 2 by MOD_SABER
+6-7-2021 16:29 (2448:20): duel: Padawan won a duel against Padawan 2
+6-7-2021 16:29 (2448:23): ClientUserinfoChanged handling info: 2 \ip\188.242.82.139:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\none\saber1\single_3\cg_predictItems\1\sex\male\handicap\100\color2\5\color1\5\forcepowers\7-1-331322000200003322\model\trandoshan/default\snaps\20\rate\4000\name\Padawan\teamtask\0\teamoverlay\1
+6-7-2021 16:29 (2448:23): ClientUserinfoChanged: 2 n\Padawan 2\t\0\model\trandoshan/default\c1\5\c2\5\hc\100\w\0\l\0\tt\0\tl\0\st\single_3\st2\none\dt\0
+6-7-2021 16:29 (2448:46): Kill: 2 0 3: Padawan 2 killed Padawan by MOD_SABER
+6-7-2021 16:29 (2448:46): duel: Padawan 2 won a duel against Padawan
+6-7-2021 16:29 (2448:48): ClientUserinfoChanged handling info: 0 \ip\188.242.92.189:29070\name\Padawan\rate\4000\snaps\20\model\boba_fett/default\forcepowers\7-2-033330002000011333\color1\0\color2\0\handicap\100\sex\male\cg_predictItems\1\saber1\single_1\saber2\single_1\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+6-7-2021 16:29 (2448:48): ClientUserinfoChanged: 0 n\Padawan\t\0\model\boba_fett/default\c1\0\c2\0\hc\100\w\0\l\0\tt\0\tl\0\st\single_1\st2\single_1\dt\0
+6-7-2021 16:31 (2450:16): Kill: 1022 0 38: <world> killed Padawan by MOD_FALLING
+6-7-2021 16:31 (2450:18): ClientUserinfoChanged handling info: 0 \ip\188.242.92.189:29070\name\Padawan\rate\4000\snaps\20\model\boba_fett/default\forcepowers\7-2-033330002000011333\color1\0\color2\0\handicap\100\sex\male\cg_predictItems\1\saber1\single_1\saber2\single_1\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+6-7-2021 16:31 (2450:18): ClientUserinfoChanged: 0 n\Padawan\t\0\model\boba_fett/default\c1\0\c2\0\hc\100\w\0\l\0\tt\0\tl\0\st\single_1\st2\single_1\dt\0
+6-7-2021 16:32 (2452:07): Kill: 0 2 3: Padawan killed Padawan 2 by MOD_SABER
+6-7-2021 16:32 (2452:07): duel: Padawan won a duel against Padawan 2
+6-7-2021 16:32 (2452:08): ClientUserinfoChanged handling info: 2 \ip\188.242.82.139:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\none\saber1\single_3\cg_predictItems\1\sex\male\handicap\100\color2\5\color1\5\forcepowers\7-1-331322000200003322\model\trandoshan/default\snaps\20\rate\4000\name\Padawan\teamtask\0\teamoverlay\1
+6-7-2021 16:32 (2452:08): ClientUserinfoChanged: 2 n\Padawan 2\t\0\model\trandoshan/default\c1\5\c2\5\hc\100\w\0\l\0\tt\0\tl\0\st\single_3\st2\none\dt\0
+6-7-2021 16:33 (2452:19): Kill: 2 0 3: Padawan 2 killed Padawan by MOD_SABER
+6-7-2021 16:33 (2452:19): duel: Padawan 2 won a duel against Padawan
+6-7-2021 16:33 (2452:22): ClientUserinfoChanged handling info: 0 \ip\188.242.92.189:29070\name\Padawan\rate\4000\snaps\20\model\boba_fett/default\forcepowers\7-2-033330002000011333\color1\0\color2\0\handicap\100\sex\male\cg_predictItems\1\saber1\single_1\saber2\single_1\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+6-7-2021 16:33 (2452:22): ClientUserinfoChanged: 0 n\Padawan\t\0\model\boba_fett/default\c1\0\c2\0\hc\100\w\0\l\0\tt\0\tl\0\st\single_1\st2\single_1\dt\0
+6-7-2021 16:34 (2453:30): Kill: 2 0 3: Padawan 2 killed Padawan by MOD_SABER
+6-7-2021 16:34 (2453:31): duel: Padawan 2 won a duel against Padawan
+6-7-2021 16:34 (2453:32): ClientUserinfoChanged handling info: 0 \ip\188.242.92.189:29070\name\Padawan\rate\4000\snaps\20\model\boba_fett/default\forcepowers\7-2-033330002000011333\color1\0\color2\0\handicap\100\sex\male\cg_predictItems\1\saber1\single_1\saber2\single_1\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+6-7-2021 16:34 (2453:32): ClientUserinfoChanged: 0 n\Padawan\t\0\model\boba_fett/default\c1\0\c2\0\hc\100\w\0\l\0\tt\0\tl\0\st\single_1\st2\single_1\dt\0
+6-7-2021 16:34 (2453:53): Exit: Timelimit hit.
+6-7-2021 16:34 (2453:53): score: 33  ping: 112  client: 2 Padawan 2
+6-7-2021 16:34 (2453:53): score: 24  ping: 108  client: 0 Padawan
+6-7-2021 16:34 (2453:59): ShutdownGame:
+6-7-2021 16:34 (2453:59): ------------------------------------------------------------
+6-7-2021 16:34 (2453:59): ------------------------------------------------------------
+6-7-2021 16:34 (2453:59): InitGame: \version\JAmp: v1.0.1.0 linux-i386 Mar 14 2020\timelimit\45\sv_privateClients\0\sv_minRate\0\sv_minPing\0\sv_maxclients\32\sv_maxRate\0\sv_maxPing\999\sv_hostname\^7~^1~^7~ COMM SERVER ~^1~^7~\sv_fps\50\sv_floodProtectSlow\1\sv_floodProtect\1\sv_autoDemo\0\sv_allowDownload\0\serveruptime\40\protocol\26\mapname\academy6\gamename\Lugormod\g_weaponDisable\0\g_stepSlideFix\0\g_siegeTeamSwitch\1\g_siegeTeam2\none\g_siegeTeam1\none\g_siegeRespawn\20\g_showDuelHealths\1\g_saberWallDamageScale\0.4\g_saberLocking\0\g_privateDuel\1535\g_noSpecMove\0\g_needpass\0\g_maxHolocronCarry\3\g_maxGameClients\0\g_maxForceRank\7\g_jediVmerc\0\g_gametype\0\g_gamemode\0\g_forceRegenTime\160\g_forcePowerDisable\0\g_forceBasedTeams\1\g_duelWeaponDisable\9\g_debugmelee\1\g_allowNPC\1\fs_game\lugormod\fraglimit\0\duel_fraglimit\10\dmflags\0\capturelimit\10\bot_minplayers\2\bg_fighterAltControl\0\Lugormod_Version\U#-0.0.0.91 Alpha
+6-7-2021 16:34 (2453:59): ClientConnect: 0
+6-7-2021 16:34 (2453:59): ClientUserinfoChanged handling info: 0 \ip\188.242.92.189:29070\name\Padawan\rate\4000\snaps\20\model\boba_fett/default\forcepowers\7-2-033330002000011333\color1\0\color2\0\handicap\100\sex\male\cg_predictItems\1\saber1\single_1\saber2\single_1\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+6-7-2021 16:34 (2453:59): ClientUserinfoChanged: 0 n\Padawan\t\0\model\boba_fett/default\c1\0\c2\0\hc\0\w\0\l\0\tt\0\tl\0\st\single_1\st2\single_1\dt\0
+6-7-2021 16:34 (2453:59): ClientUserinfoChanged handling info: 0 \ip\188.242.92.189:29070\name\Padawan\rate\4000\snaps\20\model\boba_fett/default\forcepowers\7-2-033330002000011333\color1\0\color2\0\handicap\100\sex\male\cg_predictItems\1\saber1\single_1\saber2\single_1\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+6-7-2021 16:34 (2453:59): ClientUserinfoChanged: 0 n\Padawan\t\0\model\boba_fett/default\c1\0\c2\0\hc\0\w\0\l\0\tt\0\tl\0\st\single_1\st2\single_1\dt\0
+6-7-2021 16:34 (2453:59): ClientUserinfoChanged handling info: 0 \ip\188.242.92.189:29070\name\Padawan\rate\4000\snaps\20\model\boba_fett/default\forcepowers\7-2-033330002000011333\color1\0\color2\0\handicap\100\sex\male\cg_predictItems\1\saber1\single_1\saber2\single_1\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+6-7-2021 16:34 (2453:59): ClientUserinfoChanged: 0 n\Padawan\t\0\model\boba_fett/default\c1\0\c2\0\hc\100\w\0\l\0\tt\0\tl\0\st\single_1\st2\single_1\dt\0
+6-7-2021 16:34 (2453:59): ClientBegin: 0
+6-7-2021 16:34 (2453:59): ClientConnect: 2
+6-7-2021 16:34 (2453:59): ClientUserinfoChanged handling info: 2 \ip\188.242.82.139:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\none\saber1\single_3\cg_predictItems\1\sex\male\handicap\100\color2\5\color1\5\forcepowers\7-1-331322000200003322\model\trandoshan/default\snaps\20\rate\4000\name\Padawan\teamtask\0\teamoverlay\1
+6-7-2021 16:34 (2453:59): ClientUserinfoChanged: 2 n\Padawan 2\t\0\model\trandoshan/default\c1\5\c2\5\hc\0\w\0\l\0\tt\0\tl\0\st\single_3\st2\none\dt\0
+6-7-2021 16:34 (2453:59): ClientUserinfoChanged handling info: 2 \ip\188.242.82.139:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\none\saber1\single_3\cg_predictItems\1\sex\male\handicap\100\color2\5\color1\5\forcepowers\7-1-331322000200003322\model\trandoshan/default\snaps\20\rate\4000\name\Padawan\teamtask\0\teamoverlay\1
+6-7-2021 16:34 (2453:59): ClientUserinfoChanged: 2 n\Padawan 2\t\0\model\trandoshan/default\c1\5\c2\5\hc\0\w\0\l\0\tt\0\tl\0\st\single_3\st2\none\dt\0
+6-7-2021 16:34 (2453:59): ClientUserinfoChanged handling info: 2 \ip\188.242.82.139:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\none\saber1\single_3\cg_predictItems\1\sex\male\handicap\100\color2\5\color1\5\forcepowers\7-1-331322000200003322\model\trandoshan/default\snaps\20\rate\4000\name\Padawan\teamtask\0\teamoverlay\1
+6-7-2021 16:34 (2453:59): ClientUserinfoChanged: 2 n\Padawan 2\t\0\model\trandoshan/default\c1\5\c2\5\hc\100\w\0\l\0\tt\0\tl\0\st\single_3\st2\none\dt\0
+6-7-2021 16:34 (2453:59): ClientBegin: 2
+6-7-2021 16:36 (2455:18): Kill: 2 0 3: Padawan 2 killed Padawan by MOD_SABER
+6-7-2021 16:36 (2455:18): duel: Padawan 2 won a duel against Padawan
+6-7-2021 16:36 (2455:19): ClientUserinfoChanged handling info: 0 \ip\188.242.92.189:29070\name\Padawan\rate\4000\snaps\20\model\boba_fett/default\forcepowers\7-2-033330002000011333\color1\0\color2\0\handicap\100\sex\male\cg_predictItems\1\saber1\single_1\saber2\single_1\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+6-7-2021 16:36 (2455:19): ClientUserinfoChanged: 0 n\Padawan\t\0\model\boba_fett/default\c1\0\c2\0\hc\100\w\0\l\0\tt\0\tl\0\st\single_1\st2\single_1\dt\0
+6-7-2021 16:36 (2455:36): Kill: 2 0 3: Padawan 2 killed Padawan by MOD_SABER
+6-7-2021 16:36 (2455:36): duel: Padawan 2 won a duel against Padawan
+6-7-2021 16:36 (2455:38): ClientUserinfoChanged handling info: 0 \ip\188.242.92.189:29070\name\Padawan\rate\4000\snaps\20\model\boba_fett/default\forcepowers\7-2-033330002000011333\color1\0\color2\0\handicap\100\sex\male\cg_predictItems\1\saber1\single_1\saber2\single_1\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+6-7-2021 16:36 (2455:38): ClientUserinfoChanged: 0 n\Padawan\t\0\model\boba_fett/default\c1\0\c2\0\hc\100\w\0\l\0\tt\0\tl\0\st\single_1\st2\single_1\dt\0
+6-7-2021 16:36 (2456:09): Kill: 2 0 3: Padawan 2 killed Padawan by MOD_SABER
+6-7-2021 16:36 (2456:09): duel: Padawan 2 won a duel against Padawan
+6-7-2021 16:37 (2456:13): ClientUserinfoChanged handling info: 0 \ip\188.242.92.189:29070\name\Padawan\rate\4000\snaps\20\model\boba_fett/default\forcepowers\7-2-033330002000011333\color1\0\color2\0\handicap\100\sex\male\cg_predictItems\1\saber1\single_1\saber2\single_1\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+6-7-2021 16:37 (2456:13): ClientUserinfoChanged: 0 n\Padawan\t\0\model\boba_fett/default\c1\0\c2\0\hc\100\w\0\l\0\tt\0\tl\0\st\single_1\st2\single_1\dt\0
+6-7-2021 16:38 (2457:16): Kill: 2 0 3: Padawan 2 killed Padawan by MOD_SABER
+6-7-2021 16:38 (2457:16): duel: Padawan 2 won a duel against Padawan
+6-7-2021 16:38 (2457:19): ClientUserinfoChanged handling info: 0 \ip\188.242.92.189:29070\name\Padawan\rate\4000\snaps\20\model\boba_fett/default\forcepowers\7-2-033330002000011333\color1\0\color2\0\handicap\100\sex\male\cg_predictItems\1\saber1\single_1\saber2\single_1\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+6-7-2021 16:38 (2457:19): ClientUserinfoChanged: 0 n\Padawan\t\0\model\boba_fett/default\c1\0\c2\0\hc\100\w\0\l\0\tt\0\tl\0\st\single_1\st2\single_1\dt\0
+6-7-2021 16:38 (2458:08): Kill: 0 2 3: Padawan killed Padawan 2 by MOD_SABER
+6-7-2021 16:38 (2458:08): duel: Padawan won a duel against Padawan 2
+6-7-2021 16:38 (2458:10): ClientUserinfoChanged handling info: 2 \ip\188.242.82.139:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\none\saber1\single_3\cg_predictItems\1\sex\male\handicap\100\color2\5\color1\5\forcepowers\7-1-331322000200003322\model\trandoshan/default\snaps\20\rate\4000\name\Padawan\teamtask\0\teamoverlay\1
+6-7-2021 16:38 (2458:10): ClientUserinfoChanged: 2 n\Padawan 2\t\0\model\trandoshan/default\c1\5\c2\5\hc\100\w\0\l\0\tt\0\tl\0\st\single_3\st2\none\dt\0
+6-7-2021 16:39 (2458:39): Kill: 0 2 3: Padawan killed Padawan 2 by MOD_SABER
+6-7-2021 16:39 (2458:39): duel: Padawan won a duel against Padawan 2
+6-7-2021 16:39 (2458:41): ClientUserinfoChanged handling info: 2 \ip\188.242.82.139:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\none\saber1\single_3\cg_predictItems\1\sex\male\handicap\100\color2\5\color1\5\forcepowers\7-1-331322000200003322\model\trandoshan/default\snaps\20\rate\4000\name\Padawan\teamtask\0\teamoverlay\1
+6-7-2021 16:39 (2458:41): ClientUserinfoChanged: 2 n\Padawan 2\t\0\model\trandoshan/default\c1\5\c2\5\hc\100\w\0\l\0\tt\0\tl\0\st\single_3\st2\none\dt\0
+6-7-2021 16:39 (2458:52): Kill: 2 0 3: Padawan 2 killed Padawan by MOD_SABER
+6-7-2021 16:39 (2458:52): duel: Padawan 2 won a duel against Padawan
+6-7-2021 16:39 (2458:56): ClientUserinfoChanged handling info: 0 \ip\188.242.92.189:29070\name\Padawan\rate\4000\snaps\20\model\boba_fett/default\forcepowers\7-2-033330002000011333\color1\0\color2\0\handicap\100\sex\male\cg_predictItems\1\saber1\single_1\saber2\single_1\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+6-7-2021 16:39 (2458:56): ClientUserinfoChanged: 0 n\Padawan\t\0\model\boba_fett/default\c1\0\c2\0\hc\100\w\0\l\0\tt\0\tl\0\st\single_1\st2\single_1\dt\0
+6-7-2021 16:39 (2459:10): Kill: 2 0 3: Padawan 2 killed Padawan by MOD_SABER
+6-7-2021 16:39 (2459:10): duel: Padawan 2 won a duel against Padawan
+6-7-2021 16:39 (2459:11): ClientUserinfoChanged handling info: 0 \ip\188.242.92.189:29070\name\Padawan\rate\4000\snaps\20\model\boba_fett/default\forcepowers\7-2-033330002000011333\color1\0\color2\0\handicap\100\sex\male\cg_predictItems\1\saber1\single_1\saber2\single_1\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+6-7-2021 16:39 (2459:11): ClientUserinfoChanged: 0 n\Padawan\t\0\model\boba_fett/default\c1\0\c2\0\hc\100\w\0\l\0\tt\0\tl\0\st\single_1\st2\single_1\dt\0
+6-7-2021 16:41 (2460:18): Kill: 0 2 3: Padawan killed Padawan 2 by MOD_SABER
+6-7-2021 16:41 (2460:18): duel: Padawan won a duel against Padawan 2
+6-7-2021 16:41 (2460:20): ClientUserinfoChanged handling info: 2 \ip\188.242.82.139:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\none\saber1\single_3\cg_predictItems\1\sex\male\handicap\100\color2\5\color1\5\forcepowers\7-1-331322000200003322\model\trandoshan/default\snaps\20\rate\4000\name\Padawan\teamtask\0\teamoverlay\1
+6-7-2021 16:41 (2460:20): ClientUserinfoChanged: 2 n\Padawan 2\t\0\model\trandoshan/default\c1\5\c2\5\hc\100\w\0\l\0\tt\0\tl\0\st\single_3\st2\none\dt\0
+6-7-2021 16:42 (2461:55): Kill: 0 2 3: Padawan killed Padawan 2 by MOD_SABER
+6-7-2021 16:42 (2461:55): duel: Padawan won a duel against Padawan 2
+6-7-2021 16:42 (2461:58): ClientUserinfoChanged handling info: 2 \ip\188.242.82.139:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\none\saber1\single_3\cg_predictItems\1\sex\male\handicap\100\color2\5\color1\5\forcepowers\7-1-331322000200003322\model\trandoshan/default\snaps\20\rate\4000\name\Padawan\teamtask\0\teamoverlay\1
+6-7-2021 16:42 (2461:58): ClientUserinfoChanged: 2 n\Padawan 2\t\0\model\trandoshan/default\c1\5\c2\5\hc\100\w\0\l\0\tt\0\tl\0\st\single_3\st2\none\dt\0
+6-7-2021 16:43 (2462:29): Kill: 0 2 3: Padawan killed Padawan 2 by MOD_SABER
+6-7-2021 16:43 (2462:29): duel: Padawan won a duel against Padawan 2
+6-7-2021 16:43 (2462:34): ClientUserinfoChanged handling info: 2 \ip\188.242.82.139:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\none\saber1\single_3\cg_predictItems\1\sex\male\handicap\100\color2\5\color1\5\forcepowers\7-1-331322000200003322\model\trandoshan/default\snaps\20\rate\4000\name\Padawan\teamtask\0\teamoverlay\1
+6-7-2021 16:43 (2462:34): ClientUserinfoChanged: 2 n\Padawan 2\t\0\model\trandoshan/default\c1\5\c2\5\hc\100\w\0\l\0\tt\0\tl\0\st\single_3\st2\none\dt\0
+6-7-2021 16:43 (2463:03): Kill: 2 0 3: Padawan 2 killed Padawan by MOD_SABER
+6-7-2021 16:43 (2463:03): duel: Padawan 2 won a duel against Padawan
+6-7-2021 16:43 (2463:05): ClientUserinfoChanged handling info: 0 \ip\188.242.92.189:29070\name\Padawan\rate\4000\snaps\20\model\boba_fett/default\forcepowers\7-2-033330002000011333\color1\0\color2\0\handicap\100\sex\male\cg_predictItems\1\saber1\single_1\saber2\single_1\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+6-7-2021 16:43 (2463:05): ClientUserinfoChanged: 0 n\Padawan\t\0\model\boba_fett/default\c1\0\c2\0\hc\100\w\0\l\0\tt\0\tl\0\st\single_1\st2\single_1\dt\0
+6-7-2021 16:44 (2463:40): Kill: 2 0 3: Padawan 2 killed Padawan by MOD_SABER
+6-7-2021 16:44 (2463:40): duel: Padawan 2 won a duel against Padawan
+6-7-2021 16:44 (2463:43): ClientUserinfoChanged handling info: 0 \ip\188.242.92.189:29070\name\Padawan\rate\4000\snaps\20\model\boba_fett/default\forcepowers\7-2-033330002000011333\color1\0\color2\0\handicap\100\sex\male\cg_predictItems\1\saber1\single_1\saber2\single_1\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+6-7-2021 16:44 (2463:43): ClientUserinfoChanged: 0 n\Padawan\t\0\model\boba_fett/default\c1\0\c2\0\hc\100\w\0\l\0\tt\0\tl\0\st\single_1\st2\single_1\dt\0
+6-7-2021 16:45 (2465:02): Kill: 2 0 3: Padawan 2 killed Padawan by MOD_SABER
+6-7-2021 16:45 (2465:02): duel: Padawan 2 won a duel against Padawan
+6-7-2021 16:45 (2465:03): ClientUserinfoChanged handling info: 0 \ip\188.242.92.189:29070\name\Padawan\rate\4000\snaps\20\model\boba_fett/default\forcepowers\7-2-033330002000011333\color1\0\color2\0\handicap\100\sex\male\cg_predictItems\1\saber1\single_1\saber2\single_1\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+6-7-2021 16:45 (2465:03): ClientUserinfoChanged: 0 n\Padawan\t\0\model\boba_fett/default\c1\0\c2\0\hc\100\w\0\l\0\tt\0\tl\0\st\single_1\st2\single_1\dt\0
+6-7-2021 16:47 (2466:50): Kill: 2 0 3: Padawan 2 killed Padawan by MOD_SABER
+6-7-2021 16:47 (2466:50): duel: Padawan 2 won a duel against Padawan
+6-7-2021 16:47 (2466:55): ClientUserinfoChanged handling info: 0 \ip\188.242.92.189:29070\name\Padawan\rate\4000\snaps\20\model\boba_fett/default\forcepowers\7-2-033330002000011333\color1\0\color2\0\handicap\100\sex\male\cg_predictItems\1\saber1\single_1\saber2\single_1\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+6-7-2021 16:47 (2466:55): ClientUserinfoChanged: 0 n\Padawan\t\0\model\boba_fett/default\c1\0\c2\0\hc\100\w\0\l\0\tt\0\tl\0\st\single_1\st2\single_1\dt\0
+6-7-2021 16:49 (2468:37): Kill: 0 2 3: Padawan killed Padawan 2 by MOD_SABER
+6-7-2021 16:49 (2468:37): duel: Padawan won a duel against Padawan 2
+6-7-2021 16:50 (2469:39): ClientUserinfoChanged handling info: 2 \ip\188.242.82.139:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\none\saber1\single_3\cg_predictItems\1\sex\male\handicap\100\color2\5\color1\5\forcepowers\7-1-331322000200003322\model\trandoshan/default\snaps\20\rate\4000\name\Padawan\teamtask\0\teamoverlay\1
+6-7-2021 16:50 (2469:39): ClientUserinfoChanged: 2 n\Padawan 2\t\0\model\trandoshan/default\c1\5\c2\5\hc\100\w\0\l\0\tt\0\tl\0\st\single_3\st2\none\dt\0
+6-7-2021 16:51 (2470:41): ClientConnect: 1
+6-7-2021 16:51 (2470:41): ClientUserinfoChanged handling info: 1 \ip\95.174.108.210:29070\challenge\1908598442\qport\5881\protocol\26\teamoverlay\0\snaps\40\sex\male\saber2\none\saber1\dual_5\rate\40000\password\esl\name\Azerot\model\jan/rgb\ja_guid\54DF925A04EF5FB1E5C57DDC364742F6\handicap\100\forcepowers\7-1-030000000000000330\cp_sbRGB2\0\cp_sbRGB1\0\cp_pluginDisable\1536\cp_cosmetics\0\cp_clanPwd\none\color2\4\color1\2\cjp_client\1.4JAPRO\char_color_red\255\char_color_green\0\char_color_blue\255\cg_predictItems\1\cg_displayNetSettings\100 0 125\cg_displayCameraPosition\0 80 16
+6-7-2021 16:51 (2470:41): ClientUserinfoChanged: 1 n\Azerot\t\0\model\jan/rgb\c1\2\c2\4\hc\0\w\0\l\0\tt\0\tl\0\st\\st2\\dt\0
+6-7-2021 16:51 (2470:41): IP: 95.174.108.210 Azerot
+6-7-2021 16:51 (2470:49): ClientUserinfoChanged handling info: 1 \ip\95.174.108.210:29070\teamoverlay\0\snaps\40\sex\male\saber2\none\saber1\dual_5\rate\40000\password\esl\name\Azerot\model\jan/rgb\ja_guid\54DF925A04EF5FB1E5C57DDC364742F6\handicap\100\forcepowers\7-1-030000000000000330\cp_sbRGB2\0\cp_sbRGB1\0\cp_pluginDisable\1536\cp_cosmetics\0\cp_clanPwd\none\color2\4\color1\2\cjp_client\1.4JAPRO\char_color_red\255\char_color_green\0\char_color_blue\255\cg_predictItems\1\cg_displayNetSettings\100 0 125\cg_displayCameraPosition\0 80 16
+6-7-2021 16:51 (2470:49): ClientUserinfoChanged: 1 n\Azerot\t\0\model\jan/rgb\c1\2\c2\4\hc\0\w\0\l\0\tt\0\tl\0\st\dual_5\st2\none\dt\0
+6-7-2021 16:51 (2470:49): ClientUserinfoChanged handling info: 1 \ip\95.174.108.210:29070\teamoverlay\0\snaps\40\sex\male\saber2\none\saber1\dual_5\rate\40000\password\esl\name\Azerot\model\jan/rgb\ja_guid\54DF925A04EF5FB1E5C57DDC364742F6\handicap\100\forcepowers\7-1-030000000000000330\cp_sbRGB2\0\cp_sbRGB1\0\cp_pluginDisable\1536\cp_cosmetics\0\cp_clanPwd\none\color2\4\color1\2\cjp_client\1.4JAPRO\char_color_red\255\char_color_green\0\char_color_blue\255\cg_predictItems\1\cg_displayNetSettings\100 0 125\cg_displayCameraPosition\0 80 16
+6-7-2021 16:51 (2470:49): ClientUserinfoChanged: 1 n\Azerot\t\0\model\jan/rgb\c1\2\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\dual_5\st2\none\dt\0
+6-7-2021 16:51 (2470:49): ClientBegin: 1
+6-7-2021 16:51 (2470:59): Kill: 1 0 3: Azerot killed Padawan by MOD_SABER
+6-7-2021 16:52 (2471:46): ClientDisconnect: 1
+6-7-2021 16:52 (2472:00): ClientUserinfoChanged handling info: 0 \ip\188.242.92.189:29070\name\Padawan\rate\4000\snaps\20\model\boba_fett/default\forcepowers\7-2-033330002000011333\color1\0\color2\0\handicap\100\sex\male\cg_predictItems\1\saber1\single_1\saber2\single_1\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+6-7-2021 16:52 (2472:00): ClientUserinfoChanged: 0 n\Padawan\t\0\model\boba_fett/default\c1\0\c2\0\hc\100\w\0\l\0\tt\0\tl\0\st\single_1\st2\single_1\dt\0
+6-7-2021 17: 3 (2483:02): Kill: 2 0 3: Padawan 2 killed Padawan by MOD_SABER
+6-7-2021 17: 4 (2484:03): ClientUserinfoChanged handling info: 0 \ip\188.242.92.189:29070\name\Padawan\rate\4000\snaps\20\model\boba_fett/default\forcepowers\7-2-033330002000011333\color1\0\color2\0\handicap\100\sex\male\cg_predictItems\1\saber1\single_1\saber2\single_1\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+6-7-2021 17: 4 (2484:03): ClientUserinfoChanged: 0 n\Padawan\t\0\model\boba_fett/default\c1\0\c2\0\hc\100\w\0\l\0\tt\0\tl\0\st\single_1\st2\single_1\dt\0
+6-7-2021 17:18 (2497:51): Kill: 2 0 3: Padawan 2 killed Padawan by MOD_SABER
+6-7-2021 17:19 (2498:52): ClientUserinfoChanged handling info: 0 \ip\188.242.92.189:29070\name\Padawan\rate\4000\snaps\20\model\boba_fett/default\forcepowers\7-2-033330002000011333\color1\0\color2\0\handicap\100\sex\male\cg_predictItems\1\saber1\single_1\saber2\single_1\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+6-7-2021 17:19 (2498:52): ClientUserinfoChanged: 0 n\Padawan\t\0\model\boba_fett/default\c1\0\c2\0\hc\100\w\0\l\0\tt\0\tl\0\st\single_1\st2\single_1\dt\0
+6-7-2021 17:19 (2498:59): Exit: Timelimit hit.
+6-7-2021 17:19 (2498:59): score: 12  ping: 110  client: 2 Padawan 2
+6-7-2021 17:19 (2498:59): score: 6  ping: 106  client: 0 Padawan
+6-7-2021 17:21 (2500:23): ShutdownGame:
+6-7-2021 17:21 (2500:23): ------------------------------------------------------------
+6-7-2021 17:21 (2500:23): ------------------------------------------------------------
+6-7-2021 17:21 (2500:23): InitGame: \version\JAmp: v1.0.1.0 linux-i386 Mar 14 2020\timelimit\45\sv_privateClients\0\sv_minRate\0\sv_minPing\0\sv_maxclients\32\sv_maxRate\0\sv_maxPing\999\sv_hostname\^7~^1~^7~ COMM SERVER ~^1~^7~\sv_fps\50\sv_floodProtectSlow\1\sv_floodProtect\1\sv_autoDemo\0\sv_allowDownload\0\serveruptime\41\protocol\26\mapname\academy6\gamename\Lugormod\g_weaponDisable\0\g_stepSlideFix\0\g_siegeTeamSwitch\1\g_siegeTeam2\none\g_siegeTeam1\none\g_siegeRespawn\20\g_showDuelHealths\1\g_saberWallDamageScale\0.4\g_saberLocking\0\g_privateDuel\1535\g_noSpecMove\0\g_needpass\0\g_maxHolocronCarry\3\g_maxGameClients\0\g_maxForceRank\7\g_jediVmerc\0\g_gametype\0\g_gamemode\0\g_forceRegenTime\160\g_forcePowerDisable\0\g_forceBasedTeams\1\g_duelWeaponDisable\9\g_debugmelee\1\g_allowNPC\1\fs_game\lugormod\fraglimit\0\duel_fraglimit\10\dmflags\0\capturelimit\10\bot_minplayers\2\bg_fighterAltControl\0\Lugormod_Version\U#-0.0.0.91 Alpha
+6-7-2021 17:21 (2500:23): ClientConnect: 0
+6-7-2021 17:21 (2500:23): ClientUserinfoChanged handling info: 0 \ip\188.242.92.189:29070\name\Padawan\rate\4000\snaps\20\model\boba_fett/default\forcepowers\7-2-033330002000011333\color1\0\color2\0\handicap\100\sex\male\cg_predictItems\1\saber1\single_1\saber2\single_1\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+6-7-2021 17:21 (2500:23): ClientUserinfoChanged: 0 n\Padawan\t\0\model\boba_fett/default\c1\0\c2\0\hc\0\w\0\l\0\tt\0\tl\0\st\single_1\st2\single_1\dt\0
+6-7-2021 17:21 (2500:23): ClientUserinfoChanged handling info: 0 \ip\188.242.92.189:29070\name\Padawan\rate\4000\snaps\20\model\boba_fett/default\forcepowers\7-2-033330002000011333\color1\0\color2\0\handicap\100\sex\male\cg_predictItems\1\saber1\single_1\saber2\single_1\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+6-7-2021 17:21 (2500:23): ClientUserinfoChanged: 0 n\Padawan\t\0\model\boba_fett/default\c1\0\c2\0\hc\0\w\0\l\0\tt\0\tl\0\st\single_1\st2\single_1\dt\0
+6-7-2021 17:21 (2500:23): ClientUserinfoChanged handling info: 0 \ip\188.242.92.189:29070\name\Padawan\rate\4000\snaps\20\model\boba_fett/default\forcepowers\7-2-033330002000011333\color1\0\color2\0\handicap\100\sex\male\cg_predictItems\1\saber1\single_1\saber2\single_1\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+6-7-2021 17:21 (2500:23): ClientUserinfoChanged: 0 n\Padawan\t\0\model\boba_fett/default\c1\0\c2\0\hc\100\w\0\l\0\tt\0\tl\0\st\single_1\st2\single_1\dt\0
+6-7-2021 17:21 (2500:23): ClientBegin: 0
+6-7-2021 17:21 (2500:23): ClientConnect: 2
+6-7-2021 17:21 (2500:23): ClientUserinfoChanged handling info: 2 \ip\188.242.82.139:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\none\saber1\single_3\cg_predictItems\1\sex\male\handicap\100\color2\5\color1\5\forcepowers\7-1-331322000200003322\model\trandoshan/default\snaps\20\rate\4000\name\Padawan\teamtask\0\teamoverlay\1
+6-7-2021 17:21 (2500:23): ClientUserinfoChanged: 2 n\Padawan 2\t\0\model\trandoshan/default\c1\5\c2\5\hc\0\w\0\l\0\tt\0\tl\0\st\single_3\st2\none\dt\0
+6-7-2021 17:21 (2500:23): ClientUserinfoChanged handling info: 2 \ip\188.242.82.139:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\none\saber1\single_3\cg_predictItems\1\sex\male\handicap\100\color2\5\color1\5\forcepowers\7-1-331322000200003322\model\trandoshan/default\snaps\20\rate\4000\name\Padawan\teamtask\0\teamoverlay\1
+6-7-2021 17:21 (2500:23): ClientUserinfoChanged: 2 n\Padawan 2\t\0\model\trandoshan/default\c1\5\c2\5\hc\0\w\0\l\0\tt\0\tl\0\st\single_3\st2\none\dt\0
+6-7-2021 17:21 (2500:23): ClientUserinfoChanged handling info: 2 \ip\188.242.82.139:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\none\saber1\single_3\cg_predictItems\1\sex\male\handicap\100\color2\5\color1\5\forcepowers\7-1-331322000200003322\model\trandoshan/default\snaps\20\rate\4000\name\Padawan\teamtask\0\teamoverlay\1
+6-7-2021 17:21 (2500:23): ClientUserinfoChanged: 2 n\Padawan 2\t\0\model\trandoshan/default\c1\5\c2\5\hc\100\w\0\l\0\tt\0\tl\0\st\single_3\st2\none\dt\0
+6-7-2021 17:21 (2500:23): ClientBegin: 2
+6-7-2021 17:25 (2504:17): Kill: 2 0 3: Padawan 2 killed Padawan by MOD_SABER
+6-7-2021 17:25 (2504:17): duel: Padawan 2 won a duel against Padawan
+6-7-2021 17:25 (2504:18): ClientUserinfoChanged handling info: 0 \ip\188.242.92.189:29070\name\Padawan\rate\4000\snaps\20\model\boba_fett/default\forcepowers\7-2-033330002000011333\color1\0\color2\0\handicap\100\sex\male\cg_predictItems\1\saber1\single_1\saber2\single_1\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+6-7-2021 17:25 (2504:18): ClientUserinfoChanged: 0 n\Padawan\t\0\model\boba_fett/default\c1\0\c2\0\hc\100\w\0\l\0\tt\0\tl\0\st\single_1\st2\single_1\dt\0
+6-7-2021 17:25 (2504:54): Kill: 2 0 3: Padawan 2 killed Padawan by MOD_SABER
+6-7-2021 17:25 (2504:54): duel: Padawan 2 won a duel against Padawan
+6-7-2021 17:25 (2504:55): ClientUserinfoChanged handling info: 0 \ip\188.242.92.189:29070\name\Padawan\rate\4000\snaps\20\model\boba_fett/default\forcepowers\7-2-033330002000011333\color1\0\color2\0\handicap\100\sex\male\cg_predictItems\1\saber1\single_1\saber2\single_1\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+6-7-2021 17:25 (2504:55): ClientUserinfoChanged: 0 n\Padawan\t\0\model\boba_fett/default\c1\0\c2\0\hc\100\w\0\l\0\tt\0\tl\0\st\single_1\st2\single_1\dt\0
+6-7-2021 17:25 (2505:05): Kill: 0 2 3: Padawan killed Padawan 2 by MOD_SABER
+6-7-2021 17:25 (2505:06): ClientUserinfoChanged handling info: 2 \ip\188.242.82.139:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\none\saber1\single_3\cg_predictItems\1\sex\male\handicap\100\color2\5\color1\5\forcepowers\7-1-331322000200003322\model\trandoshan/default\snaps\20\rate\4000\name\Padawan\teamtask\0\teamoverlay\1
+6-7-2021 17:25 (2505:06): ClientUserinfoChanged: 2 n\Padawan 2\t\0\model\trandoshan/default\c1\5\c2\5\hc\100\w\0\l\0\tt\0\tl\0\st\single_3\st2\none\dt\0
+6-7-2021 17:26 (2505:15): ClientDisconnect: 2
+6-7-2021 17:26 (2505:27): ClientConnect: 1
+6-7-2021 17:26 (2505:27): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/astupidbot.jkb\saber2\none\saber1\kyle\color2\4\color1\4\sex\male\model\jawa\snaps\20\rate\25000\name\astupidbot
+6-7-2021 17:26 (2505:27): ClientUserinfoChanged: 1 n\astupidbot\t\0\model\jawa\c1\4\c2\4\hc\0\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\\st2\\dt\0\sdt\0
+6-7-2021 17:26 (2505:27): ClientUserinfoChanged handling info: 1 \name\astupidbot\team\0\skill\ 5.00\personality\botfiles/astupidbot.jkb\saber2\none\saber1\kyle\color2\4\color1\4\sex\male\model\jawa\snaps\20\rate\25000
+6-7-2021 17:26 (2505:27): ClientUserinfoChanged: 1 n\astupidbot\t\0\model\jawa\c1\4\c2\4\hc\0\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\\st2\\dt\0\sdt\0
+6-7-2021 17:26 (2505:27): IP: localhost astupidbot
+6-7-2021 17:26 (2505:27): ClientUserinfoChanged handling info: 1 \name\astupidbot\team\0\skill\ 5.00\personality\botfiles/astupidbot.jkb\saber2\none\saber1\kyle\color2\4\color1\4\sex\male\model\jawa\snaps\20\rate\25000
+6-7-2021 17:26 (2505:27): ClientUserinfoChanged: 1 n\astupidbot\t\0\model\jawa\c1\4\c2\4\hc\0\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\\st2\\dt\0\sdt\0
+6-7-2021 17:26 (2505:27): ClientUserinfoChanged handling info: 1 \name\astupidbot\team\0\skill\ 5.00\personality\botfiles/astupidbot.jkb\saber2\none\saber1\kyle\color2\4\color1\4\sex\male\model\jawa\snaps\20\rate\25000
+6-7-2021 17:26 (2505:27): ClientUserinfoChanged: 1 n\astupidbot\t\0\model\jawa\c1\4\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+6-7-2021 17:26 (2505:27): ClientBegin: 1
+6-7-2021 17:26 (2505:31): ClientDisconnect: 0
+6-7-2021 17:26 (2505:42): ClientConnect: 0
+6-7-2021 17:26 (2505:42): ClientUserinfoChanged handling info: 0 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+6-7-2021 17:26 (2505:42): ClientUserinfoChanged: 0 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\0\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\\st2\\dt\0\sdt\0
+6-7-2021 17:26 (2505:42): IP: localhost Kyle
+6-7-2021 17:26 (2505:42): ClientUserinfoChanged handling info: 0 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+6-7-2021 17:26 (2505:42): ClientUserinfoChanged: 0 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+6-7-2021 17:26 (2505:42): ClientBegin: 0
+6-9-2021 9:26 (4905:33): ClientConnect: 2
+6-9-2021 9:26 (4905:33): ClientUserinfoChanged handling info: 2 \ip\46.211.80.33:50793\challenge\-284338764\qport\62057\protocol\26\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\none\saber1\jpst1\cg_predictItems\1\sex\male\handicap\100\color2\6\color1\0\forcepowers\7-1-333333000001000330\model\reborn_new/default\snaps\20\rate\4000\name\MADARA\cp_pluginDisable\0\teamtask\0
+6-9-2021 9:26 (4905:33): ClientUserinfoChanged: 2 n\MADARA\t\0\model\reborn_new/default\c1\0\c2\6\hc\0\w\0\l\0\tt\0\tl\0\st\\st2\\dt\0
+6-9-2021 9:26 (4905:33): IP: 46.211.80.33 MADARA
+6-9-2021 9:26 (4905:48): ClientUserinfoChanged handling info: 2 \ip\46.211.80.33:50793\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\none\saber1\dual_1\cg_predictItems\1\sex\male\handicap\100\color2\6\color1\6\forcepowers\7-2-030000000000000330\model\luke/default\snaps\20\rate\4000\name\учмник ситха\cp_pluginDisable\0\teamtask\0\teamoverlay\1
+6-9-2021 9:26 (4905:48): ClientUserinfoChanged: 2 n\MADARA\t\0\model\luke/default\c1\6\c2\6\hc\0\w\0\l\0\tt\0\tl\0\st\dual_1\st2\none\dt\0
+6-9-2021 9:26 (4905:48): ClientUserinfoChanged handling info: 2 \ip\46.211.80.33:50793\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\none\saber1\dual_1\cg_predictItems\1\sex\male\handicap\100\color2\6\color1\6\forcepowers\7-2-030000000000000330\model\luke/default\snaps\20\rate\4000\name\учмник ситха\cp_pluginDisable\0\teamtask\0\teamoverlay\1
+6-9-2021 9:26 (4905:48): ClientUserinfoChanged: 2 n\MADARA\t\0\model\luke/default\c1\6\c2\6\hc\100\w\0\l\0\tt\0\tl\0\st\dual_1\st2\none\dt\0
+6-9-2021 9:26 (4905:48): ClientBegin: 2
+6-9-2021 9:26 (4905:49): ClientUserinfoChanged handling info: 2 \ip\46.211.80.33:50793\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\none\saber1\dual_1\cg_predictItems\1\sex\male\handicap\100\color2\6\color1\6\forcepowers\7-2-030000000000000330\model\luke/default\snaps\20\rate\4000\name\учмник ситха\cp_pluginDisable\0\teamtask\0\teamoverlay\1
+6-9-2021 9:26 (4905:49): ClientUserinfoChanged: 2 n\MADARA\t\0\model\luke/default\c1\6\c2\6\hc\100\w\0\l\0\tt\0\tl\0\st\dual_1\st2\none\dt\0
+6-9-2021 9:26 (4905:53): say: Kyle: g2g
+6-9-2021 9:26 (4905:53): ClientDisconnect: 0
+6-9-2021 9:27 (4906:48): Kill: 1 2 3: astupidbot killed MADARA by MOD_SABER
+6-9-2021 9:27 (4906:48): Exit: Timelimit hit.
+6-9-2021 9:27 (4906:48): score: 1  ping: 49  client: 1 astupidbot
+6-9-2021 9:27 (4906:48): score: 0  ping: 176  client: 2 MADARA
+6-9-2021 9:27 (4906:49): ClientUserinfoChanged handling info: 2 \ip\46.211.80.33:50793\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\none\saber1\dual_1\cg_predictItems\1\sex\male\handicap\100\color2\6\color1\6\forcepowers\7-2-030000000000000330\model\luke/default\snaps\20\rate\4000\name\учмник ситха\cp_pluginDisable\0\teamtask\0\teamoverlay\1
+6-9-2021 9:27 (4906:49): ClientUserinfoChanged: 2 n\MADARA\t\0\model\luke/default\c1\6\c2\6\hc\100\w\0\l\0\tt\0\tl\0\st\dual_1\st2\none\dt\0
+6-9-2021 9:27 (4906:50): say: astupidbot: Good Fight
+6-9-2021 9:27 (4906:51): ClientDisconnect: 2
+6-10-2021 20:54 (7033:32): ClientConnect: 0
+6-10-2021 20:54 (7033:32): ClientUserinfoChanged handling info: 0 \ip\69.136.137.86:64622\challenge\1638503813\qport\3368\protocol\26\cg_predictItems\1\char_color_blue\255\char_color_green\255\char_color_red\255\color1\4\color2\4\forcepowers\7-1-032330000000001333\handicap\100\model\kyle/default\name\Padawan\rate\25000\saber1\Kyle\saber2\none\sex\male\snaps\40\ja_guid\5927B7C02E9AC2EE703771D8B779BBD8
+6-10-2021 20:54 (7033:32): ClientUserinfoChanged: 0 n\Padawan\t\0\model\kyle/default\c1\4\c2\4\hc\0\w\0\l\0\tt\0\tl\0\st\\st2\\dt\0
+6-10-2021 20:54 (7033:32): IP: 69.136.137.86 Padawan
+6-10-2021 20:54 (7033:38): ClientUserinfoChanged handling info: 0 \ip\69.136.137.86:64622\cg_predictItems\1\char_color_blue\255\char_color_green\255\char_color_red\255\color1\4\color2\4\forcepowers\7-1-032330000000001333\handicap\100\model\kyle/default\name\Padawan\rate\25000\saber1\Kyle\saber2\none\sex\male\snaps\40\ja_guid\5927B7C02E9AC2EE703771D8B779BBD8\teamoverlay\0
+6-10-2021 20:54 (7033:38): ClientUserinfoChanged: 0 n\Padawan\t\0\model\kyle/default\c1\4\c2\4\hc\0\w\0\l\0\tt\0\tl\0\st\Kyle\st2\none\dt\0
+6-10-2021 20:54 (7033:38): ClientUserinfoChanged handling info: 0 \ip\69.136.137.86:64622\cg_predictItems\1\char_color_blue\255\char_color_green\255\char_color_red\255\color1\4\color2\4\forcepowers\7-1-032330000000001333\handicap\100\model\kyle/default\name\Padawan\rate\25000\saber1\Kyle\saber2\none\sex\male\snaps\40\ja_guid\5927B7C02E9AC2EE703771D8B779BBD8\teamoverlay\0
+6-10-2021 20:54 (7033:38): ClientUserinfoChanged: 0 n\Padawan\t\0\model\kyle/default\c1\4\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\Kyle\st2\none\dt\0
+6-10-2021 20:54 (7033:38): ClientBegin: 0
+6-10-2021 20:54 (7033:41): ShutdownGame:
+6-10-2021 20:54 (7033:41): ------------------------------------------------------------

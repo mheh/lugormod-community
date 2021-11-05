@@ -1,0 +1,432 @@
+{
+"soundSet" "yavin_exterior"
+"message" "  ^3-=FFA Map=-^7\n\n\n\n\n\n^1Laming allowed"
+"music" "music/yavin2/yavtemp2_action"
+"_noshadersun" "1"
+"ambient" "50"
+"_mingridlight" "100"
+"classname" "worldspawn"
+}
+{
+"classname" "info_player_deathmatch"
+"target" "streak_reset"
+"origin" "-673 13 1172"
+}
+{
+"classname" "trigger_multiple"
+"maxs" "15 15 500"
+"mins" "-15 -15 0"
+"spawnflags" "4"
+"target" "stuck"
+"origin" "-671 13 1152"
+}
+{
+"classname" "trigger_multiple"
+"maxs" "15 15 500"
+"mins" "-15 -15 0"
+"spawnflags" "257"
+"message" " ^1- ^7If stuck press use ^1-^7 "
+"origin" "-671 13 1152"
+}
+{
+"classname" "info_player_deathmatch"
+"target" "streak_reset"
+"angle" "-90"
+"origin" "2 631 1172"
+}
+{
+"classname" "trigger_multiple"
+"maxs" "15 15 500"
+"mins" "-15 -15 0"
+"spawnflags" "257"
+"message" " ^1- ^7If stuck press use ^1-^7 "
+"origin" "2 631 1152"
+}
+{
+"classname" "trigger_multiple"
+"maxs" "15 15 500"
+"mins" "-15 -15 0"
+"spawnflags" "4"
+"target" "stuck2"
+"origin" "2 631 1152"
+}
+{
+"classname" "info_player_deathmatch"
+"target" "streak_reset"
+"angle" "-180"
+"origin" "672 7 1172"
+}
+{
+"classname" "trigger_multiple"
+"maxs" "15 15 500"
+"mins" "-15 -15 0"
+"spawnflags" "4"
+"target" "stuck3"
+"origin" "672 7 1152"
+}
+{
+"classname" "trigger_multiple"
+"maxs" "15 15 500"
+"mins" "-15 -15 0"
+"spawnflags" "257"
+"message" " ^1- ^7If stuck press use ^1-^7 "
+"origin" "672 7 1152"
+}
+{
+"classname" "info_player_deathmatch"
+"target" "streak_reset"
+"origin" "4 -658 1172"
+"angle" "180"
+}
+{
+"classname" "trigger_multiple"
+"maxs" "15 15 500"
+"mins" "-15 -15 0"
+"spawnflags" "257"
+"message" " ^1- ^7If stuck press use ^1-^7 "
+"origin" "4 -658 1152"
+}
+{
+"classname" "trigger_multiple"
+"maxs" "15 15 500"
+"mins" "-15 -15 0"
+"spawnflags" "4"
+"target" "stuck4"
+"origin" "4 -658 1152"
+}
+{
+"classname" "target_teleporter"
+"targetname" "stuck3"
+"angle" "150"
+"origin" "607 -370 1172"
+}
+{
+"classname" "target_teleporter"
+"targetname" "stuck2"
+"angle" "-120"
+"origin" "380 520 1172"
+}
+{
+"classname" "target_teleporter"
+"targetname" "stuck"
+"angle" "-35"
+"origin" "-582 352 1172"
+}
+{
+"classname" "target_teleporter"
+"targetname" "stuck4"
+"angle" "60"
+"origin" "-330 -669 1172"
+}
+{
+"classname" "fx_runner"
+"fxfile" "env/btend"
+"angle" "90"
+"origin" "-113 6 1208"
+"angles" "0 180 0"
+}
+{
+"classname" "trigger_multiple"
+"maxs" "5 50 120"
+"mins" "-5 -50 0"
+"spawnflags" "257"
+"target" "tele"
+"origin" "-112 7 1154"
+}
+{
+"classname" "fx_runner"
+"fxfile" "env/btend"
+"angle" "90"
+"origin" "3 113 1202"
+}
+{
+"classname" "trigger_multiple"
+"maxs" "50 5 120"
+"mins" "-50 -5 0"
+"spawnflags" "257"
+"target" "tele"
+"origin" "3 129 1152"
+}
+{
+"classname" "fx_runner"
+"fxfile" "env/btend"
+"angles" "0 180 0"
+"origin" "113 1 1198"
+}
+{
+"classname" "trigger_multiple"
+"maxs" "5 50 120"
+"mins" "-5 -50 0"
+"spawnflags" "257"
+"target" "tele"
+"origin" "131 0 1152"
+}
+{
+"classname" "fx_runner"
+"fxfile" "env/btend"
+"angle" "90"
+"origin" "-1 -113 1194"
+}
+{
+"classname" "trigger_multiple"
+"maxs" "50 5 120"
+"mins" "-50 -5 0"
+"spawnflags" "257"
+"target" "tele"
+"origin" "1 -131 1152"
+}
+{
+"classname" "target_random"
+"targetname" "tele"
+"target" "tele2"
+}
+{
+"classname" "target_teleporter"
+"targetname" "tele2"
+"origin" "-744 -1371 372"
+"angle" "90"
+}
+{
+"classname" "target_teleporter"
+"targetname" "tele2"
+"angle" "-90"
+"origin" "-739 1330 372"
+}
+{
+"classname" "target_teleporter"
+"targetname" "tele2"
+"angle" "-90"
+"origin" "724 1479 372"
+}
+{
+"classname" "target_teleporter"
+"targetname" "tele2"
+"angle" "90"
+"origin" "746 -1372 372"
+}
+{
+"origin" "32 52 -832"
+"classname" "misc_skyportal"
+}
+{
+"classname" "lmd_event"
+"maxs" "100000000 100000000 100000000"
+"mins" "-100000000 -100000000 -100000000"
+"killtarget" "count_kill"
+"Note" "^3Original streak system by Illusion"
+}
+{
+"classname" "lmd_customskill"
+"skill" "killstreaks"
+"value" "1"
+"targetname" "count_kill"
+"system" "killstreak"
+}
+{
+"classname" "lmd_playercheck"
+"targetname" "count_kill"
+"customskill" "killstreaks"
+"customskillvalue" "5"
+"customskillcompare" "-1"
+"target" "killstreak_5"
+"system" "killstreak"
+}
+{
+"classname" "target_delay"
+"targetname" "killstreak_5"
+"target" "streak_5"
+"wait" "0.2"
+"system" "killstreak"
+}
+{
+"classname" "target_print"
+"targetname" "streak_5"
+"spawnflags" "20"
+"message" "^7[ ^1Killing spree! ^7- ^15 ^7- ^1110 CR ^7]"
+"system" "killstreak"
+}
+{
+"classname" "target_credits"
+"targetname" "killstreak_5"
+"count" "110"
+"system" "killstreak"
+}
+{
+"classname" "lmd_playercheck"
+"targetname" "count_kill"
+"customskill" "killstreaks"
+"customskillvalue" "10"
+"customskillcompare" "-1"
+"target" "killstreak_10"
+"system" "killstreak"
+}
+{
+"classname" "target_delay"
+"targetname" "killstreak_10"
+"target" "streak_10"
+"wait" "0.1"
+"system" "killstreak"
+}
+{
+"classname" "target_credits"
+"targetname" "killing_spree"
+"count" "50"
+}
+{
+"classname" "target_print"
+"targetname" "streak_10"
+"spawnflags" "20"
+"message" "^7[ ^1Mega Kill! ^7- ^110 ^7- ^1230 CR ^7]"
+"system" "killstreak"
+}
+{
+"classname" "target_credits"
+"targetname" "killstreak_10"
+"count" "230"
+"system" "killstreak"
+}
+{
+"classname" "lmd_playercheck"
+"targetname" "count_kill"
+"customskill" "killstreaks"
+"customskillvalue" "20"
+"customskillcompare" "-1"
+"target" "killstreak_20"
+"system" "killstreak"
+}
+{
+"classname" "target_delay"
+"targetname" "killstreak_20"
+"wait" "0.2"
+"target" "streak_20"
+"system" "killstreak"
+}
+{
+"classname" "target_print"
+"targetname" "streak_20"
+"spawnflags" "20"
+"message" "^7[ ^1Ultimate Kill! ^7- ^120 ^7- ^1370 CR ^7]"
+"system" "killstreak"
+}
+{
+"classname" "target_credits"
+"targetname" "killstreak_20"
+"count" "370"
+"system" "killstreak"
+}
+{
+"classname" "lmd_playercheck"
+"targetname" "count_kill"
+"customskill" "killstreaks"
+"customskillvalue" "35"
+"customskillcompare" "-1"
+"target" "killstreak_35"
+"system" "killstreak"
+}
+{
+"classname" "target_delay"
+"targetname" "killstreak_35"
+"wait" "0.2"
+"target" "streak_35"
+"system" "killstreak"
+}
+{
+"classname" "target_print"
+"targetname" "streak_35"
+"spawnflags" "4"
+"message" "^7[ ^1GODLIKE! ^7- ^135 ^- ^1 500 CR ^7]"
+}
+{
+"classname" "target_print"
+"targetname" "streak_35"
+"spawnflags" "4"
+"message" "^0{30 Kills in a row}\n^0Unstoppable!\n^0+500CR^3."
+}
+{
+"classname" "lmd_restrict"
+"maxs" "7000 7000 1000"
+"mins" "-7000 -7000 0"
+"spawnflags" "3"
+"origin" "138 -4 1152"
+}
+{
+"classname" "misc_model_health_power_converter"
+"origin" "-1390 -1150 389"
+}
+{
+"classname" "misc_shield_floor_unit"
+"nodrain" "1"
+"origin" "639 1137 128"
+}
+{
+"classname" "lmd_remap"
+"old" "textures/factory/basic2_tiled_b"
+"new" "clear"
+}
+{
+"classname" "target_credits"
+"targetname" "killstreak_35"
+"count" "500"
+}
+{
+"classname" "lmd_customskill"
+"targetname" "streak_reset"
+"spawnflags" "1"
+"skill" "killstreaks"
+"value" "0"
+}
+{
+"classname" "target_credits"
+"targetname" "killstreak_35"
+"count" "500"
+}
+{
+"classname" "lmd_customskill"
+"targetname" "streak_reset"
+"spawnflags" "1"
+"skill" "killstreak"
+"value" "0"
+}
+{
+"classname" "target_print"
+"targetname" "streak_35"
+"spawnflags" "20"
+"message" "^7[ ^1GODLIKE! ^7- ^135 ^7- ^1500 CR ^7]"
+}
+{
+"classname" "target_credits"
+"targetname" "killstreak_35"
+"count" "500"
+}
+{
+"classname" "lmd_customskill"
+"targetname" "streak_reset"
+"spawnflags" "1"
+"skill" "killstreak"
+"value" "0"
+}
+{
+"classname" "misc_shield_floor_unit"
+"nodrain" "1"
+"origin" "-1376 -1194 352"
+}
+{
+"classname" "misc_ammo_floor_unit"
+"nodrain" "1"
+"origin" "-1375 -1109 352"
+}
+{
+"classname" "misc_model_health_power_converter"
+"angle" "-180"
+"origin" "2050 0 183"
+}
+{
+"classname" "misc_ammo_floor_unit"
+"nodrain" "1"
+"origin" "2039 32 135"
+}
+{
+"classname" "misc_shield_floor_unit"
+"nodrain" "1"
+"origin" "2038 -36 136"
+}

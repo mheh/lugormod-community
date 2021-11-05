@@ -1,0 +1,95 @@
+{
+"classname" "item_cloak"
+"origin" "-1879 1115 640"
+"wait" "-1"
+"targetname" "item_pack1"
+}
+{
+"classname" "target_powerup"
+"targetname" "item_pack1_jedi"
+"wait" "60"
+"powerup" "12"
+}
+{
+"classname" "target_powerup"
+"targetname" "item_pack1_mercenary"
+"powerup" "15"
+"wait" "120"
+}
+{
+"classname" "lmd_playercheck"
+"targetname" "item_pack1"
+"target" "item_pack1_jedi"
+"profession" "1"
+}
+{
+"classname" "target_print"
+"targetname" "item_pack1_jedi"
+"message" "JEDI"
+}
+{
+"classname" "lmd_playercheck"
+"targetname" "item_pack1"
+"target" "item_pack1_mercenary"
+"profession" "2"
+}
+{
+"classname" "target_powerup"
+"targetname" "item_pack1"
+"powerup" "10"
+"wait" "90"
+}
+{
+"classname" "target_powerup"
+"targetname" "item_pack1"
+"powerup" "2"
+"wait" "90"
+}
+{
+"classname" "target_powerup"
+"targetname" "item_pack1_jedi"
+"wait" "60"
+"powerup" "13"
+}
+{
+"classname" "target_powerup"
+"targetname" "item_pack1_jedi"
+"wait" "120"
+"powerup" "14"
+}
+{
+"classname" "item_ysalimari"
+"origin" "-1879 1115 640"
+"wait" "-1"
+"targetname" "item_pack1_mercenary"
+}
+{
+"classname" "item_ysalimari"
+"origin" "-1979 1115 640"
+"wait" "-1"
+"targetname" "item_pack1_mercenary"
+}
+{
+"classname" "ammo_all"
+"origin" "-1979 1115 640"
+"wait" "-1"
+"targetname" "item_pack1_mercenary"
+}
+{
+"classname" "ammo_all"
+"origin" "-1979 1115 640"
+"wait" "-1"
+"targetname" "item_pack1_mercenary"
+}
+{
+"classname" "item_healthdisp"
+"origin" "-1979 1115 640"
+"wait" "-1"
+"targetname" "item_pack1_mercenary"
+}
+{
+"classname" "item_sentry_gun"
+"origin" "-1979 1115 640"
+"wait" "-1"
+"targetname" "item_pack1_mercenary"
+}

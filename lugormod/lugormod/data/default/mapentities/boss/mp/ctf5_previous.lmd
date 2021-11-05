@@ -1,0 +1,264 @@
+{
+"ambient" "43"
+"classname" "worldspawn"
+"_color" ".83 .71 .15"
+"message" "Factory"
+"_noshadersun" "1"
+"_mingridlight" "150"
+"_minlight" "30"
+"_minvertexlight" "54"
+"music" "music/mp/mp_action2.mp3"
+}
+{
+"classname" "team_CTF_bluespawn"
+"origin" "6336 2592 -320"
+}
+{
+"angle" "45"
+"classname" "team_CTF_bluespawn"
+"origin" "6592 4224 -320"
+}
+{
+"angle" "45"
+"classname" "team_CTF_bluespawn"
+"origin" "6656 1696 320"
+}
+{
+"angle" "180"
+"origin" "6624 2496 -320"
+"classname" "team_CTF_bluespawn"
+}
+{
+"angle" "180"
+"classname" "team_CTF_bluespawn"
+"origin" "6624 2688 -320"
+}
+{
+"angle" "135"
+"origin" "7312 3360 -312"
+"classname" "team_CTF_bluespawn"
+}
+{
+"angle" "180"
+"origin" "6792 2632 -336"
+"classname" "team_CTF_blueplayer"
+}
+{
+"angle" "180"
+"classname" "team_CTF_blueplayer"
+"origin" "6792 2568 -336"
+}
+{
+"classname" "team_CTF_blueplayer"
+"origin" "6840 3056 -320"
+"angle" "270"
+}
+{
+"origin" "6784 3088 -320"
+"classname" "team_CTF_blueplayer"
+"angle" "270"
+}
+{
+"angle" "180"
+"origin" "7272 2048 -328"
+"classname" "team_CTF_blueplayer"
+}
+{
+"angle" "180"
+"origin" "7272 2112 -328"
+"classname" "team_CTF_blueplayer"
+}
+{
+"angle" "180"
+"origin" "7392 3008 -328"
+"classname" "team_CTF_blueplayer"
+}
+{
+"angle" "180"
+"classname" "team_CTF_blueplayer"
+"origin" "7392 3072 -328"
+}
+{
+"classname" "weapon_det_pack"
+"origin" "5952 3232 -336"
+}
+{
+"classname" "weapon_thermal"
+"origin" "5464 4008 -264"
+}
+{
+"classname" "weapon_trip_mine"
+"origin" "6639 1618 -336"
+}
+{
+"origin" "5216 1880 312"
+"classname" "weapon_blaster"
+}
+{
+"classname" "weapon_repeater"
+"origin" "6288 4016 48"
+}
+{
+"classname" "weapon_flechette"
+"origin" "7568 1632 88"
+}
+{
+"angle" "45"
+"classname" "weapon_disruptor"
+"origin" "5048 1864 -320"
+}
+{
+"classname" "weapon_bowcaster"
+"origin" "6624 2048 304"
+}
+{
+"classname" "info_notnull"
+"origin" "5424 2576 -40"
+"targetname" "t163"
+}
+{
+"classname" "item_force_boon"
+"origin" "4384 1984 -16"
+}
+{
+"angle" "180"
+"origin" "7264 2592 8"
+"classname" "info_player_deathmatch"
+}
+{
+"origin" "5008 1952 -304"
+"classname" "info_player_intermission"
+"target" "t163"
+}
+{
+"classname" "func_glass"
+"maxshards" "12"
+"model" "*1"
+}
+{
+"classname" "func_glass"
+"maxshards" "8"
+"model" "*2"
+}
+{
+"origin" "2432 2592 -320"
+"classname" "team_CTF_redspawn"
+}
+{
+"origin" "2176 4224 -320"
+"classname" "team_CTF_redspawn"
+"angle" "45"
+}
+{
+"classname" "team_CTF_redspawn"
+"origin" "2144 2496 -320"
+}
+{
+"origin" "2144 2688 -320"
+"classname" "team_CTF_redspawn"
+}
+{
+"classname" "team_CTF_redspawn"
+"origin" "1392 3360 -312"
+}
+{
+"classname" "team_CTF_redplayer"
+"origin" "1976 2632 -336"
+}
+{
+"origin" "1976 2568 -336"
+"classname" "team_CTF_redplayer"
+}
+{
+"angle" "270"
+"origin" "1928 3056 -320"
+"classname" "team_CTF_redplayer"
+}
+{
+"angle" "270"
+"classname" "team_CTF_redplayer"
+"origin" "1984 3088 -320"
+}
+{
+"classname" "team_CTF_redplayer"
+"origin" "1496 2048 -328"
+}
+{
+"classname" "team_CTF_redplayer"
+"origin" "1496 2112 -328"
+}
+{
+"classname" "team_CTF_redplayer"
+"origin" "1392 3008 -312"
+}
+{
+"origin" "1392 3072 -312"
+"classname" "team_CTF_redplayer"
+}
+{
+"origin" "2816 3232 -336"
+"classname" "weapon_det_pack"
+}
+{
+"origin" "3304 4008 -264"
+"classname" "weapon_thermal"
+}
+{
+"origin" "2129 1618 -336"
+"classname" "weapon_trip_mine"
+}
+{
+"classname" "weapon_blaster"
+"origin" "3552 1880 312"
+}
+{
+"origin" "4384 3120 -328"
+"classname" "weapon_rocket_launcher"
+}
+{
+"origin" "2480 4016 48"
+"classname" "weapon_repeater"
+}
+{
+"origin" "1200 1632 88"
+"classname" "weapon_flechette"
+}
+{
+"origin" "3720 1864 -320"
+"classname" "weapon_disruptor"
+"angle" "45"
+}
+{
+"origin" "2144 2048 304"
+"classname" "weapon_bowcaster"
+}
+{
+"targetname" "v1"
+"origin" "3344 2576 -40"
+"classname" "info_notnull"
+}
+{
+"classname" "info_player_deathmatch"
+"origin" "1504 2592 8"
+}
+{
+"target" "v1"
+"classname" "info_player_intermission"
+"origin" "3760 1952 -304"
+}
+{
+"classname" "trigger_hurt"
+"spawnflags" "12"
+"dmg" "-1"
+"model" "*3"
+}
+{
+"classname" "func_glass"
+"maxshards" "12"
+"model" "*4"
+}
+{
+"classname" "func_glass"
+"maxshards" "8"
+"model" "*5"
+}

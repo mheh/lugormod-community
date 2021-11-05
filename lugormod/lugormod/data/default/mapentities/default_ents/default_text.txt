@@ -1,0 +1,21 @@
+{
+"message" "~~ ^1THE GREATEST MAPS: ^7HERITAGE ^1EDITION ^7~~"
+}
+{
+"classname" "target_print"
+"targetname" "info1"
+"spawnflags" "4"
+"message" "^1Welcome to ^3LUGORMOD ^1U# ^72^1.^74^1.^78^1.^74\n\n^3REGISTRATION^7:\n^1/info ^7<item>\n^1/register ^7<username> <password>\n\n^3PROFESSION^7:\n^1/profession ^7<force/merc/none>\n\n^3BUY LEVELS^7:\n^1/buylevel ^7<amount>"
+}
+{
+"classname" "target_print"
+"targetname" "info2"
+"spawnflags" "4"
+"message" "^3JEDI^7/^1SITH\n\n^3GENERAL^7:\n^1/skills ^7<skill>\n\n^3FORCE^7:\n^1LEVEL^7: 5\n\n^1/ionlyduel^7: NO COMBAT/INVINCIBLE\n^1/ionlysaber^7: HEAL/DRAIN ONLY"
+}
+{
+"classname" "target_print"
+"targetname" "info3"
+"spawnflags" "4"
+"message" "^3MERCENARY\n\n^3GENERAL^7:\n^1/skills ^7<skill>\n\n^3SKILLS^7:\n^1/cortosis^7: ARMOR/SABER DEFENSE\n^1/ysalamiri^7: bind <key> '+engage_duel'\n^1/flame^7: bind <key> '+force_lightning'"
+}

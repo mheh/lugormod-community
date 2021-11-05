@@ -1,0 +1,52 @@
+sentry
+{
+	playermodel	sentry
+	weapon		WP_NONE
+	health 		100
+	reactions	3
+	aim			3
+	move		3
+	aggression	3
+	evasion		1
+	intelligence	5
+	playerTeam	TEAM_ENEMY
+	enemyTeam	TEAM_PLAYER
+//	race		bot
+	class		CLASS_SENTRY
+	health		150
+	yawSpeed	120
+	runSpeed	400
+	walkSpeed	250
+	height		48
+	width		24
+	hFOV		120
+	vfov		160
+	snd			sentry
+}
+sentry_fast
+{
+	playermodel	sentry
+	weapon		WP_ROCKET_LAUNCHER
+	health 		100
+	reactions	5
+	aim			5
+	move		5
+	aggression	3
+	evasion		5
+	intelligence	5
+	playerTeam	TEAM_ENEMY
+	enemyTeam	TEAM_PLAYER
+//	race		bot
+	class		CLASS_REMOTE
+	health		150
+	yawSpeed	120
+	runSpeed	900
+	walkSpeed	550
+	height		48
+	width		24
+	hFOV		320
+	vfov		360
+	visrange	900
+	snd			sentry
+	movetype	flyswim
+}

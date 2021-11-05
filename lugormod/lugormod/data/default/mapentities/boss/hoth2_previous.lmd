@@ -1,0 +1,2359 @@
+{
+"gridsize" "96 96 144"
+"_lightmapscale" "2"
+"_minvertexlight" "40"
+"ambient" "7"
+"_mingridlight" "65"
+"_noshadersun" "1"
+"breath" "2"
+"distancecull" "1850"
+"fog" "textures/fogs/Hoth2fog"
+"classname" "worldspawn"
+"soundSet" "hoth_ext"
+}
+{
+"targetname" "t73"
+"deathscript" "hoth2/troop1death"
+"angle" "135"
+"spawnflags" "16"
+"origin" "1728 -576 968"
+"classname" "NPC_Snowtrooper"
+}
+{
+"Usescript" "Hoth2/Midfield_AI_Removal"
+"targetname" "MidField_AI_Removalrunner"
+"origin" "6303 -2835 676"
+"classname" "target_scriptrunner"
+}
+{
+"target" "MidField_AI_Removalrunner"
+"spawnflags" "1"
+"classname" "trigger_once"
+"model" "*1"
+}
+{
+"Usescript" "Hoth2/First_Field_AI_Remove"
+"targetname" "First_Field_AI_Removalrunner"
+"origin" "-2204 2524 1104"
+"classname" "target_scriptrunner"
+}
+{
+"target" "First_Field_AI_Removalrunner"
+"spawnflags" "1"
+"classname" "trigger_once"
+"model" "*2"
+}
+{
+"Usescript" "Hoth2/Wampa_goto_lowvis"
+"targetname" "Initial_Wampa_Defend_Runner"
+"origin" "-3668 11484 1148"
+"classname" "target_scriptrunner"
+}
+{
+"wait" "3"
+"target" "Initial_Wampa_Defend_Runner"
+"targetname" "Initial_Wampa_Defend_Trigger"
+"spawnflags" "16"
+"classname" "trigger_multiple"
+"model" "*3"
+}
+{
+"origin" "4960 -2020 1012"
+"classname" "ammo_thermal"
+}
+{
+"origin" "5198 -2464 1002"
+"classname" "ammo_thermal"
+}
+{
+"NPC_targetname" "Moregeeks_st4"
+"targetname" "t21368"
+"spawnflags" "16"
+"angle" "360"
+"origin" "3876 -864 964"
+"classname" "NPC_Snowtrooper"
+}
+{
+"NPC_targetname" "Moregeeks_st5"
+"targetname" "t21368"
+"spawnflags" "16"
+"angle" "360"
+"origin" "3752 -672 964"
+"classname" "NPC_Snowtrooper"
+}
+{
+"NPC_targetname" "Moregeeks_st1"
+"targetname" "t21368"
+"spawnflags" "16"
+"angle" "360"
+"origin" "3612 -1376 964"
+"classname" "NPC_Snowtrooper"
+}
+{
+"NPC_targetname" "Moregeeks_st2"
+"targetname" "t21368"
+"spawnflags" "16"
+"angle" "360"
+"origin" "3748 -1188 964"
+"classname" "NPC_Snowtrooper"
+}
+{
+"NPC_targetname" "Moregeeks_st3"
+"targetname" "t21368"
+"spawnflags" "16"
+"angle" "360"
+"origin" "3620 -924 964"
+"classname" "NPC_Snowtrooper"
+}
+{
+"targetname" "No_more_barriergeeks_count"
+"count" "7"
+"target" "No_more_barriergeeks_activate"
+"origin" "4864 -1376 1208"
+"classname" "target_counter"
+}
+{
+"targetname" "No_more_barriergeeks_activate"
+"target" "No_more_barriergeeks_Trigger"
+"origin" "4880 -1312 1208"
+"classname" "target_activate"
+}
+{
+"target" "t21368"
+"targetname" "No_more_barriergeeks_Trigger"
+"classname" "trigger_once"
+"spawnflags" "129"
+"model" "*4"
+}
+{
+"deathscript" "hoth2/No_Moregeeks"
+"targetname" "t21367"
+"parm1" "IonGate_Probe_Dude"
+"spawnscript" "common/nav_goto"
+"angle" "180"
+"spawnflags" "16"
+"origin" "5408 -2016 1000"
+"classname" "NPC_Droid_Probe"
+}
+{
+"target" "t21367"
+"spawnflags" "1"
+"classname" "trigger_once"
+"model" "*5"
+}
+{
+"deathscript" "hoth2/No_Moregeeks"
+"spawnscript" "common/nav_goto"
+"parm1" "Barricade_Guard"
+"targetname" "t21367"
+"spawnflags" "16"
+"origin" "5668 -2112 992"
+"classname" "NPC_Snowtrooper"
+}
+{
+"deathscript" "hoth2/No_Moregeeks"
+"spawnscript" "common/nav_goto"
+"parm1" "Barricade_GuardA"
+"targetname" "t21367"
+"angle" "180"
+"spawnflags" "16"
+"origin" "5672 -2276 992"
+"classname" "NPC_Snowtrooper"
+}
+{
+"targetname" "Door_cam_angle"
+"origin" "6264 -2500 729"
+"classname" "info_notnull"
+}
+{
+"targetname" "Door_cam_Ref"
+"target" "Door_cam_angle"
+"origin" "6251 -2474 736"
+"classname" "ref_tag"
+}
+{
+"usescript" "common/Doorelsewhere"
+"targetname" "Open_elsewhere_runner"
+"origin" "6380 -2692 676"
+"classname" "target_scriptrunner"
+}
+{
+"targetname" "Center_Text_Trigger"
+"target" "Open_elsewhere_runner"
+"angle" "270"
+"spawnflags" "3"
+"classname" "trigger_once"
+"model" "*6"
+}
+{
+"targetname" "t21364"
+"parm1" "North_Probe_Dude_Run"
+"angle" "315"
+"spawnscript" "hoth2/nav_goto_lowvis"
+"deathscript" "hoth2/notheredeath_count"
+"spawnflags" "16"
+"origin" "-4264 -3800 964"
+"classname" "NPC_Droid_Probe"
+}
+{
+"target" "t21366"
+"spawnflags" "1"
+"classname" "trigger_once"
+"model" "*7"
+}
+{
+"targetname" "t21366"
+"spawnscript" "common/nav_goto"
+"parm1" "South_Probe_Dude_Run"
+"angle" "360"
+"spawnflags" "16"
+"origin" "-4044 504 992"
+"classname" "NPC_Droid_Probe"
+}
+{
+"usescript" "Hoth2/Aft_Wampa_obj"
+"targetname" "Wampa_Obj_runner"
+"origin" "-2604 3936 1104"
+"classname" "target_scriptrunner"
+}
+{
+"target" "Wampa_Obj_runner"
+"spawnflags" "1"
+"classname" "trigger_once"
+"model" "*8"
+}
+{
+"spawnscript" "common/nav_goto"
+"parm1" "run_Probe_ATAT"
+"targetname" "t21365"
+"angle" "90"
+"spawnflags" "16"
+"origin" "1256 -8356 968"
+"classname" "NPC_Droid_Probe"
+}
+{
+"target" "t21365"
+"spawnflags" "1"
+"classname" "trigger_once"
+"model" "*9"
+}
+{
+"target" "t21364"
+"spawnflags" "1"
+"classname" "trigger_once"
+"model" "*10"
+}
+{
+"angle" "360"
+"targetname" "t21363"
+"parm1" "run_Bbattle"
+"spawnflags" "16"
+"spawnscript" "hoth2/nav_goto_lowvis"
+"origin" "-4252 -5724 956"
+"classname" "NPC_Snowtrooper"
+}
+{
+"angle" "360"
+"targetname" "t21363"
+"spawnflags" "16"
+"spawnscript" "hoth2/nav_goto_lowvis"
+"parm1" "run_Bbattle4"
+"origin" "-4320 -5024 960"
+"classname" "NPC_Snowtrooper"
+}
+{
+"angle" "360"
+"targetname" "t21363"
+"parm1" "run_Bbattle2"
+"spawnflags" "16"
+"spawnscript" "hoth2/nav_goto_lowvis"
+"origin" "-4604 -4256 960"
+"classname" "NPC_Snowtrooper"
+}
+{
+"target" "t21363"
+"spawnflags" "1"
+"classname" "trigger_once"
+"model" "*11"
+}
+{
+"target" "t21362"
+"spawnflags" "1"
+"classname" "trigger_once"
+"model" "*12"
+}
+{
+"targetname" "t21361"
+"angle" "180"
+"spawnscript" "hoth2/nav_goto_lowvis"
+"parm1" "run_M2battle3"
+"spawnflags" "16"
+"origin" "1828 -6816 972"
+"classname" "NPC_Snowtrooper"
+}
+{
+"targetname" "t21361"
+"spawnscript" "hoth2/nav_goto_lowvis"
+"spawnflags" "16"
+"parm1" "run_M2battle5"
+"angle" "180"
+"origin" "1612 -7116 976"
+"classname" "NPC_Snowtrooper"
+}
+{
+"targetname" "t21361"
+"angle" "180"
+"parm1" "run_Mbattle"
+"spawnscript" "hoth2/nav_goto_lowvis"
+"spawnflags" "16"
+"origin" "1780 -6940 964"
+"classname" "NPC_Snowtrooper"
+}
+{
+"targetname" "AT_ST_Perim_Defense_activate"
+"target" "AT_ST_Perim_Defense"
+"origin" "-3728 -4048 1064"
+"classname" "target_activate"
+}
+{
+"target" "AT_ST_Perim_Defense_activate"
+"spawnflags" "1"
+"classname" "trigger_once"
+"model" "*13"
+}
+{
+"target" "t21361"
+"targetname" "AT_ST_Perim_Defense"
+"spawnflags" "129"
+"classname" "trigger_once"
+"model" "*14"
+}
+{
+"targetname" "t21360"
+"spawnscript" "hoth2/nav_goto_lowvis"
+"parm1" "run_M2battle4"
+"spawnflags" "16"
+"origin" "-260 -6652 956"
+"classname" "NPC_Snowtrooper"
+}
+{
+"parm1" "run_Mbattle3"
+"targetname" "t21360"
+"spawnscript" "hoth2/nav_goto_lowvis"
+"spawnflags" "16"
+"origin" "-960 -6060 944"
+"classname" "NPC_Snowtrooper"
+}
+{
+"targetname" "t21358"
+"origin" "5652 -3015 1911"
+"classname" "info_notnull"
+}
+{
+"target" "t21358"
+"targetname" "ion_tag_1"
+"origin" "5689 -2977 1887"
+"classname" "ref_tag"
+}
+{
+"target" "t21360"
+"spawnflags" "1"
+"classname" "trigger_once"
+"model" "*15"
+}
+{
+"target" "t21357"
+"spawnflags" "1"
+"classname" "trigger_once"
+"model" "*16"
+}
+{
+"targetname" "t21357"
+"parm1" "Probe_runA"
+"spawnscript" "common/nav_goto"
+"spawnflags" "16"
+"origin" "7004 -6560 984"
+"classname" "NPC_Droid_Probe"
+}
+{
+"usescript" "Hoth2/conversations/Ion_alert_voice"
+"targetname" "voice_script_ionroom"
+"origin" "6180 -2580 1512"
+"classname" "target_scriptrunner"
+}
+{
+"usescript" "Hoth2/atst_attack2"
+"targetname" "AT_ST_fieldrunner"
+"origin" "4224 -448 1176"
+"classname" "target_scriptrunner"
+}
+{
+"target" "AT_ST_fieldrunner"
+"spawnflags" "1"
+"classname" "trigger_once"
+"model" "*17"
+}
+{
+"target" "voice_script_ionroom"
+"spawnflags" "1"
+"classname" "trigger_once"
+"model" "*18"
+}
+{
+"angerscript" "common/mad_at_player_flush"
+"targetname" "t21351"
+"spawnflags" "16"
+"npc_targetname" "Ion_TrooperyapB"
+"angle" "180"
+"origin" "5860 -3172 656"
+"classname" "NPC_Snowtrooper"
+}
+{
+"usescript" "Hoth2/conversations/Ion_yap"
+"targetname" "Ion_Room_Trooperyap"
+"origin" "6364 -3052 712"
+"classname" "target_scriptrunner"
+}
+{
+"target" "Ion_Room_Trooperyap"
+"spawnflags" "1"
+"classname" "trigger_once"
+"model" "*19"
+}
+{
+"targetname" "t110"
+"spawnscript" "common/nav_goto"
+"parm1" "Mouse_Run"
+"spawnflags" "16"
+"painscript" "common/wander"
+"origin" "6462 -6048 564"
+"classname" "NPC_Droid_Mouse"
+}
+{
+"targetname" "t211"
+"spawnscript" "common/nav_goto"
+"painscript" "common/wander"
+"parm1" "Ion_Droid_Run"
+"spawnflags" "17"
+"origin" "6144 -3904 1528"
+"classname" "NPC_Droid_R2D2"
+}
+{
+"wait" "2"
+"soundSet" "hoth_cave"
+"spawnflags" "1"
+"classname" "trigger_multiple"
+"model" "*20"
+}
+{
+"wait" "2"
+"soundSet" "hoth_ext"
+"spawnflags" "1"
+"classname" "trigger_multiple"
+"model" "*21"
+}
+{
+"wait" "2"
+"spawnflags" "1"
+"soundSet" "hoth_cave"
+"classname" "trigger_multiple"
+"model" "*22"
+}
+{
+"wait" "2"
+"spawnflags" "1"
+"soundSet" "hoth_ext"
+"classname" "trigger_multiple"
+"model" "*23"
+}
+{
+"wait" "2"
+"soundSet" "hoth_cave"
+"spawnflags" "1"
+"classname" "trigger_multiple"
+"model" "*24"
+}
+{
+"wait" "2"
+"soundSet" "hoth_ext"
+"spawnflags" "1"
+"classname" "trigger_multiple"
+"model" "*25"
+}
+{
+"wait" "2"
+"spawnflags" "1"
+"soundSet" "hoth_ext"
+"classname" "trigger_multiple"
+"model" "*26"
+}
+{
+"wait" "2"
+"soundSet" "hoth_ext"
+"spawnflags" "1"
+"classname" "trigger_multiple"
+"model" "*27"
+}
+{
+"wait" "2"
+"spawnflags" "1"
+"soundSet" "hoth_ext"
+"classname" "trigger_multiple"
+"model" "*28"
+}
+{
+"wait" "2"
+"spawnflags" "1"
+"soundSet" "kejim_interior"
+"classname" "trigger_multiple"
+"model" "*29"
+}
+{
+"wait" "2"
+"spawnflags" "1"
+"soundSet" "kejim_interior"
+"classname" "trigger_multiple"
+"model" "*30"
+}
+{
+"wait" "2"
+"soundSet" "yavin_cave"
+"spawnflags" "1"
+"classname" "trigger_multiple"
+"model" "*31"
+}
+{
+"wait" "2"
+"spawnflags" "1"
+"soundSet" "yavin_cave"
+"classname" "trigger_multiple"
+"model" "*32"
+}
+{
+"wait" "2"
+"spawnflags" "1"
+"soundSet" "yavin_cave"
+"classname" "trigger_multiple"
+"model" "*33"
+}
+{
+"wait" "2"
+"spawnflags" "1"
+"soundSet" "yavin_cave"
+"classname" "trigger_multiple"
+"model" "*34"
+}
+{
+"wait" "2"
+"spawnflags" "1"
+"soundSet" "kejim_interior"
+"classname" "trigger_multiple"
+"model" "*35"
+}
+{
+"origin" "-4003 -3456 1000"
+"classname" "misc_shield_floor_unit"
+}
+{
+"origin" "-4005 -3376 1000"
+"classname" "misc_ammo_floor_unit"
+}
+{
+"origin" "6817 -5888 546"
+"classname" "ammo_tripmine"
+}
+{
+"origin" "6720 -6250 484"
+"classname" "misc_shield_floor_unit"
+}
+{
+"origin" "6294 -3892 702"
+"classname" "item_medpak_instant"
+}
+{
+"origin" "5946 -3818 1496"
+"classname" "misc_shield_floor_unit"
+}
+{
+"origin" "5946 -3420 1496"
+"classname" "misc_ammo_floor_unit"
+}
+{
+"origin" "-4120 88 1130"
+"classname" "item_shield_sm_instant"
+}
+{
+"origin" "-4197 4947 898"
+"classname" "item_shield_lrg_instant"
+}
+{
+"angle" "225"
+"origin" "2323 6987 954"
+"classname" "misc_ammo_floor_unit"
+}
+{
+"spawnflags" "1024"
+"origin" "-5319 10497 1085"
+"classname" "item_shield_sm_instant"
+}
+{
+"target" "Level_save2"
+"spawnflags" "1"
+"classname" "trigger_once"
+"model" "*36"
+}
+{
+"target" "Level_save1"
+"spawnflags" "1"
+"classname" "trigger_once"
+"model" "*37"
+}
+{
+"soundSet" "console3"
+"spawnflags" "1"
+"origin" "1021 -7953 877"
+"classname" "target_speaker"
+}
+{
+"soundSet" "console3"
+"spawnflags" "1"
+"origin" "2373 -915 962"
+"classname" "target_speaker"
+}
+{
+"soundSet" "console3"
+"spawnflags" "1"
+"origin" "-4821 683 1040"
+"classname" "target_speaker"
+}
+{
+"soundSet" "console3"
+"spawnflags" "1"
+"origin" "-2404 362 975"
+"classname" "target_speaker"
+}
+{
+"soundSet" "console3"
+"spawnflags" "1"
+"origin" "428 6109 1036"
+"classname" "target_speaker"
+}
+{
+"soundSet" "console3"
+"spawnflags" "1"
+"origin" "2304 6887 1037"
+"classname" "target_speaker"
+}
+{
+"wait" "2"
+"spawnflags" "1"
+"soundSet" "kejim_interior"
+"classname" "trigger_multiple"
+"model" "*38"
+}
+{
+"wait" "2"
+"spawnflags" "1"
+"soundSet" "doom_maintenance"
+"classname" "trigger_multiple"
+"model" "*39"
+}
+{
+"wait" "2"
+"soundSet" "doom_maintenance"
+"spawnflags" "1"
+"classname" "trigger_multiple"
+"model" "*40"
+}
+{
+"soundSet" "console8"
+"spawnflags" "1"
+"origin" "5930 -3622 1544"
+"classname" "target_speaker"
+}
+{
+"soundSet" "console20"
+"spawnflags" "1"
+"origin" "6492 -3456 1506"
+"classname" "target_speaker"
+}
+{
+"soundSet" "console17"
+"spawnflags" "1"
+"origin" "6016 -3136 1490"
+"classname" "target_speaker"
+}
+{
+"wait" "2"
+"soundSet" "ns_street2"
+"spawnflags" "1"
+"classname" "trigger_multiple"
+"model" "*41"
+}
+{
+"wait" "2"
+"spawnflags" "1"
+"soundSet" "cairn_redbeam"
+"classname" "trigger_multiple"
+"model" "*42"
+}
+{
+"wait" "2"
+"spawnflags" "1"
+"soundSet" "cairn_redbeam"
+"classname" "trigger_multiple"
+"model" "*43"
+}
+{
+"targetname" "wintergear"
+"usescript" "hoth2/playerwintergear"
+"origin" "-2280 9976 1032"
+"classname" "target_scriptrunner"
+}
+{
+"targetname" "t21352"
+"spawnflags" "16"
+"angle" "90"
+"origin" "5624 -4260 688"
+"classname" "NPC_Snowtrooper"
+}
+{
+"targetname" "t21352"
+"angle" "180"
+"spawnflags" "784"
+"origin" "5936 -4140 680"
+"classname" "NPC_Snowtrooper"
+}
+{
+"targetname" "t21352"
+"angle" "180"
+"spawnflags" "784"
+"origin" "5812 -4248 680"
+"classname" "NPC_Snowtrooper"
+}
+{
+"targetname" "t21352"
+"angle" "180"
+"spawnflags" "16"
+"origin" "5740 -4160 680"
+"classname" "NPC_Snowtrooper"
+}
+{
+"target" "t21352"
+"spawnflags" "1"
+"classname" "trigger_once"
+"model" "*44"
+}
+{
+"target" "t21351"
+"spawnflags" "1"
+"classname" "trigger_once"
+"model" "*45"
+}
+{
+"angerscript" "common/mad_at_player_flush"
+"targetname" "t21351"
+"spawnscript" "BS_SEARCH"
+"angle" "90"
+"spawnflags" "16"
+"origin" "5824 -3684 586"
+"classname" "NPC_Snowtrooper"
+}
+{
+"angerscript" "common/mad_at_player_flush"
+"targetname" "t21351"
+"spawnscript" "BS_WANDER"
+"angle" "90"
+"spawnflags" "16"
+"origin" "5856 -3936 650"
+"classname" "NPC_Snowtrooper"
+}
+{
+"angerscript" "common/mad_at_player_flush"
+"npc_targetname" "Ion_TrooperyapA"
+"targetname" "t21351"
+"angle" "360"
+"spawnflags" "16"
+"origin" "5792 -3172 650"
+"classname" "NPC_Snowtrooper"
+}
+{
+"soundSet" "door_small3"
+"team" "Ion_Exit_Door"
+"angle" "90"
+"classname" "func_door"
+"model" "*46"
+}
+{
+"soundSet" "door_small3"
+"team" "Ion_Exit_Door"
+"angle" "270"
+"classname" "func_door"
+"model" "*47"
+}
+{
+"parm3" "Hall_Entrance"
+"usescript" "common/switch_once_Doorcam"
+"parm1" "4"
+"parm2" "1000"
+"spawnflags" "193"
+"angle" "180"
+"model" "models/map_objects/imperial/switch.md3"
+"origin" "6479 -3456 1468"
+"classname" "misc_model_breakable"
+}
+{
+"target" "t21347"
+"spawnflags" "257"
+"classname" "trigger_once"
+"model" "*48"
+}
+{
+"targetname" "t21347"
+"angle" "360"
+"spawnflags" "272"
+"origin" "868 -7972 545"
+"classname" "NPC_Snowtrooper"
+}
+{
+"angle" "360"
+"targetname" "t21347"
+"spawnflags" "272"
+"origin" "804 -8028 545"
+"classname" "NPC_Snowtrooper"
+}
+{
+"angle" "360"
+"targetname" "t21347"
+"spawnflags" "272"
+"origin" "848 -8080 545"
+"classname" "NPC_Snowtrooper"
+}
+{
+"target" "AT_ST_IONEntrance"
+"spawnflags" "1"
+"classname" "trigger_once"
+"model" "*49"
+}
+{
+"target" "Secrets"
+"spawnflags" "1"
+"classname" "trigger_once"
+"model" "*50"
+}
+{
+"classname" "item_medpak_instant"
+"origin" "-5102 -6582 862"
+}
+{
+"origin" "-5120 -6554 854"
+"classname" "ammo_tripmine"
+}
+{
+"classname" "item_medpak_instant"
+"spawnflags" "1536"
+"origin" "-4896 -3536 1056"
+}
+{
+"classname" "item_medpak_instant"
+"spawnflags" "1024"
+"origin" "-4904 -3568 1056"
+}
+{
+"classname" "item_medpak_instant"
+"spawnflags" "1024"
+"origin" "-4864 -3532 1056"
+}
+{
+"soundSet" "door_small3"
+"team" "Exit_Hall_Near"
+"classname" "func_door"
+"angle" "180"
+"model" "*51"
+}
+{
+"soundSet" "door_small3"
+"team" "Exit_Hall_Near"
+"angle" "360"
+"classname" "func_door"
+"model" "*52"
+}
+{
+"soundSet" "door_small3"
+"classname" "func_door"
+"angle" "90"
+"team" "Final_Hall_Door"
+"model" "*53"
+}
+{
+"soundSet" "door_small3"
+"angle" "270"
+"classname" "func_door"
+"team" "Final_Hall_Door"
+"model" "*54"
+}
+{
+"classname" "ref_tag"
+"targetname" "newcam02"
+"origin" "-2247 9951 1045"
+"angles" "-3 86 0"
+"fov" "80"
+}
+{
+"classname" "ref_tag"
+"targetname" "newcam03"
+"origin" "-2300 10030 1056"
+"angles" "3 -32 0"
+"fov" "80"
+}
+{
+"classname" "ref_tag"
+"targetname" "newcam04"
+"origin" "-2300 10030 1056"
+"angles" "2 -27 0"
+"fov" "20"
+}
+{
+"classname" "ref_tag"
+"targetname" "newcam01"
+"origin" "-2272 9999 1064"
+"angles" "9 104 0"
+"fov" "80"
+}
+{
+"targetname" "set"
+"origin" "-2286 10006 1082"
+"usescript" "hoth2/intro1"
+"classname" "target_scriptrunner"
+}
+{
+"target" "set"
+"classname" "trigger_once"
+"model" "*55"
+}
+{
+"deathscript" "hoth2/troop1death"
+"classname" "NPC_Snowtrooper"
+"origin" "3254 -1724 1074"
+"spawnflags" "16"
+"angle" "315"
+"NPC_targetname" "npc_ewebguy2"
+"targetname" "t74"
+}
+{
+"targetname" "t21315"
+"classname" "target_scriptrunner"
+"origin" "1508 -8632 1048"
+"usescript" "hoth2/eweb"
+"parm1" "npc_ewebguy3"
+"parm2" "eweb3"
+"parm3" "nav_eweb3"
+}
+{
+"target" "t21315"
+"targetname" "t812"
+"spawnflags" "1"
+"classname" "trigger_once"
+"model" "*56"
+}
+{
+"deathscript" "hoth2/No_Moregeeks"
+"spawnscript" "hoth2/atst_guard"
+"health" "1000"
+"npc_targetname" "atst"
+"classname" "NPC_Droid_ATST"
+"origin" "4760 -1536 1001"
+"targetname" "AT_ST_IONEntrance"
+"angle" "135"
+"spawnflags" "16"
+}
+{
+"classname" "target_scriptrunner"
+"origin" "5072 -5468 1056"
+"usescript" "hoth2/gorunners"
+"spawnflags" "1"
+"targetname" "t1078"
+}
+{
+"classname" "item_shield_lrg_instant"
+"origin" "4806 -5440 930"
+}
+{
+"origin" "4806 -5414 930"
+"classname" "item_medpak_instant"
+}
+{
+"spawnflags" "6"
+"classname" "emplaced_eweb"
+"origin" "4709 -5468 950"
+"angle" "180"
+}
+{
+"targetname" "script_thereecho"
+"spawnflags" "1"
+"origin" "-5080 -3664 1120"
+"classname" "target_scriptrunner"
+"Usescript" "hoth2/echobase"
+}
+{
+"npc_targetname" "npc_strooper10"
+"deathscript" "hoth2/ewebtroop_death"
+"classname" "NPC_Snowtrooper"
+"origin" "2512 -5192 948"
+"spawnflags" "16"
+"angle" "360"
+"targetname" "t160"
+}
+{
+"npc_targetname" "npc_strooper11"
+"deathscript" "hoth2/ewebtroop_death"
+"classname" "NPC_Snowtrooper"
+"origin" "2684 -5072 948"
+"spawnflags" "16"
+"angle" "360"
+"targetname" "t160"
+}
+{
+"npc_targetname" "npc_strooper5"
+"deathscript" "hoth2/ewebtroop_death"
+"classname" "NPC_Snowtrooper"
+"origin" "2824 -5284 948"
+"spawnflags" "16"
+"angle" "360"
+"targetname" "t160"
+}
+{
+"npc_targetname" "npc_strooper3"
+"deathscript" "hoth2/ewebtroop_death"
+"angle" "360"
+"spawnflags" "16"
+"origin" "3374 -5702 972"
+"classname" "NPC_Snowtrooper"
+"targetname" "t159"
+}
+{
+"targetname" "nothere_count"
+"count" "3"
+"target" "t1086"
+"origin" "-5048 -3536 1208"
+"classname" "target_counter"
+}
+{
+"targetname" "t1086"
+"target" "t1085"
+"origin" "-5032 -3472 1208"
+"classname" "target_activate"
+}
+{
+"spawnflags" "1"
+"targetname" "t1084"
+"origin" "-5040 -3328 1120"
+"classname" "target_scriptrunner"
+"Usescript" "hoth2/snowdrift"
+}
+{
+"targetname" "t1085"
+"target" "t1084"
+"spawnflags" "129"
+"classname" "trigger_once"
+"model" "*57"
+}
+{
+"targetname" "t1083"
+"target" "t1082"
+"origin" "2256 -1592 1208"
+"classname" "target_activate"
+}
+{
+"target" "t1083"
+"targetname" "troop1death_count"
+"count" "5"
+"origin" "2256 -1336 1000"
+"classname" "target_counter"
+}
+{
+"target" "t1081"
+"targetname" "t1080"
+"origin" "2564 -5200 968"
+"classname" "target_activate"
+}
+{
+"target" "t1080"
+"targetname" "ewebtroopdeath_count"
+"count" "11"
+"origin" "2492 -5132 968"
+"classname" "target_counter"
+}
+{
+"npc_targetname" "npc_strooper1"
+"deathscript" "hoth2/ewebtroop_death"
+"classname" "NPC_Snowtrooper"
+"origin" "2756 -5504 960"
+"spawnflags" "16"
+"angle" "360"
+"targetname" "t160"
+}
+{
+"npc_targetname" "npc_strooper8"
+"deathscript" "hoth2/ewebtroop_death"
+"angle" "360"
+"spawnflags" "16"
+"origin" "3644 -5196 968"
+"classname" "NPC_Snowtrooper"
+"targetname" "t160"
+}
+{
+"npc_targetname" "npc_strooper9"
+"deathscript" "hoth2/ewebtroop_death"
+"classname" "NPC_Snowtrooper"
+"origin" "2620 -5626 968"
+"spawnflags" "16"
+"angle" "45"
+"targetname" "t159"
+}
+{
+"npc_targetname" "npc_strooper4"
+"deathscript" "hoth2/ewebtroop_death"
+"angle" "360"
+"spawnflags" "16"
+"origin" "2880 -5060 962"
+"classname" "NPC_Snowtrooper"
+"targetname" "t160"
+}
+{
+"npc_targetname" "npc_strooper6"
+"deathscript" "hoth2/ewebtroop_death"
+"angle" "360"
+"spawnflags" "16"
+"origin" "2918 -5574 972"
+"classname" "NPC_Snowtrooper"
+"targetname" "t159"
+}
+{
+"npc_targetname" "npc_strooper7"
+"deathscript" "hoth2/ewebtroop_death"
+"classname" "NPC_Snowtrooper"
+"origin" "3112 -5684 948"
+"spawnflags" "16"
+"angle" "360"
+"targetname" "t160"
+}
+{
+"targetname" "t1079"
+"spawnflags" "1"
+"usescript" "hoth2/followlight"
+"origin" "2556 -5128 1096"
+"classname" "target_scriptrunner"
+}
+{
+"targetname" "t1081"
+"target" "t1079"
+"spawnflags" "129"
+"classname" "trigger_once"
+"model" "*58"
+}
+{
+"spawnflags" "1"
+"target" "t1078"
+"classname" "trigger_once"
+"model" "*59"
+}
+{
+"npc_targetname" "npc_strooper2"
+"deathscript" "hoth2/ewebtroop_death"
+"targetname" "t159"
+"angle" "45"
+"spawnflags" "16"
+"origin" "3376 -5130 956"
+"classname" "NPC_Snowtrooper"
+}
+{
+"spawnflags" "1"
+"usescript" "hoth2/fireion"
+"count" "-1"
+"targetname" "t1077"
+"origin" "6088 -3140 1504"
+"classname" "target_scriptrunner"
+}
+{
+"target" "t1077"
+"wait" "6"
+"angle" "180"
+"spawnflags" "7"
+"classname" "trigger_multiple"
+"model" "*60"
+}
+{
+"classname" "item_medpak_instant"
+"origin" "408 772 960"
+}
+{
+"angle" "135"
+"origin" "3196 -1320 1048"
+"classname" "item_shield_sm_instant"
+}
+{
+"usescript" "common/DoorOpenedElsewhere"
+"count" "-1"
+"spawnflags" "1"
+"targetname" "t1068"
+"origin" "6370 -2634 676"
+"classname" "target_scriptrunner"
+}
+{
+"targetname" "Hall_Entrance"
+"target" "t1067"
+"origin" "6330 -2634 676"
+"classname" "target_deactivate"
+}
+{
+"target" "t1068"
+"targetname" "t1067"
+"wait" "10"
+"spawnflags" "1"
+"classname" "trigger_multiple"
+"model" "*61"
+}
+{
+"angle" "135"
+"origin" "3252 -1268 1042"
+"classname" "item_medpak_instant"
+}
+{
+"origin" "6340 -4582 626"
+"classname" "item_shield_sm_instant"
+}
+{
+"origin" "5836 -3508 592"
+"classname" "item_medpak_instant"
+}
+{
+"classname" "item_medpak_instant"
+"origin" "1096 -7888 1088"
+}
+{
+"spawnscript" "common/nav_goto_lowvis"
+"parm1" "run_Probe_ATAT"
+"targetname" "t174"
+"classname" "NPC_Snowtrooper"
+"origin" "1016 -8608 952"
+"spawnflags" "16"
+"angle" "225"
+}
+{
+"usescript" "Hoth2/atst_attack"
+"health" "500"
+"spawnflags" "8"
+"angle" "135"
+"origin" "3154 -1220 1042"
+"classname" "emplaced_eweb"
+"targetname" "eweb2"
+}
+{
+"targetname" "t21362"
+"classname" "NPC_Snowtrooper"
+"origin" "1200 -8112 820"
+"spawnflags" "16"
+"angle" "90"
+}
+{
+"targetname" "getin_count"
+"target" "t1064"
+"count" "3"
+"origin" "-4192 568 968"
+"classname" "target_counter"
+}
+{
+"usescript" "hoth2/getin"
+"spawnflags" "1"
+"targetname" "t1064"
+"origin" "-4208 392 960"
+"classname" "target_scriptrunner"
+}
+{
+"autobound" "1"
+"mins" "-10 -12 0"
+"maxs" "10 12 128"
+"redcrosshair" "1"
+"modelscale" "2"
+"classname" "misc_model_breakable"
+"origin" "907 -8271 897"
+"model" "models/map_objects/imperial/field_post.md3"
+"target" "AT_AT_counter1"
+"spawnflags" "73"
+"splashDamage" "25"
+"health" "50"
+"material" "3"
+}
+{
+"autobound" "1"
+"mins" "-10 -12 0"
+"maxs" "10 12 128"
+"redcrosshair" "1"
+"modelscale" "2"
+"classname" "misc_model_breakable"
+"origin" "1123 -8271 897"
+"model" "models/map_objects/imperial/field_post.md3"
+"angle" "180"
+"spawnflags" "73"
+"health" "50"
+"target" "AT_AT_counter1"
+"splashDamage" "1"
+"material" "3"
+}
+{
+"classname" "target_counter"
+"origin" "1024 -8305 960"
+"targetname" "AT_AT_counter1"
+"count" "1"
+"target" "AT_AT_forcefield"
+}
+{
+"classname" "target_scriptrunner"
+"origin" "1041 -8324 960"
+"usescript" "Hoth2/Forcefields/AT_AT_field_off"
+"targetname" "AT_AT_forcefield"
+}
+{
+"soundSet" "forcefield"
+"classname" "func_usable"
+"targetname" "AT_AT_forcefield"
+"model" "*62"
+}
+{
+"target" "Secrets"
+"spawnflags" "1"
+"classname" "trigger_once"
+"model" "*63"
+}
+{
+"origin" "6208 -2416 1556"
+"classname" "item_shield_lrg_instant"
+}
+{
+"targetname" "break_glass"
+"material" "1"
+"noise" "sound/effects/glassbreak1.mp3"
+"spawnflags" "1"
+"classname" "func_breakable"
+"model" "*64"
+}
+{
+"spawnflags" "1"
+"target" "Secrets"
+"classname" "trigger_once"
+"model" "*65"
+}
+{
+"origin" "6018 -4246 1536"
+"classname" "ammo_thermal"
+}
+{
+"usescript" "Hoth2/Secrets/breakable_glass"
+"targetname" "breakable_glass_script"
+"origin" "6080 -3968 1552"
+"classname" "target_scriptrunner"
+}
+{
+"targetname" "breakable_glass_button"
+"target" "breakable_glass_script"
+"spawnflags" "1"
+"classname" "func_static"
+"origin" "6120 -4064 1568"
+"model" "*66"
+}
+{
+"soundSet" "door_small3"
+"team" "Hall_Door"
+"targetname" "Hall_Entrance"
+"angle" "360"
+"spawnflags" "16"
+"classname" "func_door"
+"model" "*67"
+}
+{
+"soundSet" "door_small3"
+"angle" "180"
+"targetname" "Hall_Entrance"
+"team" "Hall_Door"
+"spawnflags" "16"
+"classname" "func_door"
+"model" "*68"
+}
+{
+"origin" "-5334 10466 1077"
+"classname" "ammo_tripmine"
+}
+{
+"classname" "item_medpak_instant"
+"origin" "-5288 10465 1069"
+}
+{
+"target" "Secrets"
+"spawnflags" "1"
+"classname" "trigger_once"
+"model" "*73"
+}
+{
+"target" "Secrets"
+"spawnflags" "1"
+"classname" "trigger_once"
+"model" "*74"
+}
+{
+"target" "Secrets"
+"spawnflags" "1"
+"classname" "trigger_once"
+"model" "*75"
+}
+{
+"material" "0"
+"spawnflags" "16"
+"classname" "func_breakable"
+"model" "*76"
+}
+{
+"origin" "-2304 10240 1088"
+"classname" "fx_snow"
+}
+{
+"targetname" "t1065"
+"classname" "target_scriptrunner"
+"origin" "3940 -1596 1048"
+"usescript" "hoth2/eweb"
+"parm1" "npc_ewebguy2"
+"parm2" "eweb2"
+"parm3" "nav_eweb2"
+}
+{
+"target" "t1065"
+"targetname" "t812"
+"spawnflags" "1"
+"classname" "trigger_once"
+"model" "*83"
+}
+{
+"parm3" "nav_eweb1"
+"parm2" "eweb1"
+"parm1" "npc_ewebguy1"
+"usescript" "hoth2/eweb"
+"targetname" "t811"
+"origin" "1552 6544 1048"
+"classname" "target_scriptrunner"
+}
+{
+"spawnflags" "1"
+"target" "t811"
+"classname" "trigger_once"
+"model" "*84"
+}
+{
+"spawnflags" "4"
+"angle" "135"
+"origin" "1054 -7924 1069"
+"classname" "emplaced_eweb"
+"targetname" "eweb3"
+}
+{
+"targetname" "eweb1"
+"spawnflags" "4"
+"angle" "45"
+"origin" "1002 5660 952"
+"classname" "emplaced_eweb"
+}
+{
+"count" "-1"
+"usescript" "Hoth2/Elevators/elevator1_up"
+"parm1" "elevator1"
+"targetname" "t810"
+"origin" "6642 -6244 536"
+"classname" "target_scriptrunner"
+}
+{
+"target" "t810"
+"angle" "360"
+"wait" "3"
+"spawnflags" "5"
+"classname" "trigger_multiple"
+"model" "*85"
+}
+{
+"targetname" "tag_down1"
+"classname" "ref_tag"
+"origin" "6484 -6200 488"
+}
+{
+"targetname" "tag_up1"
+"classname" "ref_tag"
+"origin" "6484 -6200 928"
+}
+{
+"dmg" "5000"
+"spawnflags" "8"
+"soundset" "platform"
+"script_targetname" "elevator1"
+"classname" "func_static"
+"origin" "6484 -6200 490"
+"model" "*86"
+}
+{
+"targetname" "el1_trigger"
+"target" "t810"
+"wait" "10"
+"spawnflags" "1"
+"classname" "trigger_multiple"
+"model" "*87"
+}
+{
+"targetname" "el1_deact"
+"target" "el1_trigger"
+"origin" "6488 -6100 956"
+"classname" "target_deactivate"
+}
+{
+"targetname" "el1_act"
+"target" "el1_trigger"
+"origin" "6504 -6100 956"
+"classname" "target_activate"
+}
+{
+"soundSet" "door_small3"
+"team" "d7"
+"classname" "func_door"
+"angle" "360"
+"model" "*88"
+}
+{
+"soundSet" "door_small3"
+"team" "d7"
+"angle" "180"
+"classname" "func_door"
+"model" "*89"
+}
+{
+"soundSet" "door_small3"
+"team" "d4"
+"classname" "func_door"
+"angle" "270"
+"model" "*90"
+}
+{
+"soundSet" "door_small3"
+"team" "d4"
+"angle" "90"
+"classname" "func_door"
+"model" "*91"
+}
+{
+"angle" "90"
+"classname" "trigger_once"
+"spawnflags" "3"
+"target" "script_thereecho"
+"model" "*92"
+}
+{
+"Usescript" "hoth2/impshere"
+"spawnflags" "1"
+"targetname" "script_troopshere"
+"origin" "1573 8720 1114"
+"classname" "target_scriptrunner"
+}
+{
+"target" "script_troopshere"
+"spawnflags" "1"
+"classname" "trigger_once"
+"model" "*93"
+}
+{
+"targetname" "wamp1_tag1"
+"origin" "-2628 5419 966"
+"classname" "ref_tag"
+}
+{
+"classname" "ref_tag"
+"origin" "-3126 5366 974"
+"angle" "135"
+"targetname" "cam2_wamp1"
+}
+{
+"targetname" "cam1_wamp1"
+"angle" "35"
+"origin" "-2681 5373 966"
+"classname" "ref_tag"
+}
+{
+"classname" "func_usable"
+"targetname" "a5"
+"model" "*94"
+}
+{
+"classname" "target_activate"
+"origin" "6256 -2100 988"
+"target" "el2_trigger"
+"targetname" "el2_act"
+}
+{
+"classname" "target_deactivate"
+"origin" "6240 -2100 988"
+"target" "el2_trigger"
+"targetname" "el2_deact"
+}
+{
+"classname" "trigger_multiple"
+"spawnflags" "1"
+"wait" "10"
+"target" "t30"
+"targetname" "el2_trigger"
+"model" "*95"
+}
+{
+"dmg" "5000"
+"spawnflags" "8"
+"classname" "func_static"
+"script_targetname" "elevator2"
+"soundset" "platform"
+"origin" "6204 -1996 952"
+"model" "*96"
+}
+{
+"soundSet" "door_small3"
+"angle" "-1"
+"classname" "func_door"
+"model" "*97"
+}
+{
+"spawnflags" "8"
+"dmg" "5000"
+"soundset" "platform"
+"script_targetname" "elevator3"
+"classname" "func_static"
+"origin" "6204 -2540 962"
+"model" "*98"
+}
+{
+"targetname" "el3_deact"
+"target" "el3_trigger"
+"origin" "6248 -2396 1028"
+"classname" "target_deactivate"
+}
+{
+"targetname" "el3_act"
+"target" "el3_trigger"
+"origin" "6232 -2396 1028"
+"classname" "target_activate"
+}
+{
+"targetname" "t21362"
+"classname" "NPC_Snowtrooper"
+"origin" "1184 -7952 808"
+"spawnflags" "16"
+"angle" "135"
+}
+{
+"spawnflags" "1"
+"target" "t174"
+"classname" "trigger_once"
+"model" "*99"
+}
+{
+"targetname" "t161"
+"angle" "90"
+"origin" "1043 -8019 1082"
+"classname" "NPC_Snowtrooper"
+"NPC_targetname" "npc_ewebguy3"
+}
+{
+"spawnflags" "1"
+"target" "t161"
+"classname" "trigger_once"
+"model" "*100"
+}
+{
+"targetname" "t110"
+"classname" "NPC_Snowtrooper"
+"origin" "6944 -5856 952"
+"spawnflags" "16"
+"angle" "225"
+"NPC_targetname" "Snowtrooper_Eion"
+"spawnscript" "Hoth2/NPC/troopers_Eion"
+}
+{
+"targetname" "t110"
+"spawnscript" "Hoth2/NPC/troopers_Eion2"
+"NPC_targetname" "Snowtrooper_Eion1"
+"angle" "270"
+"spawnflags" "16"
+"origin" "6816 -5600 952"
+"classname" "NPC_Snowtrooper"
+}
+{
+"targetname" "t110"
+"classname" "NPC_Snowtrooper"
+"origin" "6048 -5664 952"
+"spawnflags" "16"
+"angle" "315"
+"NPC_targetname" "Snowtrooper_Eion2"
+"spawnscript" "Hoth2/NPC/troopers_Eion3"
+}
+{
+"origin" "-4260 4879 892"
+"classname" "ammo_tripmine"
+}
+{
+"spawnflags" "1536"
+"origin" "-4260 4943 892"
+"classname" "ammo_blaster"
+}
+{
+"spawnflags" "1024"
+"classname" "item_medpak_instant"
+"origin" "-4164 4911 892"
+}
+{
+"classname" "item_medpak_instant"
+"origin" "-4196 4879 892"
+}
+{
+"origin" "6984 -6008 972"
+"classname" "ammo_blaster"
+}
+{
+"classname" "item_medpak_instant"
+"origin" "6552 -5384 1072"
+}
+{
+"targetname" "t110"
+"classname" "NPC_Snowtrooper"
+"origin" "6672 -5808 516"
+"angle" "90"
+"spawnflags" "16"
+}
+{
+"targetname" "t110"
+"spawnflags" "16"
+"angle" "90"
+"origin" "6332 -5936 516"
+"classname" "NPC_Snowtrooper"
+}
+{
+"target" "t110"
+"classname" "trigger_once"
+"model" "*101"
+}
+{
+"target" "t109"
+"classname" "trigger_once"
+"model" "*102"
+}
+{
+"deathscript" "hoth2/No_Moregeeks"
+"targetname" "t74"
+"angle" "135"
+"spawnflags" "16"
+"origin" "4610 -2466 1058"
+"classname" "NPC_Snowtrooper"
+}
+{
+"spawnflags" "1"
+"target" "t74"
+"classname" "trigger_once"
+"model" "*103"
+}
+{
+"deathscript" "hoth2/No_Moregeeks"
+"targetname" "t74"
+"classname" "NPC_Snowtrooper"
+"origin" "5556 -1996 992"
+"spawnflags" "16"
+"angle" "180"
+"NPC_targetname" "Snowtrooper_OIon"
+"spawnscript" "Hoth2/NPC/troopers_OIon"
+}
+{
+"spawnscript" "common/nav_goto"
+"parm1" "run_central1"
+"deathscript" "hoth2/death_getincount"
+"angle" "45"
+"spawnflags" "16"
+"origin" "-4882 594 952"
+"classname" "NPC_Snowtrooper"
+"targetname" "t71"
+}
+{
+"spawnflags" "1"
+"target" "t71"
+"classname" "trigger_once"
+"model" "*104"
+}
+{
+"parm1" "run_central3"
+"deathscript" "hoth2/death_getincount"
+"spawnscript" "common/nav_goto"
+"angle" "360"
+"spawnflags" "16"
+"targetname" "t71"
+"origin" "-3778 514 1036"
+"classname" "NPC_Snowtrooper"
+}
+{
+"angle" "360"
+"spawnflags" "16"
+"origin" "720 6202 952"
+"classname" "NPC_Snowtrooper"
+"targetname" "t66"
+}
+{
+"angle" "90"
+"targetname" "t66"
+"spawnflags" "16"
+"origin" "1632 6944 984"
+"classname" "NPC_Snowtrooper"
+}
+{
+"angle" "135"
+"targetname" "t66"
+"spawnflags" "16"
+"origin" "2116 6884 984"
+"classname" "NPC_Snowtrooper"
+}
+{
+"spawnflags" "2"
+"angle" "315"
+"origin" "-2312 9856 1041"
+"classname" "info_player_deathmatch"
+}
+{
+"NPC_type" "tauntaun"
+"origin" "-2814 410 960"
+"classname" "NPC_Vehicle"
+"targetname" "t72"
+"angle" "135"
+}
+{
+"origin" "6204 -1996 950"
+"classname" "ref_tag"
+"targetname" "tag_up2"
+}
+{
+"origin" "6204 -1996 636"
+"classname" "ref_tag"
+"targetname" "tag_down2"
+}
+{
+"classname" "trigger_multiple"
+"spawnflags" "7"
+"wait" "3"
+"angle" "90"
+"target" "t30"
+"model" "*105"
+}
+{
+"classname" "target_scriptrunner"
+"origin" "6254 -2052 664"
+"targetname" "t30"
+"parm1" "elevator2"
+"usescript" "Hoth2/Elevators/elevator2_up"
+"count" "-1"
+}
+{
+"spawnflags" "16"
+"classname" "NPC_Snowtrooper"
+"spawnscript" "Hoth2/NPC/troopers_Field3"
+"angle" "90"
+"NPC_targetname" "Snowtrooper3"
+"origin" "2456 7268 992"
+"targetname" "t66"
+}
+{
+"spawnflags" "1"
+"classname" "trigger_once"
+"target" "t66"
+"model" "*106"
+}
+{
+"spawnflags" "16"
+"classname" "NPC_Snowtrooper"
+"spawnscript" "Hoth2/NPC/troopers_Field"
+"angle" "135"
+"NPC_targetname" "Snowtrooper1"
+"targetname" "t66"
+"origin" "1948 7008 984"
+}
+{
+"spawnflags" "16"
+"classname" "NPC_Snowtrooper"
+"angle" "135"
+"NPC_targetname" "Snowtrooper2"
+"spawnscript" "Hoth2/NPC/troopers_Field2"
+"origin" "1948 7200 988"
+"targetname" "t66"
+}
+{
+"spawnflags" "16"
+"targetname" "t66"
+"origin" "1056 6240 960"
+"NPC_targetname" "Snowtrooper4"
+"angle" "360"
+"spawnscript" "Hoth2/NPC/troopers_Field4"
+"classname" "NPC_Snowtrooper"
+}
+{
+"spawnflags" "16"
+"classname" "NPC_Snowtrooper"
+"spawnscript" "Hoth2/NPC/troopers_Field5"
+"angle" "360"
+"NPC_targetname" "Snowtrooper5"
+"origin" "1568 6432 952"
+"targetname" "t66"
+}
+{
+"spawnflags" "1"
+"classname" "trigger_once"
+"target" "t73"
+"model" "*107"
+}
+{
+"spawnflags" "1"
+"classname" "trigger_once"
+"target" "t72"
+"model" "*108"
+}
+{
+"classname" "NPC_Snowtrooper"
+"origin" "478 720 952"
+"spawnflags" "16"
+"targetname" "t72"
+"angle" "45"
+}
+{
+"classname" "NPC_Snowtrooper"
+"origin" "554 750 960"
+"spawnflags" "16"
+"angle" "225"
+"targetname" "t73"
+}
+{
+"deathscript" "hoth2/troop1death"
+"angle" "180"
+"spawnflags" "16"
+"origin" "2249 -940 944"
+"classname" "NPC_Snowtrooper"
+"targetname" "t73"
+}
+{
+"deathscript" "hoth2/No_Moregeeks"
+"parm1" "run_Cback2"
+"targetname" "t73"
+"classname" "NPC_Snowtrooper"
+"origin" "2993 788 1064"
+"spawnflags" "16"
+"angle" "270"
+"spawnscript" "common/nav_goto"
+}
+{
+"deathscript" "hoth2/troop1death"
+"angle" "45"
+"spawnflags" "16"
+"origin" "2052 -825 944"
+"classname" "NPC_Snowtrooper"
+"targetname" "t73"
+}
+{
+"deathscript" "hoth2/troop1death"
+"classname" "NPC_Snowtrooper"
+"origin" "2286 -864 952"
+"spawnflags" "16"
+"targetname" "t73"
+"angle" "180"
+}
+{
+"spawnflags" "1"
+"classname" "trigger_once"
+"target" "t205"
+"model" "*109"
+}
+{
+"classname" "ammo_tripmine"
+"origin" "-4664 888 988"
+}
+{
+"classname" "item_medpak_instant"
+"origin" "-4808 416 940"
+}
+{
+"classname" "ammo_thermal"
+"origin" "-4072 232 1072"
+}
+{
+"classname" "ammo_blaster"
+"origin" "7040 -6696 972"
+}
+{
+"classname" "ammo_thermal"
+"origin" "7004 -6500 980"
+}
+{
+"classname" "trigger_once"
+"target" "t158"
+"model" "*110"
+}
+{
+"spawnflags" "1"
+"classname" "trigger_once"
+"target" "t159"
+"model" "*111"
+}
+{
+"spawnflags" "1"
+"classname" "trigger_once"
+"target" "t160"
+"model" "*112"
+}
+{
+"parm1" "ATAT_Defend_Trun"
+"spawnscript" "hoth2/nav_goto_lowvis"
+"angle" "135"
+"spawnflags" "16"
+"origin" "41 -8050 936"
+"classname" "NPC_Snowtrooper"
+"targetname" "t174"
+}
+{
+"targetname" "t21360"
+"classname" "NPC_Snowtrooper"
+"origin" "-704 -5568 956"
+"angle" "360"
+"spawnflags" "16"
+}
+{
+"targetname" "t21360"
+"spawnscript" "hoth2/nav_goto_lowvis"
+"parm1" "run_M2battle1"
+"classname" "NPC_Snowtrooper"
+"origin" "-768 -5700 952"
+"angle" "360"
+"spawnflags" "16"
+}
+{
+"spawnflags" "1"
+"classname" "trigger_once"
+"target" "t181"
+"model" "*113"
+}
+{
+"spawnflags" "1"
+"classname" "trigger_once"
+"target" "t182"
+"model" "*114"
+}
+{
+"targetname" "t21364"
+"spawnscript" "hoth2/nav_goto_lowvis"
+"angle" "270"
+"parm1" "run_E2battle2"
+"deathscript" "hoth2/notheredeath_count"
+"classname" "NPC_Snowtrooper"
+"origin" "-4612 -3518 1032"
+"spawnflags" "16"
+}
+{
+"spawnscript" "hoth2/nav_goto_lowvis"
+"parm1" "run_Mbattle"
+"angle" "45"
+"spawnflags" "16"
+"origin" "1856 -7504 968"
+"classname" "NPC_Snowtrooper"
+"targetname" "t174"
+}
+{
+"targetname" "t21364"
+"spawnscript" "hoth2/nav_goto_lowvis"
+"parm1" "run_E2battle3"
+"deathscript" "hoth2/notheredeath_count"
+"angle" "225"
+"spawnflags" "16"
+"origin" "-3872 -3552 1024"
+"classname" "NPC_Snowtrooper"
+}
+{
+"classname" "item_medpak_instant"
+"origin" "-5930 -3640 960"
+}
+{
+"classname" "item_medpak_instant"
+"spawnflags" "1536"
+"origin" "-5994 -3644 960"
+}
+{
+"spawnflags" "1024"
+"classname" "ammo_thermal"
+"origin" "-5962 -3696 968"
+}
+{
+"classname" "ammo_tripmine"
+"origin" "-4832 -3600 1072"
+}
+{
+"classname" "ammo_thermal"
+"origin" "-4736 -3584 1016"
+}
+{
+"spawnflags" "1536"
+"origin" "-5216 -3616 1016"
+"classname" "ammo_thermal"
+}
+{
+"classname" "ammo_tripmine"
+"origin" "6384 -4244 1604"
+}
+{
+"classname" "item_medpak_instant"
+"origin" "6352 -4264 1612"
+}
+{
+"classname" "NPC_Snowtrooper"
+"origin" "6088 -2352 984"
+"spawnflags" "16"
+"angle" "90"
+"targetname" "t205"
+}
+{
+"angle" "135"
+"spawnflags" "16"
+"origin" "6376 -2400 984"
+"classname" "NPC_Snowtrooper"
+"targetname" "t205"
+}
+{
+"classname" "NPC_Snowtrooper"
+"origin" "6320 -1996 984"
+"spawnflags" "16"
+"angle" "180"
+"targetname" "t205"
+}
+{
+"classname" "NPC_Snowtrooper"
+"origin" "6192 -2420 656"
+"angle" "225"
+"spawnflags" "16"
+"targetname" "t205"
+}
+{
+"spawnflags" "16"
+"angle" "135"
+"origin" "6376 -2340 656"
+"classname" "NPC_Snowtrooper"
+"targetname" "t205"
+}
+{
+"classname" "NPC_Snowtrooper"
+"origin" "6092 -2224 656"
+"angle" "45"
+"spawnflags" "16"
+"targetname" "t205"
+}
+{
+"spawnflags" "1"
+"classname" "trigger_once"
+"target" "t206"
+"model" "*115"
+}
+{
+"classname" "NPC_Snowtrooper"
+"origin" "7248 -4304 512"
+"angle" "180"
+"spawnflags" "16"
+"targetname" "t206"
+}
+{
+"spawnflags" "16"
+"angle" "180"
+"origin" "7376 -4464 512"
+"classname" "NPC_Snowtrooper"
+"targetname" "t206"
+}
+{
+"classname" "NPC_Snowtrooper"
+"origin" "7504 -4720 512"
+"angle" "135"
+"spawnflags" "16"
+"targetname" "t206"
+}
+{
+"parm1" "Crate_runA"
+"spawnscript" "common/nav_goto"
+"spawnflags" "16"
+"angle" "360"
+"origin" "7216 -4848 512"
+"classname" "NPC_Snowtrooper"
+"targetname" "t206"
+}
+{
+"spawnscript" "common/nav_goto"
+"parm1" "Crate_runB"
+"classname" "NPC_Snowtrooper"
+"origin" "6896 -4848 512"
+"angle" "360"
+"spawnflags" "16"
+"targetname" "t206"
+}
+{
+"lip" "64"
+"soundSet" "impdoor2"
+"_lightmapscale" ".25"
+"speed" "50"
+"classname" "func_door"
+"angle" "270"
+"team" "door2"
+"spawnflags" "4"
+"model" "*116"
+}
+{
+"lip" "64"
+"soundSet" "impdoor2"
+"_lightmapscale" ".25"
+"speed" "50"
+"classname" "func_door"
+"spawnflags" "4"
+"angle" "90"
+"team" "door2"
+"model" "*117"
+}
+{
+"target" "t209"
+"angle" "180"
+"wait" "3"
+"spawnflags" "7"
+"classname" "trigger_multiple"
+"model" "*118"
+}
+{
+"targetname" "t209"
+"parm1" "elevator3"
+"usescript" "Hoth2/Elevators/elevator3_up"
+"count" "-1"
+"origin" "6368 -2548 1000"
+"classname" "target_scriptrunner"
+}
+{
+"targetname" "el3_trigger"
+"target" "t209"
+"angle" "270"
+"wait" "10"
+"spawnflags" "1"
+"classname" "trigger_multiple"
+"model" "*119"
+}
+{
+"targetname" "tag_down3"
+"classname" "ref_tag"
+"origin" "6204 -2540 960"
+}
+{
+"targetname" "tag_up3"
+"classname" "ref_tag"
+"origin" "6204 -2540 1444"
+}
+{
+"classname" "func_usable"
+"targetname" "a5"
+"model" "*120"
+}
+{
+"classname" "NPC_Imperial"
+"origin" "6352 -3408 1476"
+"angle" "180"
+"targetname" "t211"
+}
+{
+"classname" "trigger_once"
+"target" "t211"
+"model" "*121"
+}
+{
+"angle" "90"
+"origin" "6182 -3824 1476"
+"classname" "NPC_Snowtrooper"
+"targetname" "t211"
+}
+{
+"classname" "NPC_Snowtrooper"
+"origin" "6188 -3980 1476"
+"angle" "90"
+"targetname" "t211"
+}
+{
+"classname" "ref_tag"
+"origin" "-3208 10696 1048"
+"targetname" "cam_intro1_wampacave"
+}
+{
+"targetname" "t211"
+"angle" "90"
+"origin" "6096 -3440 1480"
+"classname" "NPC_Snowtrooper"
+}
+{
+"spawnflags" "1"
+"targetname" "tdrift"
+"origin" "2352 -1656 1120"
+"classname" "target_scriptrunner"
+"Usescript" "hoth2/weather"
+}
+{
+"targetname" "t1082"
+"angle" "270"
+"target" "tdrift"
+"spawnflags" "131"
+"classname" "trigger_once"
+"model" "*122"
+}
+{
+"classname" "trigger_once"
+"spawnflags" "1"
+"target" "t441"
+"model" "*123"
+}
+{
+"classname" "target_scriptrunner"
+"origin" "1208 -6664 1120"
+"targetname" "t441"
+"spawnflags" "1"
+"Usescript" "hoth2/guard"
+}
+{
+"classname" "trigger_once"
+"target" "end_level"
+"spawnflags" "1"
+"model" "*124"
+}
+{
+"classname" "target_level_change"
+"origin" "792 -7976 576"
+"targetname" "end_level"
+"mapname" "hoth3"
+}
+{
+"deathscript" "hoth2/death_getincount"
+"classname" "NPC_Snowtrooper"
+"origin" "-2332 367 951"
+"spawnflags" "16"
+"targetname" "t72"
+"angle" "90"
+}
+{
+"angle" "135"
+"targetname" "t72"
+"classname" "NPC_Vehicle"
+"origin" "-2459 227 970"
+"NPC_type" "tauntaun"
+}
+{
+"parm3" "NULL"
+"parm2" "eweb3"
+"parm1" "npc_ewebguy3"
+"usescript" "hoth2/eweb"
+"targetname" "t174"
+"origin" "3632 -5132 1048"
+"classname" "target_scriptrunner"
+}

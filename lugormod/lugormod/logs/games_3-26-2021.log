@@ -1,0 +1,83 @@
+3-27-2021 10:51 (0:00): ------------------------------------------------------------
+3-27-2021 10:51 (0:00): InitGame: \version\JAmp: v1.0.1.0 linux-i386 Mar 14 2020\timelimit\0\sv_privateClients\0\sv_minRate\0\sv_minPing\0\sv_maxclients\32\sv_maxRate\0\sv_maxPing\999\sv_hostname\^7~^1~^7~ COMM SERVER ~^1~^7~\sv_fps\50\sv_floodProtectSlow\1\sv_floodProtect\1\sv_autoDemo\0\sv_allowDownload\0\serveruptime\54\protocol\26\mapname\taspir1\gamename\Lugormod\g_weaponDisable\0\g_stepSlideFix\0\g_siegeTeamSwitch\1\g_siegeTeam2\none\g_siegeTeam1\none\g_siegeRespawn\20\g_showDuelHealths\1\g_saberWallDamageScale\0.4\g_saberLocking\0\g_privateDuel\1535\g_noSpecMove\0\g_needpass\0\g_maxHolocronCarry\3\g_maxGameClients\0\g_maxForceRank\7\g_jediVmerc\0\g_gametype\0\g_gamemode\0\g_forceRegenTime\160\g_forcePowerDisable\0\g_forceBasedTeams\1\g_duelWeaponDisable\9\g_debugmelee\1\g_allowNPC\1\fs_game\lugormod\fraglimit\0\duel_fraglimit\10\dmflags\0\capturelimit\10\bot_minplayers\2\bg_fighterAltControl\0\Lugormod_Version\U#-0.0.0.91 Alpha
+3-27-2021 10:52 (0:30): ClientConnect: 0
+3-27-2021 10:52 (0:30): ClientUserinfoChanged handling info: 0 \team\0\skill\ 5.00\personality\botfiles/astupidbot.jkb\saber2\none\saber1\kyle\color2\4\color1\4\sex\male\model\jawa\snaps\20\rate\25000\name\astupidbot
+3-27-2021 10:52 (0:30): ClientUserinfoChanged: 0 n\astupidbot\t\0\model\jawa\c1\4\c2\4\hc\0\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\\st2\\dt\0\sdt\0
+3-27-2021 10:52 (0:30): IP: localhost astupidbot
+3-27-2021 10:52 (0:30): ClientUserinfoChanged handling info: 0 \team\0\skill\ 5.00\personality\botfiles/astupidbot.jkb\saber2\none\saber1\kyle\color2\4\color1\4\sex\male\model\jawa\snaps\20\rate\25000\name\astupidbot
+3-27-2021 10:52 (0:30): ClientUserinfoChanged: 0 n\astupidbot\t\0\model\jawa\c1\4\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+3-27-2021 10:52 (0:30): ClientBegin: 0
+3-27-2021 10:52 (0:45): ClientConnect: 1
+3-27-2021 10:52 (0:45): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+3-27-2021 10:52 (0:45): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\0\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\\st2\\dt\0\sdt\0
+3-27-2021 10:52 (0:45): IP: localhost Kyle
+3-27-2021 10:52 (0:45): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+3-27-2021 10:52 (0:45): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+3-27-2021 10:52 (0:45): ClientBegin: 1
+3-27-2021 18:31 (459:19): ClientConnect: 2
+3-27-2021 18:31 (459:19): ClientUserinfoChanged handling info: 2 \ip\83.240.62.100:14589\challenge\1054242790\qport\60507\protocol\26\teamoverlay\0\snaps\40\sex\male\saber2\single_1\saber1\single_8\rate\4000\name\Rorzi23\model\reborn_twin/default\ja_guid\D0356EB26314F1766FA53CF046D6BCD2\handicap\100\forcepowers\7-1-030000000000000330\color2\0\color1\0\char_color_red\255\char_color_green\255\char_color_blue\255\cg_predictItems\1
+3-27-2021 18:31 (459:19): ClientUserinfoChanged: 2 n\Rorzi23\t\0\model\reborn_twin/default\c1\0\c2\0\hc\0\w\0\l\0\tt\0\tl\0\st\\st2\\dt\0
+3-27-2021 18:31 (459:19): IP: 83.240.62.100 Rorzi23
+3-27-2021 18:31 (459:19): say: astupidbot: Hi
+3-27-2021 18:31 (459:19): say: Kyle: Hi
+3-27-2021 18:31 (459:23): Kill: 0 1 3: astupidbot killed Kyle by MOD_SABER
+3-27-2021 18:31 (459:24): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+3-27-2021 18:31 (459:24): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+3-27-2021 18:31 (459:31): Kill: 1022 0 41: <world> killed astupidbot by MOD_TRIGGER_HURT
+3-27-2021 18:31 (459:32): ClientUserinfoChanged handling info: 0 \team\0\skill\ 5.00\personality\botfiles/astupidbot.jkb\saber2\none\saber1\kyle\color2\4\color1\4\sex\male\model\jawa\snaps\20\rate\25000\name\astupidbot
+3-27-2021 18:31 (459:32): ClientUserinfoChanged: 0 n\astupidbot\t\0\model\jawa\c1\4\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+3-27-2021 18:31 (459:36): Kill: 1022 1 41: <world> killed Kyle by MOD_TRIGGER_HURT
+3-27-2021 18:31 (459:37): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+3-27-2021 18:31 (459:37): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+3-27-2021 18:31 (459:38): ClientUserinfoChanged handling info: 2 \ip\83.240.62.100:14589\teamoverlay\1\snaps\40\sex\male\saber2\single_1\saber1\single_8\rate\4000\name\Rorzi23\model\reborn_twin/default\ja_guid\D0356EB26314F1766FA53CF046D6BCD2\handicap\100\forcepowers\7-1-030000000000000330\color2\0\color1\0\char_color_red\255\char_color_green\255\char_color_blue\255\cg_predictItems\1
+3-27-2021 18:31 (459:38): ClientUserinfoChanged: 2 n\Rorzi23\t\0\model\reborn_twin/default\c1\0\c2\0\hc\0\w\0\l\0\tt\0\tl\0\st\single_8\st2\single_1\dt\0
+3-27-2021 18:31 (459:38): ClientUserinfoChanged handling info: 2 \ip\83.240.62.100:14589\teamoverlay\1\snaps\40\sex\male\saber2\single_1\saber1\single_8\rate\4000\name\Rorzi23\model\reborn_twin/default\ja_guid\D0356EB26314F1766FA53CF046D6BCD2\handicap\100\forcepowers\7-1-030000000000000330\color2\0\color1\0\char_color_red\255\char_color_green\255\char_color_blue\255\cg_predictItems\1
+3-27-2021 18:31 (459:38): ClientUserinfoChanged: 2 n\Rorzi23\t\0\model\reborn_twin/default\c1\0\c2\0\hc\100\w\0\l\0\tt\0\tl\0\st\single_8\st2\single_1\dt\0
+3-27-2021 18:31 (459:38): ClientBegin: 2
+3-27-2021 18:31 (459:38): say: astupidbot: ^0Good ^1Fight
+3-27-2021 18:31 (459:44): say: astupidbot: cya
+3-27-2021 18:31 (459:44): ClientDisconnect: 0
+3-27-2021 18:31 (459:46): say: Kyle: bye
+3-27-2021 18:31 (459:46): ClientDisconnect: 2
+3-27-2021 18:32 (460:12): ClientConnect: 0
+3-27-2021 18:32 (460:12): ClientUserinfoChanged handling info: 0 \team\0\skill\ 5.00\personality\botfiles/astupidbot.jkb\saber2\none\saber1\kyle\color2\4\color1\4\sex\male\model\jawa\snaps\20\rate\25000\name\astupidbot
+3-27-2021 18:32 (460:12): ClientUserinfoChanged: 0 n\astupidbot\t\0\model\jawa\c1\4\c2\4\hc\0\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\\st2\\dt\0\sdt\0
+3-27-2021 18:32 (460:12): IP: localhost astupidbot
+3-27-2021 18:32 (460:12): ClientUserinfoChanged handling info: 0 \team\0\skill\ 5.00\personality\botfiles/astupidbot.jkb\saber2\none\saber1\kyle\color2\4\color1\4\sex\male\model\jawa\snaps\20\rate\25000\name\astupidbot
+3-27-2021 18:32 (460:12): ClientUserinfoChanged: 0 n\astupidbot\t\0\model\jawa\c1\4\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+3-27-2021 18:32 (460:12): ClientBegin: 0
+3-28-2021 4:29 (1057:16): ClientConnect: 2
+3-28-2021 4:29 (1057:16): ClientUserinfoChanged handling info: 2 \ip\136.49.101.98:29070\challenge\-1152577804\qport\63938\protocol\26\teamoverlay\0\snaps\50\sex\male\saber2\none\saber1\Kyle\rate\25000\name\chon\model\kyle/default\ja_guid\051864430A7EE524850A0B7FF5985240\handicap\100\forcepowers\1-1-010000000000000100\color2\4\color1\4\char_color_red\255\char_color_green\255\char_color_blue\255\cg_predictItems\1
+3-28-2021 4:29 (1057:16): ClientUserinfoChanged: 2 n\Padawan\t\0\model\kyle/default\c1\4\c2\4\hc\0\w\0\l\0\tt\0\tl\0\st\\st2\\dt\0
+3-28-2021 4:29 (1057:16): IP: 136.49.101.98 Padawan
+3-28-2021 4:29 (1057:16): say: astupidbot: Hi
+3-28-2021 4:29 (1057:18): say: Kyle: Hello Astupidbot.
+3-28-2021 4:29 (1057:19): Kill: 1022 0 41: <world> killed astupidbot by MOD_TRIGGER_HURT
+3-28-2021 4:29 (1057:20): ClientUserinfoChanged handling info: 0 \team\0\skill\ 5.00\personality\botfiles/astupidbot.jkb\saber2\none\saber1\kyle\color2\4\color1\4\sex\male\model\jawa\snaps\20\rate\25000\name\astupidbot
+3-28-2021 4:29 (1057:20): ClientUserinfoChanged: 0 n\astupidbot\t\0\model\jawa\c1\4\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+3-28-2021 4:29 (1057:20): say: astupidbot: Hello
+3-28-2021 4:29 (1057:23): ClientUserinfoChanged handling info: 2 \ip\136.49.101.98:29070\teamoverlay\0\snaps\50\sex\male\saber2\none\saber1\Kyle\rate\25000\name\chon\model\kyle/default\ja_guid\051864430A7EE524850A0B7FF5985240\handicap\100\forcepowers\1-1-010000000000000100\color2\4\color1\4\char_color_red\255\char_color_green\255\char_color_blue\255\cg_predictItems\1
+3-28-2021 4:29 (1057:23): ClientUserinfoChanged: 2 n\Padawan\t\0\model\kyle/default\c1\4\c2\4\hc\0\w\0\l\0\tt\0\tl\0\st\Kyle\st2\none\dt\0
+3-28-2021 4:29 (1057:23): ClientUserinfoChanged handling info: 2 \ip\136.49.101.98:29070\teamoverlay\0\snaps\50\sex\male\saber2\none\saber1\Kyle\rate\25000\name\chon\model\kyle/default\ja_guid\051864430A7EE524850A0B7FF5985240\handicap\100\forcepowers\1-1-010000000000000100\color2\4\color1\4\char_color_red\255\char_color_green\255\char_color_blue\255\cg_predictItems\1
+3-28-2021 4:29 (1057:23): ClientUserinfoChanged: 2 n\Padawan\t\0\model\kyle/default\c1\4\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\Kyle\st2\none\dt\0
+3-28-2021 4:29 (1057:23): ClientBegin: 2
+3-28-2021 4:29 (1057:24): Kill: 1022 0 41: <world> killed astupidbot by MOD_TRIGGER_HURT
+3-28-2021 4:29 (1057:25): ClientUserinfoChanged handling info: 0 \team\0\skill\ 5.00\personality\botfiles/astupidbot.jkb\saber2\none\saber1\kyle\color2\4\color1\4\sex\male\model\jawa\snaps\20\rate\25000\name\astupidbot
+3-28-2021 4:29 (1057:25): ClientUserinfoChanged: 0 n\astupidbot\t\0\model\jawa\c1\4\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+3-28-2021 4:29 (1057:32): say: astupidbot: cya
+3-28-2021 4:29 (1057:32): ClientDisconnect: 0
+3-28-2021 4:29 (1057:35): say: Kyle: bye bye Astupidbot
+3-28-2021 4:30 (1059:01): ClientUserinfoChanged handling info: 2 \ip\136.49.101.98:29070\teamoverlay\0\snaps\50\sex\male\saber2\none\saber1\Kyle\rate\25000\name\chon\model\kyle/default\ja_guid\051864430A7EE524850A0B7FF5985240\handicap\100\forcepowers\1-1-010000000000000100\color2\4\color1\4\char_color_red\255\char_color_green\255\char_color_blue\255\cg_predictItems\1
+3-28-2021 4:30 (1059:01): ClientNamechange: Padawan is now chon
+3-28-2021 4:30 (1059:01): ClientUserinfoChanged: 2 n\chon\t\0\model\kyle/default\c1\4\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\Kyle\st2\none\dt\0
+3-28-2021 4:30 (1059:02): ClientUserinfoChanged handling info: 2 \name\chon\ip\136.49.101.98:29070\teamoverlay\0\snaps\50\sex\male\saber2\none\saber1\Kyle\rate\25000\model\kyle/default\ja_guid\051864430A7EE524850A0B7FF5985240\handicap\100\forcepowers\1-1-01000000\color2\4\color1\4\ccolor1\4\char_color_red\255\char_color_green\255\char_color_blue\255\cg_predictItems\1
+3-28-2021 4:30 (1059:02): ClientUserinfoChanged: 2 n\chon\t\0\model\kyle/default\c1\4\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\Kyle\st2\none\dt\0
+3-28-2021 4:32 (1060:19): Kill: 2 2 39: chon killed chon by MOD_SUICIDE
+3-28-2021 4:32 (1060:20): ClientUserinfoChanged handling info: 2 \name\chon\ip\136.49.101.98:29070\teamoverlay\0\snaps\50\sex\male\saber2\none\saber1\Kyle\rate\25000\model\kyle/default\ja_guid\051864430A7EE524850A0B7FF5985240\handicap\100\forcepowers\1-1-01000000\color2\4\color1\4\ccolor1\4\char_color_red\255\char_color_green\255\char_color_blue\255\cg_predictItems\1
+3-28-2021 4:32 (1060:20): ClientUserinfoChanged: 2 n\chon\t\0\model\kyle/default\c1\4\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\Kyle\st2\none\dt\0
+3-28-2021 4:32 (1060:24): Kill: 1022 646 0: <world> killed  by MOD_UNKNOWN
+3-28-2021 4:32 (1060:35): Kill: 1022 1 41: <world> killed Kyle by MOD_TRIGGER_HURT
+3-28-2021 4:32 (1060:36): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+3-28-2021 4:32 (1060:36): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+3-28-2021 4:33 (1061:24): ShutdownGame:
+3-28-2021 4:33 (1061:24): ------------------------------------------------------------

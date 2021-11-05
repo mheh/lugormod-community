@@ -1,0 +1,510 @@
+2-14-2021 1:29 (441:48): ------------------------------------------------------------
+2-14-2021 1:29 (441:48): InitGame: \version\JAmp: v1.0.1.0 linux-i386 Mar 14 2020\timelimit\45\sv_privateClients\0\sv_minRate\0\sv_minPing\0\sv_maxclients\32\sv_maxRate\0\sv_maxPing\999\sv_hostname\^7~^1~^7~ COMM SERVER ~^1~^7~\sv_fps\50\sv_floodProtectSlow\1\sv_floodProtect\1\sv_autoDemo\0\sv_allowDownload\0\serveruptime\54\protocol\26\mapname\mp/duel6\gamename\Lugormod\g_weaponDisable\0\g_stepSlideFix\0\g_siegeTeamSwitch\1\g_siegeTeam2\none\g_siegeTeam1\none\g_siegeRespawn\20\g_showDuelHealths\1\g_saberWallDamageScale\0.4\g_saberLocking\0\g_privateDuel\1535\g_noSpecMove\0\g_needpass\0\g_maxHolocronCarry\3\g_maxGameClients\0\g_maxForceRank\7\g_jediVmerc\0\g_gametype\0\g_gamemode\0\g_forceRegenTime\160\g_forcePowerDisable\0\g_forceBasedTeams\1\g_duelWeaponDisable\9\g_debugmelee\1\g_allowNPC\1\fs_game\lugormod\fraglimit\0\duel_fraglimit\10\dmflags\0\capturelimit\10\bot_minplayers\2\bg_fighterAltControl\0\Lugormod_Version\U#-0.0.0.91 Alpha
+2-14-2021 1:29 (441:48): ClientConnect: 0
+2-14-2021 1:29 (441:48): ClientUserinfoChanged handling info: 0 \ip\74.105.117.3:29070\name\Padawan\rate\4000\snaps\20\model\luke/default\forcepowers\7-2-022220333000030330\color1\0\color2\4\handicap\100\sex\male\cg_predictItems\1\saber1\dual_2\saber2\none\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+2-14-2021 1:29 (441:48): ClientUserinfoChanged: 0 n\Padawan\t\0\model\luke/default\c1\0\c2\4\hc\0\w\0\l\0\tt\0\tl\0\st\dual_2\st2\none\dt\0
+2-14-2021 1:29 (441:48): ClientUserinfoChanged handling info: 0 \ip\74.105.117.3:29070\name\Padawan\rate\4000\snaps\20\model\luke/default\forcepowers\7-2-022220333000030330\color1\0\color2\4\handicap\100\sex\male\cg_predictItems\1\saber1\dual_2\saber2\none\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+2-14-2021 1:29 (441:48): ClientUserinfoChanged: 0 n\Padawan\t\0\model\luke/default\c1\0\c2\4\hc\0\w\0\l\0\tt\0\tl\0\st\dual_2\st2\none\dt\0
+2-14-2021 1:29 (441:48): ClientUserinfoChanged handling info: 0 \ip\74.105.117.3:29070\name\Padawan\rate\4000\snaps\20\model\luke/default\forcepowers\7-2-022220333000030330\color1\0\color2\4\handicap\100\sex\male\cg_predictItems\1\saber1\dual_2\saber2\none\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+2-14-2021 1:29 (441:48): ClientUserinfoChanged: 0 n\Padawan\t\0\model\luke/default\c1\0\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\dual_2\st2\none\dt\0
+2-14-2021 1:29 (441:48): ClientBegin: 0
+2-14-2021 1:29 (441:48): ClientConnect: 2
+2-14-2021 1:29 (441:48): ClientUserinfoChanged handling info: 2 \ip\74.105.117.3:1382\name\gianna>:P\rate\4000\snaps\20\model\jedi_hf/head_c1|torso_d1|lower_d1\forcepowers\7-2-012320333000030321\color1\5\color2\4\handicap\100\sex\male\cg_predictItems\1\saber1\Kyle\saber2\none\char_color_red\165\char_color_green\48\char_color_blue\21\teamtask\0\teamoverlay\1
+2-14-2021 1:29 (441:48): ClientUserinfoChanged: 2 n\gianna>:P\t\0\model\jedi_hf/head_c1|torso_d1|lower_d1\c1\5\c2\4\hc\0\w\0\l\0\tt\0\tl\0\st\Kyle\st2\none\dt\0
+2-14-2021 1:29 (441:48): ClientUserinfoChanged handling info: 2 \ip\74.105.117.3:1382\name\gianna>:P\rate\4000\snaps\20\model\jedi_hf/head_c1|torso_d1|lower_d1\forcepowers\7-2-012320333000030321\color1\5\color2\4\handicap\100\sex\male\cg_predictItems\1\saber1\Kyle\saber2\none\char_color_red\165\char_color_green\48\char_color_blue\21\teamtask\0\teamoverlay\1
+2-14-2021 1:29 (441:48): ClientUserinfoChanged: 2 n\gianna>:P\t\0\model\jedi_hf/head_c1|torso_d1|lower_d1\c1\5\c2\4\hc\0\w\0\l\0\tt\0\tl\0\st\Kyle\st2\none\dt\0
+2-14-2021 1:29 (441:48): ClientUserinfoChanged handling info: 2 \ip\74.105.117.3:1382\name\gianna>:P\rate\4000\snaps\20\model\jedi_hf/head_c1|torso_d1|lower_d1\forcepowers\7-2-012320333000030321\color1\5\color2\4\handicap\100\sex\male\cg_predictItems\1\saber1\Kyle\saber2\none\char_color_red\165\char_color_green\48\char_color_blue\21\teamtask\0\teamoverlay\1
+2-14-2021 1:29 (441:48): ClientUserinfoChanged: 2 n\gianna>:P\t\0\model\jedi_hf/head_c1|torso_d1|lower_d1\c1\5\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\Kyle\st2\none\dt\0
+2-14-2021 1:29 (441:48): ClientBegin: 2
+2-14-2021 1:30 (442:49): ClientConnect: 1
+2-14-2021 1:30 (442:49): ClientUserinfoChanged handling info: 1 \ip\142.105.40.139:29070\challenge\-425629270\qport\61158\protocol\26\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\Kyle\saber1\Kyle\cg_predictItems\1\sex\male\handicap\100\color2\4\color1\0\forcepowers\7-2-032320333000010321\model\cultist/default\snaps\20\rate\4000\name\Protokage\teamtask\0\teamoverlay\1
+2-14-2021 1:30 (442:49): ClientUserinfoChanged: 1 n\Protokage\t\0\model\cultist/default\c1\0\c2\4\hc\0\w\0\l\0\tt\0\tl\0\st\\st2\\dt\0
+2-14-2021 1:30 (442:49): IP: 142.105.40.139 Protokage
+2-14-2021 1:30 (442:51): ClientUserinfoChanged handling info: 1 \ip\142.105.40.139:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\Kyle\saber1\Kyle\cg_predictItems\1\sex\male\handicap\100\color2\4\color1\0\forcepowers\7-2-032320333000010321\model\cultist/default\snaps\20\rate\4000\name\Protokage\teamtask\0\teamoverlay\1
+2-14-2021 1:30 (442:51): ClientUserinfoChanged: 1 n\Protokage\t\0\model\cultist/default\c1\0\c2\4\hc\0\w\0\l\0\tt\0\tl\0\st\Kyle\st2\Kyle\dt\0
+2-14-2021 1:30 (442:51): ClientUserinfoChanged handling info: 1 \ip\142.105.40.139:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\Kyle\saber1\Kyle\cg_predictItems\1\sex\male\handicap\100\color2\4\color1\0\forcepowers\7-2-032320333000010321\model\cultist/default\snaps\20\rate\4000\name\Protokage\teamtask\0\teamoverlay\1
+2-14-2021 1:30 (442:51): ClientUserinfoChanged: 1 n\Protokage\t\0\model\cultist/default\c1\0\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\Kyle\st2\Kyle\dt\0
+2-14-2021 1:30 (442:51): ClientBegin: 1
+2-14-2021 1:31 (443:51): ClientDisconnect: 1
+2-14-2021 1:33 (445:35): Kill: 0 2 31: Padawan killed gianna>:P by MOD_FORCE_DARK
+2-14-2021 1:34 (446:36): ClientUserinfoChanged handling info: 2 \ip\74.105.117.3:1382\name\gianna>:P\rate\4000\snaps\20\model\jedi_hf/head_c1|torso_d1|lower_d1\forcepowers\7-2-012320333000030321\color1\5\color2\4\handicap\100\sex\male\cg_predictItems\1\saber1\Kyle\saber2\none\char_color_red\165\char_color_green\48\char_color_blue\21\teamtask\0\teamoverlay\1
+2-14-2021 1:34 (446:36): ClientUserinfoChanged: 2 n\gianna>:P\t\0\model\jedi_hf/head_c1|torso_d1|lower_d1\c1\5\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\Kyle\st2\none\dt\0
+2-14-2021 1:34 (446:47): ClientConnect: 1
+2-14-2021 1:34 (446:47): ClientUserinfoChanged handling info: 1 \ip\67.245.136.252:29070\challenge\661298838\qport\23433\protocol\26\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\none\saber1\dual_1\cg_predictItems\1\sex\male\handicap\100\color2\4\color1\5\forcepowers\6-1-030330000000000333\model\boba_fett/default\snaps\20\rate\4000\name\Jason\teamtask\0
+2-14-2021 1:34 (446:47): ClientUserinfoChanged: 1 n\Jason\t\0\model\boba_fett/default\c1\5\c2\4\hc\0\w\0\l\0\tt\0\tl\0\st\\st2\\dt\0
+2-14-2021 1:34 (446:47): IP: 67.245.136.252 Jason
+2-14-2021 1:34 (446:54): ClientUserinfoChanged handling info: 1 \ip\67.245.136.252:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\none\saber1\dual_1\cg_predictItems\1\sex\male\handicap\100\color2\4\color1\5\forcepowers\6-1-030330000000000333\model\boba_fett/default\snaps\20\rate\4000\name\Jason\teamtask\0\teamoverlay\1
+2-14-2021 1:34 (446:54): ClientUserinfoChanged: 1 n\Jason\t\0\model\boba_fett/default\c1\5\c2\4\hc\0\w\0\l\0\tt\0\tl\0\st\dual_1\st2\none\dt\0
+2-14-2021 1:34 (446:54): ClientUserinfoChanged handling info: 1 \ip\67.245.136.252:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\none\saber1\dual_1\cg_predictItems\1\sex\male\handicap\100\color2\4\color1\5\forcepowers\6-1-030330000000000333\model\boba_fett/default\snaps\20\rate\4000\name\Jason\teamtask\0\teamoverlay\1
+2-14-2021 1:34 (446:54): ClientUserinfoChanged: 1 n\Jason\t\0\model\boba_fett/default\c1\5\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\dual_1\st2\none\dt\0
+2-14-2021 1:34 (446:54): ClientBegin: 1
+2-14-2021 1:35 (447:36): ClientUserinfoChanged handling info: 1 \ip\67.245.136.252:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\none\saber1\dual_1\cg_predictItems\1\sex\male\handicap\100\color2\4\color1\5\forcepowers\7-1-331322000200003322\model\boba_fett/default\snaps\20\rate\4000\name\Jason\teamtask\0\teamoverlay\1
+2-14-2021 1:35 (447:36): ClientUserinfoChanged: 1 n\Jason\t\0\model\boba_fett/default\c1\5\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\dual_1\st2\none\dt\0
+2-14-2021 1:35 (447:49): ClientConnect: 3
+2-14-2021 1:35 (447:49): ClientUserinfoChanged handling info: 3 \ip\142.105.40.139:29070\challenge\-1587805578\qport\57552\protocol\26\name\Protokage\rate\4000\snaps\20\model\cultist/blue\forcepowers\6-1-030330000000000333\color1\4\color2\4\handicap\100\sex\male\cg_predictItems\1\saber1\Kyle\saber2\Kyle\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0
+2-14-2021 1:35 (447:49): ClientUserinfoChanged: 3 n\Protokage\t\0\model\cultist/blue\c1\4\c2\4\hc\0\w\0\l\0\tt\0\tl\0\st\\st2\\dt\0
+2-14-2021 1:35 (447:49): IP: 142.105.40.139 Protokage
+2-14-2021 1:35 (447:55): ClientUserinfoChanged handling info: 3 \ip\142.105.40.139:29070\name\Protokage\rate\4000\snaps\20\model\cultist/default\forcepowers\7-2-032320333000010321\color1\0\color2\4\handicap\100\sex\male\cg_predictItems\1\saber1\Kyle\saber2\Kyle\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+2-14-2021 1:35 (447:55): ClientUserinfoChanged: 3 n\Protokage\t\0\model\cultist/default\c1\0\c2\4\hc\0\w\0\l\0\tt\0\tl\0\st\Kyle\st2\Kyle\dt\0
+2-14-2021 1:35 (447:55): ClientUserinfoChanged handling info: 3 \ip\142.105.40.139:29070\name\Protokage\rate\4000\snaps\20\model\cultist/default\forcepowers\7-2-032320333000010321\color1\0\color2\4\handicap\100\sex\male\cg_predictItems\1\saber1\Kyle\saber2\Kyle\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+2-14-2021 1:35 (447:55): ClientUserinfoChanged: 3 n\Protokage\t\0\model\cultist/default\c1\0\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\Kyle\st2\Kyle\dt\0
+2-14-2021 1:35 (447:55): ClientBegin: 3
+2-14-2021 1:35 (447:57): Kill: 1 2 3: Jason killed gianna>:P by MOD_SABER
+2-14-2021 1:36 (448:58): ClientUserinfoChanged handling info: 2 \ip\74.105.117.3:1382\name\gianna>:P\rate\4000\snaps\20\model\jedi_hf/head_c1|torso_d1|lower_d1\forcepowers\7-2-012320333000030321\color1\5\color2\4\handicap\100\sex\male\cg_predictItems\1\saber1\Kyle\saber2\none\char_color_red\165\char_color_green\48\char_color_blue\21\teamtask\0\teamoverlay\1
+2-14-2021 1:36 (448:58): ClientUserinfoChanged: 2 n\gianna>:P\t\0\model\jedi_hf/head_c1|torso_d1|lower_d1\c1\5\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\Kyle\st2\none\dt\0
+2-14-2021 1:36 (449:11): ClientUserinfoChanged handling info: 3 \ip\142.105.40.139:29070\name\Protokage\rate\4000\snaps\20\model\rebel_pilot/default\forcepowers\7-2-032320333000010321\color1\0\color2\4\handicap\100\sex\male\cg_predictItems\1\saber1\Kyle\saber2\Kyle\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+2-14-2021 1:36 (449:11): ClientUserinfoChanged: 3 n\Protokage\t\0\model\rebel_pilot/default\c1\0\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\Kyle\st2\Kyle\dt\0
+2-14-2021 1:37 (449:19): Kill: 0 1 31: Padawan killed Jason by MOD_FORCE_DARK
+2-14-2021 1:37 (449:36): ClientUserinfoChanged handling info: 1 \ip\67.245.136.252:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\none\saber1\dual_1\cg_predictItems\1\sex\male\handicap\100\color2\4\color1\5\forcepowers\7-1-331322000200003322\model\boba_fett/default\snaps\20\rate\4000\name\Jason\teamtask\0\teamoverlay\1
+2-14-2021 1:37 (449:36): ClientUserinfoChanged: 1 n\Jason\t\0\model\boba_fett/default\c1\5\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\dual_1\st2\none\dt\0
+2-14-2021 1:37 (449:48): ClientUserinfoChanged handling info: 0 \ip\74.105.117.3:29070\name\BANDIT\rate\4000\snaps\20\model\luke/default\forcepowers\7-2-022220333000030330\color1\0\color2\4\handicap\100\sex\male\cg_predictItems\1\saber1\dual_2\saber2\none\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+2-14-2021 1:37 (449:48): ClientNamechange: Padawan is now BANDIT
+2-14-2021 1:37 (449:48): ClientUserinfoChanged: 0 n\BANDIT\t\0\model\luke/default\c1\0\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\dual_2\st2\none\dt\0
+2-14-2021 1:37 (450:11): Kill: 2 0 3: gianna>:P killed BANDIT by MOD_SABER
+2-14-2021 1:38 (450:31): ClientUserinfoChanged handling info: 0 \ip\74.105.117.3:29070\name\BANDIT\rate\4000\snaps\20\model\luke/default\forcepowers\7-2-022220333000030330\color1\0\color2\4\handicap\100\sex\male\cg_predictItems\1\saber1\dual_2\saber2\none\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+2-14-2021 1:38 (450:31): ClientUserinfoChanged: 0 n\BANDIT\t\0\model\luke/default\c1\0\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\dual_2\st2\none\dt\0
+2-14-2021 1:38 (450:53): Kill: 0 3 31: BANDIT killed Protokage by MOD_FORCE_DARK
+2-14-2021 1:38 (450:58): Kill: 1 2 3: Jason killed gianna>:P by MOD_SABER
+2-14-2021 1:38 (450:59): ClientUserinfoChanged handling info: 2 \ip\74.105.117.3:1382\name\gianna>:P\rate\4000\snaps\20\model\jedi_hf/head_c1|torso_d1|lower_d1\forcepowers\7-2-012320333000030321\color1\5\color2\4\handicap\100\sex\male\cg_predictItems\1\saber1\Kyle\saber2\none\char_color_red\165\char_color_green\48\char_color_blue\21\teamtask\0\teamoverlay\1
+2-14-2021 1:38 (450:59): ClientUserinfoChanged: 2 n\gianna>:P\t\0\model\jedi_hf/head_c1|torso_d1|lower_d1\c1\5\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\Kyle\st2\none\dt\0
+2-14-2021 1:38 (451:01): ClientUserinfoChanged handling info: 3 \ip\142.105.40.139:29070\name\Protokage\rate\4000\snaps\20\model\rebel_pilot/default\forcepowers\7-2-032320333000010321\color1\0\color2\4\handicap\100\sex\male\cg_predictItems\1\saber1\Kyle\saber2\Kyle\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+2-14-2021 1:38 (451:01): ClientUserinfoChanged: 3 n\Protokage\t\0\model\rebel_pilot/default\c1\0\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\Kyle\st2\Kyle\dt\0
+2-14-2021 1:39 (451:27): Kill: 3 1 3: Protokage killed Jason by MOD_SABER
+2-14-2021 1:39 (451:36): ClientUserinfoChanged handling info: 1 \ip\67.245.136.252:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\none\saber1\dual_1\cg_predictItems\1\sex\male\handicap\100\color2\4\color1\5\forcepowers\7-1-331322000200003322\model\boba_fett/default\snaps\20\rate\4000\name\Jason\teamtask\0\teamoverlay\1
+2-14-2021 1:39 (451:36): ClientUserinfoChanged: 1 n\Jason\t\0\model\boba_fett/default\c1\5\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\dual_1\st2\none\dt\0
+2-14-2021 1:39 (451:37): Kill: 0 3 3: BANDIT killed Protokage by MOD_SABER
+2-14-2021 1:39 (451:43): ClientUserinfoChanged handling info: 3 \ip\142.105.40.139:29070\name\Protokage\rate\4000\snaps\20\model\rebel_pilot/default\forcepowers\7-2-032320333000010321\color1\0\color2\4\handicap\100\sex\male\cg_predictItems\1\saber1\Kyle\saber2\Kyle\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+2-14-2021 1:39 (451:43): ClientUserinfoChanged: 3 n\Protokage\t\0\model\rebel_pilot/default\c1\0\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\Kyle\st2\Kyle\dt\0
+2-14-2021 1:39 (451:47): Kill: 1 2 3: Jason killed gianna>:P by MOD_SABER
+2-14-2021 1:39 (451:48): ClientUserinfoChanged handling info: 2 \ip\74.105.117.3:1382\name\gianna>:P\rate\4000\snaps\20\model\jedi_hf/head_c1|torso_d1|lower_d1\forcepowers\7-2-012320333000030321\color1\5\color2\4\handicap\100\sex\male\cg_predictItems\1\saber1\Kyle\saber2\none\char_color_red\165\char_color_green\48\char_color_blue\21\teamtask\0\teamoverlay\1
+2-14-2021 1:39 (451:48): ClientUserinfoChanged: 2 n\gianna>:P\t\0\model\jedi_hf/head_c1|torso_d1|lower_d1\c1\5\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\Kyle\st2\none\dt\0
+2-14-2021 1:39 (451:49): Kill: 0 1 3: BANDIT killed Jason by MOD_SABER
+2-14-2021 1:39 (451:51): ClientUserinfoChanged handling info: 1 \ip\67.245.136.252:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\none\saber1\dual_1\cg_predictItems\1\sex\male\handicap\100\color2\4\color1\5\forcepowers\7-1-331322000200003322\model\boba_fett/default\snaps\20\rate\4000\name\Jason\teamtask\0\teamoverlay\1
+2-14-2021 1:39 (451:51): ClientUserinfoChanged: 1 n\Jason\t\0\model\boba_fett/default\c1\5\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\dual_1\st2\none\dt\0
+2-14-2021 1:39 (452:01): Kill: 3 0 31: Protokage killed BANDIT by MOD_FORCE_DARK
+2-14-2021 1:39 (452:06): Kill: 2 1 3: gianna>:P killed Jason by MOD_SABER
+2-14-2021 1:39 (452:08): ClientUserinfoChanged handling info: 0 \ip\74.105.117.3:29070\name\BANDIT\rate\4000\snaps\20\model\luke/default\forcepowers\7-2-022220333000030330\color1\0\color2\4\handicap\100\sex\male\cg_predictItems\1\saber1\dual_2\saber2\none\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+2-14-2021 1:39 (452:08): ClientUserinfoChanged: 0 n\BANDIT\t\0\model\luke/default\c1\0\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\dual_2\st2\none\dt\0
+2-14-2021 1:39 (452:12): ClientUserinfoChanged handling info: 1 \ip\67.245.136.252:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\none\saber1\dual_1\cg_predictItems\1\sex\male\handicap\100\color2\4\color1\5\forcepowers\7-1-331322000200003322\model\boba_fett/default\snaps\20\rate\4000\name\Jason\teamtask\0\teamoverlay\1
+2-14-2021 1:39 (452:12): ClientUserinfoChanged: 1 n\Jason\t\0\model\boba_fett/default\c1\5\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\dual_1\st2\none\dt\0
+2-14-2021 1:40 (452:18): Kill: 3 2 3: Protokage killed gianna>:P by MOD_SABER
+2-14-2021 1:40 (452:20): ClientUserinfoChanged handling info: 2 \ip\74.105.117.3:1382\name\gianna>:P\rate\4000\snaps\20\model\jedi_hf/head_c1|torso_d1|lower_d1\forcepowers\7-2-012320333000030321\color1\5\color2\4\handicap\100\sex\male\cg_predictItems\1\saber1\Kyle\saber2\none\char_color_red\165\char_color_green\48\char_color_blue\21\teamtask\0\teamoverlay\1
+2-14-2021 1:40 (452:20): ClientUserinfoChanged: 2 n\gianna>:P\t\0\model\jedi_hf/head_c1|torso_d1|lower_d1\c1\5\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\Kyle\st2\none\dt\0
+2-14-2021 1:40 (452:22): Kill: 3 1 3: Protokage killed Jason by MOD_SABER
+2-14-2021 1:40 (452:24): ClientUserinfoChanged handling info: 1 \ip\67.245.136.252:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\none\saber1\dual_1\cg_predictItems\1\sex\male\handicap\100\color2\4\color1\5\forcepowers\7-1-331322000200003322\model\boba_fett/default\snaps\20\rate\4000\name\Jason\teamtask\0\teamoverlay\1
+2-14-2021 1:40 (452:24): ClientUserinfoChanged: 1 n\Jason\t\0\model\boba_fett/default\c1\5\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\dual_1\st2\none\dt\0
+2-14-2021 1:40 (452:41): Kill: 0 3 3: BANDIT killed Protokage by MOD_SABER
+2-14-2021 1:40 (452:46): ClientUserinfoChanged handling info: 3 \ip\142.105.40.139:29070\name\Protokage\rate\4000\snaps\20\model\rebel_pilot/default\forcepowers\7-2-032320333000010321\color1\0\color2\4\handicap\100\sex\male\cg_predictItems\1\saber1\Kyle\saber2\Kyle\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+2-14-2021 1:40 (452:46): ClientUserinfoChanged: 3 n\Protokage\t\0\model\rebel_pilot/default\c1\0\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\Kyle\st2\Kyle\dt\0
+2-14-2021 1:40 (453:14): Kill: 2 1 3: gianna>:P killed Jason by MOD_SABER
+2-14-2021 1:41 (453:16): Kill: 0 3 31: BANDIT killed Protokage by MOD_FORCE_DARK
+2-14-2021 1:41 (453:19): ClientUserinfoChanged handling info: 1 \ip\67.245.136.252:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\none\saber1\dual_1\cg_predictItems\1\sex\male\handicap\100\color2\4\color1\5\forcepowers\7-1-331322000200003322\model\boba_fett/default\snaps\20\rate\4000\name\Jason\teamtask\0\teamoverlay\1
+2-14-2021 1:41 (453:19): ClientUserinfoChanged: 1 n\Jason\t\0\model\boba_fett/default\c1\5\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\dual_1\st2\none\dt\0
+2-14-2021 1:41 (453:20): ClientUserinfoChanged handling info: 3 \ip\142.105.40.139:29070\name\Protokage\rate\4000\snaps\20\model\rebel_pilot/default\forcepowers\7-2-032320333000010321\color1\0\color2\4\handicap\100\sex\male\cg_predictItems\1\saber1\Kyle\saber2\Kyle\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+2-14-2021 1:41 (453:20): ClientUserinfoChanged: 3 n\Protokage\t\0\model\rebel_pilot/default\c1\0\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\Kyle\st2\Kyle\dt\0
+2-14-2021 1:41 (453:22): Kill: 0 2 3: BANDIT killed gianna>:P by MOD_SABER
+2-14-2021 1:41 (453:23): ClientUserinfoChanged handling info: 2 \ip\74.105.117.3:1382\name\gianna>:P\rate\4000\snaps\20\model\jedi_hf/head_c1|torso_d1|lower_d1\forcepowers\7-2-012320333000030321\color1\5\color2\4\handicap\100\sex\male\cg_predictItems\1\saber1\Kyle\saber2\none\char_color_red\165\char_color_green\48\char_color_blue\21\teamtask\0\teamoverlay\1
+2-14-2021 1:41 (453:23): ClientUserinfoChanged: 2 n\gianna>:P\t\0\model\jedi_hf/head_c1|torso_d1|lower_d1\c1\5\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\Kyle\st2\none\dt\0
+2-14-2021 1:41 (453:40): Kill: 1 2 3: Jason killed gianna>:P by MOD_SABER
+2-14-2021 1:41 (453:41): ClientUserinfoChanged handling info: 2 \ip\74.105.117.3:1382\name\gianna>:P\rate\4000\snaps\20\model\jedi_hf/head_c1|torso_d1|lower_d1\forcepowers\7-2-012320333000030321\color1\5\color2\4\handicap\100\sex\male\cg_predictItems\1\saber1\Kyle\saber2\none\char_color_red\165\char_color_green\48\char_color_blue\21\teamtask\0\teamoverlay\1
+2-14-2021 1:41 (453:41): ClientUserinfoChanged: 2 n\gianna>:P\t\0\model\jedi_hf/head_c1|torso_d1|lower_d1\c1\5\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\Kyle\st2\none\dt\0
+2-14-2021 1:41 (453:48): Kill: 3 0 3: Protokage killed BANDIT by MOD_SABER
+2-14-2021 1:41 (453:57): ClientUserinfoChanged handling info: 0 \ip\74.105.117.3:29070\name\BANDIT\rate\4000\snaps\20\model\luke/default\forcepowers\7-2-022220333000030330\color1\0\color2\4\handicap\100\sex\male\cg_predictItems\1\saber1\dual_2\saber2\none\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+2-14-2021 1:41 (453:57): ClientUserinfoChanged: 0 n\BANDIT\t\0\model\luke/default\c1\0\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\dual_2\st2\none\dt\0
+2-14-2021 1:41 (454:13): Kill: 2 1 3: gianna>:P killed Jason by MOD_SABER
+2-14-2021 1:42 (454:20): Kill: 2 3 31: gianna>:P killed Protokage by MOD_FORCE_DARK
+2-14-2021 1:42 (454:20): ClientUserinfoChanged handling info: 1 \ip\67.245.136.252:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\none\saber1\dual_1\cg_predictItems\1\sex\male\handicap\100\color2\4\color1\5\forcepowers\7-1-331322000200003322\model\boba_fett/default\snaps\20\rate\4000\name\Jason\teamtask\0\teamoverlay\1
+2-14-2021 1:42 (454:20): ClientUserinfoChanged: 1 n\Jason\t\0\model\boba_fett/default\c1\5\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\dual_1\st2\none\dt\0
+2-14-2021 1:42 (454:22): Kill: 0 2 3: BANDIT killed gianna>:P by MOD_SABER
+2-14-2021 1:42 (454:23): ClientUserinfoChanged handling info: 2 \ip\74.105.117.3:1382\name\gianna>:P\rate\4000\snaps\20\model\jedi_hf/head_c1|torso_d1|lower_d1\forcepowers\7-2-012320333000030321\color1\5\color2\4\handicap\100\sex\male\cg_predictItems\1\saber1\Kyle\saber2\none\char_color_red\165\char_color_green\48\char_color_blue\21\teamtask\0\teamoverlay\1
+2-14-2021 1:42 (454:23): ClientUserinfoChanged: 2 n\gianna>:P\t\0\model\jedi_hf/head_c1|torso_d1|lower_d1\c1\5\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\Kyle\st2\none\dt\0
+2-14-2021 1:42 (454:23): ClientUserinfoChanged handling info: 3 \ip\142.105.40.139:29070\name\Protokage\rate\4000\snaps\20\model\rebel_pilot/default\forcepowers\7-2-032320333000010321\color1\0\color2\4\handicap\100\sex\male\cg_predictItems\1\saber1\Kyle\saber2\Kyle\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+2-14-2021 1:42 (454:23): ClientUserinfoChanged: 3 n\Protokage\t\0\model\rebel_pilot/default\c1\0\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\Kyle\st2\Kyle\dt\0
+2-14-2021 1:42 (454:31): Kill: 2 0 31: gianna>:P killed BANDIT by MOD_FORCE_DARK
+2-14-2021 1:42 (454:40): Kill: 2 1 3: gianna>:P killed Jason by MOD_SABER
+2-14-2021 1:42 (454:40): ClientUserinfoChanged handling info: 0 \ip\74.105.117.3:29070\name\BANDIT\rate\4000\snaps\20\model\luke/default\forcepowers\7-2-022220333000030330\color1\0\color2\4\handicap\100\sex\male\cg_predictItems\1\saber1\dual_2\saber2\none\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+2-14-2021 1:42 (454:40): ClientUserinfoChanged: 0 n\BANDIT\t\0\model\luke/default\c1\0\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\dual_2\st2\none\dt\0
+2-14-2021 1:42 (454:42): Kill: 3 2 31: Protokage killed gianna>:P by MOD_FORCE_DARK
+2-14-2021 1:42 (454:43): ClientUserinfoChanged handling info: 1 \ip\67.245.136.252:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\none\saber1\dual_1\cg_predictItems\1\sex\male\handicap\100\color2\4\color1\5\forcepowers\7-1-331322000200003322\model\boba_fett/default\snaps\20\rate\4000\name\Jason\teamtask\0\teamoverlay\1
+2-14-2021 1:42 (454:43): ClientUserinfoChanged: 1 n\Jason\t\0\model\boba_fett/default\c1\5\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\dual_1\st2\none\dt\0
+2-14-2021 1:42 (454:44): ClientUserinfoChanged handling info: 2 \ip\74.105.117.3:1382\name\gianna>:P\rate\4000\snaps\20\model\jedi_hf/head_c1|torso_d1|lower_d1\forcepowers\7-2-012320333000030321\color1\5\color2\4\handicap\100\sex\male\cg_predictItems\1\saber1\Kyle\saber2\none\char_color_red\165\char_color_green\48\char_color_blue\21\teamtask\0\teamoverlay\1
+2-14-2021 1:42 (454:44): ClientUserinfoChanged: 2 n\gianna>:P\t\0\model\jedi_hf/head_c1|torso_d1|lower_d1\c1\5\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\Kyle\st2\none\dt\0
+2-14-2021 1:42 (454:54): Kill: 0 2 3: BANDIT killed gianna>:P by MOD_SABER
+2-14-2021 1:42 (454:55): ClientUserinfoChanged handling info: 2 \ip\74.105.117.3:1382\name\gianna>:P\rate\4000\snaps\20\model\jedi_hf/head_c1|torso_d1|lower_d1\forcepowers\7-2-012320333000030321\color1\5\color2\4\handicap\100\sex\male\cg_predictItems\1\saber1\Kyle\saber2\none\char_color_red\165\char_color_green\48\char_color_blue\21\teamtask\0\teamoverlay\1
+2-14-2021 1:42 (454:55): ClientUserinfoChanged: 2 n\gianna>:P\t\0\model\jedi_hf/head_c1|torso_d1|lower_d1\c1\5\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\Kyle\st2\none\dt\0
+2-14-2021 1:43 (455:18): Kill: 2 1 31: gianna>:P killed Jason by MOD_FORCE_DARK
+2-14-2021 1:43 (455:20): ClientUserinfoChanged handling info: 1 \ip\67.245.136.252:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\none\saber1\dual_1\cg_predictItems\1\sex\male\handicap\100\color2\4\color1\5\forcepowers\7-1-331322000200003322\model\boba_fett/default\snaps\20\rate\4000\name\Jason\teamtask\0\teamoverlay\1
+2-14-2021 1:43 (455:20): ClientUserinfoChanged: 1 n\Jason\t\0\model\boba_fett/default\c1\5\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\dual_1\st2\none\dt\0
+2-14-2021 1:43 (455:25): Kill: 2 3 3: gianna>:P killed Protokage by MOD_SABER
+2-14-2021 1:43 (455:26): Kill: 0 2 3: BANDIT killed gianna>:P by MOD_SABER
+2-14-2021 1:43 (455:27): ClientUserinfoChanged handling info: 3 \ip\142.105.40.139:29070\name\Protokage\rate\4000\snaps\20\model\rebel_pilot/default\forcepowers\7-2-032320333000010321\color1\0\color2\4\handicap\100\sex\male\cg_predictItems\1\saber1\Kyle\saber2\Kyle\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+2-14-2021 1:43 (455:27): ClientUserinfoChanged: 3 n\Protokage\t\0\model\rebel_pilot/default\c1\0\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\Kyle\st2\Kyle\dt\0
+2-14-2021 1:43 (455:27): ClientUserinfoChanged handling info: 2 \ip\74.105.117.3:1382\name\gianna>:P\rate\4000\snaps\20\model\jedi_hf/head_c1|torso_d1|lower_d1\forcepowers\7-2-012320333000030321\color1\5\color2\4\handicap\100\sex\male\cg_predictItems\1\saber1\Kyle\saber2\none\char_color_red\165\char_color_green\48\char_color_blue\21\teamtask\0\teamoverlay\1
+2-14-2021 1:43 (455:27): ClientUserinfoChanged: 2 n\gianna>:P\t\0\model\jedi_hf/head_c1|torso_d1|lower_d1\c1\5\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\Kyle\st2\none\dt\0
+2-14-2021 1:43 (455:42): Kill: 2 1 3: gianna>:P killed Jason by MOD_SABER
+2-14-2021 1:43 (455:48): ClientUserinfoChanged handling info: 1 \ip\67.245.136.252:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\none\saber1\dual_1\cg_predictItems\1\sex\male\handicap\100\color2\4\color1\5\forcepowers\7-1-331322000200003322\model\boba_fett/default\snaps\20\rate\4000\name\Jason\teamtask\0\teamoverlay\1
+2-14-2021 1:43 (455:48): ClientUserinfoChanged: 1 n\Jason\t\0\model\boba_fett/default\c1\5\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\dual_1\st2\none\dt\0
+2-14-2021 1:43 (455:51): Kill: 3 0 31: Protokage killed BANDIT by MOD_FORCE_DARK
+2-14-2021 1:43 (455:53): Kill: 3 2 3: Protokage killed gianna>:P by MOD_SABER
+2-14-2021 1:43 (455:54): ClientUserinfoChanged handling info: 2 \ip\74.105.117.3:1382\name\gianna>:P\rate\4000\snaps\20\model\jedi_hf/head_c1|torso_d1|lower_d1\forcepowers\7-2-012320333000030321\color1\5\color2\4\handicap\100\sex\male\cg_predictItems\1\saber1\Kyle\saber2\none\char_color_red\165\char_color_green\48\char_color_blue\21\teamtask\0\teamoverlay\1
+2-14-2021 1:43 (455:54): ClientUserinfoChanged: 2 n\gianna>:P\t\0\model\jedi_hf/head_c1|torso_d1|lower_d1\c1\5\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\Kyle\st2\none\dt\0
+2-14-2021 1:43 (456:09): ClientUserinfoChanged handling info: 0 \ip\74.105.117.3:29070\name\BANDIT\rate\4000\snaps\20\model\luke/default\forcepowers\7-2-022220333000030330\color1\0\color2\4\handicap\100\sex\male\cg_predictItems\1\saber1\dual_2\saber2\none\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+2-14-2021 1:43 (456:09): ClientUserinfoChanged: 0 n\BANDIT\t\0\model\luke/default\c1\0\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\dual_2\st2\none\dt\0
+2-14-2021 1:44 (456:31): Kill: 2 0 3: gianna>:P killed BANDIT by MOD_SABER
+2-14-2021 1:44 (456:38): Kill: 2 3 3: gianna>:P killed Protokage by MOD_SABER
+2-14-2021 1:44 (456:44): ClientUserinfoChanged handling info: 0 \ip\74.105.117.3:29070\name\BANDIT\rate\4000\snaps\20\model\luke/default\forcepowers\7-2-022220333000030330\color1\0\color2\4\handicap\100\sex\male\cg_predictItems\1\saber1\dual_2\saber2\none\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+2-14-2021 1:44 (456:44): ClientUserinfoChanged: 0 n\BANDIT\t\0\model\luke/default\c1\0\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\dual_2\st2\none\dt\0
+2-14-2021 1:44 (456:52): ClientUserinfoChanged handling info: 3 \ip\142.105.40.139:29070\name\Protokage\rate\4000\snaps\20\model\rebel_pilot/default\forcepowers\7-2-032320333000010321\color1\0\color2\4\handicap\100\sex\male\cg_predictItems\1\saber1\Kyle\saber2\Kyle\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+2-14-2021 1:44 (456:52): ClientUserinfoChanged: 3 n\Protokage\t\0\model\rebel_pilot/default\c1\0\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\Kyle\st2\Kyle\dt\0
+2-14-2021 1:44 (456:54): Kill: 0 2 31: BANDIT killed gianna>:P by MOD_FORCE_DARK
+2-14-2021 1:44 (456:55): ClientUserinfoChanged handling info: 2 \ip\74.105.117.3:1382\name\gianna>:P\rate\4000\snaps\20\model\jedi_hf/head_c1|torso_d1|lower_d1\forcepowers\7-2-012320333000030321\color1\5\color2\4\handicap\100\sex\male\cg_predictItems\1\saber1\Kyle\saber2\none\char_color_red\165\char_color_green\48\char_color_blue\21\teamtask\0\teamoverlay\1
+2-14-2021 1:44 (456:55): ClientUserinfoChanged: 2 n\gianna>:P\t\0\model\jedi_hf/head_c1|torso_d1|lower_d1\c1\5\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\Kyle\st2\none\dt\0
+2-14-2021 1:45 (457:17): Kill: 0 2 3: BANDIT killed gianna>:P by MOD_SABER
+2-14-2021 1:45 (457:18): ClientUserinfoChanged handling info: 2 \ip\74.105.117.3:1382\name\gianna>:P\rate\4000\snaps\20\model\jedi_hf/head_c1|torso_d1|lower_d1\forcepowers\7-2-012320333000030321\color1\5\color2\4\handicap\100\sex\male\cg_predictItems\1\saber1\Kyle\saber2\none\char_color_red\165\char_color_green\48\char_color_blue\21\teamtask\0\teamoverlay\1
+2-14-2021 1:45 (457:18): ClientUserinfoChanged: 2 n\gianna>:P\t\0\model\jedi_hf/head_c1|torso_d1|lower_d1\c1\5\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\Kyle\st2\none\dt\0
+2-14-2021 1:45 (457:42): Kill: 2 1 31: gianna>:P killed Jason by MOD_FORCE_DARK
+2-14-2021 1:45 (457:46): ClientUserinfoChanged handling info: 1 \ip\67.245.136.252:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\none\saber1\dual_1\cg_predictItems\1\sex\male\handicap\100\color2\4\color1\5\forcepowers\7-1-331322000200003322\model\boba_fett/default\snaps\20\rate\4000\name\Jason\teamtask\0\teamoverlay\1
+2-14-2021 1:45 (457:46): ClientUserinfoChanged: 1 n\Jason\t\0\model\boba_fett/default\c1\5\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\dual_1\st2\none\dt\0
+2-14-2021 1:45 (457:47): Kill: 3 0 31: Protokage killed BANDIT by MOD_FORCE_DARK
+2-14-2021 1:45 (458:01): Kill: 1 2 4: Jason killed gianna>:P by MOD_BRYAR_PISTOL
+2-14-2021 1:45 (458:03): ClientUserinfoChanged handling info: 0 \ip\74.105.117.3:29070\name\BANDIT\rate\4000\snaps\20\model\luke/default\forcepowers\7-2-022220333000030330\color1\0\color2\4\handicap\100\sex\male\cg_predictItems\1\saber1\dual_2\saber2\none\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+2-14-2021 1:45 (458:03): ClientUserinfoChanged: 0 n\BANDIT\t\0\model\luke/default\c1\0\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\dual_2\st2\none\dt\0
+2-14-2021 1:45 (458:04): ClientUserinfoChanged handling info: 2 \ip\74.105.117.3:1382\name\gianna>:P\rate\4000\snaps\20\model\jedi_hf/head_c1|torso_d1|lower_d1\forcepowers\7-2-012320333000030321\color1\5\color2\4\handicap\100\sex\male\cg_predictItems\1\saber1\Kyle\saber2\none\char_color_red\165\char_color_green\48\char_color_blue\21\teamtask\0\teamoverlay\1
+2-14-2021 1:45 (458:04): ClientUserinfoChanged: 2 n\gianna>:P\t\0\model\jedi_hf/head_c1|torso_d1|lower_d1\c1\5\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\Kyle\st2\none\dt\0
+2-14-2021 1:46 (458:18): Kill: 3 0 3: Protokage killed BANDIT by MOD_SABER
+2-14-2021 1:46 (458:25): ClientUserinfoChanged handling info: 0 \ip\74.105.117.3:29070\name\BANDIT\rate\4000\snaps\20\model\luke/default\forcepowers\7-2-022220333000030330\color1\0\color2\4\handicap\100\sex\male\cg_predictItems\1\saber1\dual_2\saber2\none\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+2-14-2021 1:46 (458:25): ClientUserinfoChanged: 0 n\BANDIT\t\0\model\luke/default\c1\0\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\dual_2\st2\none\dt\0
+2-14-2021 1:46 (458:33): Kill: 0 3 5: BANDIT killed Protokage by MOD_BRYAR_PISTOL_ALT
+2-14-2021 1:46 (458:36): ClientUserinfoChanged handling info: 3 \ip\142.105.40.139:29070\name\Protokage\rate\4000\snaps\20\model\rebel_pilot/default\forcepowers\7-2-032320333000010321\color1\0\color2\4\handicap\100\sex\male\cg_predictItems\1\saber1\Kyle\saber2\Kyle\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+2-14-2021 1:46 (458:36): ClientUserinfoChanged: 3 n\Protokage\t\0\model\rebel_pilot/default\c1\0\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\Kyle\st2\Kyle\dt\0
+2-14-2021 1:46 (458:39): Kill: 0 2 3: BANDIT killed gianna>:P by MOD_SABER
+2-14-2021 1:46 (458:40): ClientUserinfoChanged handling info: 2 \ip\74.105.117.3:1382\name\gianna>:P\rate\4000\snaps\20\model\jedi_hf/head_c1|torso_d1|lower_d1\forcepowers\7-2-012320333000030321\color1\5\color2\4\handicap\100\sex\male\cg_predictItems\1\saber1\Kyle\saber2\none\char_color_red\165\char_color_green\48\char_color_blue\21\teamtask\0\teamoverlay\1
+2-14-2021 1:46 (458:40): ClientUserinfoChanged: 2 n\gianna>:P\t\0\model\jedi_hf/head_c1|torso_d1|lower_d1\c1\5\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\Kyle\st2\none\dt\0
+2-14-2021 1:46 (458:52): Kill: 2 0 3: gianna>:P killed BANDIT by MOD_SABER
+2-14-2021 1:46 (459:02): ClientUserinfoChanged handling info: 0 \ip\74.105.117.3:29070\name\BANDIT\rate\4000\snaps\20\model\luke/default\forcepowers\7-2-022220333000030330\color1\0\color2\4\handicap\100\sex\male\cg_predictItems\1\saber1\dual_2\saber2\none\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+2-14-2021 1:46 (459:02): ClientUserinfoChanged: 0 n\BANDIT\t\0\model\luke/default\c1\0\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\dual_2\st2\none\dt\0
+2-14-2021 1:46 (459:12): Kill: 0 1 31: BANDIT killed Jason by MOD_FORCE_DARK
+2-14-2021 1:46 (459:13): Kill: 2 3 31: gianna>:P killed Protokage by MOD_FORCE_DARK
+2-14-2021 1:47 (459:15): ClientUserinfoChanged handling info: 3 \ip\142.105.40.139:29070\name\Protokage\rate\4000\snaps\20\model\rebel_pilot/default\forcepowers\7-2-032320333000010321\color1\0\color2\4\handicap\100\sex\male\cg_predictItems\1\saber1\Kyle\saber2\Kyle\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+2-14-2021 1:47 (459:15): ClientUserinfoChanged: 3 n\Protokage\t\0\model\rebel_pilot/default\c1\0\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\Kyle\st2\Kyle\dt\0
+2-14-2021 1:47 (459:17): ClientUserinfoChanged handling info: 1 \ip\67.245.136.252:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\none\saber1\dual_1\cg_predictItems\1\sex\male\handicap\100\color2\4\color1\5\forcepowers\7-1-331322000200003322\model\boba_fett/default\snaps\20\rate\4000\name\Jason\teamtask\0\teamoverlay\1
+2-14-2021 1:47 (459:17): ClientUserinfoChanged: 1 n\Jason\t\0\model\boba_fett/default\c1\5\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\dual_1\st2\none\dt\0
+2-14-2021 1:47 (459:20): Kill: 0 2 3: BANDIT killed gianna>:P by MOD_SABER
+2-14-2021 1:47 (459:21): ClientUserinfoChanged handling info: 2 \ip\74.105.117.3:1382\name\gianna>:P\rate\4000\snaps\20\model\jedi_hf/head_c1|torso_d1|lower_d1\forcepowers\7-2-012320333000030321\color1\5\color2\4\handicap\100\sex\male\cg_predictItems\1\saber1\Kyle\saber2\none\char_color_red\165\char_color_green\48\char_color_blue\21\teamtask\0\teamoverlay\1
+2-14-2021 1:47 (459:21): ClientUserinfoChanged: 2 n\gianna>:P\t\0\model\jedi_hf/head_c1|torso_d1|lower_d1\c1\5\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\Kyle\st2\none\dt\0
+2-14-2021 1:47 (459:36): Kill: 3 1 3: Protokage killed Jason by MOD_SABER
+2-14-2021 1:47 (459:37): Kill: 3 0 31: Protokage killed BANDIT by MOD_FORCE_DARK
+2-14-2021 1:47 (459:40): ClientUserinfoChanged handling info: 1 \ip\67.245.136.252:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\none\saber1\dual_1\cg_predictItems\1\sex\male\handicap\100\color2\4\color1\5\forcepowers\7-1-331322000200003322\model\boba_fett/default\snaps\20\rate\4000\name\Jason\teamtask\0\teamoverlay\1
+2-14-2021 1:47 (459:40): ClientUserinfoChanged: 1 n\Jason\t\0\model\boba_fett/default\c1\5\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\dual_1\st2\none\dt\0
+2-14-2021 1:47 (459:42): Kill: 2 3 3: gianna>:P killed Protokage by MOD_SABER
+2-14-2021 1:47 (459:44): ClientUserinfoChanged handling info: 0 \ip\74.105.117.3:29070\name\BANDIT\rate\4000\snaps\20\model\luke/default\forcepowers\7-2-022220333000030330\color1\0\color2\4\handicap\100\sex\male\cg_predictItems\1\saber1\dual_2\saber2\none\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+2-14-2021 1:47 (459:44): ClientUserinfoChanged: 0 n\BANDIT\t\0\model\luke/default\c1\0\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\dual_2\st2\none\dt\0
+2-14-2021 1:47 (459:46): ClientUserinfoChanged handling info: 3 \ip\142.105.40.139:29070\name\Protokage\rate\4000\snaps\20\model\rebel_pilot/default\forcepowers\7-2-032320333000010321\color1\0\color2\4\handicap\100\sex\male\cg_predictItems\1\saber1\Kyle\saber2\Kyle\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+2-14-2021 1:47 (459:46): ClientUserinfoChanged: 3 n\Protokage\t\0\model\rebel_pilot/default\c1\0\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\Kyle\st2\Kyle\dt\0
+2-14-2021 1:47 (459:47): Kill: 2 1 3: gianna>:P killed Jason by MOD_SABER
+2-14-2021 1:47 (459:50): ClientUserinfoChanged handling info: 1 \ip\67.245.136.252:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\none\saber1\dual_1\cg_predictItems\1\sex\male\handicap\100\color2\4\color1\5\forcepowers\7-1-331322000200003322\model\boba_fett/default\snaps\20\rate\4000\name\Jason\teamtask\0\teamoverlay\1
+2-14-2021 1:47 (459:50): ClientUserinfoChanged: 1 n\Jason\t\0\model\boba_fett/default\c1\5\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\dual_1\st2\none\dt\0
+2-14-2021 1:47 (460:03): Kill: 3 0 3: Protokage killed BANDIT by MOD_SABER
+2-14-2021 1:47 (460:08): ClientUserinfoChanged handling info: 0 \ip\74.105.117.3:29070\name\BANDIT\rate\4000\snaps\20\model\luke/default\forcepowers\7-2-022220333000030330\color1\0\color2\4\handicap\100\sex\male\cg_predictItems\1\saber1\dual_2\saber2\none\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+2-14-2021 1:47 (460:08): ClientUserinfoChanged: 0 n\BANDIT\t\0\model\luke/default\c1\0\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\dual_2\st2\none\dt\0
+2-14-2021 1:48 (460:26): Kill: 0 2 31: BANDIT killed gianna>:P by MOD_FORCE_DARK
+2-14-2021 1:48 (460:27): ClientUserinfoChanged handling info: 2 \ip\74.105.117.3:1382\name\gianna>:P\rate\4000\snaps\20\model\jedi_hf/head_c1|torso_d1|lower_d1\forcepowers\7-2-012320333000030321\color1\5\color2\4\handicap\100\sex\male\cg_predictItems\1\saber1\Kyle\saber2\none\char_color_red\165\char_color_green\48\char_color_blue\21\teamtask\0\teamoverlay\1
+2-14-2021 1:48 (460:27): ClientUserinfoChanged: 2 n\gianna>:P\t\0\model\jedi_hf/head_c1|torso_d1|lower_d1\c1\5\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\Kyle\st2\none\dt\0
+2-14-2021 1:48 (461:06): Kill: 0 2 3: BANDIT killed gianna>:P by MOD_SABER
+2-14-2021 1:48 (461:07): ClientUserinfoChanged handling info: 2 \ip\74.105.117.3:1382\name\gianna>:P\rate\4000\snaps\20\model\jedi_hf/head_c1|torso_d1|lower_d1\forcepowers\7-2-012320333000030321\color1\5\color2\4\handicap\100\sex\male\cg_predictItems\1\saber1\Kyle\saber2\none\char_color_red\165\char_color_green\48\char_color_blue\21\teamtask\0\teamoverlay\1
+2-14-2021 1:48 (461:07): ClientUserinfoChanged: 2 n\gianna>:P\t\0\model\jedi_hf/head_c1|torso_d1|lower_d1\c1\5\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\Kyle\st2\none\dt\0
+2-14-2021 1:49 (461:36): Kill: 3 0 31: Protokage killed BANDIT by MOD_FORCE_DARK
+2-14-2021 1:49 (461:41): ClientUserinfoChanged handling info: 1 \ip\67.245.136.252:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\none\saber1\dual_1\cg_predictItems\1\sex\male\handicap\100\color2\4\color1\5\forcepowers\7-1-233130000230000333\model\boba_fett/default\snaps\20\rate\4000\name\Jason\teamtask\0\teamoverlay\1
+2-14-2021 1:49 (461:41): ClientUserinfoChanged: 1 n\Jason\t\0\model\boba_fett/default\c1\5\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\dual_1\st2\none\dt\0
+2-14-2021 1:49 (461:46): ClientUserinfoChanged handling info: 0 \ip\74.105.117.3:29070\name\BANDIT\rate\4000\snaps\20\model\luke/default\forcepowers\7-2-022220333000030330\color1\0\color2\4\handicap\100\sex\male\cg_predictItems\1\saber1\dual_2\saber2\none\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+2-14-2021 1:49 (461:46): ClientUserinfoChanged: 0 n\BANDIT\t\0\model\luke/default\c1\0\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\dual_2\st2\none\dt\0
+2-14-2021 1:49 (461:58): Kill: 1 3 3: Jason killed Protokage by MOD_SABER
+2-14-2021 1:49 (462:02): Kill: 0 1 3: BANDIT killed Jason by MOD_SABER
+2-14-2021 1:49 (462:03): ClientUserinfoChanged handling info: 3 \ip\142.105.40.139:29070\name\Protokage\rate\4000\snaps\20\model\rebel_pilot/default\forcepowers\7-2-032320333000010321\color1\0\color2\4\handicap\100\sex\male\cg_predictItems\1\saber1\Kyle\saber2\Kyle\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+2-14-2021 1:49 (462:03): ClientUserinfoChanged: 3 n\Protokage\t\0\model\rebel_pilot/default\c1\0\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\Kyle\st2\Kyle\dt\0
+2-14-2021 1:49 (462:12): ClientUserinfoChanged handling info: 1 \ip\67.245.136.252:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\none\saber1\dual_1\cg_predictItems\1\sex\male\handicap\100\color2\4\color1\5\forcepowers\7-1-233130000230000333\model\boba_fett/default\snaps\20\rate\4000\name\Jason\teamtask\0\teamoverlay\1
+2-14-2021 1:49 (462:12): ClientUserinfoChanged: 1 n\Jason\t\0\model\boba_fett/default\c1\5\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\dual_1\st2\none\dt\0
+2-14-2021 1:50 (462:19): Kill: 0 2 3: BANDIT killed gianna>:P by MOD_SABER
+2-14-2021 1:50 (462:20): ClientUserinfoChanged handling info: 2 \ip\74.105.117.3:1382\name\gianna>:P\rate\4000\snaps\20\model\jedi_hf/head_c1|torso_d1|lower_d1\forcepowers\7-2-012320333000030321\color1\5\color2\4\handicap\100\sex\male\cg_predictItems\1\saber1\Kyle\saber2\none\char_color_red\165\char_color_green\48\char_color_blue\21\teamtask\0\teamoverlay\1
+2-14-2021 1:50 (462:20): ClientUserinfoChanged: 2 n\gianna>:P\t\0\model\jedi_hf/head_c1|torso_d1|lower_d1\c1\5\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\Kyle\st2\none\dt\0
+2-14-2021 1:50 (462:35): Kill: 3 1 31: Protokage killed Jason by MOD_FORCE_DARK
+2-14-2021 1:50 (462:36): Kill: 3 0 31: Protokage killed BANDIT by MOD_FORCE_DARK
+2-14-2021 1:50 (462:38): ClientUserinfoChanged handling info: 1 \ip\67.245.136.252:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\none\saber1\dual_1\cg_predictItems\1\sex\male\handicap\100\color2\4\color1\5\forcepowers\7-1-233130000230000333\model\boba_fett/default\snaps\20\rate\4000\name\Jason\teamtask\0\teamoverlay\1
+2-14-2021 1:50 (462:38): ClientUserinfoChanged: 1 n\Jason\t\0\model\boba_fett/default\c1\5\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\dual_1\st2\none\dt\0
+2-14-2021 1:50 (462:44): ClientUserinfoChanged handling info: 0 \ip\74.105.117.3:29070\name\BANDIT\rate\4000\snaps\20\model\luke/default\forcepowers\7-2-022220333000030330\color1\0\color2\4\handicap\100\sex\male\cg_predictItems\1\saber1\dual_2\saber2\none\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+2-14-2021 1:50 (462:44): ClientUserinfoChanged: 0 n\BANDIT\t\0\model\luke/default\c1\0\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\dual_2\st2\none\dt\0
+2-14-2021 1:50 (462:47): Kill: 2 3 3: gianna>:P killed Protokage by MOD_SABER
+2-14-2021 1:50 (462:50): ClientUserinfoChanged handling info: 3 \ip\142.105.40.139:29070\name\Protokage\rate\4000\snaps\20\model\rebel_pilot/default\forcepowers\7-2-032320333000010321\color1\0\color2\4\handicap\100\sex\male\cg_predictItems\1\saber1\Kyle\saber2\Kyle\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+2-14-2021 1:50 (462:50): ClientUserinfoChanged: 3 n\Protokage\t\0\model\rebel_pilot/default\c1\0\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\Kyle\st2\Kyle\dt\0
+2-14-2021 1:50 (463:00): Kill: 2 1 3: gianna>:P killed Jason by MOD_SABER
+2-14-2021 1:50 (463:04): ClientUserinfoChanged handling info: 1 \ip\67.245.136.252:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\none\saber1\dual_1\cg_predictItems\1\sex\male\handicap\100\color2\4\color1\5\forcepowers\7-1-233130000230000333\model\boba_fett/default\snaps\20\rate\4000\name\Jason\teamtask\0\teamoverlay\1
+2-14-2021 1:50 (463:04): ClientUserinfoChanged: 1 n\Jason\t\0\model\boba_fett/default\c1\5\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\dual_1\st2\none\dt\0
+2-14-2021 1:51 (463:36): Kill: 0 3 3: BANDIT killed Protokage by MOD_SABER
+2-14-2021 1:51 (463:37): ClientUserinfoChanged handling info: 3 \ip\142.105.40.139:29070\name\Protokage\rate\4000\snaps\20\model\rebel_pilot/default\forcepowers\7-2-032320333000010321\color1\0\color2\4\handicap\100\sex\male\cg_predictItems\1\saber1\Kyle\saber2\Kyle\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+2-14-2021 1:51 (463:37): ClientUserinfoChanged: 3 n\Protokage\t\0\model\rebel_pilot/default\c1\0\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\Kyle\st2\Kyle\dt\0
+2-14-2021 1:51 (463:44): Kill: 2 0 31: gianna>:P killed BANDIT by MOD_FORCE_DARK
+2-14-2021 1:51 (463:46): ClientUserinfoChanged handling info: 0 \ip\74.105.117.3:29070\name\BANDIT\rate\4000\snaps\20\model\luke/default\forcepowers\7-2-022220333000030330\color1\0\color2\4\handicap\100\sex\male\cg_predictItems\1\saber1\dual_2\saber2\none\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+2-14-2021 1:51 (463:46): ClientUserinfoChanged: 0 n\BANDIT\t\0\model\luke/default\c1\0\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\dual_2\st2\none\dt\0
+2-14-2021 1:51 (463:57): Kill: 0 2 3: BANDIT killed gianna>:P by MOD_SABER
+2-14-2021 1:51 (463:58): ClientUserinfoChanged handling info: 2 \ip\74.105.117.3:1382\name\gianna>:P\rate\4000\snaps\20\model\jedi_hf/head_c1|torso_d1|lower_d1\forcepowers\7-2-012320333000030321\color1\5\color2\4\handicap\100\sex\male\cg_predictItems\1\saber1\Kyle\saber2\none\char_color_red\165\char_color_green\48\char_color_blue\21\teamtask\0\teamoverlay\1
+2-14-2021 1:51 (463:58): ClientUserinfoChanged: 2 n\gianna>:P\t\0\model\jedi_hf/head_c1|torso_d1|lower_d1\c1\5\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\Kyle\st2\none\dt\0
+2-14-2021 1:52 (464:27): Kill: 3 0 31: Protokage killed BANDIT by MOD_FORCE_DARK
+2-14-2021 1:52 (464:32): ClientUserinfoChanged handling info: 0 \ip\74.105.117.3:29070\name\BANDIT\rate\4000\snaps\20\model\luke/default\forcepowers\7-2-022220333000030330\color1\0\color2\4\handicap\100\sex\male\cg_predictItems\1\saber1\dual_2\saber2\none\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+2-14-2021 1:52 (464:32): ClientUserinfoChanged: 0 n\BANDIT\t\0\model\luke/default\c1\0\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\dual_2\st2\none\dt\0
+2-14-2021 1:52 (464:36): Kill: 3 2 3: Protokage killed gianna>:P by MOD_SABER
+2-14-2021 1:52 (464:37): ClientUserinfoChanged handling info: 2 \ip\74.105.117.3:1382\name\gianna>:P\rate\4000\snaps\20\model\jedi_hf/head_c1|torso_d1|lower_d1\forcepowers\7-2-012320333000030321\color1\5\color2\4\handicap\100\sex\male\cg_predictItems\1\saber1\Kyle\saber2\none\char_color_red\165\char_color_green\48\char_color_blue\21\teamtask\0\teamoverlay\1
+2-14-2021 1:52 (464:37): ClientUserinfoChanged: 2 n\gianna>:P\t\0\model\jedi_hf/head_c1|torso_d1|lower_d1\c1\5\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\Kyle\st2\none\dt\0
+2-14-2021 1:52 (464:56): Kill: 3 2 6: Protokage killed gianna>:P by MOD_BLASTER
+2-14-2021 1:52 (464:57): ClientUserinfoChanged handling info: 2 \ip\74.105.117.3:1382\name\gianna>:P\rate\4000\snaps\20\model\jedi_hf/head_c1|torso_d1|lower_d1\forcepowers\7-2-012320333000030321\color1\5\color2\4\handicap\100\sex\male\cg_predictItems\1\saber1\Kyle\saber2\none\char_color_red\165\char_color_green\48\char_color_blue\21\teamtask\0\teamoverlay\1
+2-14-2021 1:52 (464:57): ClientUserinfoChanged: 2 n\gianna>:P\t\0\model\jedi_hf/head_c1|torso_d1|lower_d1\c1\5\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\Kyle\st2\none\dt\0
+2-14-2021 1:52 (465:14): Kill: 3 0 31: Protokage killed BANDIT by MOD_FORCE_DARK
+2-14-2021 1:53 (465:18): Kill: 2 1 31: gianna>:P killed Jason by MOD_FORCE_DARK
+2-14-2021 1:53 (465:19): ClientUserinfoChanged handling info: 1 \ip\67.245.136.252:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\none\saber1\dual_1\cg_predictItems\1\sex\male\handicap\100\color2\4\color1\5\forcepowers\7-1-233130000230000333\model\boba_fett/default\snaps\20\rate\4000\name\Jason\teamtask\0\teamoverlay\1
+2-14-2021 1:53 (465:19): ClientUserinfoChanged: 1 n\Jason\t\0\model\boba_fett/default\c1\5\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\dual_1\st2\none\dt\0
+2-14-2021 1:53 (465:19): ClientUserinfoChanged handling info: 0 \ip\74.105.117.3:29070\name\BANDIT\rate\4000\snaps\20\model\luke/default\forcepowers\7-2-022220333000030330\color1\0\color2\4\handicap\100\sex\male\cg_predictItems\1\saber1\dual_2\saber2\none\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+2-14-2021 1:53 (465:19): ClientUserinfoChanged: 0 n\BANDIT\t\0\model\luke/default\c1\0\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\dual_2\st2\none\dt\0
+2-14-2021 1:53 (465:32): Kill: 2 3 3: gianna>:P killed Protokage by MOD_SABER
+2-14-2021 1:53 (465:33): Kill: 1 2 3: Jason killed gianna>:P by MOD_SABER
+2-14-2021 1:53 (465:35): ClientUserinfoChanged handling info: 2 \ip\74.105.117.3:1382\name\gianna>:P\rate\4000\snaps\20\model\jedi_hf/head_c1|torso_d1|lower_d1\forcepowers\7-2-012320333000030321\color1\5\color2\4\handicap\100\sex\male\cg_predictItems\1\saber1\Kyle\saber2\none\char_color_red\165\char_color_green\48\char_color_blue\21\teamtask\0\teamoverlay\1
+2-14-2021 1:53 (465:35): ClientUserinfoChanged: 2 n\gianna>:P\t\0\model\jedi_hf/head_c1|torso_d1|lower_d1\c1\5\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\Kyle\st2\none\dt\0
+2-14-2021 1:53 (465:41): ClientUserinfoChanged handling info: 3 \ip\142.105.40.139:29070\name\Protokage\rate\4000\snaps\20\model\rebel_pilot/default\forcepowers\7-2-032320333000010321\color1\0\color2\4\handicap\100\sex\male\cg_predictItems\1\saber1\Kyle\saber2\Kyle\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+2-14-2021 1:53 (465:41): ClientUserinfoChanged: 3 n\Protokage\t\0\model\rebel_pilot/default\c1\0\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\Kyle\st2\Kyle\dt\0
+2-14-2021 1:54 (466:30): Kill: 1 3 3: Jason killed Protokage by MOD_SABER
+2-14-2021 1:54 (466:31): Kill: 0 1 3: BANDIT killed Jason by MOD_SABER
+2-14-2021 1:54 (466:32): Kill: 2 0 31: gianna>:P killed BANDIT by MOD_FORCE_DARK
+2-14-2021 1:54 (466:32): ClientUserinfoChanged handling info: 1 \ip\67.245.136.252:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\none\saber1\dual_1\cg_predictItems\1\sex\male\handicap\100\color2\4\color1\5\forcepowers\7-1-233130000230000333\model\boba_fett/default\snaps\20\rate\4000\name\Jason\teamtask\0\teamoverlay\1
+2-14-2021 1:54 (466:32): ClientUserinfoChanged: 1 n\Jason\t\0\model\boba_fett/default\c1\5\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\dual_1\st2\none\dt\0
+2-14-2021 1:54 (466:33): ClientUserinfoChanged handling info: 3 \ip\142.105.40.139:29070\name\Protokage\rate\4000\snaps\20\model\rebel_pilot/default\forcepowers\7-2-032320333000010321\color1\0\color2\4\handicap\100\sex\male\cg_predictItems\1\saber1\Kyle\saber2\Kyle\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+2-14-2021 1:54 (466:33): ClientUserinfoChanged: 3 n\Protokage\t\0\model\rebel_pilot/default\c1\0\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\Kyle\st2\Kyle\dt\0
+2-14-2021 1:54 (466:46): ClientUserinfoChanged handling info: 0 \ip\74.105.117.3:29070\name\BANDIT\rate\4000\snaps\20\model\luke/default\forcepowers\7-2-022220333000030330\color1\0\color2\4\handicap\100\sex\male\cg_predictItems\1\saber1\dual_2\saber2\none\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+2-14-2021 1:54 (466:46): ClientUserinfoChanged: 0 n\BANDIT\t\0\model\luke/default\c1\0\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\dual_2\st2\none\dt\0
+2-14-2021 1:54 (467:03): Kill: 0 1 3: BANDIT killed Jason by MOD_SABER
+2-14-2021 1:54 (467:04): ClientUserinfoChanged handling info: 1 \ip\67.245.136.252:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\none\saber1\dual_1\cg_predictItems\1\sex\male\handicap\100\color2\4\color1\5\forcepowers\7-1-233130000230000333\model\boba_fett/default\snaps\20\rate\4000\name\Jason\teamtask\0\teamoverlay\1
+2-14-2021 1:54 (467:04): ClientUserinfoChanged: 1 n\Jason\t\0\model\boba_fett/default\c1\5\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\dual_1\st2\none\dt\0
+2-14-2021 1:55 (467:30): Kill: 0 1 31: BANDIT killed Jason by MOD_FORCE_DARK
+2-14-2021 1:55 (467:30): Kill: 3 2 3: Protokage killed gianna>:P by MOD_SABER
+2-14-2021 1:55 (467:31): ClientUserinfoChanged handling info: 1 \ip\67.245.136.252:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\none\saber1\dual_1\cg_predictItems\1\sex\male\handicap\100\color2\4\color1\5\forcepowers\7-1-233130000230000333\model\boba_fett/default\snaps\20\rate\4000\name\Jason\teamtask\0\teamoverlay\1
+2-14-2021 1:55 (467:31): ClientUserinfoChanged: 1 n\Jason\t\0\model\boba_fett/default\c1\5\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\dual_1\st2\none\dt\0
+2-14-2021 1:55 (467:32): ClientUserinfoChanged handling info: 2 \ip\74.105.117.3:1382\name\gianna>:P\rate\4000\snaps\20\model\jedi_hf/head_c1|torso_d1|lower_d1\forcepowers\7-2-012320333000030321\color1\5\color2\4\handicap\100\sex\male\cg_predictItems\1\saber1\Kyle\saber2\none\char_color_red\165\char_color_green\48\char_color_blue\21\teamtask\0\teamoverlay\1
+2-14-2021 1:55 (467:32): ClientUserinfoChanged: 2 n\gianna>:P\t\0\model\jedi_hf/head_c1|torso_d1|lower_d1\c1\5\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\Kyle\st2\none\dt\0
+2-14-2021 1:55 (467:33): Kill: 3 0 3: Protokage killed BANDIT by MOD_SABER
+2-14-2021 1:55 (467:41): ClientUserinfoChanged handling info: 0 \ip\74.105.117.3:29070\name\BANDIT\rate\4000\snaps\20\model\luke/default\forcepowers\7-2-022220333000030330\color1\0\color2\4\handicap\100\sex\male\cg_predictItems\1\saber1\dual_2\saber2\none\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+2-14-2021 1:55 (467:41): ClientUserinfoChanged: 0 n\BANDIT\t\0\model\luke/default\c1\0\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\dual_2\st2\none\dt\0
+2-14-2021 1:55 (467:43): Kill: 1 3 3: Jason killed Protokage by MOD_SABER
+2-14-2021 1:55 (467:46): ClientUserinfoChanged handling info: 3 \ip\142.105.40.139:29070\name\Protokage\rate\4000\snaps\20\model\rebel_pilot/default\forcepowers\7-2-032320333000010321\color1\0\color2\4\handicap\100\sex\male\cg_predictItems\1\saber1\Kyle\saber2\Kyle\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+2-14-2021 1:55 (467:46): ClientUserinfoChanged: 3 n\Protokage\t\0\model\rebel_pilot/default\c1\0\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\Kyle\st2\Kyle\dt\0
+2-14-2021 1:55 (468:01): Kill: 1 0 3: Jason killed BANDIT by MOD_SABER
+2-14-2021 1:55 (468:06): Kill: 2 1 3: gianna>:P killed Jason by MOD_SABER
+2-14-2021 1:55 (468:09): ClientUserinfoChanged handling info: 1 \ip\67.245.136.252:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\none\saber1\dual_1\cg_predictItems\1\sex\male\handicap\100\color2\4\color1\5\forcepowers\7-1-233130000230000333\model\boba_fett/default\snaps\20\rate\4000\name\Jason\teamtask\0\teamoverlay\1
+2-14-2021 1:55 (468:09): ClientUserinfoChanged: 1 n\Jason\t\0\model\boba_fett/default\c1\5\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\dual_1\st2\none\dt\0
+2-14-2021 1:55 (468:09): ClientUserinfoChanged handling info: 0 \ip\74.105.117.3:29070\name\BANDIT\rate\4000\snaps\20\model\luke/default\forcepowers\7-2-022220333000030330\color1\0\color2\4\handicap\100\sex\male\cg_predictItems\1\saber1\dual_2\saber2\none\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+2-14-2021 1:55 (468:09): ClientUserinfoChanged: 0 n\BANDIT\t\0\model\luke/default\c1\0\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\dual_2\st2\none\dt\0
+2-14-2021 1:55 (468:12): Kill: 3 2 3: Protokage killed gianna>:P by MOD_SABER
+2-14-2021 1:55 (468:13): ClientUserinfoChanged handling info: 2 \ip\74.105.117.3:1382\name\gianna>:P\rate\4000\snaps\20\model\jedi_hf/head_c1|torso_d1|lower_d1\forcepowers\7-2-012320333000030321\color1\5\color2\4\handicap\100\sex\male\cg_predictItems\1\saber1\Kyle\saber2\none\char_color_red\165\char_color_green\48\char_color_blue\21\teamtask\0\teamoverlay\1
+2-14-2021 1:55 (468:13): ClientUserinfoChanged: 2 n\gianna>:P\t\0\model\jedi_hf/head_c1|torso_d1|lower_d1\c1\5\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\Kyle\st2\none\dt\0
+2-14-2021 1:56 (468:32): Kill: 1 0 3: Jason killed BANDIT by MOD_SABER
+2-14-2021 1:56 (468:33): Kill: 3 1 31: Protokage killed Jason by MOD_FORCE_DARK
+2-14-2021 1:56 (468:40): ClientUserinfoChanged handling info: 0 \ip\74.105.117.3:29070\name\BANDIT\rate\4000\snaps\20\model\luke/default\forcepowers\7-2-022220333000030330\color1\0\color2\4\handicap\100\sex\male\cg_predictItems\1\saber1\dual_2\saber2\none\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+2-14-2021 1:56 (468:40): ClientUserinfoChanged: 0 n\BANDIT\t\0\model\luke/default\c1\0\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\dual_2\st2\none\dt\0
+2-14-2021 1:56 (468:49): Kill: 3 2 31: Protokage killed gianna>:P by MOD_FORCE_DARK
+2-14-2021 1:56 (468:50): ClientUserinfoChanged handling info: 2 \ip\74.105.117.3:1382\name\gianna>:P\rate\4000\snaps\20\model\jedi_hf/head_c1|torso_d1|lower_d1\forcepowers\7-2-012320333000030321\color1\5\color2\4\handicap\100\sex\male\cg_predictItems\1\saber1\Kyle\saber2\none\char_color_red\165\char_color_green\48\char_color_blue\21\teamtask\0\teamoverlay\1
+2-14-2021 1:56 (468:50): ClientUserinfoChanged: 2 n\gianna>:P\t\0\model\jedi_hf/head_c1|torso_d1|lower_d1\c1\5\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\Kyle\st2\none\dt\0
+2-14-2021 1:56 (468:51): ClientUserinfoChanged handling info: 1 \ip\67.245.136.252:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\single_1\saber1\single_1\cg_predictItems\1\sex\male\handicap\100\color2\3\color1\5\forcepowers\7-1-233130000230000333\model\boba_fett/default\snaps\20\rate\4000\name\Jason\teamtask\0\teamoverlay\1
+2-14-2021 1:56 (468:51): ClientUserinfoChanged: 1 n\Jason\t\0\model\boba_fett/default\c1\5\c2\3\hc\100\w\0\l\0\tt\0\tl\0\st\single_1\st2\single_1\dt\0
+2-14-2021 1:56 (468:51): ClientUserinfoChanged handling info: 1 \ip\67.245.136.252:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\single_1\saber1\single_1\cg_predictItems\1\sex\male\handicap\100\color2\3\color1\5\forcepowers\7-1-233130000230000333\model\boba_fett/default\snaps\20\rate\4000\name\Jason\teamtask\0\teamoverlay\1
+2-14-2021 1:56 (468:51): ClientUserinfoChanged: 1 n\Jason\t\0\model\boba_fett/default\c1\5\c2\3\hc\100\w\0\l\0\tt\0\tl\0\st\single_1\st2\single_1\dt\0
+2-14-2021 1:56 (468:52): Kill: 3 0 3: Protokage killed BANDIT by MOD_SABER
+2-14-2021 1:56 (468:54): ClientUserinfoChanged handling info: 0 \ip\74.105.117.3:29070\name\BANDIT\rate\4000\snaps\20\model\luke/default\forcepowers\7-2-022220333000030330\color1\0\color2\4\handicap\100\sex\male\cg_predictItems\1\saber1\dual_2\saber2\none\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+2-14-2021 1:56 (468:54): ClientUserinfoChanged: 0 n\BANDIT\t\0\model\luke/default\c1\0\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\dual_2\st2\none\dt\0
+2-14-2021 1:56 (469:04): Kill: 1 2 3: Jason killed gianna>:P by MOD_SABER
+2-14-2021 1:56 (469:10): ClientUserinfoChanged handling info: 2 \ip\74.105.117.3:1382\name\gianna>:P\rate\4000\snaps\20\model\jedi_hf/head_c1|torso_d1|lower_d1\forcepowers\7-2-012320333000030321\color1\5\color2\4\handicap\100\sex\male\cg_predictItems\1\saber1\Kyle\saber2\none\char_color_red\165\char_color_green\48\char_color_blue\21\teamtask\0\teamoverlay\1
+2-14-2021 1:56 (469:10): ClientUserinfoChanged: 2 n\gianna>:P\t\0\model\jedi_hf/head_c1|torso_d1|lower_d1\c1\5\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\Kyle\st2\none\dt\0
+2-14-2021 1:57 (469:27): Kill: 1 2 4: Jason killed gianna>:P by MOD_BRYAR_PISTOL
+2-14-2021 1:57 (469:28): ClientUserinfoChanged handling info: 2 \ip\74.105.117.3:1382\name\gianna>:P\rate\4000\snaps\20\model\jedi_hf/head_c1|torso_d1|lower_d1\forcepowers\7-2-012320333000030321\color1\5\color2\4\handicap\100\sex\male\cg_predictItems\1\saber1\Kyle\saber2\none\char_color_red\165\char_color_green\48\char_color_blue\21\teamtask\0\teamoverlay\1
+2-14-2021 1:57 (469:28): ClientUserinfoChanged: 2 n\gianna>:P\t\0\model\jedi_hf/head_c1|torso_d1|lower_d1\c1\5\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\Kyle\st2\none\dt\0
+2-14-2021 1:57 (469:38): Kill: 1 3 3: Jason killed Protokage by MOD_SABER
+2-14-2021 1:57 (469:42): ClientUserinfoChanged handling info: 3 \ip\142.105.40.139:29070\name\Protokage\rate\4000\snaps\20\model\rebel_pilot/default\forcepowers\7-2-032320333000010321\color1\0\color2\4\handicap\100\sex\male\cg_predictItems\1\saber1\Kyle\saber2\Kyle\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+2-14-2021 1:57 (469:42): ClientUserinfoChanged: 3 n\Protokage\t\0\model\rebel_pilot/default\c1\0\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\Kyle\st2\Kyle\dt\0
+2-14-2021 1:57 (469:57): Kill: 0 1 3: BANDIT killed Jason by MOD_SABER
+2-14-2021 1:57 (469:58): ClientUserinfoChanged handling info: 1 \ip\67.245.136.252:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\single_1\saber1\single_1\cg_predictItems\1\sex\male\handicap\100\color2\3\color1\5\forcepowers\7-1-233130000230000333\model\boba_fett/default\snaps\20\rate\4000\name\Jason\teamtask\0\teamoverlay\1
+2-14-2021 1:57 (469:58): ClientUserinfoChanged: 1 n\Jason\t\0\model\boba_fett/default\c1\5\c2\3\hc\100\w\0\l\0\tt\0\tl\0\st\single_1\st2\single_1\dt\0
+2-14-2021 1:57 (470:01): Kill: 3 0 3: Protokage killed BANDIT by MOD_SABER
+2-14-2021 1:57 (470:02): ClientUserinfoChanged handling info: 0 \ip\74.105.117.3:29070\name\BANDIT\rate\4000\snaps\20\model\luke/default\forcepowers\7-2-022220333000030330\color1\0\color2\4\handicap\100\sex\male\cg_predictItems\1\saber1\dual_2\saber2\none\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+2-14-2021 1:57 (470:02): ClientUserinfoChanged: 0 n\BANDIT\t\0\model\luke/default\c1\0\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\dual_2\st2\none\dt\0
+2-14-2021 1:58 (470:22): Kill: 1 2 3: Jason killed gianna>:P by MOD_SABER
+2-14-2021 1:58 (470:23): ClientUserinfoChanged handling info: 2 \ip\74.105.117.3:1382\name\gianna>:P\rate\4000\snaps\20\model\jedi_hf/head_c1|torso_d1|lower_d1\forcepowers\7-2-012320333000030321\color1\5\color2\4\handicap\100\sex\male\cg_predictItems\1\saber1\Kyle\saber2\none\char_color_red\165\char_color_green\48\char_color_blue\21\teamtask\0\teamoverlay\1
+2-14-2021 1:58 (470:23): ClientUserinfoChanged: 2 n\gianna>:P\t\0\model\jedi_hf/head_c1|torso_d1|lower_d1\c1\5\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\Kyle\st2\none\dt\0
+2-14-2021 1:58 (470:26): Kill: 1 0 3: Jason killed BANDIT by MOD_SABER
+2-14-2021 1:58 (470:33): Kill: 1 3 3: Jason killed Protokage by MOD_SABER
+2-14-2021 1:58 (470:36): ClientUserinfoChanged handling info: 3 \ip\142.105.40.139:29070\name\Protokage\rate\4000\snaps\20\model\rebel_pilot/default\forcepowers\7-2-032320333000010321\color1\0\color2\4\handicap\100\sex\male\cg_predictItems\1\saber1\Kyle\saber2\Kyle\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+2-14-2021 1:58 (470:36): ClientUserinfoChanged: 3 n\Protokage\t\0\model\rebel_pilot/default\c1\0\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\Kyle\st2\Kyle\dt\0
+2-14-2021 1:58 (470:40): ClientUserinfoChanged handling info: 0 \ip\74.105.117.3:29070\name\BANDIT\rate\4000\snaps\20\model\luke/default\forcepowers\7-2-022220333000030330\color1\0\color2\4\handicap\100\sex\male\cg_predictItems\1\saber1\dual_2\saber2\none\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+2-14-2021 1:58 (470:40): ClientUserinfoChanged: 0 n\BANDIT\t\0\model\luke/default\c1\0\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\dual_2\st2\none\dt\0
+2-14-2021 1:58 (470:53): Kill: 1022 2 38: <world> killed gianna>:P by MOD_FALLING
+2-14-2021 1:58 (470:54): ClientUserinfoChanged handling info: 2 \ip\74.105.117.3:1382\name\gianna>:P\rate\4000\snaps\20\model\jedi_hf/head_c1|torso_d1|lower_d1\forcepowers\7-2-012320333000030321\color1\5\color2\4\handicap\100\sex\male\cg_predictItems\1\saber1\Kyle\saber2\none\char_color_red\165\char_color_green\48\char_color_blue\21\teamtask\0\teamoverlay\1
+2-14-2021 1:58 (470:54): ClientUserinfoChanged: 2 n\gianna>:P\t\0\model\jedi_hf/head_c1|torso_d1|lower_d1\c1\5\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\Kyle\st2\none\dt\0
+2-14-2021 1:58 (471:03): Kill: 3 1 31: Protokage killed Jason by MOD_FORCE_DARK
+2-14-2021 1:58 (471:06): ClientUserinfoChanged handling info: 1 \ip\67.245.136.252:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\single_1\saber1\single_1\cg_predictItems\1\sex\male\handicap\100\color2\3\color1\5\forcepowers\7-1-233130000230000333\model\boba_fett/default\snaps\20\rate\4000\name\Jason\teamtask\0\teamoverlay\1
+2-14-2021 1:58 (471:06): ClientUserinfoChanged: 1 n\Jason\t\0\model\boba_fett/default\c1\5\c2\3\hc\100\w\0\l\0\tt\0\tl\0\st\single_1\st2\single_1\dt\0
+2-14-2021 1:59 (471:15): Kill: 1 2 3: Jason killed gianna>:P by MOD_SABER
+2-14-2021 1:59 (471:18): Kill: 1 3 3: Jason killed Protokage by MOD_SABER
+2-14-2021 1:59 (471:21): ClientUserinfoChanged handling info: 3 \ip\142.105.40.139:29070\name\Protokage\rate\4000\snaps\20\model\rebel_pilot/default\forcepowers\7-2-032320333000010321\color1\0\color2\4\handicap\100\sex\male\cg_predictItems\1\saber1\Kyle\saber2\Kyle\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+2-14-2021 1:59 (471:21): ClientUserinfoChanged: 3 n\Protokage\t\0\model\rebel_pilot/default\c1\0\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\Kyle\st2\Kyle\dt\0
+2-14-2021 1:59 (471:26): ClientUserinfoChanged handling info: 2 \ip\74.105.117.3:1382\name\gianna>:P\rate\4000\snaps\20\model\jedi_hf/head_c1|torso_d1|lower_d1\forcepowers\7-2-012320333000030321\color1\5\color2\4\handicap\100\sex\male\cg_predictItems\1\saber1\Kyle\saber2\none\char_color_red\165\char_color_green\48\char_color_blue\21\teamtask\0\teamoverlay\1
+2-14-2021 1:59 (471:26): ClientUserinfoChanged: 2 n\gianna>:P\t\0\model\jedi_hf/head_c1|torso_d1|lower_d1\c1\5\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\Kyle\st2\none\dt\0
+2-14-2021 1:59 (471:39): Kill: 3 0 3: Protokage killed BANDIT by MOD_SABER
+2-14-2021 1:59 (471:50): ClientUserinfoChanged handling info: 0 \ip\74.105.117.3:29070\name\BANDIT\rate\4000\snaps\20\model\luke/default\forcepowers\7-2-022220333000030330\color1\0\color2\4\handicap\100\sex\male\cg_predictItems\1\saber1\dual_2\saber2\none\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+2-14-2021 1:59 (471:50): ClientUserinfoChanged: 0 n\BANDIT\t\0\model\luke/default\c1\0\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\dual_2\st2\none\dt\0
+2-14-2021 1:59 (471:55): Kill: 3 1 3: Protokage killed Jason by MOD_SABER
+2-14-2021 1:59 (471:57): ClientUserinfoChanged handling info: 1 \ip\67.245.136.252:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\single_1\saber1\single_1\cg_predictItems\1\sex\male\handicap\100\color2\3\color1\5\forcepowers\7-1-233130000230000333\model\boba_fett/default\snaps\20\rate\4000\name\Jason\teamtask\0\teamoverlay\1
+2-14-2021 1:59 (471:57): ClientUserinfoChanged: 1 n\Jason\t\0\model\boba_fett/default\c1\5\c2\3\hc\100\w\0\l\0\tt\0\tl\0\st\single_1\st2\single_1\dt\0
+2-14-2021 1:59 (472:02): Kill: 1 0 3: Jason killed BANDIT by MOD_SABER
+2-14-2021 1:59 (472:05): Kill: 2 3 3: gianna>:P killed Protokage by MOD_SABER
+2-14-2021 1:59 (472:07): ClientUserinfoChanged handling info: 0 \ip\74.105.117.3:29070\name\BANDIT\rate\4000\snaps\20\model\luke/default\forcepowers\7-2-022220333000030330\color1\0\color2\4\handicap\100\sex\male\cg_predictItems\1\saber1\dual_2\saber2\none\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+2-14-2021 1:59 (472:07): ClientUserinfoChanged: 0 n\BANDIT\t\0\model\luke/default\c1\0\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\dual_2\st2\none\dt\0
+2-14-2021 1:59 (472:08): ClientUserinfoChanged handling info: 3 \ip\142.105.40.139:29070\name\Protokage\rate\4000\snaps\20\model\rebel_pilot/default\forcepowers\7-2-032320333000010321\color1\0\color2\4\handicap\100\sex\male\cg_predictItems\1\saber1\Kyle\saber2\Kyle\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+2-14-2021 1:59 (472:08): ClientUserinfoChanged: 3 n\Protokage\t\0\model\rebel_pilot/default\c1\0\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\Kyle\st2\Kyle\dt\0
+2-14-2021 1:59 (472:12): Kill: 1 2 3: Jason killed gianna>:P by MOD_SABER
+2-14-2021 1:59 (472:13): ClientUserinfoChanged handling info: 2 \ip\74.105.117.3:1382\name\gianna>:P\rate\4000\snaps\20\model\jedi_hf/head_c1|torso_d1|lower_d1\forcepowers\7-2-012320333000030321\color1\5\color2\4\handicap\100\sex\male\cg_predictItems\1\saber1\Kyle\saber2\none\char_color_red\165\char_color_green\48\char_color_blue\21\teamtask\0\teamoverlay\1
+2-14-2021 1:59 (472:13): ClientUserinfoChanged: 2 n\gianna>:P\t\0\model\jedi_hf/head_c1|torso_d1|lower_d1\c1\5\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\Kyle\st2\none\dt\0
+2-14-2021 2: 0 (472:22): Kill: 3 1 3: Protokage killed Jason by MOD_SABER
+2-14-2021 2: 0 (472:22): Kill: 3 2 3: Protokage killed gianna>:P by MOD_SABER
+2-14-2021 2: 0 (472:23): ClientUserinfoChanged handling info: 1 \ip\67.245.136.252:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\single_1\saber1\single_1\cg_predictItems\1\sex\male\handicap\100\color2\3\color1\5\forcepowers\7-1-233130000230000333\model\boba_fett/default\snaps\20\rate\4000\name\Jason\teamtask\0\teamoverlay\1
+2-14-2021 2: 0 (472:23): ClientUserinfoChanged: 1 n\Jason\t\0\model\boba_fett/default\c1\5\c2\3\hc\100\w\0\l\0\tt\0\tl\0\st\single_1\st2\single_1\dt\0
+2-14-2021 2: 0 (472:28): ClientUserinfoChanged handling info: 2 \ip\74.105.117.3:1382\name\gianna>:P\rate\4000\snaps\20\model\jedi_hf/head_c1|torso_d1|lower_d1\forcepowers\7-2-012320333000030321\color1\5\color2\4\handicap\100\sex\male\cg_predictItems\1\saber1\Kyle\saber2\none\char_color_red\165\char_color_green\48\char_color_blue\21\teamtask\0\teamoverlay\1
+2-14-2021 2: 0 (472:28): ClientUserinfoChanged: 2 n\gianna>:P\t\0\model\jedi_hf/head_c1|torso_d1|lower_d1\c1\5\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\Kyle\st2\none\dt\0
+2-14-2021 2: 0 (472:52): Kill: 1 3 3: Jason killed Protokage by MOD_SABER
+2-14-2021 2: 0 (472:57): ClientUserinfoChanged handling info: 3 \ip\142.105.40.139:29070\name\Protokage\rate\4000\snaps\20\model\rebel_pilot/default\forcepowers\7-2-032320333000010321\color1\0\color2\4\handicap\100\sex\male\cg_predictItems\1\saber1\Kyle\saber2\Kyle\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+2-14-2021 2: 0 (472:57): ClientUserinfoChanged: 3 n\Protokage\t\0\model\rebel_pilot/default\c1\0\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\Kyle\st2\Kyle\dt\0
+2-14-2021 2: 0 (473:07): Kill: 1 2 3: Jason killed gianna>:P by MOD_SABER
+2-14-2021 2: 0 (473:13): ClientUserinfoChanged handling info: 2 \ip\74.105.117.3:1382\name\gianna>:P\rate\4000\snaps\20\model\jedi_hf/head_c1|torso_d1|lower_d1\forcepowers\7-2-012320333000030321\color1\5\color2\4\handicap\100\sex\male\cg_predictItems\1\saber1\Kyle\saber2\none\char_color_red\165\char_color_green\48\char_color_blue\21\teamtask\0\teamoverlay\1
+2-14-2021 2: 0 (473:13): ClientUserinfoChanged: 2 n\gianna>:P\t\0\model\jedi_hf/head_c1|torso_d1|lower_d1\c1\5\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\Kyle\st2\none\dt\0
+2-14-2021 2: 1 (473:19): Kill: 3 0 31: Protokage killed BANDIT by MOD_FORCE_DARK
+2-14-2021 2: 1 (473:23): Kill: 3 1 3: Protokage killed Jason by MOD_SABER
+2-14-2021 2: 1 (473:24): ClientUserinfoChanged handling info: 0 \ip\74.105.117.3:29070\name\BANDIT\rate\4000\snaps\20\model\luke/default\forcepowers\7-2-022220333000030330\color1\0\color2\4\handicap\100\sex\male\cg_predictItems\1\saber1\dual_2\saber2\none\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+2-14-2021 2: 1 (473:24): ClientUserinfoChanged: 0 n\BANDIT\t\0\model\luke/default\c1\0\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\dual_2\st2\none\dt\0
+2-14-2021 2: 1 (473:27): ClientUserinfoChanged handling info: 1 \ip\67.245.136.252:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\single_1\saber1\single_1\cg_predictItems\1\sex\male\handicap\100\color2\3\color1\5\forcepowers\7-1-233130000230000333\model\boba_fett/default\snaps\20\rate\4000\name\Jason\teamtask\0\teamoverlay\1
+2-14-2021 2: 1 (473:27): ClientUserinfoChanged: 1 n\Jason\t\0\model\boba_fett/default\c1\5\c2\3\hc\100\w\0\l\0\tt\0\tl\0\st\single_1\st2\single_1\dt\0
+2-14-2021 2: 1 (473:33): Kill: 3 2 31: Protokage killed gianna>:P by MOD_FORCE_DARK
+2-14-2021 2: 1 (473:34): ClientUserinfoChanged handling info: 2 \ip\74.105.117.3:1382\name\gianna>:P\rate\4000\snaps\20\model\jedi_hf/head_c1|torso_d1|lower_d1\forcepowers\7-2-012320333000030321\color1\5\color2\4\handicap\100\sex\male\cg_predictItems\1\saber1\Kyle\saber2\none\char_color_red\165\char_color_green\48\char_color_blue\21\teamtask\0\teamoverlay\1
+2-14-2021 2: 1 (473:34): ClientUserinfoChanged: 2 n\gianna>:P\t\0\model\jedi_hf/head_c1|torso_d1|lower_d1\c1\5\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\Kyle\st2\none\dt\0
+2-14-2021 2: 1 (473:53): Kill: 0 1 3: BANDIT killed Jason by MOD_SABER
+2-14-2021 2: 1 (473:55): ClientUserinfoChanged handling info: 1 \ip\67.245.136.252:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\single_1\saber1\single_1\cg_predictItems\1\sex\male\handicap\100\color2\3\color1\5\forcepowers\7-1-233130000230000333\model\boba_fett/default\snaps\20\rate\4000\name\Jason\teamtask\0\teamoverlay\1
+2-14-2021 2: 1 (473:55): ClientUserinfoChanged: 1 n\Jason\t\0\model\boba_fett/default\c1\5\c2\3\hc\100\w\0\l\0\tt\0\tl\0\st\single_1\st2\single_1\dt\0
+2-14-2021 2: 1 (473:56): Kill: 2 0 3: gianna>:P killed BANDIT by MOD_SABER
+2-14-2021 2: 1 (474:00): Kill: 1 2 3: Jason killed gianna>:P by MOD_SABER
+2-14-2021 2: 1 (474:01): ClientUserinfoChanged handling info: 0 \ip\74.105.117.3:29070\name\BANDIT\rate\4000\snaps\20\model\luke/default\forcepowers\7-2-022220333000030330\color1\0\color2\4\handicap\100\sex\male\cg_predictItems\1\saber1\dual_2\saber2\none\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+2-14-2021 2: 1 (474:01): ClientUserinfoChanged: 0 n\BANDIT\t\0\model\luke/default\c1\0\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\dual_2\st2\none\dt\0
+2-14-2021 2: 1 (474:01): ClientUserinfoChanged handling info: 2 \ip\74.105.117.3:1382\name\gianna>:P\rate\4000\snaps\20\model\jedi_hf/head_c1|torso_d1|lower_d1\forcepowers\7-2-012320333000030321\color1\5\color2\4\handicap\100\sex\male\cg_predictItems\1\saber1\Kyle\saber2\none\char_color_red\165\char_color_green\48\char_color_blue\21\teamtask\0\teamoverlay\1
+2-14-2021 2: 1 (474:01): ClientUserinfoChanged: 2 n\gianna>:P\t\0\model\jedi_hf/head_c1|torso_d1|lower_d1\c1\5\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\Kyle\st2\none\dt\0
+2-14-2021 2: 1 (474:10): Kill: 3 1 3: Protokage killed Jason by MOD_SABER
+2-14-2021 2: 1 (474:11): ClientUserinfoChanged handling info: 1 \ip\67.245.136.252:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\single_1\saber1\single_1\cg_predictItems\1\sex\male\handicap\100\color2\3\color1\5\forcepowers\7-1-233130000230000333\model\boba_fett/default\snaps\20\rate\4000\name\Jason\teamtask\0\teamoverlay\1
+2-14-2021 2: 1 (474:11): ClientUserinfoChanged: 1 n\Jason\t\0\model\boba_fett/default\c1\5\c2\3\hc\100\w\0\l\0\tt\0\tl\0\st\single_1\st2\single_1\dt\0
+2-14-2021 2: 2 (474:15): Kill: 2 3 31: gianna>:P killed Protokage by MOD_FORCE_DARK
+2-14-2021 2: 2 (474:18): ClientUserinfoChanged handling info: 3 \ip\142.105.40.139:29070\name\Protokage\rate\4000\snaps\20\model\rebel_pilot/default\forcepowers\7-2-032320333000010321\color1\0\color2\4\handicap\100\sex\male\cg_predictItems\1\saber1\Kyle\saber2\Kyle\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+2-14-2021 2: 2 (474:18): ClientUserinfoChanged: 3 n\Protokage\t\0\model\rebel_pilot/default\c1\0\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\Kyle\st2\Kyle\dt\0
+2-14-2021 2: 2 (474:20): Kill: 2 0 3: gianna>:P killed BANDIT by MOD_SABER
+2-14-2021 2: 2 (474:23): Kill: 2 1 31: gianna>:P killed Jason by MOD_FORCE_DARK
+2-14-2021 2: 2 (474:24): ClientUserinfoChanged handling info: 1 \ip\67.245.136.252:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\single_1\saber1\single_1\cg_predictItems\1\sex\male\handicap\100\color2\3\color1\5\forcepowers\7-1-233130000230000333\model\boba_fett/default\snaps\20\rate\4000\name\Jason\teamtask\0\teamoverlay\1
+2-14-2021 2: 2 (474:24): ClientUserinfoChanged: 1 n\Jason\t\0\model\boba_fett/default\c1\5\c2\3\hc\100\w\0\l\0\tt\0\tl\0\st\single_1\st2\single_1\dt\0
+2-14-2021 2: 2 (474:28): ClientUserinfoChanged handling info: 0 \ip\74.105.117.3:29070\name\BANDIT\rate\4000\snaps\20\model\luke/default\forcepowers\7-2-022220333000030330\color1\0\color2\4\handicap\100\sex\male\cg_predictItems\1\saber1\dual_2\saber2\none\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+2-14-2021 2: 2 (474:28): ClientUserinfoChanged: 0 n\BANDIT\t\0\model\luke/default\c1\0\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\dual_2\st2\none\dt\0
+2-14-2021 2: 2 (474:39): Kill: 1 2 3: Jason killed gianna>:P by MOD_SABER
+2-14-2021 2: 2 (474:41): ClientUserinfoChanged handling info: 2 \ip\74.105.117.3:1382\name\gianna>:P\rate\4000\snaps\20\model\jedi_hf/head_c1|torso_d1|lower_d1\forcepowers\7-2-012320333000030321\color1\5\color2\4\handicap\100\sex\male\cg_predictItems\1\saber1\Kyle\saber2\none\char_color_red\165\char_color_green\48\char_color_blue\21\teamtask\0\teamoverlay\1
+2-14-2021 2: 2 (474:41): ClientUserinfoChanged: 2 n\gianna>:P\t\0\model\jedi_hf/head_c1|torso_d1|lower_d1\c1\5\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\Kyle\st2\none\dt\0
+2-14-2021 2: 2 (474:59): Kill: 2 1 31: gianna>:P killed Jason by MOD_FORCE_DARK
+2-14-2021 2: 2 (475:03): ClientUserinfoChanged handling info: 1 \ip\67.245.136.252:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\single_1\saber1\single_1\cg_predictItems\1\sex\male\handicap\100\color2\3\color1\5\forcepowers\7-1-233130000230000333\model\boba_fett/default\snaps\20\rate\4000\name\Jason\teamtask\0\teamoverlay\1
+2-14-2021 2: 2 (475:03): ClientUserinfoChanged: 1 n\Jason\t\0\model\boba_fett/default\c1\5\c2\3\hc\100\w\0\l\0\tt\0\tl\0\st\single_1\st2\single_1\dt\0
+2-14-2021 2: 3 (475:30): Kill: 0 2 3: BANDIT killed gianna>:P by MOD_SABER
+2-14-2021 2: 3 (475:31): ClientUserinfoChanged handling info: 2 \ip\74.105.117.3:1382\name\gianna>:P\rate\4000\snaps\20\model\jedi_hf/head_c1|torso_d1|lower_d1\forcepowers\7-2-012320333000030321\color1\5\color2\4\handicap\100\sex\male\cg_predictItems\1\saber1\Kyle\saber2\none\char_color_red\165\char_color_green\48\char_color_blue\21\teamtask\0\teamoverlay\1
+2-14-2021 2: 3 (475:31): ClientUserinfoChanged: 2 n\gianna>:P\t\0\model\jedi_hf/head_c1|torso_d1|lower_d1\c1\5\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\Kyle\st2\none\dt\0
+2-14-2021 2: 4 (476:18): Kill: 3 2 3: Protokage killed gianna>:P by MOD_SABER
+2-14-2021 2: 4 (476:19): ClientUserinfoChanged handling info: 2 \ip\74.105.117.3:1382\name\gianna>:P\rate\4000\snaps\20\model\jedi_hf/head_c1|torso_d1|lower_d1\forcepowers\7-2-012320333000030321\color1\5\color2\4\handicap\100\sex\male\cg_predictItems\1\saber1\Kyle\saber2\none\char_color_red\165\char_color_green\48\char_color_blue\21\teamtask\0\teamoverlay\1
+2-14-2021 2: 4 (476:19): ClientUserinfoChanged: 2 n\gianna>:P\t\0\model\jedi_hf/head_c1|torso_d1|lower_d1\c1\5\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\Kyle\st2\none\dt\0
+2-14-2021 2: 4 (477:02): Kill: 0 3 31: BANDIT killed Protokage by MOD_FORCE_DARK
+2-14-2021 2: 4 (477:04): ClientUserinfoChanged handling info: 3 \ip\142.105.40.139:29070\name\Protokage\rate\4000\snaps\20\model\rebel_pilot/default\forcepowers\7-2-032320333000010321\color1\0\color2\4\handicap\100\sex\male\cg_predictItems\1\saber1\Kyle\saber2\Kyle\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+2-14-2021 2: 4 (477:04): ClientUserinfoChanged: 3 n\Protokage\t\0\model\rebel_pilot/default\c1\0\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\Kyle\st2\Kyle\dt\0
+2-14-2021 2: 4 (477:10): Kill: 1022 0 38: <world> killed BANDIT by MOD_FALLING
+2-14-2021 2: 4 (477:15): ClientUserinfoChanged handling info: 0 \ip\74.105.117.3:29070\name\BANDIT\rate\4000\snaps\20\model\luke/default\forcepowers\7-2-022220333000030330\color1\0\color2\4\handicap\100\sex\male\cg_predictItems\1\saber1\dual_2\saber2\none\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+2-14-2021 2: 4 (477:15): ClientUserinfoChanged: 0 n\BANDIT\t\0\model\luke/default\c1\0\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\dual_2\st2\none\dt\0
+2-14-2021 2: 5 (477:29): Kill: 3 2 31: Protokage killed gianna>:P by MOD_FORCE_DARK
+2-14-2021 2: 5 (477:30): ClientUserinfoChanged handling info: 2 \ip\74.105.117.3:1382\name\gianna>:P\rate\4000\snaps\20\model\jedi_hf/head_c1|torso_d1|lower_d1\forcepowers\7-2-012320333000030321\color1\5\color2\4\handicap\100\sex\male\cg_predictItems\1\saber1\Kyle\saber2\none\char_color_red\165\char_color_green\48\char_color_blue\21\teamtask\0\teamoverlay\1
+2-14-2021 2: 5 (477:30): ClientUserinfoChanged: 2 n\gianna>:P\t\0\model\jedi_hf/head_c1|torso_d1|lower_d1\c1\5\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\Kyle\st2\none\dt\0
+2-14-2021 2: 5 (478:01): Kill: 2 0 3: gianna>:P killed BANDIT by MOD_SABER
+2-14-2021 2: 5 (478:03): Kill: 3 1 3: Protokage killed Jason by MOD_SABER
+2-14-2021 2: 5 (478:04): ClientUserinfoChanged handling info: 1 \ip\67.245.136.252:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\single_1\saber1\single_1\cg_predictItems\1\sex\male\handicap\100\color2\3\color1\5\forcepowers\7-1-233130000230000333\model\boba_fett/default\snaps\20\rate\4000\name\Jason\teamtask\0\teamoverlay\1
+2-14-2021 2: 5 (478:04): ClientUserinfoChanged: 1 n\Jason\t\0\model\boba_fett/default\c1\5\c2\3\hc\100\w\0\l\0\tt\0\tl\0\st\single_1\st2\single_1\dt\0
+2-14-2021 2: 5 (478:10): ClientUserinfoChanged handling info: 0 \ip\74.105.117.3:29070\name\BANDIT\rate\4000\snaps\20\model\luke/default\forcepowers\7-2-022220333000030330\color1\0\color2\4\handicap\100\sex\male\cg_predictItems\1\saber1\dual_2\saber2\none\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+2-14-2021 2: 5 (478:10): ClientUserinfoChanged: 0 n\BANDIT\t\0\model\luke/default\c1\0\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\dual_2\st2\none\dt\0
+2-14-2021 2: 5 (478:14): Kill: 3 1 3: Protokage killed Jason by MOD_SABER
+2-14-2021 2: 5 (478:14): Kill: 3 2 3: Protokage killed gianna>:P by MOD_SABER
+2-14-2021 2: 6 (478:15): ClientUserinfoChanged handling info: 1 \ip\67.245.136.252:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\single_1\saber1\single_1\cg_predictItems\1\sex\male\handicap\100\color2\3\color1\5\forcepowers\7-1-233130000230000333\model\boba_fett/default\snaps\20\rate\4000\name\Jason\teamtask\0\teamoverlay\1
+2-14-2021 2: 6 (478:15): ClientUserinfoChanged: 1 n\Jason\t\0\model\boba_fett/default\c1\5\c2\3\hc\100\w\0\l\0\tt\0\tl\0\st\single_1\st2\single_1\dt\0
+2-14-2021 2: 6 (478:15): ClientUserinfoChanged handling info: 2 \ip\74.105.117.3:1382\name\gianna>:P\rate\4000\snaps\20\model\jedi_hf/head_c1|torso_d1|lower_d1\forcepowers\7-2-012320333000030321\color1\5\color2\4\handicap\100\sex\male\cg_predictItems\1\saber1\Kyle\saber2\none\char_color_red\165\char_color_green\48\char_color_blue\21\teamtask\0\teamoverlay\1
+2-14-2021 2: 6 (478:15): ClientUserinfoChanged: 2 n\gianna>:P\t\0\model\jedi_hf/head_c1|torso_d1|lower_d1\c1\5\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\Kyle\st2\none\dt\0
+2-14-2021 2: 6 (478:24): Kill: 2 3 31: gianna>:P killed Protokage by MOD_FORCE_DARK
+2-14-2021 2: 6 (478:36): Kill: 0 2 3: BANDIT killed gianna>:P by MOD_SABER
+2-14-2021 2: 6 (478:37): ClientDisconnect: 3
+2-14-2021 2: 6 (478:39): Kill: 0 1 3: BANDIT killed Jason by MOD_SABER
+2-14-2021 2: 6 (478:45): ClientDisconnect: 1
+2-14-2021 2: 6 (478:54): ClientDisconnect: 0
+2-14-2021 2: 6 (478:58): ClientUserinfoChanged handling info: 2 \ip\74.105.117.3:1382\name\gianna>:P\rate\4000\snaps\20\model\jedi_hf/head_c1|torso_d1|lower_d1\forcepowers\7-2-012320333000030321\color1\5\color2\4\handicap\100\sex\male\cg_predictItems\1\saber1\Kyle\saber2\none\char_color_red\165\char_color_green\48\char_color_blue\21\teamtask\0\teamoverlay\1
+2-14-2021 2: 6 (478:58): ClientUserinfoChanged: 2 n\gianna>:P\t\0\model\jedi_hf/head_c1|torso_d1|lower_d1\c1\5\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\Kyle\st2\none\dt\0
+2-14-2021 2: 6 (479:02): ClientConnect: 0
+2-14-2021 2: 6 (479:02): ClientUserinfoChanged handling info: 0 \team\0\skill\ 5.00\personality\botfiles/astupidbot.jkb\saber2\none\saber1\kyle\color2\4\color1\4\sex\male\model\jawa\snaps\20\rate\25000\name\astupidbot
+2-14-2021 2: 6 (479:02): ClientUserinfoChanged: 0 n\astupidbot\t\0\model\jawa\c1\4\c2\4\hc\0\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\\st2\\dt\0\sdt\0
+2-14-2021 2: 6 (479:02): IP: localhost astupidbot
+2-14-2021 2: 6 (479:02): ClientUserinfoChanged handling info: 0 \team\0\skill\ 5.00\personality\botfiles/astupidbot.jkb\saber2\none\saber1\kyle\color2\4\color1\4\sex\male\model\jawa\snaps\20\rate\25000\name\astupidbot
+2-14-2021 2: 6 (479:02): ClientUserinfoChanged: 0 n\astupidbot\t\0\model\jawa\c1\4\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+2-14-2021 2: 6 (479:02): ClientBegin: 0
+2-14-2021 2: 6 (479:04): say: astupidbot: Hello
+2-14-2021 2: 6 (479:06): ClientDisconnect: 2
+2-14-2021 2: 7 (479:29): ClientConnect: 1
+2-14-2021 2: 7 (479:29): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+2-14-2021 2: 7 (479:29): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\0\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\\st2\\dt\0\sdt\0
+2-14-2021 2: 7 (479:29): IP: localhost Kyle
+2-14-2021 2: 7 (479:29): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+2-14-2021 2: 7 (479:29): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+2-14-2021 2: 7 (479:29): ClientBegin: 1
+2-14-2021 6:12 (724:29): ClientConnect: 2
+2-14-2021 6:12 (724:29): ClientUserinfoChanged handling info: 2 \ip\201.170.175.173:29070\challenge\-1133302139\qport\15162\protocol\26\name\Meixu\rate\4000\snaps\20\model\jedi_kdm/head_c1|torso_a1|lower_a1\forcepowers\6-1-030330000000000333\color1\3\color2\4\handicap\100\sex\male\cg_predictItems\1\saber1\single_3\saber2\none\char_color_red\225\char_color_green\226\char_color_blue\144\teamtask\0
+2-14-2021 6:12 (724:29): ClientUserinfoChanged: 2 n\Meixu\t\0\model\jedi_kdm/head_c1|torso_a1|lower_a1\c1\3\c2\4\hc\0\w\0\l\0\tt\0\tl\0\st\\st2\\dt\0
+2-14-2021 6:12 (724:29): IP: 201.170.175.173 Meixu
+2-14-2021 6:12 (724:29): say: Kyle: Hello
+2-14-2021 6:12 (724:32): ClientConnect: 3
+2-14-2021 6:12 (724:32): ClientUserinfoChanged handling info: 3 \ip\201.170.175.173:63506\challenge\-334224517\qport\22266\protocol\26\char_color_blue\255\char_color_green\155\char_color_red\62\saber2\none\saber1\single_1\cg_predictItems\1\sex\male\handicap\100\color2\3\color1\3\forcepowers\6-1-030330000010000333\model\jedi_tf/head_a2|torso_d1|lower_a1\snaps\20\rate\4000\name\Padawan\teamtask\0
+2-14-2021 6:12 (724:32): ClientUserinfoChanged: 3 n\Padawan\t\0\model\jedi_tf/head_a2|torso_d1|lower_a1\c1\3\c2\3\hc\0\w\0\l\0\tt\0\tl\0\st\\st2\\dt\0
+2-14-2021 6:12 (724:32): IP: 201.170.175.173 Padawan
+2-14-2021 6:12 (724:38): ClientUserinfoChanged handling info: 2 \ip\201.170.175.173:29070\name\Meixu\rate\4000\snaps\20\model\jedi_kdm/head_c1|torso_a1|lower_a1\forcepowers\6-1-030330000000000333\color1\3\color2\4\handicap\100\sex\male\cg_predictItems\1\saber1\single_3\saber2\none\char_color_red\225\char_color_green\226\char_color_blue\144\teamtask\0\teamoverlay\1
+2-14-2021 6:12 (724:38): ClientUserinfoChanged: 2 n\Meixu\t\0\model\jedi_kdm/head_c1|torso_a1|lower_a1\c1\3\c2\4\hc\0\w\0\l\0\tt\0\tl\0\st\single_3\st2\none\dt\0
+2-14-2021 6:12 (724:38): ClientUserinfoChanged handling info: 2 \ip\201.170.175.173:29070\name\Meixu\rate\4000\snaps\20\model\jedi_kdm/head_c1|torso_a1|lower_a1\forcepowers\6-1-030330000000000333\color1\3\color2\4\handicap\100\sex\male\cg_predictItems\1\saber1\single_3\saber2\none\char_color_red\225\char_color_green\226\char_color_blue\144\teamtask\0\teamoverlay\1
+2-14-2021 6:12 (724:38): ClientUserinfoChanged: 2 n\Meixu\t\0\model\jedi_kdm/head_c1|torso_a1|lower_a1\c1\3\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\single_3\st2\none\dt\0
+2-14-2021 6:12 (724:38): ClientBegin: 2
+2-14-2021 6:12 (724:44): ClientUserinfoChanged handling info: 3 \ip\201.170.175.173:63506\char_color_blue\255\char_color_green\155\char_color_red\62\saber2\none\saber1\single_1\cg_predictItems\1\sex\male\handicap\100\color2\3\color1\3\forcepowers\6-1-030330000010000333\model\jedi_tf/head_a2|torso_d1|lower_a1\snaps\20\rate\4000\name\Padawan\teamtask\0\teamoverlay\1
+2-14-2021 6:12 (724:44): ClientUserinfoChanged: 3 n\Padawan\t\0\model\jedi_tf/head_a2|torso_d1|lower_a1\c1\3\c2\3\hc\0\w\0\l\0\tt\0\tl\0\st\single_1\st2\none\dt\0
+2-14-2021 6:12 (724:44): ClientUserinfoChanged handling info: 3 \ip\201.170.175.173:63506\char_color_blue\255\char_color_green\155\char_color_red\62\saber2\none\saber1\single_1\cg_predictItems\1\sex\male\handicap\100\color2\3\color1\3\forcepowers\6-1-030330000010000333\model\jedi_tf/head_a2|torso_d1|lower_a1\snaps\20\rate\4000\name\Padawan\teamtask\0\teamoverlay\1
+2-14-2021 6:12 (724:44): ClientUserinfoChanged: 3 n\Padawan\t\0\model\jedi_tf/head_a2|torso_d1|lower_a1\c1\3\c2\3\hc\100\w\0\l\0\tt\0\tl\0\st\single_1\st2\none\dt\0
+2-14-2021 6:12 (724:44): ClientBegin: 3
+2-14-2021 6:12 (724:45): say: astupidbot: bye all
+2-14-2021 6:12 (724:45): ClientDisconnect: 0
+2-14-2021 6:12 (725:13): say: Kyle: bye all
+2-14-2021 6:12 (725:13): ClientDisconnect: 1
+2-14-2021 6:13 (725:31): Kill: 3 2 3: Padawan killed Meixu by MOD_SABER
+2-14-2021 6:13 (725:31): Exit: Timelimit hit.
+2-14-2021 6:13 (725:31): score: 1  ping: 131  client: 3 Padawan
+2-14-2021 6:13 (725:31): score: 0  ping: 72  client: 2 Meixu
+2-14-2021 6:13 (725:32): ClientUserinfoChanged handling info: 2 \ip\201.170.175.173:29070\name\Meixu\rate\4000\snaps\20\model\jedi_kdm/head_c1|torso_a1|lower_a1\forcepowers\6-1-030330000000000333\color1\3\color2\4\handicap\100\sex\male\cg_predictItems\1\saber1\single_3\saber2\none\char_color_red\225\char_color_green\226\char_color_blue\144\teamtask\0\teamoverlay\1
+2-14-2021 6:13 (725:32): ClientUserinfoChanged: 2 n\Meixu\t\0\model\jedi_kdm/head_c1|torso_a1|lower_a1\c1\3\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\single_3\st2\none\dt\0
+2-14-2021 6:13 (725:42): ClientDisconnect: 2
+2-14-2021 6:13 (725:44): ClientDisconnect: 3
+2-15-2021 4:19 (2051:59): ClientConnect: 0
+2-15-2021 4:19 (2051:59): ClientUserinfoChanged handling info: 0 \ip\177.7.112.21:29070\challenge\1279133420\qport\19957\protocol\26\cp_sbRGB2\0\cp_sbRGB1\0\cp_clanPwd\none\cp_login\NOT SET\cp_pluginDisable\0\name\lokre\rate\4000\snaps\20\model\jedi_hm/default\forcepowers\7-1-030000000000000330\color1\11\color2\3\handicap\100\sex\male\cg_predictItems\1\saber1\single_9\saber2\none\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\cp_holster\2\teamoverlay\1\cjp_client\1.4B4
+2-15-2021 4:19 (2051:59): ClientUserinfoChanged: 0 n\lokre\t\0\model\jedi_hm/default\c1\11\c2\3\hc\0\w\0\l\0\tt\0\tl\0\st\\st2\\dt\0
+2-15-2021 4:19 (2051:59): IP: 177.7.112.21 lokre
+2-15-2021 4:19 (2052:06): ClientUserinfoChanged handling info: 0 \ip\177.7.112.21:29070\cp_sbRGB2\0\cp_sbRGB1\0\cp_clanPwd\none\cp_login\NOT SET\cp_pluginDisable\0\name\Lokre\rate\4000\snaps\20\model\reborn/default\forcepowers\7-1-032330000000001333\color1\3\color2\4\handicap\100\sex\male\cg_predictItems\1\saber1\single_9\saber2\none\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\cp_holster\2\teamoverlay\1\cjp_client\1.4B4
+2-15-2021 4:19 (2052:06): ClientUserinfoChanged: 0 n\lokre\t\0\model\reborn/default\c1\3\c2\4\hc\0\w\0\l\0\tt\0\tl\0\st\single_9\st2\none\dt\0
+2-15-2021 4:19 (2052:06): ClientUserinfoChanged handling info: 0 \ip\177.7.112.21:29070\cp_sbRGB2\0\cp_sbRGB1\0\cp_clanPwd\none\cp_login\NOT SET\cp_pluginDisable\0\name\Lokre\rate\4000\snaps\20\model\reborn/default\forcepowers\7-1-032330000000001333\color1\3\color2\4\handicap\100\sex\male\cg_predictItems\1\saber1\single_9\saber2\none\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\cp_holster\2\teamoverlay\1\cjp_client\1.4B4
+2-15-2021 4:19 (2052:06): ClientUserinfoChanged: 0 n\lokre\t\0\model\reborn/default\c1\3\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\single_9\st2\none\dt\0
+2-15-2021 4:19 (2052:06): ClientBegin: 0
+2-15-2021 4:20 (2052:17): ShutdownGame:
+2-15-2021 4:20 (2052:17): ------------------------------------------------------------

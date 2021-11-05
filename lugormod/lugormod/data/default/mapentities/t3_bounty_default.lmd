@@ -1,0 +1,273 @@
+{
+"classname" "info_player_deathmatch"
+"angle" "90"
+"origin" "-3201 -197 -162"
+}
+{
+"classname" "weapon_disruptor"
+"angle" "45"
+"origin" "-4176 758 376"
+}
+{
+"classname" "item_ammodisp"
+"angle" "0"
+"origin" "-6680 562 864"
+}
+{
+"classname" "ammo_tripmine"
+"angle" "0"
+"origin" "1352 802 11"
+}
+{
+"classname" "LMD_spawner"
+"angle" "1"
+"count" "2"
+"NPC_type" "swoop_mp"
+"origin" "-1658 554 194"
+}
+{
+"angle" "90"
+"classname" "money_dispenser"
+"origin" "-8462 -960 -286"
+}
+{
+"classname" "LMD_spawner"
+"angle" "90"
+"count" "1"
+"NPC_type" "atst_vehicle"
+"origin" "2202 -1658 78"
+}
+{
+"classname" "item_sentry_gun"
+"angle" "0"
+"origin" "306 1950 272"
+}
+{
+"angle" "270"
+"classname" "money_dispenser"
+"origin" "1088 820 338"
+}
+{
+"classname" "item_eweb_holdable"
+"angle" "0"
+"origin" "-580 814 360"
+}
+{
+"classname" "weapon_bryar_pistol"
+"angle" "0"
+"origin" "922 -1032 352"
+}
+{
+"classname" "ammo_detpack"
+"angle" "0"
+"origin" "-7746 306 -416"
+}
+{
+"classname" "random_spot"
+"angle" "-180"
+"origin" "-7726 152 26"
+}
+{
+"classname" "item_seeker"
+"angle" "0"
+"origin" "-438 -1680 752"
+}
+{
+"classname" "weapon_concussion_rifle"
+"origin" "-9980 -986 704"
+}
+{
+"classname" "item_binoculars"
+"origin" "-6044 1272 0"
+}
+{
+"classname" "item_cloak"
+"angle" "0"
+"origin" "-510 -318 672"
+}
+{
+"classname" "LMD_spawner"
+"angle" "1"
+"count" "2"
+"NPC_type" "swoop_mp"
+"origin" "-1654 416 194"
+}
+{
+"classname" "weapon_flechette"
+"angle" "0"
+"origin" "508 1746 272"
+}
+{
+"classname" "weapon_repeater"
+"angle" "0"
+"origin" "-638 -3762 112"
+}
+{
+"classname" "ammo_thermal"
+"angle" "0"
+"origin" "800 1584 272"
+}
+{
+"classname" "weapon_rocket_launcher"
+"angle" "0"
+"origin" "-6746 162 576"
+}
+{
+"classname" "weapon_blaster_pistol"
+"angle" "0"
+"origin" "-7824 -136 -288"
+}
+{
+"classname" "weapon_bowcaster"
+"angle" "0"
+"origin" "-6640 1784 16"
+}
+{
+"classname" "item_shield"
+"angle" "0"
+"origin" "-1888 -662 128"
+}
+{
+"classname" "info_player_jail"
+"angle" "-177"
+"origin" "-504 -326 24"
+}
+{
+"classname" "target_fixdoor"
+"target" "doorset2"
+"targetname" "fix_doorset2"
+}
+{
+"classname" "trigger_always"
+"target" "fix_doorset2"
+}
+{
+"classname" "misc_model_breakable"
+"model" "models/map_objects/factory/f_con1"
+"spawnflags" "193"
+"target" "info1"
+"origin" "-2432 17 -192"
+}
+{
+"classname" "misc_model_breakable"
+"model" "models/map_objects/factory/f_con1"
+"spawnflags" "193"
+"target" "info2"
+"origin" "-2432 -13 -192"
+}
+{
+"classname" "info_player_deathmatch"
+"angle" "-90"
+"origin" "-3201 126 -162"
+}
+{
+"classname" "func_rotating"
+"model" "*150"
+"model2" "models/map_objects/vjun/globe.md3"
+"color" "1 1 1"
+"light" "500"
+"origin" "-2891 -36 -89"
+}
+{
+"classname" "func_rotating"
+"model" "*150"
+"model2" "models/map_objects/vjun/globe.md3"
+"color" "1 1 1"
+"light" "500"
+"origin" "-2434 -35 -89"
+}
+{
+"classname" "func_rotating"
+"model" "*150"
+"model2" "models/map_objects/vjun/globe.md3"
+"color" "1 1 1"
+"light" "500"
+"origin" "-1949 -42 -137"
+}
+{
+"classname" "func_rotating"
+"model" "*150"
+"model2" "models/map_objects/vjun/globe.md3"
+"color" "1 1 1"
+"light" "500"
+"origin" "-2431 -515 -89"
+}
+{
+"classname" "info_player_deathmatch"
+"origin" "-3329 -23 -162"
+}
+{
+"classname" "func_rotating"
+"model" "*150"
+"model2" "models/map_objects/vjun/globe.md3"
+"color" "1 1 1"
+"light" "500"
+"origin" "-2433 383 -89"
+}
+{
+"classname" "misc_model_breakable"
+"model" "models/map_objects/factory/f_con1"
+"spawnflags" "193"
+"target" "info3"
+"origin" "-2432 -43 -192"
+}
+{
+"classname" "item_jetpack"
+"wait" "1"
+"origin" "-2432 -73 -192"
+}
+{
+"classname" "weapon_stun_baton"
+"wait" "1"
+"origin" "-2432 -103 -192"
+}
+{
+"classname" "fx_runner"
+"fxfile" "effects/env/btend"
+"angles" "0 0 90"
+"origin" "-2640 447 -110"
+}
+{
+"classname" "trigger_multiple"
+"wait" "1"
+"target" "spawntele1"
+"maxs" "1 15 50"
+"mins" "-1 -15 0"
+"origin" "-2643 447 -160"
+}
+{
+"classname" "fx_runner"
+"fxfile" "effects/env/btend"
+"angles" "0 0 90"
+"origin" "-2644 -512 -110"
+}
+{
+"classname" "trigger_multiple"
+"wait" "1"
+"target" "spawntele2"
+"maxs" "1 15 50"
+"mins" "-1 -15 0"
+"origin" "-2644 -512 -160"
+}
+{
+"classname" "target_position"
+"targetname" "spawntele2_pos"
+"angle" "180"
+"origin" "-2701 -511 -130"
+}
+{
+"classname" "target_teleporter"
+"targetname" "spawntele2"
+"target" "spawntele2_pos"
+}
+{
+"classname" "target_position"
+"targetname" "spawntele1_pos"
+"angle" "180"
+"origin" "-2698 448 -130"
+}
+{
+"classname" "target_teleporter"
+"targetname" "spawntele1"
+"target" "spawntele1_pos"
+}

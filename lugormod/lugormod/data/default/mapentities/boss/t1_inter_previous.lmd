@@ -1,0 +1,104 @@
+{
+"soundSet" "yavin_interior"
+"modelscale" ".75"
+"angle" "225"
+"_lightmapscale" ".25"
+"_minlight" "65"
+"classname" "worldspawn"
+}
+{
+"classname" "misc_model_breakable"
+"model" "map_objects/rocky_ruins/portcullis"
+"spawnflags" "1"
+"angle" "90"
+"origin" "-64 -103 64"
+}
+{
+"classname" "misc_model_breakable"
+"model" "map_objects/factory/f_con2"
+"spawnflags" "8193"
+"count" "15"
+"angle" "90"
+"target" "towampa"
+"message" "^5Wampa ^1Quest"
+"level" "1"
+"origin" "-64 -114 64"
+}
+{
+"classname" "target_teleporter"
+"targetname" "towampa"
+"origin" "-439 -19 79"
+}
+{
+"classname" "misc_model_breakable"
+"model" "map_objects/factory/f_con1"
+"spawnflags" "97"
+"target" "spawnwampa"
+"targetname" "blockwampa"
+"origin" "-124 19 64"
+}
+{
+"classname" "npc_spawner"
+"npc_type" "wampa"
+"count" "-1"
+"health" "2700"
+"showhealth" "1"
+"targetname" "spawnwampa"
+"target5" "wampacr"
+"origin" "300 -22 104"
+"angle" "180"
+}
+{
+"classname" "target_deactivate"
+"targetname" "spawnwampa"
+"target" "blockwampa"
+}
+{
+"classname" "target_activate"
+"targetname" "wampacr"
+"target" "blockwampa"
+}
+{
+"classname" "target_credits"
+"targetname" "wampacr"
+"count" "425"
+"target" "outquest"
+}
+{
+"classname" "target_teleporter"
+"targetname" "outquest"
+"origin" "-156 -205 104"
+"angle" "-90"
+}
+{
+"classname" "info_player_deathmatch"
+"origin" "-63 -632 244"
+"angle" "90"
+}
+{
+"classname" "lmd_remap"
+"old" "textures/factory/basic2_tiled_b"
+"new" "clear"
+}
+{
+"classname" "lmd_remap"
+"old" "textures/factory/cat_floor_b"
+"new" "textures/bounty/hexfloor"
+}
+{
+"classname" "misc_model_breakable"
+"model" "map_objects/factory/catw2_b"
+"modelscale" "4.3"
+"origin" "180 -1257 98"
+}
+{
+"classname" "misc_model_breakable"
+"model" "map_objects/factory/catw2_b"
+"modelscale" "4.3"
+"origin" "-309 -1257 98"
+}
+{
+"classname" "lmd_remap"
+"old" "textures/skies/yavin"
+"new" "textures/skies/byss"
+}

@@ -1,0 +1,383 @@
+{
+"classname" "weapon_bryar_pistol"
+"angle" "0"
+"origin" "906 -892 2464"
+}
+{
+"classname" "weapon_stun_baton"
+"angle" "87"
+"origin" "982 -380 -640"
+}
+{
+"angle" "-1"
+"classname" "money_dispenser"
+"origin" "2319 1793 1792"
+}
+{
+"classname" "info_player_deathmatch"
+"angle" "-27"
+"origin" "83 -2089 -744"
+}
+{
+"classname" "info_player_deathmatch"
+"angle" "-58"
+"origin" "286 -1875 -744"
+}
+{
+"classname" "money_dispenser"
+"angle" "-88"
+"origin" "510 -418 514"
+}
+{
+"classname" "info_player_deathmatch"
+"angle" "62"
+"origin" "303 -2719 -744"
+}
+{
+"classname" "info_player_deathmatch"
+"angle" "-178"
+"origin" "926 208 -742"
+}
+{
+"classname" "info_player_deathmatch"
+"angle" "3"
+"origin" "106 234 -742"
+}
+{
+"classname" "item_cloak"
+"angle" "276"
+"origin" "512 1884 -512"
+}
+{
+"classname" "ammo_all"
+"angle" "269"
+"origin" "2468 -2388 3520"
+}
+{
+"classname" "weapon_blaster"
+"angle" "271"
+"origin" "516 810 1152"
+}
+{
+"classname" "random_spot"
+"angle" "131"
+"origin" "1989 -1881 3544"
+}
+{
+"classname" "info_player_deathmatch"
+"angle" "55"
+"origin" "314 -636 -742"
+}
+{
+"classname" "info_player_deathmatch"
+"angle" "145"
+"origin" "698 -652 -742"
+}
+{
+"classname" "info_player_jail"
+"angle" "-98"
+"origin" "-1672 584 -1382"
+}
+{
+"classname" "item_medpak_instant"
+"angle" "233"
+"origin" "2390 -2362 3520"
+}
+{
+"classname" "ammo_tripmine"
+"angle" "181"
+"origin" "-560 -516 992"
+}
+{
+"classname" "weapon_flechette"
+"angle" "179"
+"origin" "504 1794 768"
+}
+{
+"classname" "ammo_thermal"
+"angle" "179"
+"origin" "504 -942 1152"
+}
+{
+"classname" "info_player_jail"
+"angle" "176"
+"origin" "2816 474 -1894"
+}
+{
+"classname" "weapon_disruptor"
+"angle" "104"
+"origin" "-976 -470 1888"
+}
+{
+"classname" "info_player_deathmatch"
+"angle" "129"
+"origin" "800 -2042 -742"
+}
+{
+"classname" "misc_model_health_power_converter"
+"angle" "180"
+"origin" "700 556 558"
+}
+{
+"classname" "random_spot"
+"angle" "4"
+"origin" "-976 512 1178"
+}
+{
+"classname" "random_spot"
+"angle" "-1"
+"origin" "-220 -512 1018"
+}
+{
+"classname" "random_spot"
+"angle" "2"
+"origin" "-1032 504 1818"
+}
+{
+"classname" "random_spot"
+"angle" "177"
+"origin" "1002 1720 762"
+}
+{
+"classname" "random_spot"
+"angle" "1"
+"origin" "-972 514 538"
+}
+{
+"classname" "random_spot"
+"angle" "-177"
+"origin" "2020 528 538"
+}
+{
+"classname" "random_spot"
+"angle" "-178"
+"origin" "2004 496 1178"
+}
+{
+"classname" "random_spot"
+"angle" "-178"
+"origin" "2016 506 1818"
+}
+{
+"classname" "random_spot"
+"angle" "-92"
+"origin" "516 -3926 -1702"
+}
+{
+"classname" "info_player_deathmatch"
+"angle" "26"
+"origin" "91 -2513 -744"
+}
+{
+"classname" "info_player_deathmatch"
+"angle" "110"
+"origin" "710 -2693 -744"
+}
+{
+"classname" "info_player_deathmatch"
+"angle" "147"
+"origin" "902 -2504 -744"
+}
+{
+"classname" "info_player_deathmatch"
+"angle" "-155"
+"origin" "908 -2113 -744"
+}
+{
+"classname" "info_player_deathmatch"
+"angle" "-119"
+"origin" "727 -1887 -744"
+}
+{
+"classname" "random_spot"
+"angle" "91"
+"origin" "2687 1696 548"
+}
+{
+"classname" "random_spot"
+"angle" "3"
+"origin" "-849 -2310 3224"
+}
+{
+"classname" "random_spot"
+"angle" "56"
+"origin" "508 1697 -488"
+}
+{
+"classname" "item_ysalimari"
+"angle" "0"
+"origin" "251 132 -414"
+}
+{
+"classname" "random_spot"
+"angle" "-7"
+"origin" "-1000 -400 1240"
+}
+{
+"classname" "random_spot"
+"angle" "-5"
+"origin" "-842 451 3224"
+}
+{
+"classname" "random_spot"
+"angle" "-87"
+"origin" "516 -286 1496"
+}
+{
+"classname" "random_spot"
+"angle" "-172"
+"origin" "1831 352 3224"
+}
+{
+"classname" "random_spot"
+"angle" "-23"
+"origin" "1444 -149 -488"
+}
+{
+"classname" "item_binoculars"
+"wait" "-1"
+"targetname" "spawnbinocs"
+"origin" "546 -362 1792"
+}
+{
+"classname" "misc_model_breakable"
+"model" "map_objects/factory/f_con1"
+"mins" "-10 -10 0"
+"maxs" "10 10 40"
+"spawnflags" "8192"
+"count" "5"
+"message" "binoculars"
+"target" "spawnbinocs"
+"angle" "-90"
+"origin" "512 -366 1792"
+}
+{
+"classname" "target_random"
+"targetname" "telego"
+"target" "telein"
+"origin" "3016 1757 532"
+}
+{
+"classname" "target_teleporter"
+"targetname" "telein"
+"target" "teleto"
+"origin" "2999 2009 532"
+}
+{
+"classname" "misc_teleporter_dest"
+"angle" "90"
+"targetname" "teleto"
+"origin" "3017 1760 1812"
+}
+{
+"classname" "trigger_teleport"
+"mins" "-400 -400 0"
+"maxs" "400 400 20"
+"target" "teleout"
+"origin" "2699 1755 1152"
+}
+{
+"classname" "trigger_teleport"
+"mins" "-400 -400 0"
+"maxs" "400 400 20"
+"target" "teleout"
+"origin" "-1681 1820 1152"
+}
+{
+"classname" "misc_teleporter_dest"
+"angle" "90"
+"targetname" "teleother"
+"origin" "-1987 1838 1812"
+}
+{
+"classname" "target_teleporter"
+"targetname" "telein"
+"target" "teleother"
+"origin" "-1993 1870 1812"
+}
+{
+"classname" "misc_teleporter_dest"
+"angle" "90"
+"targetname" "teleout"
+"origin" "3013 1743 532"
+}
+{
+"angle" "90"
+"classname" "money_dispenser"
+"origin" "510 460 512"
+}
+{
+"classname" "trigger_multiple"
+"mins" "-750 -500 -100"
+"maxs" "750 500 20"
+"target" "telego"
+"origin" "181 -4091 -2944"
+}
+{
+"classname" "random_spot"
+"angle" "93"
+"origin" "985 -719 -232"
+}
+{
+"classname" "random_spot"
+"angle" "4"
+"origin" "33 -720 -232"
+}
+{
+"classname" "random_spot"
+"angle" "-1"
+"origin" "1276 -655 -232"
+}
+{
+"classname" "random_spot"
+"angle" "153"
+"origin" "1933 -719 -232"
+}
+{
+"classname" "random_spot"
+"angle" "-2"
+"origin" "1472 -659 -232"
+}
+{
+"classname" "random_spot"
+"angle" "-178"
+"origin" "-240 -655 -232"
+}
+{
+"classname" "random_spot"
+"angle" "20"
+"origin" "1658 -660 -232"
+}
+{
+"classname" "random_spot"
+"angle" "147"
+"origin" "-881 -721 -232"
+}
+{
+"classname" "random_spot"
+"angle" "5"
+"origin" "-461 -655 -232"
+}
+{
+"classname" "random_spot"
+"angle" "11"
+"origin" "-648 -660 -232"
+}
+{
+"classname" "misc_slotmachine"
+"angle" "90"
+"count 3000" ""
+"origin" "-826 -576 -128"
+}
+{
+"classname" "misc_slotmachine"
+"angle" "90"
+"count 3000" ""
+"origin" "-641 -584 -128"
+}
+{
+"classname" "misc_slotmachine"
+"angle" "90"
+"count 3000" ""
+"origin" "-534 -583 -128"
+}

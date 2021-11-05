@@ -1,0 +1,557 @@
+6-15-2021 20: 2 (2813:10): ------------------------------------------------------------
+6-15-2021 20: 2 (2813:10): InitGame: \version\JAmp: v1.0.1.0 linux-i386 Mar 14 2020\timelimit\45\sv_privateClients\0\sv_minRate\0\sv_minPing\0\sv_maxclients\32\sv_maxRate\0\sv_maxPing\999\sv_hostname\^7~^1~^7~ COMM SERVER ~^1~^7~\sv_fps\50\sv_floodProtectSlow\1\sv_floodProtect\1\sv_autoDemo\0\sv_allowDownload\0\serveruptime\189\protocol\26\mapname\academy6\gamename\Lugormod\g_weaponDisable\0\g_stepSlideFix\0\g_siegeTeamSwitch\1\g_siegeTeam2\none\g_siegeTeam1\none\g_siegeRespawn\20\g_showDuelHealths\1\g_saberWallDamageScale\0.4\g_saberLocking\0\g_privateDuel\1535\g_noSpecMove\0\g_needpass\0\g_maxHolocronCarry\3\g_maxGameClients\0\g_maxForceRank\7\g_jediVmerc\0\g_gametype\0\g_gamemode\0\g_forceRegenTime\160\g_forcePowerDisable\0\g_forceBasedTeams\1\g_duelWeaponDisable\9\g_debugmelee\1\g_allowNPC\1\fs_game\lugormod\fraglimit\0\duel_fraglimit\10\dmflags\0\capturelimit\10\bot_minplayers\2\bg_fighterAltControl\0\Lugormod_Version\U#-0.0.0.91 Alpha
+6-15-2021 20: 2 (2813:10): ClientConnect: 0
+6-15-2021 20: 2 (2813:10): ClientUserinfoChanged handling info: 0 \team\0\skill\ 5.00\personality\botfiles/astupidbot.jkb\saber2\none\saber1\kyle\color2\4\color1\4\sex\male\model\jawa\snaps\20\rate\25000\name\astupidbot
+6-15-2021 20: 2 (2813:10): ClientUserinfoChanged: 0 n\astupidbot\t\0\model\jawa\c1\4\c2\4\hc\0\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+6-15-2021 20: 2 (2813:10): ClientUserinfoChanged handling info: 0 \team\0\skill\ 5.00\personality\botfiles/astupidbot.jkb\saber2\none\saber1\kyle\color2\4\color1\4\sex\male\model\jawa\snaps\20\rate\25000\name\astupidbot
+6-15-2021 20: 2 (2813:10): ClientUserinfoChanged: 0 n\astupidbot\t\0\model\jawa\c1\4\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+6-15-2021 20: 2 (2813:10): ClientBegin: 0
+6-15-2021 20: 2 (2813:10): ClientConnect: 1
+6-15-2021 20: 2 (2813:10): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+6-15-2021 20: 2 (2813:10): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\0\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+6-15-2021 20: 2 (2813:10): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+6-15-2021 20: 2 (2813:10): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+6-15-2021 20: 2 (2813:10): ClientBegin: 1
+6-15-2021 20: 2 (2813:10): ClientConnect: 2
+6-15-2021 20: 2 (2813:10): ClientUserinfoChanged handling info: 2 \ip\188.242.92.189:29070\name\Padawan\rate\4000\snaps\20\model\boba_fett/default\forcepowers\1-1-010000000000000100\color1\0\color2\0\handicap\100\sex\male\cg_predictItems\1\saber1\single_1\saber2\single_1\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+6-15-2021 20: 2 (2813:10): ClientUserinfoChanged: 2 n\Padawan\t\0\model\boba_fett/default\c1\0\c2\0\hc\0\w\0\l\0\tt\0\tl\0\st\single_1\st2\single_1\dt\0
+6-15-2021 20: 2 (2813:10): ClientUserinfoChanged handling info: 2 \ip\188.242.92.189:29070\name\Padawan\rate\4000\snaps\20\model\boba_fett/default\forcepowers\1-1-010000000000000100\color1\0\color2\0\handicap\100\sex\male\cg_predictItems\1\saber1\single_1\saber2\single_1\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+6-15-2021 20: 2 (2813:10): ClientUserinfoChanged: 2 n\Padawan\t\0\model\boba_fett/default\c1\0\c2\0\hc\0\w\0\l\0\tt\0\tl\0\st\single_1\st2\single_1\dt\0
+6-15-2021 20: 2 (2813:10): ClientUserinfoChanged handling info: 2 \ip\188.242.92.189:29070\name\Padawan\rate\4000\snaps\20\model\boba_fett/default\forcepowers\1-1-010000000000000100\color1\0\color2\0\handicap\100\sex\male\cg_predictItems\1\saber1\single_1\saber2\single_1\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+6-15-2021 20: 2 (2813:10): ClientUserinfoChanged: 2 n\Padawan\t\0\model\boba_fett/default\c1\0\c2\0\hc\100\w\0\l\0\tt\0\tl\0\st\single_1\st2\single_1\dt\0
+6-15-2021 20: 2 (2813:10): ClientBegin: 2
+6-15-2021 20: 2 (2813:10): ClientConnect: 3
+6-15-2021 20: 2 (2813:10): ClientUserinfoChanged handling info: 3 \ip\188.242.82.139:29070\name\Padawan\rate\4000\snaps\20\model\luke/default\forcepowers\7-2-032300023000033231\color1\3\color2\0\handicap\100\sex\male\cg_predictItems\1\saber1\single_2\saber2\none\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+6-15-2021 20: 2 (2813:10): ClientUserinfoChanged: 3 n\Padawan 3\t\0\model\luke/default\c1\3\c2\0\hc\0\w\0\l\0\tt\0\tl\0\st\dual_2\st2\none\dt\0
+6-15-2021 20: 2 (2813:10): ClientUserinfoChanged handling info: 3 \ip\188.242.82.139:29070\name\Padawan\rate\4000\snaps\20\model\luke/default\forcepowers\7-2-032300023000033231\color1\3\color2\0\handicap\100\sex\male\cg_predictItems\1\saber1\single_2\saber2\none\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+6-15-2021 20: 2 (2813:10): ClientUserinfoChanged: 3 n\Padawan 3\t\0\model\luke/default\c1\3\c2\0\hc\0\w\0\l\0\tt\0\tl\0\st\single_2\st2\none\dt\0
+6-15-2021 20: 2 (2813:10): ClientUserinfoChanged handling info: 3 \ip\188.242.82.139:29070\name\Padawan\rate\4000\snaps\20\model\luke/default\forcepowers\7-2-032300023000033231\color1\3\color2\0\handicap\100\sex\male\cg_predictItems\1\saber1\single_2\saber2\none\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+6-15-2021 20: 2 (2813:10): ClientUserinfoChanged: 3 n\Padawan 3\t\0\model\luke/default\c1\3\c2\0\hc\100\w\0\l\0\tt\0\tl\0\st\single_2\st2\none\dt\0
+6-15-2021 20: 2 (2813:10): ClientBegin: 3
+6-15-2021 20: 2 (2813:10): ClientConnect: 4
+6-15-2021 20: 2 (2813:10): ClientUserinfoChanged handling info: 4 \ip\178.71.222.226:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\none\saber1\single_1\cg_predictItems\1\sex\male\handicap\100\color2\0\color1\4\forcepowers\7-2-012320333000030321\model\chewbacca/default\snaps\20\rate\4000\name\Padawan\teamtask\0\teamoverlay\1
+6-15-2021 20: 2 (2813:10): ClientUserinfoChanged: 4 n\Padawan 4\t\0\model\chewbacca/default\c1\4\c2\0\hc\0\w\0\l\0\tt\0\tl\0\st\single_1\st2\none\dt\0
+6-15-2021 20: 2 (2813:10): ClientUserinfoChanged handling info: 4 \ip\178.71.222.226:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\none\saber1\single_1\cg_predictItems\1\sex\male\handicap\100\color2\0\color1\4\forcepowers\7-2-012320333000030321\model\chewbacca/default\snaps\20\rate\4000\name\Padawan\teamtask\0\teamoverlay\1
+6-15-2021 20: 2 (2813:10): ClientUserinfoChanged: 4 n\Padawan 4\t\0\model\chewbacca/default\c1\4\c2\0\hc\0\w\0\l\0\tt\0\tl\0\st\single_1\st2\none\dt\0
+6-15-2021 20: 2 (2813:10): ClientUserinfoChanged handling info: 4 \ip\178.71.222.226:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\none\saber1\single_1\cg_predictItems\1\sex\male\handicap\100\color2\0\color1\4\forcepowers\7-2-012320333000030321\model\chewbacca/default\snaps\20\rate\4000\name\Padawan\teamtask\0\teamoverlay\1
+6-15-2021 20: 2 (2813:10): ClientUserinfoChanged: 4 n\Padawan 4\t\0\model\chewbacca/default\c1\4\c2\0\hc\100\w\0\l\0\tt\0\tl\0\st\single_1\st2\none\dt\0
+6-15-2021 20: 2 (2813:10): ClientBegin: 4
+6-15-2021 20: 2 (2813:24): ClientUserinfoChanged handling info: 3 \ip\188.242.82.139:29070\name\Padawan\rate\4000\snaps\20\model\luke/default\forcepowers\7-2-032300000000003231\color1\3\color2\0\handicap\100\sex\male\cg_predictItems\1\saber1\single_2\saber2\none\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+6-15-2021 20: 2 (2813:24): ClientUserinfoChanged: 3 n\Padawan 3\t\0\model\luke/default\c1\3\c2\0\hc\100\w\0\l\0\tt\0\tl\0\st\single_2\st2\none\dt\0
+6-15-2021 20: 3 (2813:34): ClientUserinfoChanged handling info: 3 \ip\188.242.82.139:29070\name\Padawan\rate\4000\snaps\20\model\luke/default\forcepowers\7-1-233330000210000333\color1\3\color2\0\handicap\100\sex\male\cg_predictItems\1\saber1\single_2\saber2\none\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+6-15-2021 20: 3 (2813:34): ClientUserinfoChanged: 3 n\Padawan 3\t\0\model\luke/default\c1\3\c2\0\hc\100\w\0\l\0\tt\0\tl\0\st\single_2\st2\none\dt\0
+6-15-2021 20: 3 (2814:25): Kill: 1022 130 38: <world> killed  by MOD_FALLING
+6-15-2021 20: 4 (2814:37): Kill: 2 130 5: Padawan killed  by MOD_BRYAR_PISTOL_ALT
+6-15-2021 20: 4 (2814:46): Kill: 4 2 31: Padawan 4 killed Padawan by MOD_FORCE_DARK
+6-15-2021 20: 4 (2814:49): ClientUserinfoChanged handling info: 2 \ip\188.242.92.189:29070\name\Padawan\rate\4000\snaps\20\model\boba_fett/default\forcepowers\1-1-010000000000000100\color1\0\color2\0\handicap\100\sex\male\cg_predictItems\1\saber1\single_1\saber2\single_1\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+6-15-2021 20: 4 (2814:49): ClientUserinfoChanged: 2 n\Padawan\t\0\model\boba_fett/default\c1\0\c2\0\hc\100\w\0\l\0\tt\0\tl\0\st\single_1\st2\single_1\dt\0
+6-15-2021 20: 5 (2815:33): ClientUserinfoChanged handling info: 2 \ip\188.242.92.189:29070\name\Padawan\rate\4000\snaps\20\model\boba_fett/default\forcepowers\7-2-012320333000030321\color1\0\color2\0\handicap\100\sex\male\cg_predictItems\1\saber1\single_1\saber2\single_1\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+6-15-2021 20: 5 (2815:33): ClientUserinfoChanged: 2 n\Padawan\t\0\model\boba_fett/default\c1\0\c2\0\hc\100\w\0\l\0\tt\0\tl\0\st\single_1\st2\single_1\dt\0
+6-15-2021 20: 5 (2815:53): Kill: 1022 129 38: <world> killed  by MOD_FALLING
+6-15-2021 20: 5 (2816:07): Kill: 3 2 3: Padawan 3 killed Padawan by MOD_SABER
+6-15-2021 20: 5 (2816:09): ClientUserinfoChanged handling info: 2 \ip\188.242.92.189:29070\name\Padawan\rate\4000\snaps\20\model\boba_fett/default\forcepowers\7-2-012320333000030321\color1\0\color2\0\handicap\100\sex\male\cg_predictItems\1\saber1\single_1\saber2\single_1\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+6-15-2021 20: 5 (2816:09): ClientUserinfoChanged: 2 n\Padawan\t\0\model\boba_fett/default\c1\0\c2\0\hc\100\w\0\l\0\tt\0\tl\0\st\single_1\st2\single_1\dt\0
+6-15-2021 20: 5 (2816:13): Kill: 3 4 31: Padawan 3 killed Padawan 4 by MOD_FORCE_DARK
+6-15-2021 20: 5 (2816:14): ClientUserinfoChanged handling info: 4 \ip\178.71.222.226:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\none\saber1\single_1\cg_predictItems\1\sex\male\handicap\100\color2\0\color1\4\forcepowers\7-2-012320333000030321\model\chewbacca/default\snaps\20\rate\4000\name\Padawan\teamtask\0\teamoverlay\1
+6-15-2021 20: 5 (2816:14): ClientUserinfoChanged: 4 n\Padawan 4\t\0\model\chewbacca/default\c1\4\c2\0\hc\100\w\0\l\0\tt\0\tl\0\st\single_1\st2\none\dt\0
+6-15-2021 20: 5 (2816:22): Kill: 2 3 3: Padawan killed Padawan 3 by MOD_SABER
+6-15-2021 20: 5 (2816:25): ClientUserinfoChanged handling info: 3 \ip\188.242.82.139:29070\name\Padawan\rate\4000\snaps\20\model\luke/default\forcepowers\7-1-233330000210000333\color1\3\color2\0\handicap\100\sex\male\cg_predictItems\1\saber1\single_2\saber2\none\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+6-15-2021 20: 5 (2816:25): ClientUserinfoChanged: 3 n\Padawan 3\t\0\model\luke/default\c1\3\c2\0\hc\100\w\0\l\0\tt\0\tl\0\st\single_2\st2\none\dt\0
+6-15-2021 20: 5 (2816:27): Kill: 2 137 3: Padawan killed  by MOD_SABER
+6-15-2021 20: 6 (2816:50): Kill: 3 4 3: Padawan 3 killed Padawan 4 by MOD_SABER
+6-15-2021 20: 6 (2816:53): ClientUserinfoChanged handling info: 4 \ip\178.71.222.226:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\none\saber1\single_1\cg_predictItems\1\sex\male\handicap\100\color2\0\color1\4\forcepowers\7-2-012320333000030321\model\chewbacca/default\snaps\20\rate\4000\name\Padawan\teamtask\0\teamoverlay\1
+6-15-2021 20: 6 (2816:53): ClientUserinfoChanged: 4 n\Padawan 4\t\0\model\chewbacca/default\c1\4\c2\0\hc\100\w\0\l\0\tt\0\tl\0\st\single_1\st2\none\dt\0
+6-15-2021 20: 6 (2817:21): Kill: 3 4 3: Padawan 3 killed Padawan 4 by MOD_SABER
+6-15-2021 20: 6 (2817:27): ClientUserinfoChanged handling info: 4 \ip\178.71.222.226:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\none\saber1\single_1\cg_predictItems\1\sex\male\handicap\100\color2\0\color1\4\forcepowers\7-2-012320333000030321\model\chewbacca/default\snaps\20\rate\4000\name\Padawan\teamtask\0\teamoverlay\1
+6-15-2021 20: 6 (2817:27): ClientUserinfoChanged: 4 n\Padawan 4\t\0\model\chewbacca/default\c1\4\c2\0\hc\100\w\0\l\0\tt\0\tl\0\st\single_1\st2\none\dt\0
+6-15-2021 20: 7 (2817:38): Kill: 4 3 3: Padawan 4 killed Padawan 3 by MOD_SABER
+6-15-2021 20: 7 (2817:49): ClientUserinfoChanged handling info: 3 \ip\188.242.82.139:29070\name\Padawan\rate\4000\snaps\20\model\luke/default\forcepowers\7-1-233330000210000333\color1\4\color2\4\handicap\100\sex\male\cg_predictItems\1\saber1\single_1\saber2\single_1\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+6-15-2021 20: 7 (2817:49): ClientUserinfoChanged: 3 n\Padawan 3\t\0\model\luke/default\c1\4\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\single_1\st2\single_1\dt\0
+6-15-2021 20: 7 (2817:49): ClientUserinfoChanged handling info: 3 \ip\188.242.82.139:29070\name\Padawan\rate\4000\snaps\20\model\luke/default\forcepowers\7-1-233330000210000333\color1\4\color2\4\handicap\100\sex\male\cg_predictItems\1\saber1\single_1\saber2\single_1\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+6-15-2021 20: 7 (2817:49): ClientUserinfoChanged: 3 n\Padawan 3\t\0\model\luke/default\c1\4\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\single_1\st2\single_1\dt\0
+6-15-2021 20: 7 (2818:01): ClientUserinfoChanged handling info: 4 \ip\178.71.222.226:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\Kyle\saber1\Kyle\cg_predictItems\1\sex\male\handicap\100\color2\4\color1\0\forcepowers\7-2-012320333000030321\model\chewbacca/default\snaps\20\rate\4000\name\Padawan\teamtask\0\teamoverlay\1
+6-15-2021 20: 7 (2818:01): ClientUserinfoChanged: 4 n\Padawan 4\t\0\model\chewbacca/default\c1\0\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\single_1\st2\none\dt\0
+6-15-2021 20: 7 (2818:06): ClientUserinfoChanged handling info: 3 \ip\188.242.82.139:29070\name\Padawan\rate\4000\snaps\20\model\luke/default\forcepowers\7-1-233330000210000333\color1\3\color2\4\handicap\100\sex\male\cg_predictItems\1\saber1\single_2\saber2\none\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+6-15-2021 20: 7 (2818:06): ClientUserinfoChanged: 3 n\Padawan 3\t\0\model\luke/default\c1\3\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\single_1\st2\single_1\dt\0
+6-15-2021 20: 7 (2818:13): Kill: 2 3 3: Padawan killed Padawan 3 by MOD_SABER
+6-15-2021 20: 7 (2818:15): ClientUserinfoChanged handling info: 3 \ip\188.242.82.139:29070\name\Padawan\rate\4000\snaps\20\model\luke/default\forcepowers\7-1-233330000210000333\color1\3\color2\4\handicap\100\sex\male\cg_predictItems\1\saber1\single_2\saber2\none\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+6-15-2021 20: 7 (2818:15): ClientUserinfoChanged: 3 n\Padawan 3\t\0\model\luke/default\c1\3\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\single_2\st2\none\dt\0
+6-15-2021 20: 7 (2818:15): ClientUserinfoChanged handling info: 3 \ip\188.242.82.139:29070\name\Padawan\rate\4000\snaps\20\model\luke/default\forcepowers\7-1-233330000210000333\color1\3\color2\4\handicap\100\sex\male\cg_predictItems\1\saber1\single_2\saber2\none\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+6-15-2021 20: 7 (2818:15): ClientUserinfoChanged: 3 n\Padawan 3\t\0\model\luke/default\c1\3\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\single_2\st2\none\dt\0
+6-15-2021 20: 7 (2818:20): Kill: 3 4 3: Padawan 3 killed Padawan 4 by MOD_SABER
+6-15-2021 20: 8 (2818:28): ClientUserinfoChanged handling info: 4 \ip\178.71.222.226:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\Kyle\saber1\Kyle\cg_predictItems\1\sex\male\handicap\100\color2\4\color1\0\forcepowers\7-2-012320333000030321\model\chewbacca/default\snaps\20\rate\4000\name\Padawan\teamtask\0\teamoverlay\1
+6-15-2021 20: 8 (2818:28): ClientUserinfoChanged: 4 n\Padawan 4\t\0\model\chewbacca/default\c1\0\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\Kyle\st2\Kyle\dt\0
+6-15-2021 20: 8 (2818:28): ClientUserinfoChanged handling info: 4 \ip\178.71.222.226:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\Kyle\saber1\Kyle\cg_predictItems\1\sex\male\handicap\100\color2\4\color1\0\forcepowers\7-2-012320333000030321\model\chewbacca/default\snaps\20\rate\4000\name\Padawan\teamtask\0\teamoverlay\1
+6-15-2021 20: 8 (2818:28): ClientUserinfoChanged: 4 n\Padawan 4\t\0\model\chewbacca/default\c1\0\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\Kyle\st2\Kyle\dt\0
+6-15-2021 20: 9 (2819:34): ClientConnect: 5
+6-15-2021 20: 9 (2819:34): ClientUserinfoChanged handling info: 5 \ip\95.40.41.132:29070\challenge\-1242405056\qport\2138\protocol\26\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\none\saber1\single_9\cg_predictItems\1\sex\male\handicap\100\color2\0\color1\0\forcepowers\2-2-010020000000000200\model\rebel_pilot/default\snaps\20\rate\4000\name\Master\teamtask\0\teamoverlay\1
+6-15-2021 20: 9 (2819:34): ClientUserinfoChanged: 5 n\Master\t\0\model\rebel_pilot/default\c1\0\c2\0\hc\0\w\0\l\0\tt\0\tl\0\st\\st2\\dt\0
+6-15-2021 20: 9 (2819:34): IP: 95.40.41.132 Master
+6-15-2021 20: 9 (2819:52): ClientUserinfoChanged handling info: 5 \ip\95.40.41.132:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\none\saber1\single_9\cg_predictItems\1\sex\male\handicap\100\color2\0\color1\0\forcepowers\2-2-010020000000000200\model\rebel_pilot/default\snaps\20\rate\4000\name\Master\teamtask\0\teamoverlay\1
+6-15-2021 20: 9 (2819:52): ClientUserinfoChanged: 5 n\Master\t\0\model\rebel_pilot/default\c1\0\c2\0\hc\0\w\0\l\0\tt\0\tl\0\st\single_9\st2\none\dt\0
+6-15-2021 20: 9 (2819:52): ClientUserinfoChanged handling info: 5 \ip\95.40.41.132:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\none\saber1\single_9\cg_predictItems\1\sex\male\handicap\100\color2\0\color1\0\forcepowers\2-2-010020000000000200\model\rebel_pilot/default\snaps\20\rate\4000\name\Master\teamtask\0\teamoverlay\1
+6-15-2021 20: 9 (2819:52): ClientUserinfoChanged: 5 n\Master\t\0\model\rebel_pilot/default\c1\0\c2\0\hc\100\w\0\l\0\tt\0\tl\0\st\single_9\st2\none\dt\0
+6-15-2021 20: 9 (2819:52): ClientBegin: 5
+6-15-2021 20: 9 (2819:53): Kill: 3 2 3: Padawan 3 killed Padawan by MOD_SABER
+6-15-2021 20: 9 (2819:53): duel: Padawan 3 won a duel against Padawan
+6-15-2021 20: 9 (2819:55): ClientUserinfoChanged handling info: 2 \ip\188.242.92.189:29070\name\Padawan\rate\4000\snaps\20\model\boba_fett/default\forcepowers\7-2-012320333000030321\color1\0\color2\0\handicap\100\sex\male\cg_predictItems\1\saber1\single_1\saber2\single_1\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+6-15-2021 20: 9 (2819:55): ClientUserinfoChanged: 2 n\Padawan\t\0\model\boba_fett/default\c1\0\c2\0\hc\100\w\0\l\0\tt\0\tl\0\st\single_1\st2\single_1\dt\0
+6-15-2021 20: 9 (2820:23): ClientDisconnect: 5
+6-15-2021 20:10 (2820:41): Kill: 4 2 31: Padawan 4 killed Padawan by MOD_FORCE_DARK
+6-15-2021 20:10 (2820:42): ClientUserinfoChanged handling info: 2 \ip\188.242.92.189:29070\name\Padawan\rate\4000\snaps\20\model\boba_fett/default\forcepowers\7-2-012320333000030321\color1\0\color2\0\handicap\100\sex\male\cg_predictItems\1\saber1\single_1\saber2\single_1\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+6-15-2021 20:10 (2820:42): ClientUserinfoChanged: 2 n\Padawan\t\0\model\boba_fett/default\c1\0\c2\0\hc\100\w\0\l\0\tt\0\tl\0\st\single_1\st2\single_1\dt\0
+6-15-2021 20:10 (2821:24): Kill: 3 4 3: Padawan 3 killed Padawan 4 by MOD_SABER
+6-15-2021 20:10 (2821:24): duel: Padawan 3 won a duel against Padawan 4
+6-15-2021 20:10 (2821:26): ClientUserinfoChanged handling info: 4 \ip\178.71.222.226:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\Kyle\saber1\Kyle\cg_predictItems\1\sex\male\handicap\100\color2\4\color1\0\forcepowers\7-2-012320333000030321\model\chewbacca/default\snaps\20\rate\4000\name\Padawan\teamtask\0\teamoverlay\1
+6-15-2021 20:10 (2821:26): ClientUserinfoChanged: 4 n\Padawan 4\t\0\model\chewbacca/default\c1\0\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\Kyle\st2\Kyle\dt\0
+6-15-2021 20:12 (2823:14): Kill: 2 4 3: Padawan killed Padawan 4 by MOD_SABER
+6-15-2021 20:12 (2823:16): ClientUserinfoChanged handling info: 4 \ip\178.71.222.226:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\Kyle\saber1\Kyle\cg_predictItems\1\sex\male\handicap\100\color2\4\color1\0\forcepowers\7-2-012320333000030321\model\chewbacca/default\snaps\20\rate\4000\name\Padawan\teamtask\0\teamoverlay\1
+6-15-2021 20:12 (2823:16): ClientUserinfoChanged: 4 n\Padawan 4\t\0\model\chewbacca/default\c1\0\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\Kyle\st2\Kyle\dt\0
+6-15-2021 20:14 (2824:29): Kill: 4 3 3: Padawan 4 killed Padawan 3 by MOD_SABER
+6-15-2021 20:14 (2824:33): ClientUserinfoChanged handling info: 3 \ip\188.242.82.139:29070\name\Padawan\rate\4000\snaps\20\model\luke/default\forcepowers\7-1-233330000210000333\color1\3\color2\4\handicap\100\sex\male\cg_predictItems\1\saber1\single_2\saber2\none\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+6-15-2021 20:14 (2824:33): ClientUserinfoChanged: 3 n\Padawan 3\t\0\model\luke/default\c1\3\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\single_2\st2\none\dt\0
+6-15-2021 20:15 (2825:38): Kill: 2 3 3: Padawan killed Padawan 3 by MOD_SABER
+6-15-2021 20:15 (2825:40): ClientUserinfoChanged handling info: 3 \ip\188.242.82.139:29070\name\Padawan\rate\4000\snaps\20\model\luke/default\forcepowers\7-1-233330000210000333\color1\3\color2\4\handicap\100\sex\male\cg_predictItems\1\saber1\single_2\saber2\none\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+6-15-2021 20:15 (2825:40): ClientUserinfoChanged: 3 n\Padawan 3\t\0\model\luke/default\c1\3\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\single_2\st2\none\dt\0
+6-15-2021 20:15 (2826:27): Kill: 1022 4 38: <world> killed Padawan 4 by MOD_FALLING
+6-15-2021 20:16 (2826:29): ClientUserinfoChanged handling info: 4 \ip\178.71.222.226:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\Kyle\saber1\Kyle\cg_predictItems\1\sex\male\handicap\100\color2\4\color1\0\forcepowers\7-2-012320333000030321\model\chewbacca/default\snaps\20\rate\4000\name\Padawan\teamtask\0\teamoverlay\1
+6-15-2021 20:16 (2826:29): ClientUserinfoChanged: 4 n\Padawan 4\t\0\model\chewbacca/default\c1\0\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\Kyle\st2\Kyle\dt\0
+6-15-2021 20:16 (2827:11): Kill: 2 137 3: Padawan killed  by MOD_SABER
+6-15-2021 20:17 (2827:39): Kill: 4 2 3: Padawan 4 killed Padawan by MOD_SABER
+6-15-2021 20:17 (2827:40): ClientUserinfoChanged handling info: 2 \ip\188.242.92.189:29070\name\Padawan\rate\4000\snaps\20\model\boba_fett/default\forcepowers\7-2-012320333000030321\color1\0\color2\0\handicap\100\sex\male\cg_predictItems\1\saber1\single_1\saber2\single_1\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+6-15-2021 20:17 (2827:40): ClientUserinfoChanged: 2 n\Padawan\t\0\model\boba_fett/default\c1\0\c2\0\hc\100\w\0\l\0\tt\0\tl\0\st\single_1\st2\single_1\dt\0
+6-15-2021 20:17 (2827:47): Kill: 3 4 10: Padawan 3 killed Padawan 4 by MOD_DISRUPTOR_SNIPER
+6-15-2021 20:17 (2827:48): ClientUserinfoChanged handling info: 4 \ip\178.71.222.226:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\Kyle\saber1\Kyle\cg_predictItems\1\sex\male\handicap\100\color2\4\color1\0\forcepowers\7-2-012320333000030321\model\chewbacca/default\snaps\20\rate\4000\name\Padawan\teamtask\0\teamoverlay\1
+6-15-2021 20:17 (2827:48): ClientUserinfoChanged: 4 n\Padawan 4\t\0\model\chewbacca/default\c1\0\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\Kyle\st2\Kyle\dt\0
+6-15-2021 20:18 (2828:40): Kill: 2 3 13: Padawan killed Padawan 3 by MOD_REPEATER_ALT
+6-15-2021 20:18 (2828:41): ClientUserinfoChanged handling info: 3 \ip\188.242.82.139:29070\name\Padawan\rate\4000\snaps\20\model\luke/default\forcepowers\7-1-233330000210000333\color1\3\color2\4\handicap\100\sex\male\cg_predictItems\1\saber1\single_2\saber2\none\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+6-15-2021 20:18 (2828:41): ClientUserinfoChanged: 3 n\Padawan 3\t\0\model\luke/default\c1\3\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\single_2\st2\none\dt\0
+6-15-2021 20:19 (2830:22): Kill: 1022 138 39: <world> killed  by MOD_SUICIDE
+6-15-2021 20:20 (2830:45): Kill: 2 3 10: Padawan killed Padawan 3 by MOD_DISRUPTOR_SNIPER
+6-15-2021 20:20 (2830:47): ClientUserinfoChanged handling info: 3 \ip\188.242.82.139:29070\name\Padawan\rate\4000\snaps\20\model\luke/default\forcepowers\7-1-233330000210000333\color1\3\color2\4\handicap\100\sex\male\cg_predictItems\1\saber1\single_2\saber2\none\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+6-15-2021 20:20 (2830:47): ClientUserinfoChanged: 3 n\Padawan 3\t\0\model\luke/default\c1\3\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\single_2\st2\none\dt\0
+6-15-2021 20:20 (2830:51): Kill: 4 2 12: Padawan 4 killed Padawan by MOD_REPEATER
+6-15-2021 20:20 (2830:52): ClientUserinfoChanged handling info: 2 \ip\188.242.92.189:29070\name\Padawan\rate\4000\snaps\20\model\boba_fett/default\forcepowers\7-2-012320333000030321\color1\0\color2\0\handicap\100\sex\male\cg_predictItems\1\saber1\single_1\saber2\single_1\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+6-15-2021 20:20 (2830:52): ClientUserinfoChanged: 2 n\Padawan\t\0\model\boba_fett/default\c1\0\c2\0\hc\100\w\0\l\0\tt\0\tl\0\st\single_1\st2\single_1\dt\0
+6-15-2021 20:22 (2832:56): Kill: 4 3 31: Padawan 4 killed Padawan 3 by MOD_FORCE_DARK
+6-15-2021 20:22 (2832:57): ClientUserinfoChanged handling info: 3 \ip\188.242.82.139:29070\name\Padawan\rate\4000\snaps\20\model\luke/default\forcepowers\7-1-233330000210000333\color1\3\color2\4\handicap\100\sex\male\cg_predictItems\1\saber1\single_2\saber2\none\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+6-15-2021 20:22 (2832:57): ClientUserinfoChanged: 3 n\Padawan 3\t\0\model\luke/default\c1\3\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\single_2\st2\none\dt\0
+6-15-2021 20:23 (2833:33): Kill: 3 4 2: Padawan 3 killed Padawan 4 by MOD_MELEE
+6-15-2021 20:23 (2833:34): ClientUserinfoChanged handling info: 4 \ip\178.71.222.226:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\Kyle\saber1\Kyle\cg_predictItems\1\sex\male\handicap\100\color2\4\color1\0\forcepowers\7-2-012320333000030321\model\chewbacca/default\snaps\20\rate\4000\name\Padawan\teamtask\0\teamoverlay\1
+6-15-2021 20:23 (2833:34): ClientUserinfoChanged: 4 n\Padawan 4\t\0\model\chewbacca/default\c1\0\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\Kyle\st2\Kyle\dt\0
+6-15-2021 20:23 (2833:45): Kill: 3 138 3: Padawan 3 killed  by MOD_SABER
+6-15-2021 20:23 (2833:55): Kill: 2 129 3: Padawan killed  by MOD_SABER
+6-15-2021 20:23 (2833:59): Kill: 4 2 3: Padawan 4 killed Padawan by MOD_SABER
+6-15-2021 20:23 (2834:00): ClientUserinfoChanged handling info: 2 \ip\188.242.92.189:29070\name\Padawan\rate\4000\snaps\20\model\boba_fett/default\forcepowers\7-2-012320333000030321\color1\0\color2\0\handicap\100\sex\male\cg_predictItems\1\saber1\single_1\saber2\single_1\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+6-15-2021 20:23 (2834:00): ClientUserinfoChanged: 2 n\Padawan\t\0\model\boba_fett/default\c1\0\c2\0\hc\100\w\0\l\0\tt\0\tl\0\st\single_1\st2\single_1\dt\0
+6-15-2021 20:23 (2834:01): Kill: 4 3 3: Padawan 4 killed Padawan 3 by MOD_SABER
+6-15-2021 20:23 (2834:05): ClientUserinfoChanged handling info: 3 \ip\188.242.82.139:29070\name\Padawan\rate\4000\snaps\20\model\luke/default\forcepowers\7-1-233330000210000333\color1\3\color2\4\handicap\100\sex\male\cg_predictItems\1\saber1\single_2\saber2\none\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+6-15-2021 20:23 (2834:05): ClientUserinfoChanged: 3 n\Padawan 3\t\0\model\luke/default\c1\3\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\single_2\st2\none\dt\0
+6-15-2021 20:24 (2834:56): Kill: 3 2 3: Padawan 3 killed Padawan by MOD_SABER
+6-15-2021 20:24 (2834:57): ClientUserinfoChanged handling info: 2 \ip\188.242.92.189:29070\name\Padawan\rate\4000\snaps\20\model\boba_fett/default\forcepowers\7-2-012320333000030321\color1\0\color2\0\handicap\100\sex\male\cg_predictItems\1\saber1\single_1\saber2\single_1\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+6-15-2021 20:24 (2834:57): ClientUserinfoChanged: 2 n\Padawan\t\0\model\boba_fett/default\c1\0\c2\0\hc\100\w\0\l\0\tt\0\tl\0\st\single_1\st2\single_1\dt\0
+6-15-2021 20:25 (2835:41): Kill: 2 3 31: Padawan killed Padawan 3 by MOD_FORCE_DARK
+6-15-2021 20:25 (2835:45): ClientUserinfoChanged handling info: 3 \ip\188.242.82.139:29070\name\Padawan\rate\4000\snaps\20\model\luke/default\forcepowers\7-1-233330000210000333\color1\3\color2\4\handicap\100\sex\male\cg_predictItems\1\saber1\single_2\saber2\none\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+6-15-2021 20:25 (2835:45): ClientUserinfoChanged: 3 n\Padawan 3\t\0\model\luke/default\c1\3\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\single_2\st2\none\dt\0
+6-15-2021 20:25 (2836:18): ClientUserinfoChanged handling info: 3 \ip\188.242.82.139:29070\name\Padawan\rate\4000\snaps\20\model\swamptrooper/default\forcepowers\7-2-032300023000033231\color1\0\color2\0\handicap\100\sex\male\cg_predictItems\1\saber1\Kyle\saber2\Kyle\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+6-15-2021 20:25 (2836:18): ClientUserinfoChanged: 3 n\Padawan 3\t\0\model\swamptrooper/default\c1\0\c2\0\hc\100\w\0\l\0\tt\0\tl\0\st\single_2\st2\none\dt\0
+6-15-2021 20:26 (2836:56): Kill: 4 3 3: Padawan 4 killed Padawan 3 by MOD_SABER
+6-15-2021 20:26 (2836:58): ClientUserinfoChanged handling info: 3 \ip\188.242.82.139:29070\name\Padawan\rate\4000\snaps\20\model\swamptrooper/default\forcepowers\7-2-032300023000033231\color1\0\color2\0\handicap\100\sex\male\cg_predictItems\1\saber1\Kyle\saber2\Kyle\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+6-15-2021 20:26 (2836:58): ClientUserinfoChanged: 3 n\Padawan 3\t\0\model\swamptrooper/default\c1\0\c2\0\hc\100\w\0\l\0\tt\0\tl\0\st\Kyle\st2\Kyle\dt\0
+6-15-2021 20:26 (2836:58): ClientUserinfoChanged handling info: 3 \ip\188.242.82.139:29070\name\Padawan\rate\4000\snaps\20\model\swamptrooper/default\forcepowers\7-2-032300023000033231\color1\0\color2\0\handicap\100\sex\male\cg_predictItems\1\saber1\Kyle\saber2\Kyle\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+6-15-2021 20:26 (2836:58): ClientUserinfoChanged: 3 n\Padawan 3\t\0\model\swamptrooper/default\c1\0\c2\0\hc\100\w\0\l\0\tt\0\tl\0\st\Kyle\st2\Kyle\dt\0
+6-15-2021 20:26 (2837:06): Kill: 4 2 31: Padawan 4 killed Padawan by MOD_FORCE_DARK
+6-15-2021 20:26 (2837:07): ClientUserinfoChanged handling info: 2 \ip\188.242.92.189:29070\name\Padawan\rate\4000\snaps\20\model\boba_fett/default\forcepowers\7-2-012320333000030321\color1\0\color2\0\handicap\100\sex\male\cg_predictItems\1\saber1\single_1\saber2\single_1\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+6-15-2021 20:26 (2837:07): ClientUserinfoChanged: 2 n\Padawan\t\0\model\boba_fett/default\c1\0\c2\0\hc\100\w\0\l\0\tt\0\tl\0\st\single_1\st2\single_1\dt\0
+6-15-2021 20:27 (2837:41): Kill: 2 3 3: Padawan killed Padawan 3 by MOD_SABER
+6-15-2021 20:27 (2837:43): ClientUserinfoChanged handling info: 3 \ip\188.242.82.139:29070\name\Padawan\rate\4000\snaps\20\model\swamptrooper/default\forcepowers\7-2-032300023000033231\color1\0\color2\0\handicap\100\sex\male\cg_predictItems\1\saber1\Kyle\saber2\Kyle\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+6-15-2021 20:27 (2837:43): ClientUserinfoChanged: 3 n\Padawan 3\t\0\model\swamptrooper/default\c1\0\c2\0\hc\100\w\0\l\0\tt\0\tl\0\st\Kyle\st2\Kyle\dt\0
+6-15-2021 20:27 (2838:05): Kill: 3 2 3: Padawan 3 killed Padawan by MOD_SABER
+6-15-2021 20:27 (2838:06): ClientUserinfoChanged handling info: 2 \ip\188.242.92.189:29070\name\Padawan\rate\4000\snaps\20\model\boba_fett/default\forcepowers\7-2-012320333000030321\color1\0\color2\0\handicap\100\sex\male\cg_predictItems\1\saber1\single_1\saber2\single_1\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+6-15-2021 20:27 (2838:06): ClientUserinfoChanged: 2 n\Padawan\t\0\model\boba_fett/default\c1\0\c2\0\hc\100\w\0\l\0\tt\0\tl\0\st\single_1\st2\single_1\dt\0
+6-15-2021 20:28 (2838:53): Kill: 3 4 3: Padawan 3 killed Padawan 4 by MOD_SABER
+6-15-2021 20:28 (2838:54): ClientUserinfoChanged handling info: 4 \ip\178.71.222.226:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\Kyle\saber1\Kyle\cg_predictItems\1\sex\male\handicap\100\color2\4\color1\0\forcepowers\7-2-012320333000030321\model\chewbacca/default\snaps\20\rate\4000\name\Padawan\teamtask\0\teamoverlay\1
+6-15-2021 20:28 (2838:54): ClientUserinfoChanged: 4 n\Padawan 4\t\0\model\chewbacca/default\c1\0\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\Kyle\st2\Kyle\dt\0
+6-15-2021 20:30 (2840:33): Kill: 3 2 3: Padawan 3 killed Padawan by MOD_SABER
+6-15-2021 20:30 (2840:34): ClientUserinfoChanged handling info: 2 \ip\188.242.92.189:29070\name\Padawan\rate\4000\snaps\20\model\boba_fett/default\forcepowers\7-2-012320333000030321\color1\0\color2\0\handicap\100\sex\male\cg_predictItems\1\saber1\single_1\saber2\single_1\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+6-15-2021 20:30 (2840:34): ClientUserinfoChanged: 2 n\Padawan\t\0\model\boba_fett/default\c1\0\c2\0\hc\100\w\0\l\0\tt\0\tl\0\st\single_1\st2\single_1\dt\0
+6-15-2021 20:30 (2840:35): Kill: 3 4 31: Padawan 3 killed Padawan 4 by MOD_FORCE_DARK
+6-15-2021 20:30 (2840:36): ClientUserinfoChanged handling info: 4 \ip\178.71.222.226:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\Kyle\saber1\Kyle\cg_predictItems\1\sex\male\handicap\100\color2\4\color1\0\forcepowers\7-2-012320333000030321\model\chewbacca/default\snaps\20\rate\4000\name\Padawan\teamtask\0\teamoverlay\1
+6-15-2021 20:30 (2840:36): ClientUserinfoChanged: 4 n\Padawan 4\t\0\model\chewbacca/default\c1\0\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\Kyle\st2\Kyle\dt\0
+6-15-2021 20:30 (2841:10): Kill: 2 4 3: Padawan killed Padawan 4 by MOD_SABER
+6-15-2021 20:30 (2841:11): ClientUserinfoChanged handling info: 4 \ip\178.71.222.226:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\Kyle\saber1\Kyle\cg_predictItems\1\sex\male\handicap\100\color2\4\color1\0\forcepowers\7-2-012320333000030321\model\chewbacca/default\snaps\20\rate\4000\name\Padawan\teamtask\0\teamoverlay\1
+6-15-2021 20:30 (2841:11): ClientUserinfoChanged: 4 n\Padawan 4\t\0\model\chewbacca/default\c1\0\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\Kyle\st2\Kyle\dt\0
+6-15-2021 20:31 (2841:49): Kill: 3 2 3: Padawan 3 killed Padawan by MOD_SABER
+6-15-2021 20:31 (2841:50): ClientUserinfoChanged handling info: 2 \ip\188.242.92.189:29070\name\Padawan\rate\4000\snaps\20\model\boba_fett/default\forcepowers\7-2-012320333000030321\color1\0\color2\0\handicap\100\sex\male\cg_predictItems\1\saber1\single_1\saber2\single_1\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+6-15-2021 20:31 (2841:50): ClientUserinfoChanged: 2 n\Padawan\t\0\model\boba_fett/default\c1\0\c2\0\hc\100\w\0\l\0\tt\0\tl\0\st\single_1\st2\single_1\dt\0
+6-15-2021 20:32 (2843:10): Kill: 3 4 3: Padawan 3 killed Padawan 4 by MOD_SABER
+6-15-2021 20:32 (2843:12): ClientUserinfoChanged handling info: 4 \ip\178.71.222.226:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\Kyle\saber1\Kyle\cg_predictItems\1\sex\male\handicap\100\color2\4\color1\0\forcepowers\7-2-012320333000030321\model\chewbacca/default\snaps\20\rate\4000\name\Padawan\teamtask\0\teamoverlay\1
+6-15-2021 20:32 (2843:12): ClientUserinfoChanged: 4 n\Padawan 4\t\0\model\chewbacca/default\c1\0\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\Kyle\st2\Kyle\dt\0
+6-15-2021 20:32 (2843:17): Kill: 3 2 3: Padawan 3 killed Padawan by MOD_SABER
+6-15-2021 20:32 (2843:19): ClientUserinfoChanged handling info: 2 \ip\188.242.92.189:29070\name\Padawan\rate\4000\snaps\20\model\boba_fett/default\forcepowers\7-2-012320333000030321\color1\0\color2\0\handicap\100\sex\male\cg_predictItems\1\saber1\single_1\saber2\single_1\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+6-15-2021 20:32 (2843:19): ClientUserinfoChanged: 2 n\Padawan\t\0\model\boba_fett/default\c1\0\c2\0\hc\100\w\0\l\0\tt\0\tl\0\st\single_1\st2\single_1\dt\0
+6-15-2021 20:33 (2844:04): Kill: 2 3 14: Padawan killed Padawan 3 by MOD_REPEATER_ALT_SPLASH
+6-15-2021 20:33 (2844:06): ClientUserinfoChanged handling info: 3 \ip\188.242.82.139:29070\name\Padawan\rate\4000\snaps\20\model\swamptrooper/default\forcepowers\7-2-032300023000033231\color1\0\color2\0\handicap\100\sex\male\cg_predictItems\1\saber1\Kyle\saber2\Kyle\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+6-15-2021 20:33 (2844:06): ClientUserinfoChanged: 3 n\Padawan 3\t\0\model\swamptrooper/default\c1\0\c2\0\hc\100\w\0\l\0\tt\0\tl\0\st\Kyle\st2\Kyle\dt\0
+6-15-2021 20:33 (2844:22): Kill: 3 2 3: Padawan 3 killed Padawan by MOD_SABER
+6-15-2021 20:33 (2844:23): ClientUserinfoChanged handling info: 2 \ip\188.242.92.189:29070\name\Padawan\rate\4000\snaps\20\model\boba_fett/default\forcepowers\7-2-012320333000030321\color1\0\color2\0\handicap\100\sex\male\cg_predictItems\1\saber1\single_1\saber2\single_1\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+6-15-2021 20:33 (2844:23): ClientUserinfoChanged: 2 n\Padawan\t\0\model\boba_fett/default\c1\0\c2\0\hc\100\w\0\l\0\tt\0\tl\0\st\single_1\st2\single_1\dt\0
+6-15-2021 20:34 (2844:36): Kill: 3 4 3: Padawan 3 killed Padawan 4 by MOD_SABER
+6-15-2021 20:34 (2844:39): ClientUserinfoChanged handling info: 4 \ip\178.71.222.226:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\Kyle\saber1\Kyle\cg_predictItems\1\sex\male\handicap\100\color2\4\color1\0\forcepowers\7-2-012320333000030321\model\chewbacca/default\snaps\20\rate\4000\name\Padawan\teamtask\0\teamoverlay\1
+6-15-2021 20:34 (2844:39): ClientUserinfoChanged: 4 n\Padawan 4\t\0\model\chewbacca/default\c1\0\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\Kyle\st2\Kyle\dt\0
+6-15-2021 20:34 (2845:10): Kill: 3 2 3: Padawan 3 killed Padawan by MOD_SABER
+6-15-2021 20:34 (2845:11): ClientUserinfoChanged handling info: 2 \ip\188.242.92.189:29070\name\Padawan\rate\4000\snaps\20\model\boba_fett/default\forcepowers\7-2-012320333000030321\color1\0\color2\0\handicap\100\sex\male\cg_predictItems\1\saber1\single_1\saber2\single_1\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+6-15-2021 20:34 (2845:11): ClientUserinfoChanged: 2 n\Padawan\t\0\model\boba_fett/default\c1\0\c2\0\hc\100\w\0\l\0\tt\0\tl\0\st\single_1\st2\single_1\dt\0
+6-15-2021 20:34 (2845:25): Kill: 4 3 3: Padawan 4 killed Padawan 3 by MOD_SABER
+6-15-2021 20:35 (2845:55): Kill: 4 2 3: Padawan 4 killed Padawan by MOD_SABER
+6-15-2021 20:35 (2845:56): ClientUserinfoChanged handling info: 3 \ip\188.242.82.139:29070\name\Padawan\rate\4000\snaps\20\model\jedi_hm/head_b1|torso_a1|lower_c1\forcepowers\7-2-032300023000033231\color1\5\color2\0\handicap\100\sex\male\cg_predictItems\1\saber1\single_3\saber2\none\char_color_red\69\char_color_green\109\char_color_blue\255\teamtask\0\teamoverlay\1
+6-15-2021 20:35 (2845:56): ClientUserinfoChanged: 3 n\Padawan 3\t\0\model\jedi_hm/head_b1|torso_a1|lower_c1\c1\5\c2\0\hc\100\w\0\l\0\tt\0\tl\0\st\single_3\st2\none\dt\0
+6-15-2021 20:35 (2845:56): ClientUserinfoChanged handling info: 3 \ip\188.242.82.139:29070\name\Padawan\rate\4000\snaps\20\model\jedi_hm/head_b1|torso_a1|lower_c1\forcepowers\7-2-032300023000033231\color1\5\color2\0\handicap\100\sex\male\cg_predictItems\1\saber1\single_3\saber2\none\char_color_red\69\char_color_green\109\char_color_blue\255\teamtask\0\teamoverlay\1
+6-15-2021 20:35 (2845:56): ClientUserinfoChanged: 3 n\Padawan 3\t\0\model\jedi_hm/head_b1|torso_a1|lower_c1\c1\5\c2\0\hc\100\w\0\l\0\tt\0\tl\0\st\single_3\st2\none\dt\0
+6-15-2021 20:35 (2846:03): ClientUserinfoChanged handling info: 2 \ip\188.242.92.189:29070\name\Padawan\rate\4000\snaps\20\model\boba_fett/default\forcepowers\7-2-012320333000030321\color1\0\color2\0\handicap\100\sex\male\cg_predictItems\1\saber1\single_5\saber2\none\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+6-15-2021 20:35 (2846:03): ClientUserinfoChanged: 2 n\Padawan\t\0\model\boba_fett/default\c1\0\c2\0\hc\100\w\0\l\0\tt\0\tl\0\st\single_5\st2\none\dt\0
+6-15-2021 20:35 (2846:03): ClientUserinfoChanged handling info: 2 \ip\188.242.92.189:29070\name\Padawan\rate\4000\snaps\20\model\boba_fett/default\forcepowers\7-2-012320333000030321\color1\0\color2\0\handicap\100\sex\male\cg_predictItems\1\saber1\single_5\saber2\none\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+6-15-2021 20:35 (2846:03): ClientUserinfoChanged: 2 n\Padawan\t\0\model\boba_fett/default\c1\0\c2\0\hc\100\w\0\l\0\tt\0\tl\0\st\single_5\st2\none\dt\0
+6-15-2021 20:35 (2846:07): ClientUserinfoChanged handling info: 3 \ip\188.242.82.139:29070\name\Padawan\rate\4000\snaps\20\model\jedi_hm/head_b1|torso_a1|lower_c1\forcepowers\7-1-233330000210000333\color1\5\color2\0\handicap\100\sex\male\cg_predictItems\1\saber1\single_3\saber2\none\char_color_red\69\char_color_green\109\char_color_blue\255\teamtask\0\teamoverlay\1
+6-15-2021 20:35 (2846:07): ClientUserinfoChanged: 3 n\Padawan 3\t\0\model\jedi_hm/head_b1|torso_a1|lower_c1\c1\5\c2\0\hc\100\w\0\l\0\tt\0\tl\0\st\single_3\st2\none\dt\0
+6-15-2021 20:35 (2846:14): Kill: 2 3 3: Padawan killed Padawan 3 by MOD_SABER
+6-15-2021 20:35 (2846:16): ClientUserinfoChanged handling info: 3 \ip\188.242.82.139:29070\name\Padawan\rate\4000\snaps\20\model\jedi_hm/head_b1|torso_a1|lower_c1\forcepowers\7-1-233330000210000333\color1\5\color2\0\handicap\100\sex\male\cg_predictItems\1\saber1\single_3\saber2\none\char_color_red\69\char_color_green\109\char_color_blue\255\teamtask\0\teamoverlay\1
+6-15-2021 20:35 (2846:16): ClientUserinfoChanged: 3 n\Padawan 3\t\0\model\jedi_hm/head_b1|torso_a1|lower_c1\c1\5\c2\0\hc\100\w\0\l\0\tt\0\tl\0\st\single_3\st2\none\dt\0
+6-15-2021 20:36 (2846:31): Kill: 2 3 3: Padawan killed Padawan 3 by MOD_SABER
+6-15-2021 20:36 (2846:33): ClientUserinfoChanged handling info: 3 \ip\188.242.82.139:29070\name\Padawan\rate\4000\snaps\20\model\jedi_hm/head_b1|torso_a1|lower_c1\forcepowers\7-1-233330000210000333\color1\5\color2\0\handicap\100\sex\male\cg_predictItems\1\saber1\single_3\saber2\none\char_color_red\69\char_color_green\109\char_color_blue\255\teamtask\0\teamoverlay\1
+6-15-2021 20:36 (2846:33): ClientUserinfoChanged: 3 n\Padawan 3\t\0\model\jedi_hm/head_b1|torso_a1|lower_c1\c1\5\c2\0\hc\100\w\0\l\0\tt\0\tl\0\st\single_3\st2\none\dt\0
+6-15-2021 20:36 (2846:44): Kill: 4 2 3: Padawan 4 killed Padawan by MOD_SABER
+6-15-2021 20:36 (2846:45): ClientUserinfoChanged handling info: 2 \ip\188.242.92.189:29070\name\Padawan\rate\4000\snaps\20\model\boba_fett/default\forcepowers\7-2-012320333000030321\color1\0\color2\0\handicap\100\sex\male\cg_predictItems\1\saber1\single_5\saber2\none\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+6-15-2021 20:36 (2846:45): ClientUserinfoChanged: 2 n\Padawan\t\0\model\boba_fett/default\c1\0\c2\0\hc\100\w\0\l\0\tt\0\tl\0\st\single_5\st2\none\dt\0
+6-15-2021 20:36 (2847:10): Kill: 2 3 3: Padawan killed Padawan 3 by MOD_SABER
+6-15-2021 20:36 (2847:11): ClientUserinfoChanged handling info: 3 \ip\188.242.82.139:29070\name\Padawan\rate\4000\snaps\20\model\jedi_hm/head_b1|torso_a1|lower_c1\forcepowers\7-1-233330000210000333\color1\5\color2\0\handicap\100\sex\male\cg_predictItems\1\saber1\single_3\saber2\none\char_color_red\69\char_color_green\109\char_color_blue\255\teamtask\0\teamoverlay\1
+6-15-2021 20:36 (2847:11): ClientUserinfoChanged: 3 n\Padawan 3\t\0\model\jedi_hm/head_b1|torso_a1|lower_c1\c1\5\c2\0\hc\100\w\0\l\0\tt\0\tl\0\st\single_3\st2\none\dt\0
+6-15-2021 20:36 (2847:22): Kill: 2 4 31: Padawan killed Padawan 4 by MOD_FORCE_DARK
+6-15-2021 20:36 (2847:24): ClientUserinfoChanged handling info: 4 \ip\178.71.222.226:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\Kyle\saber1\Kyle\cg_predictItems\1\sex\male\handicap\100\color2\4\color1\0\forcepowers\7-2-012320333000030321\model\chewbacca/default\snaps\20\rate\4000\name\Padawan\teamtask\0\teamoverlay\1
+6-15-2021 20:36 (2847:24): ClientUserinfoChanged: 4 n\Padawan 4\t\0\model\chewbacca/default\c1\0\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\Kyle\st2\Kyle\dt\0
+6-15-2021 20:37 (2847:51): Kill: 3 4 3: Padawan 3 killed Padawan 4 by MOD_SABER
+6-15-2021 20:37 (2847:52): ClientUserinfoChanged handling info: 4 \ip\178.71.222.226:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\Kyle\saber1\Kyle\cg_predictItems\1\sex\male\handicap\100\color2\4\color1\0\forcepowers\7-2-012320333000030321\model\chewbacca/default\snaps\20\rate\4000\name\Padawan\teamtask\0\teamoverlay\1
+6-15-2021 20:37 (2847:52): ClientUserinfoChanged: 4 n\Padawan 4\t\0\model\chewbacca/default\c1\0\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\Kyle\st2\Kyle\dt\0
+6-15-2021 20:37 (2848:26): Kill: 3 2 3: Padawan 3 killed Padawan by MOD_SABER
+6-15-2021 20:37 (2848:27): ClientUserinfoChanged handling info: 2 \ip\188.242.92.189:29070\name\Padawan\rate\4000\snaps\20\model\boba_fett/default\forcepowers\7-2-012320333000030321\color1\0\color2\0\handicap\100\sex\male\cg_predictItems\1\saber1\single_5\saber2\none\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+6-15-2021 20:37 (2848:27): ClientUserinfoChanged: 2 n\Padawan\t\0\model\boba_fett/default\c1\0\c2\0\hc\100\w\0\l\0\tt\0\tl\0\st\single_5\st2\none\dt\0
+6-15-2021 20:38 (2848:32): Kill: 3 4 3: Padawan 3 killed Padawan 4 by MOD_SABER
+6-15-2021 20:38 (2848:34): ClientUserinfoChanged handling info: 4 \ip\178.71.222.226:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\Kyle\saber1\Kyle\cg_predictItems\1\sex\male\handicap\100\color2\4\color1\0\forcepowers\7-2-012320333000030321\model\chewbacca/default\snaps\20\rate\4000\name\Padawan\teamtask\0\teamoverlay\1
+6-15-2021 20:38 (2848:34): ClientUserinfoChanged: 4 n\Padawan 4\t\0\model\chewbacca/default\c1\0\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\Kyle\st2\Kyle\dt\0
+6-15-2021 20:38 (2848:55): Kill: 3 2 3: Padawan 3 killed Padawan by MOD_SABER
+6-15-2021 20:38 (2848:56): ClientUserinfoChanged handling info: 2 \ip\188.242.92.189:29070\name\Padawan\rate\4000\snaps\20\model\boba_fett/default\forcepowers\7-2-012320333000030321\color1\0\color2\0\handicap\100\sex\male\cg_predictItems\1\saber1\single_5\saber2\none\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+6-15-2021 20:38 (2848:56): ClientUserinfoChanged: 2 n\Padawan\t\0\model\boba_fett/default\c1\0\c2\0\hc\100\w\0\l\0\tt\0\tl\0\st\single_5\st2\none\dt\0
+6-15-2021 20:38 (2849:17): ClientUserinfoChanged handling info: 2 \ip\188.242.92.189:29070\name\Padawan\rate\4000\snaps\20\model\boba_fett/default\forcepowers\7-2-032300023000033231\color1\0\color2\0\handicap\100\sex\male\cg_predictItems\1\saber1\single_5\saber2\none\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+6-15-2021 20:38 (2849:17): ClientUserinfoChanged: 2 n\Padawan\t\0\model\boba_fett/default\c1\0\c2\0\hc\100\w\0\l\0\tt\0\tl\0\st\single_5\st2\none\dt\0
+6-15-2021 20:39 (2849:49): Kill: 4 2 3: Padawan 4 killed Padawan by MOD_SABER
+6-15-2021 20:39 (2849:50): ClientUserinfoChanged handling info: 2 \ip\188.242.92.189:29070\name\Padawan\rate\4000\snaps\20\model\boba_fett/default\forcepowers\7-2-032300023000033231\color1\0\color2\0\handicap\100\sex\male\cg_predictItems\1\saber1\single_5\saber2\none\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+6-15-2021 20:39 (2849:50): ClientUserinfoChanged: 2 n\Padawan\t\0\model\boba_fett/default\c1\0\c2\0\hc\100\w\0\l\0\tt\0\tl\0\st\single_5\st2\none\dt\0
+6-15-2021 20:39 (2850:07): Kill: 3 4 3: Padawan 3 killed Padawan 4 by MOD_SABER
+6-15-2021 20:39 (2850:08): ClientUserinfoChanged handling info: 4 \ip\178.71.222.226:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\Kyle\saber1\Kyle\cg_predictItems\1\sex\male\handicap\100\color2\4\color1\0\forcepowers\7-2-012320333000030321\model\chewbacca/default\snaps\20\rate\4000\name\Padawan\teamtask\0\teamoverlay\1
+6-15-2021 20:39 (2850:08): ClientUserinfoChanged: 4 n\Padawan 4\t\0\model\chewbacca/default\c1\0\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\Kyle\st2\Kyle\dt\0
+6-15-2021 20:39 (2850:27): ClientUserinfoChanged handling info: 2 \ip\188.242.92.189:29070\name\Padawan\rate\4000\snaps\20\model\boba_fett/default\forcepowers\7-2-033220302000023322\color1\0\color2\0\handicap\100\sex\male\cg_predictItems\1\saber1\single_5\saber2\none\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+6-15-2021 20:39 (2850:27): ClientUserinfoChanged: 2 n\Padawan\t\0\model\boba_fett/default\c1\0\c2\0\hc\100\w\0\l\0\tt\0\tl\0\st\single_5\st2\none\dt\0
+6-15-2021 20:40 (2850:39): Kill: 4 2 3: Padawan 4 killed Padawan by MOD_SABER
+6-15-2021 20:40 (2850:42): ClientUserinfoChanged handling info: 2 \ip\188.242.92.189:29070\name\Padawan\rate\4000\snaps\20\model\boba_fett/default\forcepowers\7-2-033220302000023322\color1\0\color2\0\handicap\100\sex\male\cg_predictItems\1\saber1\single_5\saber2\none\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+6-15-2021 20:40 (2850:42): ClientUserinfoChanged: 2 n\Padawan\t\0\model\boba_fett/default\c1\0\c2\0\hc\100\w\0\l\0\tt\0\tl\0\st\single_5\st2\none\dt\0
+6-15-2021 20:40 (2850:42): Kill: 4 3 3: Padawan 4 killed Padawan 3 by MOD_SABER
+6-15-2021 20:40 (2850:43): ClientUserinfoChanged handling info: 3 \ip\188.242.82.139:29070\name\Padawan\rate\4000\snaps\20\model\jedi_hm/head_b1|torso_a1|lower_c1\forcepowers\7-1-233330000210000333\color1\5\color2\0\handicap\100\sex\male\cg_predictItems\1\saber1\single_3\saber2\none\char_color_red\69\char_color_green\109\char_color_blue\255\teamtask\0\teamoverlay\1
+6-15-2021 20:40 (2850:43): ClientUserinfoChanged: 3 n\Padawan 3\t\0\model\jedi_hm/head_b1|torso_a1|lower_c1\c1\5\c2\0\hc\100\w\0\l\0\tt\0\tl\0\st\single_3\st2\none\dt\0
+6-15-2021 20:40 (2851:08): Kill: 3 4 3: Padawan 3 killed Padawan 4 by MOD_SABER
+6-15-2021 20:40 (2851:10): ClientUserinfoChanged handling info: 4 \ip\178.71.222.226:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\Kyle\saber1\Kyle\cg_predictItems\1\sex\male\handicap\100\color2\4\color1\0\forcepowers\7-2-012320333000030321\model\chewbacca/default\snaps\20\rate\4000\name\Padawan\teamtask\0\teamoverlay\1
+6-15-2021 20:40 (2851:10): ClientUserinfoChanged: 4 n\Padawan 4\t\0\model\chewbacca/default\c1\0\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\Kyle\st2\Kyle\dt\0
+6-15-2021 20:40 (2851:23): ClientUserinfoChanged handling info: 4 \ip\178.71.222.226:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\none\saber1\dual_1\cg_predictItems\1\sex\male\handicap\100\color2\4\color1\0\forcepowers\7-2-012320333000030321\model\chewbacca/default\snaps\20\rate\4000\name\Padawan\teamtask\0\teamoverlay\1
+6-15-2021 20:40 (2851:23): ClientUserinfoChanged: 4 n\Padawan 4\t\0\model\chewbacca/default\c1\0\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\Kyle\st2\Kyle\dt\0
+6-15-2021 20:41 (2851:36): Kill: 2 4 3: Padawan killed Padawan 4 by MOD_SABER
+6-15-2021 20:41 (2851:43): ClientUserinfoChanged handling info: 4 \ip\178.71.222.226:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\none\saber1\dual_1\cg_predictItems\1\sex\male\handicap\100\color2\4\color1\0\forcepowers\7-2-012320333000030321\model\chewbacca/default\snaps\20\rate\4000\name\Padawan\teamtask\0\teamoverlay\1
+6-15-2021 20:41 (2851:43): ClientUserinfoChanged: 4 n\Padawan 4\t\0\model\chewbacca/default\c1\0\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\dual_1\st2\none\dt\0
+6-15-2021 20:41 (2851:43): ClientUserinfoChanged handling info: 4 \ip\178.71.222.226:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\none\saber1\dual_1\cg_predictItems\1\sex\male\handicap\100\color2\4\color1\0\forcepowers\7-2-012320333000030321\model\chewbacca/default\snaps\20\rate\4000\name\Padawan\teamtask\0\teamoverlay\1
+6-15-2021 20:41 (2851:43): ClientUserinfoChanged: 4 n\Padawan 4\t\0\model\chewbacca/default\c1\0\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\dual_1\st2\none\dt\0
+6-15-2021 20:41 (2852:23): Kill: 3 2 3: Padawan 3 killed Padawan by MOD_SABER
+6-15-2021 20:41 (2852:24): ClientUserinfoChanged handling info: 2 \ip\188.242.92.189:29070\name\Padawan\rate\4000\snaps\20\model\boba_fett/default\forcepowers\7-2-033220302000023322\color1\0\color2\0\handicap\100\sex\male\cg_predictItems\1\saber1\single_5\saber2\none\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+6-15-2021 20:41 (2852:24): ClientUserinfoChanged: 2 n\Padawan\t\0\model\boba_fett/default\c1\0\c2\0\hc\100\w\0\l\0\tt\0\tl\0\st\single_5\st2\none\dt\0
+6-15-2021 20:42 (2852:28): Kill: 4 3 3: Padawan 4 killed Padawan 3 by MOD_SABER
+6-15-2021 20:42 (2852:32): ClientUserinfoChanged handling info: 3 \ip\188.242.82.139:29070\name\Padawan\rate\4000\snaps\20\model\jedi_hm/head_b1|torso_a1|lower_c1\forcepowers\7-1-233330000210000333\color1\5\color2\0\handicap\100\sex\male\cg_predictItems\1\saber1\single_3\saber2\none\char_color_red\69\char_color_green\109\char_color_blue\255\teamtask\0\teamoverlay\1
+6-15-2021 20:42 (2852:32): ClientUserinfoChanged: 3 n\Padawan 3\t\0\model\jedi_hm/head_b1|torso_a1|lower_c1\c1\5\c2\0\hc\100\w\0\l\0\tt\0\tl\0\st\single_3\st2\none\dt\0
+6-15-2021 20:42 (2852:55): Kill: 2 4 3: Padawan killed Padawan 4 by MOD_SABER
+6-15-2021 20:42 (2852:57): ClientUserinfoChanged handling info: 4 \ip\178.71.222.226:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\none\saber1\dual_1\cg_predictItems\1\sex\male\handicap\100\color2\4\color1\0\forcepowers\7-2-012320333000030321\model\chewbacca/default\snaps\20\rate\4000\name\Padawan\teamtask\0\teamoverlay\1
+6-15-2021 20:42 (2852:57): ClientUserinfoChanged: 4 n\Padawan 4\t\0\model\chewbacca/default\c1\0\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\dual_1\st2\none\dt\0
+6-15-2021 20:42 (2853:14): Kill: 4 2 3: Padawan 4 killed Padawan by MOD_SABER
+6-15-2021 20:42 (2853:15): ClientUserinfoChanged handling info: 2 \ip\188.242.92.189:29070\name\Padawan\rate\4000\snaps\20\model\boba_fett/default\forcepowers\7-2-033220302000023322\color1\0\color2\0\handicap\100\sex\male\cg_predictItems\1\saber1\single_5\saber2\none\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+6-15-2021 20:42 (2853:15): ClientUserinfoChanged: 2 n\Padawan\t\0\model\boba_fett/default\c1\0\c2\0\hc\100\w\0\l\0\tt\0\tl\0\st\single_5\st2\none\dt\0
+6-15-2021 20:43 (2853:37): Kill: 2 4 31: Padawan killed Padawan 4 by MOD_FORCE_DARK
+6-15-2021 20:43 (2853:38): ClientUserinfoChanged handling info: 4 \ip\178.71.222.226:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\none\saber1\dual_1\cg_predictItems\1\sex\male\handicap\100\color2\4\color1\0\forcepowers\7-2-012320333000030321\model\chewbacca/default\snaps\20\rate\4000\name\Padawan\teamtask\0\teamoverlay\1
+6-15-2021 20:43 (2853:38): ClientUserinfoChanged: 4 n\Padawan 4\t\0\model\chewbacca/default\c1\0\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\dual_1\st2\none\dt\0
+6-15-2021 20:43 (2853:58): Kill: 3 2 3: Padawan 3 killed Padawan by MOD_SABER
+6-15-2021 20:43 (2853:59): ClientUserinfoChanged handling info: 2 \ip\188.242.92.189:29070\name\Padawan\rate\4000\snaps\20\model\boba_fett/default\forcepowers\7-2-033220302000023322\color1\0\color2\0\handicap\100\sex\male\cg_predictItems\1\saber1\single_5\saber2\none\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+6-15-2021 20:43 (2853:59): ClientUserinfoChanged: 2 n\Padawan\t\0\model\boba_fett/default\c1\0\c2\0\hc\100\w\0\l\0\tt\0\tl\0\st\single_5\st2\none\dt\0
+6-15-2021 20:44 (2854:53): Kill: 2 4 3: Padawan killed Padawan 4 by MOD_SABER
+6-15-2021 20:44 (2854:54): ClientUserinfoChanged handling info: 4 \ip\178.71.222.226:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\none\saber1\dual_1\cg_predictItems\1\sex\male\handicap\100\color2\4\color1\0\forcepowers\7-2-012320333000030321\model\chewbacca/default\snaps\20\rate\4000\name\Padawan\teamtask\0\teamoverlay\1
+6-15-2021 20:44 (2854:54): ClientUserinfoChanged: 4 n\Padawan 4\t\0\model\chewbacca/default\c1\0\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\dual_1\st2\none\dt\0
+6-15-2021 20:45 (2855:56): Kill: 3 2 3: Padawan 3 killed Padawan by MOD_SABER
+6-15-2021 20:45 (2855:57): ClientUserinfoChanged handling info: 2 \ip\188.242.92.189:29070\name\Padawan\rate\4000\snaps\20\model\boba_fett/default\forcepowers\7-2-033220302000023322\color1\0\color2\0\handicap\100\sex\male\cg_predictItems\1\saber1\single_5\saber2\none\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+6-15-2021 20:45 (2855:57): ClientUserinfoChanged: 2 n\Padawan\t\0\model\boba_fett/default\c1\0\c2\0\hc\100\w\0\l\0\tt\0\tl\0\st\single_5\st2\none\dt\0
+6-15-2021 20:46 (2856:39): Kill: 2 3 3: Padawan killed Padawan 3 by MOD_SABER
+6-15-2021 20:46 (2856:41): ClientUserinfoChanged handling info: 3 \ip\188.242.82.139:29070\name\Padawan\rate\4000\snaps\20\model\jedi_hm/head_b1|torso_a1|lower_c1\forcepowers\7-1-233330000210000333\color1\5\color2\0\handicap\100\sex\male\cg_predictItems\1\saber1\single_3\saber2\none\char_color_red\69\char_color_green\109\char_color_blue\255\teamtask\0\teamoverlay\1
+6-15-2021 20:46 (2856:41): ClientUserinfoChanged: 3 n\Padawan 3\t\0\model\jedi_hm/head_b1|torso_a1|lower_c1\c1\5\c2\0\hc\100\w\0\l\0\tt\0\tl\0\st\single_3\st2\none\dt\0
+6-15-2021 20:46 (2856:59): Kill: 3 4 10: Padawan 3 killed Padawan 4 by MOD_DISRUPTOR_SNIPER
+6-15-2021 20:46 (2857:01): ClientUserinfoChanged handling info: 4 \ip\178.71.222.226:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\none\saber1\dual_1\cg_predictItems\1\sex\male\handicap\100\color2\4\color1\0\forcepowers\7-2-012320333000030321\model\chewbacca/default\snaps\20\rate\4000\name\Padawan\teamtask\0\teamoverlay\1
+6-15-2021 20:46 (2857:01): ClientUserinfoChanged: 4 n\Padawan 4\t\0\model\chewbacca/default\c1\0\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\dual_1\st2\none\dt\0
+6-15-2021 20:46 (2857:13): Kill: 4 2 3: Padawan 4 killed Padawan by MOD_SABER
+6-15-2021 20:46 (2857:15): ClientUserinfoChanged handling info: 2 \ip\188.242.92.189:29070\name\Padawan\rate\4000\snaps\20\model\boba_fett/default\forcepowers\7-2-033220302000023322\color1\0\color2\0\handicap\100\sex\male\cg_predictItems\1\saber1\single_5\saber2\none\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+6-15-2021 20:46 (2857:15): ClientUserinfoChanged: 2 n\Padawan\t\0\model\boba_fett/default\c1\0\c2\0\hc\100\w\0\l\0\tt\0\tl\0\st\single_5\st2\none\dt\0
+6-15-2021 20:47 (2857:33): Kill: 3 2 3: Padawan 3 killed Padawan by MOD_SABER
+6-15-2021 20:47 (2857:34): ClientUserinfoChanged handling info: 2 \ip\188.242.92.189:29070\name\Padawan\rate\4000\snaps\20\model\boba_fett/default\forcepowers\7-2-033220302000023322\color1\0\color2\0\handicap\100\sex\male\cg_predictItems\1\saber1\single_5\saber2\none\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+6-15-2021 20:47 (2857:34): ClientUserinfoChanged: 2 n\Padawan\t\0\model\boba_fett/default\c1\0\c2\0\hc\100\w\0\l\0\tt\0\tl\0\st\single_5\st2\none\dt\0
+6-15-2021 20:47 (2858:10): Exit: Timelimit hit.
+6-15-2021 20:47 (2858:10): score: 31  ping: 112  client: 3 Padawan 3
+6-15-2021 20:47 (2858:10): score: 19  ping: 108  client: 2 Padawan
+6-15-2021 20:47 (2858:10): score: 19  ping: 117  client: 4 Padawan 4
+6-15-2021 20:47 (2858:10): score: 0  ping: 43  client: 0 astupidbot
+6-15-2021 20:47 (2858:10): score: 0  ping: 49  client: 1 Kyle
+6-15-2021 20:47 (2858:16): ShutdownGame:
+6-15-2021 20:47 (2858:16): ------------------------------------------------------------
+6-15-2021 20:47 (2858:16): ------------------------------------------------------------
+6-15-2021 20:47 (2858:16): InitGame: \version\JAmp: v1.0.1.0 linux-i386 Mar 14 2020\timelimit\45\sv_privateClients\0\sv_minRate\0\sv_minPing\0\sv_maxclients\32\sv_maxRate\0\sv_maxPing\999\sv_hostname\^7~^1~^7~ COMM SERVER ~^1~^7~\sv_fps\50\sv_floodProtectSlow\1\sv_floodProtect\1\sv_autoDemo\0\sv_allowDownload\0\serveruptime\189\protocol\26\mapname\academy6\gamename\Lugormod\g_weaponDisable\0\g_stepSlideFix\0\g_siegeTeamSwitch\1\g_siegeTeam2\none\g_siegeTeam1\none\g_siegeRespawn\20\g_showDuelHealths\1\g_saberWallDamageScale\0.4\g_saberLocking\0\g_privateDuel\1535\g_noSpecMove\0\g_needpass\0\g_maxHolocronCarry\3\g_maxGameClients\0\g_maxForceRank\7\g_jediVmerc\0\g_gametype\0\g_gamemode\0\g_forceRegenTime\160\g_forcePowerDisable\0\g_forceBasedTeams\1\g_duelWeaponDisable\9\g_debugmelee\1\g_allowNPC\1\fs_game\lugormod\fraglimit\0\duel_fraglimit\10\dmflags\0\capturelimit\10\bot_minplayers\2\bg_fighterAltControl\0\Lugormod_Version\U#-0.0.0.91 Alpha
+6-15-2021 20:47 (2858:16): ClientConnect: 0
+6-15-2021 20:47 (2858:16): ClientUserinfoChanged handling info: 0 \team\0\skill\ 5.00\personality\botfiles/astupidbot.jkb\saber2\none\saber1\kyle\color2\4\color1\4\sex\male\model\jawa\snaps\20\rate\25000\name\astupidbot
+6-15-2021 20:47 (2858:16): ClientUserinfoChanged: 0 n\astupidbot\t\0\model\jawa\c1\4\c2\4\hc\0\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+6-15-2021 20:47 (2858:16): ClientUserinfoChanged handling info: 0 \team\0\skill\ 5.00\personality\botfiles/astupidbot.jkb\saber2\none\saber1\kyle\color2\4\color1\4\sex\male\model\jawa\snaps\20\rate\25000\name\astupidbot
+6-15-2021 20:47 (2858:16): ClientUserinfoChanged: 0 n\astupidbot\t\0\model\jawa\c1\4\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+6-15-2021 20:47 (2858:16): ClientBegin: 0
+6-15-2021 20:47 (2858:16): ClientConnect: 1
+6-15-2021 20:47 (2858:16): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+6-15-2021 20:47 (2858:16): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\0\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+6-15-2021 20:47 (2858:16): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+6-15-2021 20:47 (2858:16): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+6-15-2021 20:47 (2858:16): ClientBegin: 1
+6-15-2021 20:47 (2858:16): ClientConnect: 2
+6-15-2021 20:47 (2858:16): ClientUserinfoChanged handling info: 2 \ip\188.242.92.189:29070\name\Padawan\rate\4000\snaps\20\model\boba_fett/default\forcepowers\7-2-033220302000023322\color1\0\color2\0\handicap\100\sex\male\cg_predictItems\1\saber1\single_5\saber2\none\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+6-15-2021 20:47 (2858:16): ClientUserinfoChanged: 2 n\Padawan\t\0\model\boba_fett/default\c1\0\c2\0\hc\0\w\0\l\0\tt\0\tl\0\st\single_5\st2\none\dt\0
+6-15-2021 20:47 (2858:16): ClientUserinfoChanged handling info: 2 \ip\188.242.92.189:29070\name\Padawan\rate\4000\snaps\20\model\boba_fett/default\forcepowers\7-2-033220302000023322\color1\0\color2\0\handicap\100\sex\male\cg_predictItems\1\saber1\single_5\saber2\none\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+6-15-2021 20:47 (2858:16): ClientUserinfoChanged: 2 n\Padawan\t\0\model\boba_fett/default\c1\0\c2\0\hc\0\w\0\l\0\tt\0\tl\0\st\single_5\st2\none\dt\0
+6-15-2021 20:47 (2858:16): ClientUserinfoChanged handling info: 2 \ip\188.242.92.189:29070\name\Padawan\rate\4000\snaps\20\model\boba_fett/default\forcepowers\7-2-033220302000023322\color1\0\color2\0\handicap\100\sex\male\cg_predictItems\1\saber1\single_5\saber2\none\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+6-15-2021 20:47 (2858:16): ClientUserinfoChanged: 2 n\Padawan\t\0\model\boba_fett/default\c1\0\c2\0\hc\100\w\0\l\0\tt\0\tl\0\st\single_5\st2\none\dt\0
+6-15-2021 20:47 (2858:16): ClientBegin: 2
+6-15-2021 20:47 (2858:16): ClientConnect: 3
+6-15-2021 20:47 (2858:16): ClientUserinfoChanged handling info: 3 \ip\188.242.82.139:29070\name\Padawan\rate\4000\snaps\20\model\jedi_hm/head_b1|torso_a1|lower_c1\forcepowers\7-1-233330000210000333\color1\5\color2\0\handicap\100\sex\male\cg_predictItems\1\saber1\single_3\saber2\none\char_color_red\69\char_color_green\109\char_color_blue\255\teamtask\0\teamoverlay\1
+6-15-2021 20:47 (2858:16): ClientUserinfoChanged: 3 n\Padawan 3\t\0\model\jedi_hm/head_b1|torso_a1|lower_c1\c1\5\c2\0\hc\0\w\0\l\0\tt\0\tl\0\st\single_3\st2\none\dt\0
+6-15-2021 20:47 (2858:16): ClientUserinfoChanged handling info: 3 \ip\188.242.82.139:29070\name\Padawan\rate\4000\snaps\20\model\jedi_hm/head_b1|torso_a1|lower_c1\forcepowers\7-1-233330000210000333\color1\5\color2\0\handicap\100\sex\male\cg_predictItems\1\saber1\single_3\saber2\none\char_color_red\69\char_color_green\109\char_color_blue\255\teamtask\0\teamoverlay\1
+6-15-2021 20:47 (2858:16): ClientUserinfoChanged: 3 n\Padawan 3\t\0\model\jedi_hm/head_b1|torso_a1|lower_c1\c1\5\c2\0\hc\0\w\0\l\0\tt\0\tl\0\st\single_3\st2\none\dt\0
+6-15-2021 20:47 (2858:16): ClientUserinfoChanged handling info: 3 \ip\188.242.82.139:29070\name\Padawan\rate\4000\snaps\20\model\jedi_hm/head_b1|torso_a1|lower_c1\forcepowers\7-1-233330000210000333\color1\5\color2\0\handicap\100\sex\male\cg_predictItems\1\saber1\single_3\saber2\none\char_color_red\69\char_color_green\109\char_color_blue\255\teamtask\0\teamoverlay\1
+6-15-2021 20:47 (2858:16): ClientUserinfoChanged: 3 n\Padawan 3\t\0\model\jedi_hm/head_b1|torso_a1|lower_c1\c1\5\c2\0\hc\100\w\0\l\0\tt\0\tl\0\st\single_3\st2\none\dt\0
+6-15-2021 20:47 (2858:16): ClientBegin: 3
+6-15-2021 20:47 (2858:16): ClientConnect: 4
+6-15-2021 20:47 (2858:16): ClientUserinfoChanged handling info: 4 \ip\178.71.222.226:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\none\saber1\dual_1\cg_predictItems\1\sex\male\handicap\100\color2\4\color1\0\forcepowers\7-2-012320333000030321\model\chewbacca/default\snaps\20\rate\4000\name\Padawan\teamtask\0\teamoverlay\1
+6-15-2021 20:47 (2858:16): ClientUserinfoChanged: 4 n\Padawan 4\t\0\model\chewbacca/default\c1\0\c2\4\hc\0\w\0\l\0\tt\0\tl\0\st\dual_1\st2\none\dt\0
+6-15-2021 20:47 (2858:16): ClientUserinfoChanged handling info: 4 \ip\178.71.222.226:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\none\saber1\dual_1\cg_predictItems\1\sex\male\handicap\100\color2\4\color1\0\forcepowers\7-2-012320333000030321\model\chewbacca/default\snaps\20\rate\4000\name\Padawan\teamtask\0\teamoverlay\1
+6-15-2021 20:47 (2858:16): ClientUserinfoChanged: 4 n\Padawan 4\t\0\model\chewbacca/default\c1\0\c2\4\hc\0\w\0\l\0\tt\0\tl\0\st\dual_1\st2\none\dt\0
+6-15-2021 20:47 (2858:16): ClientUserinfoChanged handling info: 4 \ip\178.71.222.226:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\none\saber1\dual_1\cg_predictItems\1\sex\male\handicap\100\color2\4\color1\0\forcepowers\7-2-012320333000030321\model\chewbacca/default\snaps\20\rate\4000\name\Padawan\teamtask\0\teamoverlay\1
+6-15-2021 20:47 (2858:16): ClientUserinfoChanged: 4 n\Padawan 4\t\0\model\chewbacca/default\c1\0\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\dual_1\st2\none\dt\0
+6-15-2021 20:47 (2858:16): ClientBegin: 4
+6-15-2021 20:48 (2858:40): Kill: 4 2 31: Padawan 4 killed Padawan by MOD_FORCE_DARK
+6-15-2021 20:48 (2858:41): ClientUserinfoChanged handling info: 2 \ip\188.242.92.189:29070\name\Padawan\rate\4000\snaps\20\model\boba_fett/default\forcepowers\7-2-033220302000023322\color1\0\color2\0\handicap\100\sex\male\cg_predictItems\1\saber1\single_5\saber2\none\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+6-15-2021 20:48 (2858:41): ClientUserinfoChanged: 2 n\Padawan\t\0\model\boba_fett/default\c1\0\c2\0\hc\100\w\0\l\0\tt\0\tl\0\st\single_5\st2\none\dt\0
+6-15-2021 20:48 (2858:46): say: astupidbot: g2g
+6-15-2021 20:48 (2858:46): ClientDisconnect: 0
+6-15-2021 20:48 (2859:00): say: Kyle: bye all
+6-15-2021 20:48 (2859:00): ClientDisconnect: 1
+6-15-2021 20:48 (2859:13): Kill: 2 4 31: Padawan killed Padawan 4 by MOD_FORCE_DARK
+6-15-2021 20:48 (2859:14): Kill: 3 2 3: Padawan 3 killed Padawan by MOD_SABER
+6-15-2021 20:48 (2859:15): ClientUserinfoChanged handling info: 2 \ip\188.242.92.189:29070\name\Padawan\rate\4000\snaps\20\model\boba_fett/default\forcepowers\7-2-033220302000023322\color1\0\color2\0\handicap\100\sex\male\cg_predictItems\1\saber1\single_5\saber2\none\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+6-15-2021 20:48 (2859:15): ClientUserinfoChanged: 2 n\Padawan\t\0\model\boba_fett/default\c1\0\c2\0\hc\100\w\0\l\0\tt\0\tl\0\st\single_5\st2\none\dt\0
+6-15-2021 20:48 (2859:15): ClientUserinfoChanged handling info: 4 \ip\178.71.222.226:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\none\saber1\dual_1\cg_predictItems\1\sex\male\handicap\100\color2\4\color1\0\forcepowers\7-2-012320333000030321\model\chewbacca/default\snaps\20\rate\4000\name\Padawan\teamtask\0\teamoverlay\1
+6-15-2021 20:48 (2859:15): ClientUserinfoChanged: 4 n\Padawan 4\t\0\model\chewbacca/default\c1\0\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\dual_1\st2\none\dt\0
+6-15-2021 20:49 (2860:00): Kill: 4 2 31: Padawan 4 killed Padawan by MOD_FORCE_DARK
+6-15-2021 20:49 (2860:03): ClientUserinfoChanged handling info: 2 \ip\188.242.92.189:29070\name\Padawan\rate\4000\snaps\20\model\boba_fett/default\forcepowers\7-2-033220302000023322\color1\0\color2\0\handicap\100\sex\male\cg_predictItems\1\saber1\single_5\saber2\none\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+6-15-2021 20:49 (2860:03): ClientUserinfoChanged: 2 n\Padawan\t\0\model\boba_fett/default\c1\0\c2\0\hc\100\w\0\l\0\tt\0\tl\0\st\single_5\st2\none\dt\0
+6-15-2021 20:49 (2860:08): Kill: 3 4 3: Padawan 3 killed Padawan 4 by MOD_SABER
+6-15-2021 20:49 (2860:09): ClientUserinfoChanged handling info: 4 \ip\178.71.222.226:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\none\saber1\dual_1\cg_predictItems\1\sex\male\handicap\100\color2\4\color1\0\forcepowers\7-2-012320333000030321\model\chewbacca/default\snaps\20\rate\4000\name\Padawan\teamtask\0\teamoverlay\1
+6-15-2021 20:49 (2860:09): ClientUserinfoChanged: 4 n\Padawan 4\t\0\model\chewbacca/default\c1\0\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\dual_1\st2\none\dt\0
+6-15-2021 20:49 (2860:11): Kill: 2 3 3: Padawan killed Padawan 3 by MOD_SABER
+6-15-2021 20:49 (2860:12): ClientUserinfoChanged handling info: 3 \ip\188.242.82.139:29070\name\Padawan\rate\4000\snaps\20\model\jedi_hm/head_b1|torso_a1|lower_c1\forcepowers\7-1-233330000210000333\color1\5\color2\0\handicap\100\sex\male\cg_predictItems\1\saber1\single_3\saber2\none\char_color_red\69\char_color_green\109\char_color_blue\255\teamtask\0\teamoverlay\1
+6-15-2021 20:49 (2860:12): ClientUserinfoChanged: 3 n\Padawan 3\t\0\model\jedi_hm/head_b1|torso_a1|lower_c1\c1\5\c2\0\hc\100\w\0\l\0\tt\0\tl\0\st\single_3\st2\none\dt\0
+6-15-2021 20:49 (2860:27): Kill: 4 2 3: Padawan 4 killed Padawan by MOD_SABER
+6-15-2021 20:49 (2860:28): ClientUserinfoChanged handling info: 2 \ip\188.242.92.189:29070\name\Padawan\rate\4000\snaps\20\model\boba_fett/default\forcepowers\7-2-033220302000023322\color1\0\color2\0\handicap\100\sex\male\cg_predictItems\1\saber1\single_5\saber2\none\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+6-15-2021 20:49 (2860:28): ClientUserinfoChanged: 2 n\Padawan\t\0\model\boba_fett/default\c1\0\c2\0\hc\100\w\0\l\0\tt\0\tl\0\st\single_5\st2\none\dt\0
+6-15-2021 20:50 (2860:39): Kill: 2 4 3: Padawan killed Padawan 4 by MOD_SABER
+6-15-2021 20:50 (2860:40): ClientUserinfoChanged handling info: 4 \ip\178.71.222.226:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\none\saber1\dual_1\cg_predictItems\1\sex\male\handicap\100\color2\4\color1\0\forcepowers\7-2-012320333000030321\model\chewbacca/default\snaps\20\rate\4000\name\Padawan\teamtask\0\teamoverlay\1
+6-15-2021 20:50 (2860:40): ClientUserinfoChanged: 4 n\Padawan 4\t\0\model\chewbacca/default\c1\0\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\dual_1\st2\none\dt\0
+6-15-2021 20:51 (2861:58): Kill: 3 2 3: Padawan 3 killed Padawan by MOD_SABER
+6-15-2021 20:51 (2861:58): duel: Padawan 3 won a duel against Padawan
+6-15-2021 20:51 (2861:59): ClientUserinfoChanged handling info: 2 \ip\188.242.92.189:29070\name\Padawan\rate\4000\snaps\20\model\boba_fett/default\forcepowers\7-2-033220302000023322\color1\0\color2\0\handicap\100\sex\male\cg_predictItems\1\saber1\single_5\saber2\none\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+6-15-2021 20:51 (2861:59): ClientUserinfoChanged: 2 n\Padawan\t\0\model\boba_fett/default\c1\0\c2\0\hc\100\w\0\l\0\tt\0\tl\0\st\single_5\st2\none\dt\0
+6-15-2021 20:53 (2863:48): Kill: 3 4 3: Padawan 3 killed Padawan 4 by MOD_SABER
+6-15-2021 20:53 (2863:48): duel: Padawan 3 won a duel against Padawan 4
+6-15-2021 20:53 (2863:51): ClientUserinfoChanged handling info: 4 \ip\178.71.222.226:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\none\saber1\dual_1\cg_predictItems\1\sex\male\handicap\100\color2\4\color1\0\forcepowers\7-2-012320333000030321\model\chewbacca/default\snaps\20\rate\4000\name\Padawan\teamtask\0\teamoverlay\1
+6-15-2021 20:53 (2863:51): ClientUserinfoChanged: 4 n\Padawan 4\t\0\model\chewbacca/default\c1\0\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\dual_1\st2\none\dt\0
+6-15-2021 20:53 (2864:02): Kill: 4 2 4: Padawan 4 killed Padawan by MOD_BRYAR_PISTOL
+6-15-2021 20:53 (2864:03): ClientUserinfoChanged handling info: 2 \ip\188.242.92.189:29070\name\Padawan\rate\4000\snaps\20\model\boba_fett/default\forcepowers\7-2-033220302000023322\color1\0\color2\0\handicap\100\sex\male\cg_predictItems\1\saber1\single_5\saber2\none\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+6-15-2021 20:53 (2864:03): ClientUserinfoChanged: 2 n\Padawan\t\0\model\boba_fett/default\c1\0\c2\0\hc\100\w\0\l\0\tt\0\tl\0\st\single_5\st2\none\dt\0
+6-15-2021 20:53 (2864:20): Kill: 2 4 3: Padawan killed Padawan 4 by MOD_SABER
+6-15-2021 20:53 (2864:21): ClientUserinfoChanged handling info: 4 \ip\178.71.222.226:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\none\saber1\dual_1\cg_predictItems\1\sex\male\handicap\100\color2\4\color1\0\forcepowers\7-2-012320333000030321\model\chewbacca/default\snaps\20\rate\4000\name\Padawan\teamtask\0\teamoverlay\1
+6-15-2021 20:53 (2864:21): ClientUserinfoChanged: 4 n\Padawan 4\t\0\model\chewbacca/default\c1\0\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\dual_1\st2\none\dt\0
+6-15-2021 20:54 (2864:30): Kill: 2 3 3: Padawan killed Padawan 3 by MOD_SABER
+6-15-2021 20:54 (2864:31): ClientUserinfoChanged handling info: 3 \ip\188.242.82.139:29070\name\Padawan\rate\4000\snaps\20\model\jedi_hm/head_b1|torso_a1|lower_c1\forcepowers\7-1-233330000210000333\color1\5\color2\0\handicap\100\sex\male\cg_predictItems\1\saber1\single_3\saber2\none\char_color_red\69\char_color_green\109\char_color_blue\255\teamtask\0\teamoverlay\1
+6-15-2021 20:54 (2864:31): ClientUserinfoChanged: 3 n\Padawan 3\t\0\model\jedi_hm/head_b1|torso_a1|lower_c1\c1\5\c2\0\hc\100\w\0\l\0\tt\0\tl\0\st\single_3\st2\none\dt\0
+6-15-2021 20:54 (2864:41): Kill: 3 4 3: Padawan 3 killed Padawan 4 by MOD_SABER
+6-15-2021 20:54 (2864:42): ClientUserinfoChanged handling info: 4 \ip\178.71.222.226:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\none\saber1\dual_1\cg_predictItems\1\sex\male\handicap\100\color2\4\color1\0\forcepowers\7-2-012320333000030321\model\chewbacca/default\snaps\20\rate\4000\name\Padawan\teamtask\0\teamoverlay\1
+6-15-2021 20:54 (2864:42): ClientUserinfoChanged: 4 n\Padawan 4\t\0\model\chewbacca/default\c1\0\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\dual_1\st2\none\dt\0
+6-15-2021 20:54 (2864:45): Kill: 3 2 3: Padawan 3 killed Padawan by MOD_SABER
+6-15-2021 20:54 (2864:46): Kill: 4 3 31: Padawan 4 killed Padawan 3 by MOD_FORCE_DARK
+6-15-2021 20:54 (2864:46): ClientUserinfoChanged handling info: 2 \ip\188.242.92.189:29070\name\Padawan\rate\4000\snaps\20\model\boba_fett/default\forcepowers\7-2-033220302000023322\color1\0\color2\0\handicap\100\sex\male\cg_predictItems\1\saber1\single_5\saber2\none\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+6-15-2021 20:54 (2864:46): ClientUserinfoChanged: 2 n\Padawan\t\0\model\boba_fett/default\c1\0\c2\0\hc\100\w\0\l\0\tt\0\tl\0\st\single_5\st2\none\dt\0
+6-15-2021 20:54 (2864:47): ClientUserinfoChanged handling info: 3 \ip\188.242.82.139:29070\name\Padawan\rate\4000\snaps\20\model\jedi_hm/head_b1|torso_a1|lower_c1\forcepowers\7-1-233330000210000333\color1\5\color2\0\handicap\100\sex\male\cg_predictItems\1\saber1\single_3\saber2\none\char_color_red\69\char_color_green\109\char_color_blue\255\teamtask\0\teamoverlay\1
+6-15-2021 20:54 (2864:47): ClientUserinfoChanged: 3 n\Padawan 3\t\0\model\jedi_hm/head_b1|torso_a1|lower_c1\c1\5\c2\0\hc\100\w\0\l\0\tt\0\tl\0\st\single_3\st2\none\dt\0
+6-15-2021 20:54 (2864:57): Kill: 3 2 3: Padawan 3 killed Padawan by MOD_SABER
+6-15-2021 20:54 (2864:58): ClientUserinfoChanged handling info: 2 \ip\188.242.92.189:29070\name\Padawan\rate\4000\snaps\20\model\boba_fett/default\forcepowers\7-2-033220302000023322\color1\0\color2\0\handicap\100\sex\male\cg_predictItems\1\saber1\single_5\saber2\none\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+6-15-2021 20:54 (2864:58): ClientUserinfoChanged: 2 n\Padawan\t\0\model\boba_fett/default\c1\0\c2\0\hc\100\w\0\l\0\tt\0\tl\0\st\single_5\st2\none\dt\0
+6-15-2021 20:54 (2865:13): Kill: 3 2 3: Padawan 3 killed Padawan by MOD_SABER
+6-15-2021 20:54 (2865:14): ClientUserinfoChanged handling info: 2 \ip\188.242.92.189:29070\name\Padawan\rate\4000\snaps\20\model\boba_fett/default\forcepowers\7-2-033220302000023322\color1\0\color2\0\handicap\100\sex\male\cg_predictItems\1\saber1\single_5\saber2\none\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+6-15-2021 20:54 (2865:14): ClientUserinfoChanged: 2 n\Padawan\t\0\model\boba_fett/default\c1\0\c2\0\hc\100\w\0\l\0\tt\0\tl\0\st\single_5\st2\none\dt\0
+6-15-2021 20:54 (2865:20): Kill: 3 4 3: Padawan 3 killed Padawan 4 by MOD_SABER
+6-15-2021 20:54 (2865:21): ClientUserinfoChanged handling info: 4 \ip\178.71.222.226:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\none\saber1\dual_1\cg_predictItems\1\sex\male\handicap\100\color2\4\color1\0\forcepowers\7-2-012320333000030321\model\chewbacca/default\snaps\20\rate\4000\name\Padawan\teamtask\0\teamoverlay\1
+6-15-2021 20:54 (2865:21): ClientUserinfoChanged: 4 n\Padawan 4\t\0\model\chewbacca/default\c1\0\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\dual_1\st2\none\dt\0
+6-15-2021 20:55 (2865:51): Kill: 3 2 3: Padawan 3 killed Padawan by MOD_SABER
+6-15-2021 20:55 (2865:53): ClientUserinfoChanged handling info: 2 \ip\188.242.92.189:29070\name\Padawan\rate\4000\snaps\20\model\boba_fett/default\forcepowers\7-2-033220302000023322\color1\0\color2\0\handicap\100\sex\male\cg_predictItems\1\saber1\single_5\saber2\none\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+6-15-2021 20:55 (2865:53): ClientUserinfoChanged: 2 n\Padawan\t\0\model\boba_fett/default\c1\0\c2\0\hc\100\w\0\l\0\tt\0\tl\0\st\single_5\st2\none\dt\0
+6-15-2021 20:55 (2866:10): Kill: 2 3 31: Padawan killed Padawan 3 by MOD_FORCE_DARK
+6-15-2021 20:55 (2866:15): ClientUserinfoChanged handling info: 3 \ip\188.242.82.139:29070\name\Padawan\rate\4000\snaps\20\model\jedi_hm/head_b1|torso_a1|lower_c1\forcepowers\7-1-233330000210000333\color1\5\color2\0\handicap\100\sex\male\cg_predictItems\1\saber1\single_3\saber2\none\char_color_red\69\char_color_green\109\char_color_blue\255\teamtask\0\teamoverlay\1
+6-15-2021 20:55 (2866:15): ClientUserinfoChanged: 3 n\Padawan 3\t\0\model\jedi_hm/head_b1|torso_a1|lower_c1\c1\5\c2\0\hc\100\w\0\l\0\tt\0\tl\0\st\single_3\st2\none\dt\0
+6-15-2021 20:56 (2866:39): Kill: 3 2 3: Padawan 3 killed Padawan by MOD_SABER
+6-15-2021 20:56 (2866:40): ClientUserinfoChanged handling info: 2 \ip\188.242.92.189:29070\name\Padawan\rate\4000\snaps\20\model\boba_fett/default\forcepowers\7-2-033220302000023322\color1\0\color2\0\handicap\100\sex\male\cg_predictItems\1\saber1\single_5\saber2\none\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+6-15-2021 20:56 (2866:40): ClientUserinfoChanged: 2 n\Padawan\t\0\model\boba_fett/default\c1\0\c2\0\hc\100\w\0\l\0\tt\0\tl\0\st\single_5\st2\none\dt\0
+6-15-2021 20:56 (2866:44): Kill: 2 3 3: Padawan killed Padawan 3 by MOD_SABER
+6-15-2021 20:56 (2866:46): ClientUserinfoChanged handling info: 3 \ip\188.242.82.139:29070\name\Padawan\rate\4000\snaps\20\model\jedi_hm/head_b1|torso_a1|lower_c1\forcepowers\7-1-233330000210000333\color1\5\color2\0\handicap\100\sex\male\cg_predictItems\1\saber1\single_3\saber2\none\char_color_red\69\char_color_green\109\char_color_blue\255\teamtask\0\teamoverlay\1
+6-15-2021 20:56 (2866:46): ClientUserinfoChanged: 3 n\Padawan 3\t\0\model\jedi_hm/head_b1|torso_a1|lower_c1\c1\5\c2\0\hc\100\w\0\l\0\tt\0\tl\0\st\single_3\st2\none\dt\0
+6-15-2021 20:56 (2866:58): Kill: 3 4 3: Padawan 3 killed Padawan 4 by MOD_SABER
+6-15-2021 20:56 (2867:03): Kill: 3 2 3: Padawan 3 killed Padawan by MOD_SABER
+6-15-2021 20:56 (2867:04): ClientUserinfoChanged handling info: 2 \ip\188.242.92.189:29070\name\Padawan\rate\4000\snaps\20\model\boba_fett/default\forcepowers\7-2-033220302000023322\color1\0\color2\0\handicap\100\sex\male\cg_predictItems\1\saber1\single_5\saber2\none\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+6-15-2021 20:56 (2867:04): ClientUserinfoChanged: 2 n\Padawan\t\0\model\boba_fett/default\c1\0\c2\0\hc\100\w\0\l\0\tt\0\tl\0\st\single_5\st2\none\dt\0
+6-15-2021 20:56 (2867:09): ClientUserinfoChanged handling info: 4 \ip\178.71.222.226:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\none\saber1\single_1\cg_predictItems\1\sex\male\handicap\100\color2\4\color1\2\forcepowers\7-2-012320333000030321\model\chewbacca/default\snaps\20\rate\4000\name\Padawan\teamtask\0\teamoverlay\1
+6-15-2021 20:56 (2867:09): ClientUserinfoChanged: 4 n\Padawan 4\t\0\model\chewbacca/default\c1\2\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\dual_1\st2\none\dt\0
+6-15-2021 20:56 (2867:11): ClientUserinfoChanged handling info: 4 \ip\178.71.222.226:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\none\saber1\single_1\cg_predictItems\1\sex\male\handicap\100\color2\4\color1\2\forcepowers\7-2-012320333000030321\model\chewbacca/default\snaps\20\rate\4000\name\Padawan\teamtask\0\teamoverlay\1
+6-15-2021 20:56 (2867:11): ClientUserinfoChanged: 4 n\Padawan 4\t\0\model\chewbacca/default\c1\2\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\single_1\st2\none\dt\0
+6-15-2021 20:56 (2867:11): ClientUserinfoChanged handling info: 4 \ip\178.71.222.226:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\none\saber1\single_1\cg_predictItems\1\sex\male\handicap\100\color2\4\color1\2\forcepowers\7-2-012320333000030321\model\chewbacca/default\snaps\20\rate\4000\name\Padawan\teamtask\0\teamoverlay\1
+6-15-2021 20:56 (2867:11): ClientUserinfoChanged: 4 n\Padawan 4\t\0\model\chewbacca/default\c1\2\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\single_1\st2\none\dt\0
+6-15-2021 20:56 (2867:21): Kill: 3 2 3: Padawan 3 killed Padawan by MOD_SABER
+6-15-2021 20:56 (2867:22): ClientUserinfoChanged handling info: 2 \ip\188.242.92.189:29070\name\Padawan\rate\4000\snaps\20\model\boba_fett/default\forcepowers\7-2-033220302000023322\color1\0\color2\0\handicap\100\sex\male\cg_predictItems\1\saber1\single_5\saber2\none\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+6-15-2021 20:56 (2867:22): ClientUserinfoChanged: 2 n\Padawan\t\0\model\boba_fett/default\c1\0\c2\0\hc\100\w\0\l\0\tt\0\tl\0\st\single_5\st2\none\dt\0
+6-15-2021 20:57 (2868:06): Kill: 4 2 3: Padawan 4 killed Padawan by MOD_SABER
+6-15-2021 20:57 (2868:07): ClientUserinfoChanged handling info: 2 \ip\188.242.92.189:29070\name\Padawan\rate\4000\snaps\20\model\boba_fett/default\forcepowers\7-2-033220302000023322\color1\0\color2\0\handicap\100\sex\male\cg_predictItems\1\saber1\single_5\saber2\none\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+6-15-2021 20:57 (2868:07): ClientUserinfoChanged: 2 n\Padawan\t\0\model\boba_fett/default\c1\0\c2\0\hc\100\w\0\l\0\tt\0\tl\0\st\single_5\st2\none\dt\0
+6-15-2021 20:57 (2868:09): Kill: 3 4 5: Padawan 3 killed Padawan 4 by MOD_BRYAR_PISTOL_ALT
+6-15-2021 20:57 (2868:11): ClientUserinfoChanged handling info: 4 \ip\178.71.222.226:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\none\saber1\single_1\cg_predictItems\1\sex\male\handicap\100\color2\4\color1\2\forcepowers\7-2-012320333000030321\model\chewbacca/default\snaps\20\rate\4000\name\Padawan\teamtask\0\teamoverlay\1
+6-15-2021 20:57 (2868:11): ClientUserinfoChanged: 4 n\Padawan 4\t\0\model\chewbacca/default\c1\2\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\single_1\st2\none\dt\0
+6-15-2021 20:57 (2868:19): Kill: 4 3 3: Padawan 4 killed Padawan 3 by MOD_SABER
+6-15-2021 20:57 (2868:20): ClientUserinfoChanged handling info: 3 \ip\188.242.82.139:29070\name\Padawan\rate\4000\snaps\20\model\jedi_hm/head_b1|torso_a1|lower_c1\forcepowers\7-1-233330000210000333\color1\5\color2\0\handicap\100\sex\male\cg_predictItems\1\saber1\single_3\saber2\none\char_color_red\69\char_color_green\109\char_color_blue\255\teamtask\0\teamoverlay\1
+6-15-2021 20:57 (2868:20): ClientUserinfoChanged: 3 n\Padawan 3\t\0\model\jedi_hm/head_b1|torso_a1|lower_c1\c1\5\c2\0\hc\100\w\0\l\0\tt\0\tl\0\st\single_3\st2\none\dt\0
+6-15-2021 20:58 (2868:28): Kill: 3 2 3: Padawan 3 killed Padawan by MOD_SABER
+6-15-2021 20:58 (2868:29): ClientUserinfoChanged handling info: 2 \ip\188.242.92.189:29070\name\Padawan\rate\4000\snaps\20\model\boba_fett/default\forcepowers\7-2-033220302000023322\color1\0\color2\0\handicap\100\sex\male\cg_predictItems\1\saber1\single_5\saber2\none\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+6-15-2021 20:58 (2868:29): ClientUserinfoChanged: 2 n\Padawan\t\0\model\boba_fett/default\c1\0\c2\0\hc\100\w\0\l\0\tt\0\tl\0\st\single_5\st2\none\dt\0
+6-15-2021 20:58 (2868:30): Kill: 3 4 3: Padawan 3 killed Padawan 4 by MOD_SABER
+6-15-2021 20:58 (2868:32): ClientUserinfoChanged handling info: 4 \ip\178.71.222.226:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\none\saber1\single_1\cg_predictItems\1\sex\male\handicap\100\color2\4\color1\2\forcepowers\7-2-012320333000030321\model\chewbacca/default\snaps\20\rate\4000\name\Padawan\teamtask\0\teamoverlay\1
+6-15-2021 20:58 (2868:32): ClientUserinfoChanged: 4 n\Padawan 4\t\0\model\chewbacca/default\c1\2\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\single_1\st2\none\dt\0
+6-15-2021 20:58 (2868:40): Kill: 3 4 3: Padawan 3 killed Padawan 4 by MOD_SABER
+6-15-2021 20:58 (2868:41): ClientUserinfoChanged handling info: 4 \ip\178.71.222.226:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\none\saber1\single_1\cg_predictItems\1\sex\male\handicap\100\color2\4\color1\2\forcepowers\7-2-012320333000030321\model\chewbacca/default\snaps\20\rate\4000\name\Padawan\teamtask\0\teamoverlay\1
+6-15-2021 20:58 (2868:41): ClientUserinfoChanged: 4 n\Padawan 4\t\0\model\chewbacca/default\c1\2\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\single_1\st2\none\dt\0
+6-15-2021 20:58 (2869:12): Kill: 3 2 3: Padawan 3 killed Padawan by MOD_SABER
+6-15-2021 20:58 (2869:13): ClientUserinfoChanged handling info: 2 \ip\188.242.92.189:29070\name\Padawan\rate\4000\snaps\20\model\boba_fett/default\forcepowers\7-2-033220302000023322\color1\0\color2\0\handicap\100\sex\male\cg_predictItems\1\saber1\single_5\saber2\none\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+6-15-2021 20:58 (2869:13): ClientUserinfoChanged: 2 n\Padawan\t\0\model\boba_fett/default\c1\0\c2\0\hc\100\w\0\l\0\tt\0\tl\0\st\single_5\st2\none\dt\0
+6-15-2021 20:59 (2869:40): Kill: 3 4 3: Padawan 3 killed Padawan 4 by MOD_SABER
+6-15-2021 20:59 (2869:42): ClientUserinfoChanged handling info: 4 \ip\178.71.222.226:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\none\saber1\single_1\cg_predictItems\1\sex\male\handicap\100\color2\4\color1\2\forcepowers\7-2-012320333000030321\model\chewbacca/default\snaps\20\rate\4000\name\Padawan\teamtask\0\teamoverlay\1
+6-15-2021 20:59 (2869:42): ClientUserinfoChanged: 4 n\Padawan 4\t\0\model\chewbacca/default\c1\2\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\single_1\st2\none\dt\0
+6-15-2021 20:59 (2869:55): Kill: 4 3 3: Padawan 4 killed Padawan 3 by MOD_SABER
+6-15-2021 20:59 (2869:56): ClientUserinfoChanged handling info: 3 \ip\188.242.82.139:29070\name\Padawan\rate\4000\snaps\20\model\jedi_hm/head_b1|torso_a1|lower_c1\forcepowers\7-1-233330000210000333\color1\5\color2\0\handicap\100\sex\male\cg_predictItems\1\saber1\single_3\saber2\none\char_color_red\69\char_color_green\109\char_color_blue\255\teamtask\0\teamoverlay\1
+6-15-2021 20:59 (2869:56): ClientUserinfoChanged: 3 n\Padawan 3\t\0\model\jedi_hm/head_b1|torso_a1|lower_c1\c1\5\c2\0\hc\100\w\0\l\0\tt\0\tl\0\st\single_3\st2\none\dt\0
+6-15-2021 21: 0 (2870:34): Kill: 3 2 3: Padawan 3 killed Padawan by MOD_SABER
+6-15-2021 21: 0 (2871:05): Kill: 4 3 3: Padawan 4 killed Padawan 3 by MOD_SABER
+6-15-2021 21: 0 (2871:07): ClientUserinfoChanged handling info: 3 \ip\188.242.82.139:29070\name\Padawan\rate\4000\snaps\20\model\jedi_hm/head_b1|torso_a1|lower_c1\forcepowers\7-1-233330000210000333\color1\5\color2\0\handicap\100\sex\male\cg_predictItems\1\saber1\single_3\saber2\none\char_color_red\69\char_color_green\109\char_color_blue\255\teamtask\0\teamoverlay\1
+6-15-2021 21: 0 (2871:07): ClientUserinfoChanged: 3 n\Padawan 3\t\0\model\jedi_hm/head_b1|torso_a1|lower_c1\c1\5\c2\0\hc\100\w\0\l\0\tt\0\tl\0\st\single_3\st2\none\dt\0
+6-15-2021 21: 0 (2871:13): Kill: 4 3 3: Padawan 4 killed Padawan 3 by MOD_SABER
+6-15-2021 21: 0 (2871:15): ClientUserinfoChanged handling info: 3 \ip\188.242.82.139:29070\name\Padawan\rate\4000\snaps\20\model\jedi_hm/head_b1|torso_a1|lower_c1\forcepowers\7-1-233330000210000333\color1\5\color2\0\handicap\100\sex\male\cg_predictItems\1\saber1\single_3\saber2\none\char_color_red\69\char_color_green\109\char_color_blue\255\teamtask\0\teamoverlay\1
+6-15-2021 21: 0 (2871:15): ClientUserinfoChanged: 3 n\Padawan 3\t\0\model\jedi_hm/head_b1|torso_a1|lower_c1\c1\5\c2\0\hc\100\w\0\l\0\tt\0\tl\0\st\single_3\st2\none\dt\0
+6-15-2021 21: 1 (2871:32): Kill: 3 4 3: Padawan 3 killed Padawan 4 by MOD_SABER
+6-15-2021 21: 1 (2871:35): ClientUserinfoChanged handling info: 4 \ip\178.71.222.226:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\none\saber1\single_1\cg_predictItems\1\sex\male\handicap\100\color2\4\color1\2\forcepowers\7-2-012320333000030321\model\chewbacca/default\snaps\20\rate\4000\name\Padawan\teamtask\0\teamoverlay\1
+6-15-2021 21: 1 (2871:35): ClientUserinfoChanged: 4 n\Padawan 4\t\0\model\chewbacca/default\c1\2\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\single_1\st2\none\dt\0
+6-15-2021 21: 1 (2872:00): setteam:  2 FREE SPECTATOR
+6-15-2021 21: 1 (2872:00): ClientUserinfoChanged handling info: 2 \ip\188.242.92.189:29070\name\Padawan\rate\4000\snaps\20\model\boba_fett/default\forcepowers\7-2-033220302000023322\color1\0\color2\0\handicap\100\sex\male\cg_predictItems\1\saber1\single_5\saber2\none\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+6-15-2021 21: 1 (2872:00): ClientUserinfoChanged: 2 n\Padawan\t\3\model\boba_fett/default\c1\0\c2\0\hc\100\w\0\l\0\tt\0\tl\0\st\single_5\st2\none\dt\0
+6-15-2021 21: 1 (2872:00): ClientBegin: 2
+6-15-2021 21: 1 (2872:11): Kill: 3 4 3: Padawan 3 killed Padawan 4 by MOD_SABER
+6-15-2021 21: 1 (2872:14): ClientDisconnect: 4
+6-15-2021 21: 1 (2872:15): ClientDisconnect: 3
+6-15-2021 21: 1 (2872:21): ClientConnect: 0
+6-15-2021 21: 1 (2872:21): ClientUserinfoChanged handling info: 0 \team\0\skill\ 5.00\personality\botfiles/astupidbot.jkb\saber2\none\saber1\kyle\color2\4\color1\4\sex\male\model\jawa\snaps\20\rate\25000\name\astupidbot
+6-15-2021 21: 1 (2872:21): ClientUserinfoChanged: 0 n\astupidbot\t\0\model\jawa\c1\4\c2\4\hc\0\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\\st2\\dt\0\sdt\0
+6-15-2021 21: 1 (2872:21): IP: localhost astupidbot
+6-15-2021 21: 1 (2872:21): ClientUserinfoChanged handling info: 0 \team\0\skill\ 5.00\personality\botfiles/astupidbot.jkb\saber2\none\saber1\kyle\color2\4\color1\4\sex\male\model\jawa\snaps\20\rate\25000\name\astupidbot
+6-15-2021 21: 1 (2872:21): ClientUserinfoChanged: 0 n\astupidbot\t\0\model\jawa\c1\4\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+6-15-2021 21: 1 (2872:21): ClientBegin: 0
+6-15-2021 21: 3 (2874:10): ClientDisconnect: 2
+6-15-2021 21: 3 (2874:12): ClientConnect: 1
+6-15-2021 21: 3 (2874:12): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+6-15-2021 21: 3 (2874:12): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\0\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\\st2\\dt\0\sdt\0
+6-15-2021 21: 3 (2874:12): IP: localhost Kyle
+6-15-2021 21: 3 (2874:12): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+6-15-2021 21: 3 (2874:12): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+6-15-2021 21: 3 (2874:12): ClientBegin: 1
+6-15-2021 21:42 (2912:31): ClientConnect: 2
+6-15-2021 21:42 (2912:31): ClientUserinfoChanged handling info: 2 \ip\172.75.118.76:29070\challenge\86654515\qport\26914\protocol\26\name\Grixis\rate\4000\snaps\20\model\cultist/brown\forcepowers\7-1-030000000000000320\color1\11\color2\6\handicap\100\sex\male\cg_predictItems\1\saber1\dual_1\saber2\none\char_color_red\255\char_color_green\255\char_color_blue\255\cp_pluginDisable\0\teamtask\0
+6-15-2021 21:42 (2912:31): ClientUserinfoChanged: 2 n\Grixis\t\0\model\cultist/brown\c1\11\c2\6\hc\0\w\0\l\0\tt\0\tl\0\st\\st2\\dt\0
+6-15-2021 21:42 (2912:31): IP: 172.75.118.76 Grixis
+6-15-2021 21:42 (2912:31): say: Kyle: Hello
+6-15-2021 21:45 (2915:52): ClientDisconnect: 2
+6-15-2021 23: 9 (2999:45): ClientConnect: 2
+6-15-2021 23: 9 (2999:45): ClientUserinfoChanged handling info: 2 \ip\108.94.159.70:29070\challenge\-236262081\qport\15981\protocol\26\char_color_blue\180\char_color_green\243\char_color_red\252\saber2\none\saber1\single_4\cg_predictItems\1\sex\male\handicap\100\color2\4\color1\4\forcepowers\7-1-030000000000000330\model\jedi_hm/head_b1|torso_a1|lower_b1\snaps\20\rate\4000\name\HUGH JAYNESS\teamtask\0\teamoverlay\1
+6-15-2021 23: 9 (2999:45): ClientUserinfoChanged: 2 n\HUGH JAYNESS\t\0\model\jedi_hm/head_b1|torso_a1|lower_b1\c1\4\c2\4\hc\0\w\0\l\0\tt\0\tl\0\st\\st2\\dt\0
+6-15-2021 23: 9 (2999:45): IP: 108.94.159.70 HUGH JAYNESS
+6-15-2021 23: 9 (2999:50): ClientUserinfoChanged handling info: 2 \ip\108.94.159.70:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\none\saber1\single_1\cg_predictItems\1\sex\male\handicap\100\color2\4\color1\4\forcepowers\6-1-023300000000000333\model\bespin_cop/default\snaps\20\rate\4000\name\Padawan\teamtask\0\teamoverlay\1
+6-15-2021 23: 9 (2999:50): ClientNamechange: HUGH JAYNESS is now Padawan
+6-15-2021 23: 9 (2999:50): ClientUserinfoChanged: 2 n\Padawan\t\0\model\bespin_cop/default\c1\4\c2\4\hc\0\w\0\l\0\tt\0\tl\0\st\single_1\st2\none\dt\0
+6-15-2021 23: 9 (2999:50): ClientUserinfoChanged handling info: 2 \ip\108.94.159.70:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\none\saber1\single_1\cg_predictItems\1\sex\male\handicap\100\color2\4\color1\4\forcepowers\6-1-023300000000000333\model\bespin_cop/default\snaps\20\rate\4000\name\Padawan\teamtask\0\teamoverlay\1
+6-15-2021 23: 9 (2999:50): ClientUserinfoChanged: 2 n\Padawan\t\0\model\bespin_cop/default\c1\4\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\single_1\st2\none\dt\0
+6-15-2021 23: 9 (2999:50): ClientBegin: 2
+6-15-2021 23: 9 (3000:05): ClientDisconnect: 2
+6-18-2021 11:15 (6605:34): ClientConnect: 2
+6-18-2021 11:15 (6605:34): ClientUserinfoChanged handling info: 2 \ip\188.242.82.139:29070\challenge\1094108599\qport\20995\protocol\26\char_color_blue\255\char_color_green\109\char_color_red\69\saber2\none\saber1\single_3\cg_predictItems\1\sex\male\handicap\100\color2\0\color1\5\forcepowers\1-1-010000000000000100\model\jedi_hm/head_b1|torso_a1|lower_c1\snaps\20\rate\4000\name\Padawan\teamtask\0\teamoverlay\1
+6-18-2021 11:15 (6605:34): ClientUserinfoChanged: 2 n\Padawan\t\0\model\jedi_hm/head_b1|torso_a1|lower_c1\c1\5\c2\0\hc\0\w\0\l\0\tt\0\tl\0\st\\st2\\dt\0
+6-18-2021 11:15 (6605:34): IP: 188.242.82.139 Padawan
+6-18-2021 11:15 (6605:37): ClientConnect: 3
+6-18-2021 11:15 (6605:37): ClientUserinfoChanged handling info: 3 \ip\185.97.201.192:7748\challenge\188698775\qport\39518\protocol\26\name\Padawan\rate\4000\snaps\20\model\jedi_kdm/head_a1|torso_d1|lower_a1\forcepowers\6-1-030330000000000333\color1\3\color2\4\handicap\100\sex\male\cg_predictItems\1\saber1\single_5\saber2\none\char_color_red\170\char_color_green\3\char_color_blue\30\teamtask\0
+6-18-2021 11:15 (6605:37): ClientUserinfoChanged: 3 n\Padawan\t\0\model\jedi_kdm/head_a1|torso_d1|lower_a1\c1\3\c2\4\hc\0\w\0\l\0\tt\0\tl\0\st\\st2\\dt\0
+6-18-2021 11:15 (6605:37): IP: 185.97.201.192 Padawan
+6-18-2021 11:15 (6605:38): ClientUserinfoChanged handling info: 2 \ip\188.242.82.139:29070\char_color_blue\255\char_color_green\109\char_color_red\69\saber2\none\saber1\single_3\cg_predictItems\1\sex\male\handicap\100\color2\0\color1\5\forcepowers\1-1-010000000000000100\model\jedi_hm/head_b1|torso_a1|lower_c1\snaps\20\rate\4000\name\Padawan\teamtask\0\teamoverlay\1
+6-18-2021 11:15 (6605:38): ClientUserinfoChanged: 2 n\Padawan\t\0\model\jedi_hm/head_b1|torso_a1|lower_c1\c1\5\c2\0\hc\0\w\0\l\0\tt\0\tl\0\st\single_3\st2\none\dt\0
+6-18-2021 11:15 (6605:38): ClientUserinfoChanged handling info: 2 \ip\188.242.82.139:29070\char_color_blue\255\char_color_green\109\char_color_red\69\saber2\none\saber1\single_3\cg_predictItems\1\sex\male\handicap\100\color2\0\color1\5\forcepowers\1-1-010000000000000100\model\jedi_hm/head_b1|torso_a1|lower_c1\snaps\20\rate\4000\name\Padawan\teamtask\0\teamoverlay\1
+6-18-2021 11:15 (6605:38): ClientUserinfoChanged: 2 n\Padawan\t\0\model\jedi_hm/head_b1|torso_a1|lower_c1\c1\5\c2\0\hc\100\w\0\l\0\tt\0\tl\0\st\single_3\st2\none\dt\0
+6-18-2021 11:15 (6605:38): ClientBegin: 2
+6-18-2021 11:15 (6605:44): say: astupidbot: bye all
+6-18-2021 11:15 (6605:44): ClientDisconnect: 0
+6-18-2021 11:15 (6605:44): ClientUserinfoChanged handling info: 3 \ip\185.97.201.192:7748\name\Padawan\rate\4000\snaps\20\model\jedi_kdm/head_a1|torso_d1|lower_a1\forcepowers\6-1-030330000000000333\color1\3\color2\4\handicap\100\sex\male\cg_predictItems\1\saber1\single_5\saber2\none\char_color_red\170\char_color_green\3\char_color_blue\30\teamtask\0\teamoverlay\1
+6-18-2021 11:15 (6605:44): ClientUserinfoChanged: 3 n\Padawan\t\0\model\jedi_kdm/head_a1|torso_d1|lower_a1\c1\3\c2\4\hc\0\w\0\l\0\tt\0\tl\0\st\single_5\st2\none\dt\0
+6-18-2021 11:15 (6605:44): ClientUserinfoChanged handling info: 3 \ip\185.97.201.192:7748\name\Padawan\rate\4000\snaps\20\model\jedi_kdm/head_a1|torso_d1|lower_a1\forcepowers\6-1-030330000000000333\color1\3\color2\4\handicap\100\sex\male\cg_predictItems\1\saber1\single_5\saber2\none\char_color_red\170\char_color_green\3\char_color_blue\30\teamtask\0\teamoverlay\1
+6-18-2021 11:15 (6605:44): ClientUserinfoChanged: 3 n\Padawan\t\0\model\jedi_kdm/head_a1|torso_d1|lower_a1\c1\3\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\single_5\st2\none\dt\0
+6-18-2021 11:15 (6605:44): ClientBegin: 3
+6-18-2021 11:15 (6606:07): say: Kyle: cya
+6-18-2021 11:15 (6606:07): ClientDisconnect: 1
+6-18-2021 11:16 (6606:37): ClientUserinfoChanged handling info: 2 \ip\188.242.82.139:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\none\saber1\single_2\cg_predictItems\1\sex\male\handicap\100\color2\0\color1\3\forcepowers\1-1-010000000000000100\model\luke/default\snaps\20\rate\4000\name\Padawan\teamtask\0\teamoverlay\1
+6-18-2021 11:16 (6606:37): ClientUserinfoChanged: 2 n\Padawan\t\0\model\luke/default\c1\3\c2\0\hc\100\w\0\l\0\tt\0\tl\0\st\single_3\st2\none\dt\0
+6-18-2021 11:16 (6606:58): ClientUserinfoChanged handling info: 3 \ip\185.97.201.192:7748\name\Padawan\rate\4000\snaps\20\model\gran/default\forcepowers\7-1-030330000000000333\color1\3\color2\4\handicap\100\sex\male\cg_predictItems\1\saber1\single_5\saber2\none\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+6-18-2021 11:16 (6606:58): ClientUserinfoChanged: 3 n\Padawan\t\0\model\gran/default\c1\3\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\single_5\st2\none\dt\0
+6-18-2021 11:18 (6609:13): ClientUserinfoChanged handling info: 3 \ip\185.97.201.192:7748\name\Padawan\rate\4000\snaps\20\model\gran/default\forcepowers\7-1-330330000130000333\color1\3\color2\4\handicap\100\sex\male\cg_predictItems\1\saber1\single_5\saber2\none\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+6-18-2021 11:18 (6609:13): ClientUserinfoChanged: 3 n\Padawan\t\0\model\gran/default\c1\3\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\single_5\st2\none\dt\0
+6-18-2021 11:18 (6609:21): ClientUserinfoChanged handling info: 2 \ip\188.242.82.139:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\none\saber1\single_2\cg_predictItems\1\sex\male\handicap\100\color2\0\color1\3\forcepowers\7-1-010000000000000100\model\luke/default\snaps\20\rate\4000\name\Padawan\teamtask\0\teamoverlay\1
+6-18-2021 11:18 (6609:21): ClientUserinfoChanged: 2 n\Padawan\t\0\model\luke/default\c1\3\c2\0\hc\100\w\0\l\0\tt\0\tl\0\st\single_3\st2\none\dt\0
+6-18-2021 11:19 (6609:40): ClientUserinfoChanged handling info: 2 \ip\188.242.82.139:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\none\saber1\single_2\cg_predictItems\1\sex\male\handicap\100\color2\0\color1\3\forcepowers\7-1-233330000210000333\model\luke/default\snaps\20\rate\4000\name\Padawan\teamtask\0\teamoverlay\1
+6-18-2021 11:19 (6609:40): ClientUserinfoChanged: 2 n\Padawan\t\0\model\luke/default\c1\3\c2\0\hc\100\w\0\l\0\tt\0\tl\0\st\single_3\st2\none\dt\0
+6-18-2021 11:21 (6611:31): Kill: 3 2 3: Padawan killed Padawan by MOD_SABER
+6-18-2021 11:21 (6611:31): Exit: Timelimit hit.
+6-18-2021 11:21 (6611:31): score: 1  ping: 107  client: 3 Padawan
+6-18-2021 11:21 (6611:31): score: 0  ping: 110  client: 2 Padawan
+6-18-2021 11:21 (6611:32): ClientUserinfoChanged handling info: 2 \ip\188.242.82.139:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\none\saber1\single_2\cg_predictItems\1\sex\male\handicap\100\color2\0\color1\3\forcepowers\7-1-233330000210000333\model\luke/default\snaps\20\rate\4000\name\Padawan\teamtask\0\teamoverlay\1
+6-18-2021 11:21 (6611:32): ClientUserinfoChanged: 2 n\Padawan\t\0\model\luke/default\c1\3\c2\0\hc\100\w\0\l\0\tt\0\tl\0\st\single_2\st2\none\dt\0
+6-18-2021 11:21 (6611:32): ClientUserinfoChanged handling info: 2 \ip\188.242.82.139:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\none\saber1\single_2\cg_predictItems\1\sex\male\handicap\100\color2\0\color1\3\forcepowers\7-1-233330000210000333\model\luke/default\snaps\20\rate\4000\name\Padawan\teamtask\0\teamoverlay\1
+6-18-2021 11:21 (6611:32): ClientUserinfoChanged: 2 n\Padawan\t\0\model\luke/default\c1\3\c2\0\hc\100\w\0\l\0\tt\0\tl\0\st\single_2\st2\none\dt\0
+6-18-2021 11:21 (6611:39): ShutdownGame:
+6-18-2021 11:21 (6611:39): ------------------------------------------------------------

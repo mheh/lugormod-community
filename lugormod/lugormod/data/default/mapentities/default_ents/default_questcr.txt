@@ -1,0 +1,32 @@
+{
+"classname" "target_relay"
+"targetname" "quest_credits"
+"target" "questcr_0-10"
+"target2" "questcr_11-20"
+"target3" "questcr_21-30"
+"target4" "questcr_31-40"
+}
+{
+"classname" "target_credits"
+"targetname" "questcr_0-10"
+"count" "300"
+"random" "100"
+}
+{
+"classname" "target_credits"
+"targetname" "questcr_11-20"
+"count" "250"
+"random" "50"
+}
+{
+"classname" "target_credits"
+"targetname" "questcr_21-30"
+"count" "150"
+"random" "50"
+}
+{
+"classname" "target_credits"
+"targetname" "questcr_31-40"
+"count" "150"
+"random" "25"
+}

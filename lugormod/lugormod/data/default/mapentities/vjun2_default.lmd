@@ -1,0 +1,50 @@
+{
+"classname" "info_player_jail"
+"angle" "126"
+"origin" "766 162 -1382"
+}
+{
+"classname" "info_player_jail"
+"angle" "-61"
+"origin" "470 1064 -1382"
+}
+{
+"classname" "info_player_deathmatch"
+"angle" "-90"
+"origin" "-226 1326 442"
+}
+{
+"classname" "info_player_deathmatch"
+"angle" "177"
+"origin" "-212 734 442"
+}
+{
+"classname" "info_player_deathmatch"
+"angle" "-88"
+"origin" "-754 1808 220"
+}
+{
+"classname" "misc_security_panel"
+"target" "door_ready"
+"angle" "0"
+"origin" "1682 1054 244"
+}
+{
+"classname" "misc_security_panel"
+"target" "kyleDoor1"
+"angle" "270"
+"origin" "1294 1760 250"
+}
+{
+"classname" "misc_model_breakable"
+"maxs" "50 50 0"
+"mins" "-50 -50 -1"
+"health" "1"
+"target" "pipeExplosion3"
+"origin" "1492 886 448"
+}
+{
+"angle" "-175"
+"classname" "money_dispenser"
+"origin" "839 1617 216"
+}

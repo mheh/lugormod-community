@@ -1,0 +1,72 @@
+swoop_mp
+{
+name			swoop_mp
+type			VH_SPEEDER
+numHands		1
+lookYaw			75
+lookPitch		75
+length			128
+width			32
+height			32
+centerOfGravity	"-0.222 0 0"
+speedMax		700
+speedMin		-300
+turboSpeed		2000
+turboDuration	4000
+turboRecharge	1000
+acceleration	10
+decelIdle		10
+strafePerc		0.5
+bankingSpeed	0.5
+rollLimit		85
+pitchLimit		80
+braking			10
+mouseYaw		0.0038
+turningSpeed	7
+turnWhenStopped	1
+traction		12
+friction		1.5
+maxSlope		1
+mass			200
+armor 			90
+toughness 		80.0
+malfunctionArmorLevel	20
+model			swoop
+skin			blue
+radarIcon		"gfx/menus/radar/swoop"
+
+riderAnim		BOTH_VS_IDLE
+soundOn 		""
+soundLoop 		""
+exhaustFX		"ships/burner"
+impactFX		"ships/scrape_sparks"
+turboFX			"ships/jet"
+turboStartFX		"ships/swoop_turbo_start"
+flammable		1
+explosionRadius 100
+explosionDamage 100
+explodeFX		"ships/swoop_explosion"
+explosionDelay	4500
+wakeFX			"ships/vehicle_wake"
+gravity			1
+waterProof		1
+bouyancy		1
+hoverHeight		15
+hoverStrength	35
+
+cameraOverride		1
+cameraRange			300
+cameraVertOffset	0
+cameraPitchOffset	0
+cameraFOV			100
+cameraAlpha			0
+
+weap1			swoop_laser
+weap1Delay		250
+weap1AmmoMax	1000
+weap1AmmoRechargeMS	500
+weap1Aim		1
+weapMuzzle1		swoop_laser
+
+}
+

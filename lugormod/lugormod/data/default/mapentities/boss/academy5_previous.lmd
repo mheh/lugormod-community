@@ -1,0 +1,209 @@
+{
+"clearstats" "0"
+"_minlight" "75"
+"ambient" "35"
+"soundSet" "yavin_interior"
+"music" "music/yavin2_old/yavtemp_explore.mp3"
+"classname" "worldspawn"
+}
+{
+"classname" "ref_tag"
+"targetname" "newcam11"
+"origin" "-1389 -1080 702"
+"angles" "-6 -98 0"
+"fov" "80"
+}
+{
+"groupname" "newcams"
+"classname" "ref_tag"
+"targetname" "newcam01"
+"origin" "-1503 -991 664"
+"angles" "-9 -56 0"
+"fov" "80"
+}
+{
+"groupname" "newcams"
+"classname" "ref_tag"
+"targetname" "newcam02"
+"origin" "-1409 -1162 691"
+"angles" "-9 73 0"
+"fov" "50"
+}
+{
+"groupname" "newcams"
+"classname" "ref_tag"
+"targetname" "newcam03"
+"origin" "-1433 -1070 706"
+"angles" "0 -67 0"
+"fov" "65"
+}
+{
+"groupname" "newcams"
+"classname" "ref_tag"
+"targetname" "newcam04"
+"origin" "-1365 -1065 706"
+"angles" "0 -102 0"
+"fov" "65"
+}
+{
+"groupname" "newcams"
+"classname" "ref_tag"
+"targetname" "newcam05"
+"origin" "-1429 -1235 728"
+"angles" "21 61 0"
+"fov" "80"
+}
+{
+"groupname" "newcams"
+"classname" "ref_tag"
+"targetname" "newcam06"
+"origin" "-1363 -1157 699"
+"angles" "-6 -101 0"
+"fov" "55"
+}
+{
+"groupname" "newcams"
+"classname" "ref_tag"
+"targetname" "newcam07"
+"origin" "-1517 -1083 699"
+"angles" "6 -26 0"
+"fov" "55"
+}
+{
+"groupname" "newcams"
+"classname" "ref_tag"
+"targetname" "newcam08"
+"origin" "-1393 -1072 723"
+"angles" "19 -86 0"
+"fov" "55"
+}
+{
+"groupname" "newcams"
+"classname" "ref_tag"
+"targetname" "newcam09"
+"origin" "-1411 -1079 706"
+"angles" "6 -83 0"
+"fov" "70"
+}
+{
+"groupname" "newcams"
+"classname" "ref_tag"
+"targetname" "newcam10"
+"origin" "-1506 -946 661"
+"angles" "-4 -63 0"
+"fov" "70"
+}
+{
+"usescript" "academy5/give_neutral_level3"
+"targetname" "neutral_powers3"
+"origin" "-1544 248 728"
+"classname" "target_scriptrunner"
+}
+{
+"groupname" "oldcams"
+"classname" "ref_tag"
+"targetname" "cam7"
+"origin" "-1507 -1124 725"
+"angles" "8 -6 0"
+"fov" "80"
+}
+{
+"groupname" "oldcams"
+"classname" "ref_tag"
+"targetname" "cam8"
+"origin" "-1394 -1050 725"
+"angles" "4 -88 0"
+"fov" "80"
+}
+{
+"groupname" "oldcams"
+"classname" "ref_tag"
+"targetname" "cam9"
+"origin" "-1407 -1088 709"
+"angles" "-1 -75 0"
+"fov" "80"
+}
+{
+"groupname" "oldcams"
+"classname" "ref_tag"
+"targetname" "cam10"
+"origin" "-1452 -889 663"
+"angles" "0 -75 0"
+"fov" "80"
+}
+{
+"groupname" "oldcams"
+"classname" "ref_tag"
+"targetname" "cam11"
+"origin" "-1416 -1106 737"
+"angles" "5 -74 0"
+"fov" "80"
+}
+{
+"groupname" "oldcams"
+"classname" "ref_tag"
+"targetname" "cam1"
+"origin" "-1484 -998 658"
+"angles" "-12 -60 0"
+"fov" "80"
+}
+{
+"groupname" "oldcams"
+"classname" "ref_tag"
+"targetname" "cam2"
+"origin" "-1391 -1165 704"
+"angles" "3 91 0"
+"fov" "80"
+}
+{
+"groupname" "oldcams"
+"classname" "ref_tag"
+"targetname" "cam3"
+"origin" "-1393 -1111 709"
+"angles" "-3 -69 0"
+"fov" "80"
+}
+{
+"groupname" "oldcams"
+"classname" "ref_tag"
+"targetname" "cam4"
+"origin" "-1393 -1111 709"
+"angles" "-4 -100 0"
+"fov" "80"
+}
+{
+"groupname" "oldcams"
+"classname" "ref_tag"
+"targetname" "cam5"
+"origin" "-1466 -1283 763"
+"angles" "23 62 0"
+"fov" "80"
+}
+{
+"groupname" "oldcams"
+"classname" "ref_tag"
+"targetname" "cam6"
+"origin" "-1343 -1172 745"
+"angles" "0 -111 0"
+"fov" "60"
+}
+{
+"targetname" "t397"
+"usescript" "academy5/intro"
+"origin" "-1544 264 728"
+"classname" "target_scriptrunner"
+}
+{
+"saber_menu" "2"
+"classname" "target_level_change"
+"origin" "-1632 -1248 816"
+"targetname" "end_level"
+"script_targetname" "end_level"
+"mapname" "+saberMenu"
+}
+{
+"target" "t397"
+"angle" "270"
+"origin" "-1408 272 728"
+"classname" "info_player_deathmatch"
+}

@@ -1,0 +1,75 @@
+rax
+{
+	playerModel	rax_joris
+	weapon		WP_CONCUSSION
+	altFire		1
+	rank		commander
+	snd		galak
+	reactions	5
+	aim			3
+	move		5
+	aggression	3
+	evasion		5
+	intelligence	5
+	rank		captain
+	playerTeam	TEAM_ENEMY
+	enemyTeam	TEAM_PLAYER
+	class		CLASS_IMPERIAL
+	yawspeed	140
+	walkSpeed	70
+	runSpeed	200
+	health		200
+	visrange	3000
+	
+}
+
+rax_saber
+{
+	playerModel	rax_joris
+	weapon		WP_SABER
+	saberStyle	4
+	altFire		1
+	rank		commander
+	snd		galak
+	reactions	5
+	aim			3
+	move		5
+	aggression	3
+	evasion		5
+	intelligence	5
+	rank		captain
+	playerTeam	TEAM_ENEMY
+	enemyTeam	TEAM_PLAYER
+	class		CLASS_IMPERIAL
+	yawspeed	90
+	walkSpeed	55
+	runSpeed	200
+	health		300
+	visrange	3000
+	
+}
+
+rax_weapon
+{
+	playerModel	rax_joris
+	weapon		WP_CONCUSSION
+	altFire		1
+	rank		commander
+	snd		galak
+	reactions	5
+	aim			3
+	move		5
+	aggression	3
+	evasion		5
+	intelligence	5
+	rank		captain
+	playerTeam	TEAM_ENEMY
+	enemyTeam	TEAM_PLAYER
+	class		CLASS_IMPERIAL
+	yawspeed	140
+	walkSpeed	70
+	runSpeed	200
+	health		200
+	visrange	3000
+	
+}

@@ -1,0 +1,431 @@
+{
+"soundset" "windy"
+"music" "music/t1_sour/dealsour_action"
+"message" "  ^3-=FFA Map=-^7\n\n\n\n\n\n^1Laming allowed"
+"_color" ".88 .65 .45"
+"_minvertexlight" "40"
+"_mingridlight" "110"
+"_lightmapscale" ".5"
+"_noshadersun" "1"
+"message" "Taspir Landing"
+"_gridsize" "128 128 256"
+"classname" "worldspawn"
+"distancecull" "3500"
+"_blocksize" "2048"
+"_minlight" "45"
+}
+{
+"classname" "trigger_hurt"
+"wait" "1"
+"dmg" "50"
+"model" "*1"
+}
+{
+"classname" "lmd_event"
+"maxs" "100000000 100000000 100000000"
+"mins" "-100000000 -100000000 -100000000"
+"killtarget" "count_kill"
+"Note" "^3Original streak system by Illusion"
+}
+{
+"classname" "lmd_customskill"
+"skill" "killstreaks"
+"value" "1"
+"targetname" "count_kill"
+"system" "killstreak"
+}
+{
+"classname" "lmd_playercheck"
+"targetname" "count_kill"
+"customskill" "killstreaks"
+"customskillvalue" "5"
+"customskillcompare" "-1"
+"target" "killstreak_5"
+"system" "killstreak"
+}
+{
+"classname" "target_delay"
+"targetname" "killstreak_5"
+"target" "streak_5"
+"wait" "0.2"
+"system" "killstreak"
+}
+{
+"classname" "target_print"
+"targetname" "streak_5"
+"spawnflags" "20"
+"message" "^7[ ^1Killing spree! ^7- ^15 ^7- ^1110 CR ^7]"
+"system" "killstreak"
+}
+{
+"classname" "target_credits"
+"targetname" "killstreak_5"
+"count" "110"
+"system" "killstreak"
+}
+{
+"classname" "lmd_playercheck"
+"targetname" "count_kill"
+"customskill" "killstreaks"
+"customskillvalue" "10"
+"customskillcompare" "-1"
+"target" "killstreak_10"
+"system" "killstreak"
+}
+{
+"classname" "target_delay"
+"targetname" "killstreak_10"
+"target" "streak_10"
+"wait" "0.1"
+"system" "killstreak"
+}
+{
+"classname" "target_credits"
+"targetname" "killing_spree"
+"count" "50"
+}
+{
+"classname" "target_print"
+"targetname" "streak_10"
+"spawnflags" "20"
+"message" "^7[ ^1Mega Kill! ^7- ^110 ^7- ^1230 CR ^7]"
+"system" "killstreak"
+}
+{
+"classname" "target_credits"
+"targetname" "killstreak_10"
+"count" "230"
+"system" "killstreak"
+}
+{
+"classname" "lmd_playercheck"
+"targetname" "count_kill"
+"customskill" "killstreaks"
+"customskillvalue" "20"
+"customskillcompare" "-1"
+"target" "killstreak_20"
+"system" "killstreak"
+}
+{
+"classname" "target_delay"
+"targetname" "killstreak_20"
+"wait" "0.2"
+"target" "streak_20"
+"system" "killstreak"
+}
+{
+"classname" "target_print"
+"targetname" "streak_20"
+"spawnflags" "20"
+"message" "^7[ ^1Ultimate Kill! ^7- ^120 ^7- ^1370 CR ^7]"
+"system" "killstreak"
+}
+{
+"classname" "target_credits"
+"targetname" "killstreak_20"
+"count" "370"
+"system" "killstreak"
+}
+{
+"classname" "lmd_playercheck"
+"targetname" "count_kill"
+"customskill" "killstreaks"
+"customskillvalue" "35"
+"customskillcompare" "-1"
+"target" "killstreak_35"
+"system" "killstreak"
+}
+{
+"classname" "target_delay"
+"targetname" "killstreak_35"
+"wait" "0.2"
+"target" "streak_35"
+"system" "killstreak"
+}
+{
+"classname" "target_print"
+"targetname" "streak_35"
+"spawnflags" "4"
+"message" "^7[ ^1GODLIKE! ^7- ^135 ^- ^1 500 CR ^7]"
+}
+{
+"classname" "target_print"
+"targetname" "streak_35"
+"spawnflags" "4"
+"message" "^0{30 Kills in a row}\n^0Unstoppable!\n^0+500CR^3."
+}
+{
+"classname" "lmd_remap"
+"old" "textures/skies/narkreeta"
+"new" "textures/skies/boba_late_afternoon"
+}
+{
+"classname" "target_credits"
+"targetname" "killstreak_35"
+"count" "500"
+}
+{
+"classname" "lmd_customskill"
+"targetname" "streak_reset"
+"spawnflags" "1"
+"skill" "killstreaks"
+"value" "0"
+}
+{
+"classname" "target_credits"
+"targetname" "killstreak_35"
+"count" "500"
+}
+{
+"classname" "lmd_customskill"
+"targetname" "streak_reset"
+"spawnflags" "1"
+"skill" "killstreak"
+"value" "0"
+}
+{
+"classname" "target_print"
+"targetname" "streak_35"
+"spawnflags" "20"
+"message" "^7[ ^1GODLIKE! ^7- ^135 ^7- ^1500 CR ^7]"
+}
+{
+"classname" "target_credits"
+"targetname" "killstreak_35"
+"count" "500"
+}
+{
+"classname" "lmd_customskill"
+"targetname" "streak_reset"
+"spawnflags" "1"
+"skill" "killstreak"
+"value" "0"
+}
+{
+"classname" "misc_stuff"
+"model" "map_objects/rocky_ruins/portcullis"
+"spawnflags" "1"
+"origin" "696 2477 1223"
+"angles" "0 0 -180"
+"modelscale" "2"
+}
+{
+"classname" "misc_stuff"
+"model" "map_objects/rocky_ruins/portcullis"
+"spawnflags" "1"
+"modelscale" "2"
+"angles" "0 0 -180"
+"origin" "696 2221 1224"
+}
+{
+"classname" "misc_stuff"
+"model" "map_objects/rocky_ruins/portcullis"
+"spawnflags" "1"
+"modelscale" "2"
+"angles" "0 0 -180"
+"origin" "380 2473 1224"
+}
+{
+"classname" "misc_stuff"
+"model" "map_objects/rocky_ruins/portcullis"
+"spawnflags" "1"
+"modelscale" "2"
+"angles" "0 0 -180"
+"origin" "380 2217 1224"
+}
+{
+"classname" "misc_stuff"
+"model" "map_objects/factory/catw2_b"
+"spawnflags" "1"
+"modelscale" "2.5"
+"origin" "542 2260 1201"
+}
+{
+"classname" "misc_stuff"
+"model" "map_objects/rocky_ruins/portcullis"
+"spawnflags" "1"
+"modelscale" "2.4"
+"angle" "90"
+"origin" "548 2089 892"
+}
+{
+"classname" "fx_runner"
+"fxfile" "env/btend"
+"origin" "543 2116 1095"
+"angle" "90"
+}
+{
+"classname" "info_player_deathmatch"
+"target" "streak_reset"
+"origin" "604 2358 1044"
+"angle" "-90"
+}
+{
+"classname" "trigger_multiple"
+"maxs" "15 15 500"
+"mins" "-15 -15 0"
+"spawnflags" "4"
+"target" "stuck"
+"origin" "604 2358 1024"
+}
+{
+"classname" "trigger_multiple"
+"maxs" "15 15 500"
+"mins" "-15 -15 0"
+"spawnflags" "257"
+"message" " ^1- ^7If stuck press use ^1-^7 "
+"origin" "604 2358 1024"
+}
+{
+"classname" "info_player_deathmatch"
+"target" "streak_reset"
+"origin" "477 2356 1044"
+"angle" "-90"
+}
+{
+"classname" "trigger_multiple"
+"maxs" "15 15 500"
+"mins" "-15 -15 0"
+"spawnflags" "257"
+"message" " ^1- ^7If stuck press use ^1-^7 "
+"origin" "477 2356 1024"
+}
+{
+"classname" "trigger_multiple"
+"maxs" "15 15 500"
+"mins" "-15 -15 0"
+"spawnflags" "4"
+"target" "stuck"
+"origin" "477 2356 1024"
+}
+{
+"classname" "target_teleporter"
+"targetname" "stuck"
+"angle" "-90"
+"origin" "545 2302 1044"
+}
+{
+"classname" "trigger_multiple"
+"maxs" "100 7 200"
+"mins" "-100 -7 0"
+"spawnflags" "257"
+"target" "tele"
+"origin" "546 2118 1024"
+}
+{
+"classname" "target_random"
+"targetname" "tele"
+"target" "tele2"
+}
+{
+"classname" "target_teleporter"
+"targetname" "tele2"
+"angle" "-90"
+"origin" "-644 1585 -316"
+}
+{
+"classname" "target_teleporter"
+"targetname" "tele2"
+"angle" "90"
+"origin" "-4 -656 -364"
+}
+{
+"classname" "target_teleporter"
+"targetname" "tele2"
+"angle" "90"
+"origin" "-1939 -706 -325"
+}
+{
+"classname" "lmd_remap"
+"old" "textures/factory/basic2_tiled_b"
+"new" "textures/cairn/lightning3"
+}
+{
+"classname" "lmd_remap"
+"old" "textures/factory/cat_floor_b"
+"new" "gfx/effects/irid_shield"
+}
+{
+"classname" "misc_shield_floor_unit"
+"origin" "416 1521 480"
+"nodrain" "1"
+}
+{
+"classname" "misc_model_health_power_converter"
+"angle" "-90"
+"origin" "363 1533 526"
+}
+{
+"classname" "misc_ammo_floor_unit"
+"nodrain" "1"
+"origin" "308 1521 480"
+}
+{
+"classname" "misc_model_health_power_converter"
+"origin" "-765 -70 -342"
+}
+{
+"classname" "misc_ammo_floor_unit"
+"nodrain" "1"
+"origin" "-750 -119 -384"
+}
+{
+"classname" "misc_shield_floor_unit"
+"nodrain" "1"
+"origin" "-749 -22 -384"
+}
+{
+"classname" "fx_runner"
+"fxfile" "env/btend"
+"origin" "-756 1568 -335"
+}
+{
+"classname" "target_position"
+"targetname" "jump"
+"origin" "-96 2030 1238"
+}
+{
+"classname" "trigger_push"
+"maxs" "30 30 20"
+"mins" "-30 -30 0"
+"spawnflags" "3"
+"speed" "1600"
+"target" "jump"
+"origin" "-760 1567 -336"
+}
+{
+"classname" "fx_runner"
+"fxfile" "env/btend"
+"origin" "-252 -797 -319"
+}
+{
+"classname" "target_position"
+"targetname" "jump2"
+"origin" "-1172 -2319 1124"
+}
+{
+"classname" "trigger_push"
+"maxs" "30 30 20"
+"mins" "-30 -30 0"
+"speed" "1700"
+"target" "jump2"
+"origin" "-249 -804 -320"
+}
+{
+"classname" "fx_runner"
+"fxfile" "env/btend"
+"origin" "751 349 -319"
+}
+{
+"classname" "target_position"
+"targetname" "jump3"
+"origin" "3313 658 890"
+}
+{
+"classname" "trigger_push"
+"maxs" "30 30 20"
+"mins" "-30 -30 0"
+"speed" "1700"
+"target" "jump3"
+"origin" "753 356 -320"
+}

@@ -1,0 +1,631 @@
+8-16-2021 16: 3 (8320:43): ------------------------------------------------------------
+8-16-2021 16: 3 (8320:43): InitGame: \version\JAmp: v1.0.1.0 linux-i386 Mar 14 2020\timelimit\45\sv_privateClients\0\sv_minRate\0\sv_minPing\0\sv_maxclients\32\sv_maxRate\0\sv_maxPing\999\sv_hostname\^7~^1~^7~ COMM SERVER ~^1~^7~\sv_fps\50\sv_floodProtectSlow\1\sv_floodProtect\1\sv_autoDemo\0\sv_allowDownload\0\serveruptime\212\protocol\26\mapname\academy6\gamename\Lugormod\g_weaponDisable\0\g_stepSlideFix\0\g_siegeTeamSwitch\1\g_siegeTeam2\none\g_siegeTeam1\none\g_siegeRespawn\20\g_showDuelHealths\1\g_saberWallDamageScale\0.4\g_saberLocking\0\g_privateDuel\1535\g_noSpecMove\0\g_needpass\0\g_maxHolocronCarry\3\g_maxGameClients\0\g_maxForceRank\7\g_jediVmerc\0\g_gametype\0\g_gamemode\0\g_forceRegenTime\160\g_forcePowerDisable\0\g_forceBasedTeams\1\g_duelWeaponDisable\9\g_debugmelee\1\g_allowNPC\1\fs_game\lugormod\fraglimit\0\duel_fraglimit\10\dmflags\0\capturelimit\10\bot_minplayers\2\bg_fighterAltControl\0\Lugormod_Version\U#-0.0.0.91 Alpha
+8-16-2021 16: 3 (8320:43): ClientConnect: 0
+8-16-2021 16: 3 (8320:43): ClientUserinfoChanged handling info: 0 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+8-16-2021 16: 3 (8320:43): ClientUserinfoChanged: 0 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\0\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+8-16-2021 16: 3 (8320:43): ClientUserinfoChanged handling info: 0 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+8-16-2021 16: 3 (8320:43): ClientUserinfoChanged: 0 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+8-16-2021 16: 3 (8320:43): ClientBegin: 0
+8-16-2021 16: 3 (8320:43): ClientConnect: 1
+8-16-2021 16: 3 (8320:43): ClientUserinfoChanged handling info: 1 \ip\46.13.93.85:29070\name\KOKRRR\rate\4000\snaps\20\model\jedi_tf/head_a4|torso_f1|lower_c1\forcepowers\3-1-010000000000000320\color1\1\color2\4\handicap\100\sex\male\cg_predictItems\1\saber1\single_1\saber2\none\char_color_red\255\char_color_green\235\char_color_blue\100\teamtask\0\teamoverlay\1
+8-16-2021 16: 3 (8320:43): ClientUserinfoChanged: 1 n\KOKRRR\t\0\model\jedi_tf/head_a4|torso_f1|lower_c1\c1\1\c2\4\hc\0\w\0\l\0\tt\0\tl\0\st\single_1\st2\none\dt\0
+8-16-2021 16: 3 (8320:43): ClientUserinfoChanged handling info: 1 \ip\46.13.93.85:29070\name\KOKRRR\rate\4000\snaps\20\model\jedi_tf/head_a4|torso_f1|lower_c1\forcepowers\3-1-010000000000000320\color1\1\color2\4\handicap\100\sex\male\cg_predictItems\1\saber1\single_1\saber2\none\char_color_red\255\char_color_green\235\char_color_blue\100\teamtask\0\teamoverlay\1
+8-16-2021 16: 3 (8320:43): ClientUserinfoChanged: 1 n\KOKRRR\t\0\model\jedi_tf/head_a4|torso_f1|lower_c1\c1\1\c2\4\hc\0\w\0\l\0\tt\0\tl\0\st\single_1\st2\none\dt\0
+8-16-2021 16: 3 (8320:43): ClientUserinfoChanged handling info: 1 \ip\46.13.93.85:29070\name\KOKRRR\rate\4000\snaps\20\model\jedi_tf/head_a4|torso_f1|lower_c1\forcepowers\3-1-010000000000000320\color1\1\color2\4\handicap\100\sex\male\cg_predictItems\1\saber1\single_1\saber2\none\char_color_red\255\char_color_green\235\char_color_blue\100\teamtask\0\teamoverlay\1
+8-16-2021 16: 3 (8320:43): ClientUserinfoChanged: 1 n\KOKRRR\t\0\model\jedi_tf/head_a4|torso_f1|lower_c1\c1\1\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\single_1\st2\none\dt\0
+8-16-2021 16: 3 (8320:43): ClientBegin: 1
+8-16-2021 16: 3 (8320:43): ClientConnect: 2
+8-16-2021 16: 3 (8320:43): ClientUserinfoChanged handling info: 2 \team\0\skill\ 5.00\personality\botfiles/astupidbot.jkb\saber2\none\saber1\kyle\color2\4\color1\4\sex\male\model\jawa\snaps\20\rate\25000\name\astupidbot
+8-16-2021 16: 3 (8320:43): ClientUserinfoChanged: 2 n\astupidbot\t\0\model\jawa\c1\4\c2\4\hc\0\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+8-16-2021 16: 3 (8320:43): ClientUserinfoChanged handling info: 2 \team\0\skill\ 5.00\personality\botfiles/astupidbot.jkb\saber2\none\saber1\kyle\color2\4\color1\4\sex\male\model\jawa\snaps\20\rate\25000\name\astupidbot
+8-16-2021 16: 3 (8320:43): ClientUserinfoChanged: 2 n\astupidbot\t\0\model\jawa\c1\4\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+8-16-2021 16: 3 (8320:43): ClientBegin: 2
+8-16-2021 16: 3 (8320:43): ClientConnect: 3
+8-16-2021 16: 3 (8320:43): ClientUserinfoChanged handling info: 3 \ip\79.98.157.156:29070\name\Padawan\rate\4000\snaps\20\model\tavion_new/default\forcepowers\6-1-030330000000000333\color1\0\color2\4\handicap\100\sex\male\cg_predictItems\1\saber1\single_9\saber2\none\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+8-16-2021 16: 3 (8320:43): ClientUserinfoChanged: 3 n\Padawan\t\0\model\tavion_new/default\c1\0\c2\4\hc\0\w\0\l\0\tt\0\tl\0\st\single_9\st2\none\dt\0
+8-16-2021 16: 3 (8320:43): ClientUserinfoChanged handling info: 3 \ip\79.98.157.156:29070\name\Padawan\rate\4000\snaps\20\model\tavion_new/default\forcepowers\6-1-030330000000000333\color1\0\color2\4\handicap\100\sex\male\cg_predictItems\1\saber1\single_9\saber2\none\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+8-16-2021 16: 3 (8320:43): ClientUserinfoChanged: 3 n\Padawan\t\0\model\tavion_new/default\c1\0\c2\4\hc\0\w\0\l\0\tt\0\tl\0\st\single_9\st2\none\dt\0
+8-16-2021 16: 3 (8320:43): ClientUserinfoChanged handling info: 3 \ip\79.98.157.156:29070\name\Padawan\rate\4000\snaps\20\model\tavion_new/default\forcepowers\6-1-030330000000000333\color1\0\color2\4\handicap\100\sex\male\cg_predictItems\1\saber1\single_9\saber2\none\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+8-16-2021 16: 3 (8320:43): ClientUserinfoChanged: 3 n\Padawan\t\0\model\tavion_new/default\c1\0\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\single_9\st2\none\dt\0
+8-16-2021 16: 3 (8320:43): ClientBegin: 3
+8-16-2021 16: 3 (8320:45): ClientUserinfoChanged handling info: 3 \ip\79.98.157.156:29070\name\Karri\rate\4000\snaps\20\model\jedi_hm/head_b1|torso_d1|lower_c1\forcepowers\6-1-030330000000000333\color1\0\color2\4\handicap\100\sex\male\cg_predictItems\1\saber1\single_9\saber2\none\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+8-16-2021 16: 3 (8320:45): ClientNamechange: Padawan is now Karri
+8-16-2021 16: 3 (8320:45): ClientUserinfoChanged: 3 n\Karri\t\0\model\jedi_hm/head_b1|torso_d1|lower_c1\c1\0\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\single_9\st2\none\dt\0
+8-16-2021 16: 5 (8322:43): Kill: 3 1 3: Karri killed KOKRRR by MOD_SABER
+8-16-2021 16: 5 (8322:43): duel: Karri won a duel against KOKRRR
+8-16-2021 16: 5 (8322:44): ClientUserinfoChanged handling info: 1 \ip\46.13.93.85:29070\name\KOKRRR\rate\4000\snaps\20\model\jedi_tf/head_a4|torso_f1|lower_c1\forcepowers\3-1-010000000000000320\color1\1\color2\4\handicap\100\sex\male\cg_predictItems\1\saber1\single_1\saber2\none\char_color_red\255\char_color_green\235\char_color_blue\100\teamtask\0\teamoverlay\1
+8-16-2021 16: 5 (8322:44): ClientUserinfoChanged: 1 n\KOKRRR\t\0\model\jedi_tf/head_a4|torso_f1|lower_c1\c1\1\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\single_1\st2\none\dt\0
+8-16-2021 16: 6 (8323:47): Kill: 3 1 3: Karri killed KOKRRR by MOD_SABER
+8-16-2021 16: 6 (8323:47): duel: Karri won a duel against KOKRRR
+8-16-2021 16: 6 (8323:48): ClientUserinfoChanged handling info: 1 \ip\46.13.93.85:29070\name\KOKRRR\rate\4000\snaps\20\model\jedi_tf/head_a4|torso_f1|lower_c1\forcepowers\3-1-010000000000000320\color1\1\color2\4\handicap\100\sex\male\cg_predictItems\1\saber1\single_1\saber2\none\char_color_red\255\char_color_green\235\char_color_blue\100\teamtask\0\teamoverlay\1
+8-16-2021 16: 6 (8323:48): ClientUserinfoChanged: 1 n\KOKRRR\t\0\model\jedi_tf/head_a4|torso_f1|lower_c1\c1\1\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\single_1\st2\none\dt\0
+8-16-2021 16: 8 (8325:56): Kill: 3 1 3: Karri killed KOKRRR by MOD_SABER
+8-16-2021 16: 9 (8326:57): ClientUserinfoChanged handling info: 1 \ip\46.13.93.85:29070\name\KOKRRR\rate\4000\snaps\20\model\jedi_tf/head_a4|torso_f1|lower_c1\forcepowers\3-1-010000000000000320\color1\1\color2\4\handicap\100\sex\male\cg_predictItems\1\saber1\single_1\saber2\none\char_color_red\255\char_color_green\235\char_color_blue\100\teamtask\0\teamoverlay\1
+8-16-2021 16: 9 (8326:57): ClientUserinfoChanged: 1 n\KOKRRR\t\0\model\jedi_tf/head_a4|torso_f1|lower_c1\c1\1\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\single_1\st2\none\dt\0
+8-16-2021 16: 9 (8327:07): Kill: 3 1 3: Karri killed KOKRRR by MOD_SABER
+8-16-2021 16:10 (8327:49): ClientUserinfoChanged handling info: 1 \ip\46.13.93.85:29070\name\KOKRRR\rate\4000\snaps\20\model\jedi_tf/head_a4|torso_f1|lower_c1\forcepowers\3-1-010000000000000320\color1\1\color2\4\handicap\100\sex\male\cg_predictItems\1\saber1\single_1\saber2\none\char_color_red\255\char_color_green\235\char_color_blue\100\teamtask\0\teamoverlay\1
+8-16-2021 16:10 (8327:49): ClientUserinfoChanged: 1 n\KOKRRR\t\0\model\jedi_tf/head_a4|torso_f1|lower_c1\c1\1\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\single_1\st2\none\dt\0
+8-16-2021 16:11 (8328:57): Kill: 1 3 3: KOKRRR killed Karri by MOD_SABER
+8-16-2021 16:11 (8328:57): duel: KOKRRR won a duel against Karri
+8-16-2021 16:11 (8329:04): ClientUserinfoChanged handling info: 3 \ip\79.98.157.156:29070\name\Karri\rate\4000\snaps\20\model\jedi_hm/head_b1|torso_d1|lower_c1\forcepowers\6-1-030330000000000333\color1\0\color2\4\handicap\100\sex\male\cg_predictItems\1\saber1\single_9\saber2\none\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+8-16-2021 16:11 (8329:04): ClientUserinfoChanged: 3 n\Karri\t\0\model\jedi_hm/head_b1|torso_d1|lower_c1\c1\0\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\single_9\st2\none\dt\0
+8-16-2021 16:11 (8329:13): ClientUserinfoChanged handling info: 1 \ip\46.13.93.85:29070\name\KOKRRR\rate\4000\snaps\20\model\boba_fett/default\forcepowers\7-1-010000000000000320\color1\1\color2\4\handicap\100\sex\male\cg_predictItems\1\saber1\single_1\saber2\none\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+8-16-2021 16:11 (8329:13): ClientUserinfoChanged: 1 n\KOKRRR\t\0\model\boba_fett/default\c1\1\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\single_1\st2\none\dt\0
+8-16-2021 16:12 (8330:27): Kill: 3 1 3: Karri killed KOKRRR by MOD_SABER
+8-16-2021 16:12 (8330:27): duel: Karri won a duel against KOKRRR
+8-16-2021 16:12 (8330:28): ClientUserinfoChanged handling info: 1 \ip\46.13.93.85:29070\name\KOKRRR\rate\4000\snaps\20\model\boba_fett/default\forcepowers\7-1-010000000000000320\color1\1\color2\4\handicap\100\sex\male\cg_predictItems\1\saber1\single_1\saber2\none\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+8-16-2021 16:12 (8330:28): ClientUserinfoChanged: 1 n\KOKRRR\t\0\model\boba_fett/default\c1\1\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\single_1\st2\none\dt\0
+8-16-2021 16:13 (8330:38): Kill: 1 3 3: KOKRRR killed Karri by MOD_SABER
+8-16-2021 16:13 (8330:38): duel: KOKRRR won a duel against Karri
+8-16-2021 16:13 (8330:45): ClientUserinfoChanged handling info: 3 \ip\79.98.157.156:29070\name\Karri\rate\4000\snaps\20\model\jedi_hm/head_b1|torso_d1|lower_c1\forcepowers\6-1-030330000000000333\color1\0\color2\4\handicap\100\sex\male\cg_predictItems\1\saber1\single_9\saber2\none\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+8-16-2021 16:13 (8330:45): ClientUserinfoChanged: 3 n\Karri\t\0\model\jedi_hm/head_b1|torso_d1|lower_c1\c1\0\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\single_9\st2\none\dt\0
+8-16-2021 16:13 (8331:28): Kill: 1 3 3: KOKRRR killed Karri by MOD_SABER
+8-16-2021 16:13 (8331:28): duel: KOKRRR won a duel against Karri
+8-16-2021 16:14 (8331:31): ClientUserinfoChanged handling info: 3 \ip\79.98.157.156:29070\name\Karri\rate\4000\snaps\20\model\jedi_hm/head_b1|torso_d1|lower_c1\forcepowers\6-1-030330000000000333\color1\0\color2\4\handicap\100\sex\male\cg_predictItems\1\saber1\single_9\saber2\none\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+8-16-2021 16:14 (8331:31): ClientUserinfoChanged: 3 n\Karri\t\0\model\jedi_hm/head_b1|torso_d1|lower_c1\c1\0\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\single_9\st2\none\dt\0
+8-16-2021 16:14 (8332:12): Kill: 3 1 3: Karri killed KOKRRR by MOD_SABER
+8-16-2021 16:14 (8332:12): duel: Karri won a duel against KOKRRR
+8-16-2021 16:14 (8332:13): ClientUserinfoChanged handling info: 1 \ip\46.13.93.85:29070\name\KOKRRR\rate\4000\snaps\20\model\boba_fett/default\forcepowers\7-1-010000000000000320\color1\1\color2\4\handicap\100\sex\male\cg_predictItems\1\saber1\single_1\saber2\none\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+8-16-2021 16:14 (8332:13): ClientUserinfoChanged: 1 n\KOKRRR\t\0\model\boba_fett/default\c1\1\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\single_1\st2\none\dt\0
+8-16-2021 16:16 (8334:23): Kill: 1 3 3: KOKRRR killed Karri by MOD_SABER
+8-16-2021 16:16 (8334:23): duel: KOKRRR won a duel against Karri
+8-16-2021 16:16 (8334:27): ClientUserinfoChanged handling info: 3 \ip\79.98.157.156:29070\name\Karri\rate\4000\snaps\20\model\jedi_hm/head_b1|torso_d1|lower_c1\forcepowers\6-1-030330000000000333\color1\0\color2\4\handicap\100\sex\male\cg_predictItems\1\saber1\single_9\saber2\none\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+8-16-2021 16:16 (8334:27): ClientUserinfoChanged: 3 n\Karri\t\0\model\jedi_hm/head_b1|torso_d1|lower_c1\c1\0\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\single_9\st2\none\dt\0
+8-16-2021 16:17 (8334:40): ClientUserinfoChanged handling info: 1 \ip\46.13.93.85:29070\name\KOKRRR\rate\4000\snaps\20\model\luke/default\forcepowers\7-1-010000000000000320\color1\3\color2\4\handicap\100\sex\male\cg_predictItems\1\saber1\single_1\saber2\none\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+8-16-2021 16:17 (8334:40): ClientUserinfoChanged: 1 n\KOKRRR\t\0\model\luke/default\c1\3\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\single_1\st2\none\dt\0
+8-16-2021 16:17 (8335:27): Kill: 3 1 3: Karri killed KOKRRR by MOD_SABER
+8-16-2021 16:17 (8335:27): duel: Karri won a duel against KOKRRR
+8-16-2021 16:18 (8335:32): ClientUserinfoChanged handling info: 1 \ip\46.13.93.85:29070\name\KOKRRR\rate\4000\snaps\20\model\luke/default\forcepowers\7-1-010000000000000320\color1\3\color2\4\handicap\100\sex\male\cg_predictItems\1\saber1\single_1\saber2\none\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+8-16-2021 16:18 (8335:32): ClientUserinfoChanged: 1 n\KOKRRR\t\0\model\luke/default\c1\3\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\single_1\st2\none\dt\0
+8-16-2021 16:18 (8336:15): Kill: 1 3 3: KOKRRR killed Karri by MOD_SABER
+8-16-2021 16:18 (8336:15): duel: KOKRRR won a duel against Karri
+8-16-2021 16:19 (8336:50): ClientUserinfoChanged handling info: 3 \ip\79.98.157.156:29070\name\Karri\rate\4000\snaps\20\model\jedi_hm/head_b1|torso_d1|lower_c1\forcepowers\6-1-030330000000000333\color1\0\color2\4\handicap\100\sex\male\cg_predictItems\1\saber1\single_9\saber2\none\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+8-16-2021 16:19 (8336:50): ClientUserinfoChanged: 3 n\Karri\t\0\model\jedi_hm/head_b1|torso_d1|lower_c1\c1\0\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\single_9\st2\none\dt\0
+8-16-2021 16:19 (8337:08): Kill: 1 3 3: KOKRRR killed Karri by MOD_SABER
+8-16-2021 16:19 (8337:08): duel: KOKRRR won a duel against Karri
+8-16-2021 16:19 (8337:11): ClientUserinfoChanged handling info: 3 \ip\79.98.157.156:29070\name\Karri\rate\4000\snaps\20\model\jedi_hm/head_b1|torso_d1|lower_c1\forcepowers\6-1-030330000000000333\color1\0\color2\4\handicap\100\sex\male\cg_predictItems\1\saber1\single_9\saber2\none\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+8-16-2021 16:19 (8337:11): ClientUserinfoChanged: 3 n\Karri\t\0\model\jedi_hm/head_b1|torso_d1|lower_c1\c1\0\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\single_9\st2\none\dt\0
+8-16-2021 16:20 (8338:24): Kill: 1 3 3: KOKRRR killed Karri by MOD_SABER
+8-16-2021 16:20 (8338:24): duel: KOKRRR won a duel against Karri
+8-16-2021 16:21 (8338:30): ClientUserinfoChanged handling info: 3 \ip\79.98.157.156:29070\name\Karri\rate\4000\snaps\20\model\jedi_hm/head_b1|torso_d1|lower_c1\forcepowers\6-1-030330000000000333\color1\0\color2\4\handicap\100\sex\male\cg_predictItems\1\saber1\single_9\saber2\none\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+8-16-2021 16:21 (8338:30): ClientUserinfoChanged: 3 n\Karri\t\0\model\jedi_hm/head_b1|torso_d1|lower_c1\c1\0\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\single_9\st2\none\dt\0
+8-16-2021 16:21 (8338:56): Kill: 1 3 3: KOKRRR killed Karri by MOD_SABER
+8-16-2021 16:21 (8338:56): duel: KOKRRR won a duel against Karri
+8-16-2021 16:21 (8338:59): ClientUserinfoChanged handling info: 3 \ip\79.98.157.156:29070\name\Karri\rate\4000\snaps\20\model\jedi_hm/head_b1|torso_d1|lower_c1\forcepowers\6-1-030330000000000333\color1\0\color2\4\handicap\100\sex\male\cg_predictItems\1\saber1\single_9\saber2\none\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+8-16-2021 16:21 (8338:59): ClientUserinfoChanged: 3 n\Karri\t\0\model\jedi_hm/head_b1|torso_d1|lower_c1\c1\0\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\single_9\st2\none\dt\0
+8-16-2021 16:23 (8341:27): Kill: 1 3 3: KOKRRR killed Karri by MOD_SABER
+8-16-2021 16:23 (8341:27): duel: KOKRRR won a duel against Karri
+8-16-2021 16:24 (8341:31): ClientUserinfoChanged handling info: 3 \ip\79.98.157.156:29070\name\Karri\rate\4000\snaps\20\model\jedi_hm/head_b1|torso_d1|lower_c1\forcepowers\6-1-030330000000000333\color1\0\color2\4\handicap\100\sex\male\cg_predictItems\1\saber1\single_9\saber2\none\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+8-16-2021 16:24 (8341:31): ClientUserinfoChanged: 3 n\Karri\t\0\model\jedi_hm/head_b1|torso_d1|lower_c1\c1\0\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\single_9\st2\none\dt\0
+8-16-2021 16:25 (8343:13): Kill: 1 3 3: KOKRRR killed Karri by MOD_SABER
+8-16-2021 16:25 (8343:13): duel: KOKRRR won a duel against Karri
+8-16-2021 16:25 (8343:17): ClientUserinfoChanged handling info: 3 \ip\79.98.157.156:29070\name\Karri\rate\4000\snaps\20\model\jedi_hm/head_b1|torso_d1|lower_c1\forcepowers\6-1-030330000000000333\color1\0\color2\4\handicap\100\sex\male\cg_predictItems\1\saber1\single_9\saber2\none\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+8-16-2021 16:25 (8343:17): ClientUserinfoChanged: 3 n\Karri\t\0\model\jedi_hm/head_b1|torso_d1|lower_c1\c1\0\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\single_9\st2\none\dt\0
+8-16-2021 16:27 (8344:32): Kill: 1 3 3: KOKRRR killed Karri by MOD_SABER
+8-16-2021 16:27 (8344:32): duel: KOKRRR won a duel against Karri
+8-16-2021 16:27 (8344:42): ClientUserinfoChanged handling info: 3 \ip\79.98.157.156:29070\name\Karri\rate\4000\snaps\20\model\jedi_hm/head_b1|torso_d1|lower_c1\forcepowers\6-1-030330000000000333\color1\0\color2\4\handicap\100\sex\male\cg_predictItems\1\saber1\single_9\saber2\none\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+8-16-2021 16:27 (8344:42): ClientUserinfoChanged: 3 n\Karri\t\0\model\jedi_hm/head_b1|torso_d1|lower_c1\c1\0\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\single_9\st2\none\dt\0
+8-16-2021 16:27 (8345:01): ClientUserinfoChanged handling info: 3 \ip\79.98.157.156:29070\name\Karri\rate\4000\snaps\20\model\cultist/default\forcepowers\7-1-030330000000000333\color1\0\color2\4\handicap\100\sex\male\cg_predictItems\1\saber1\single_9\saber2\none\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+8-16-2021 16:27 (8345:01): ClientUserinfoChanged: 3 n\Karri\t\0\model\cultist/default\c1\0\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\single_9\st2\none\dt\0
+8-16-2021 16:28 (8345:52): Kill: 1 3 3: KOKRRR killed Karri by MOD_SABER
+8-16-2021 16:28 (8345:52): duel: KOKRRR won a duel against Karri
+8-16-2021 16:28 (8345:58): ClientUserinfoChanged handling info: 3 \ip\79.98.157.156:29070\name\Karri\rate\4000\snaps\20\model\cultist/default\forcepowers\7-1-030330000000000333\color1\0\color2\4\handicap\100\sex\male\cg_predictItems\1\saber1\single_9\saber2\none\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+8-16-2021 16:28 (8345:58): ClientUserinfoChanged: 3 n\Karri\t\0\model\cultist/default\c1\0\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\single_9\st2\none\dt\0
+8-16-2021 16:29 (8347:26): Kill: 1 3 3: KOKRRR killed Karri by MOD_SABER
+8-16-2021 16:29 (8347:26): duel: KOKRRR won a duel against Karri
+8-16-2021 16:30 (8347:33): ClientUserinfoChanged handling info: 3 \ip\79.98.157.156:29070\name\Karri\rate\4000\snaps\20\model\cultist/default\forcepowers\7-1-030330000000000333\color1\0\color2\4\handicap\100\sex\male\cg_predictItems\1\saber1\single_9\saber2\none\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+8-16-2021 16:30 (8347:33): ClientUserinfoChanged: 3 n\Karri\t\0\model\cultist/default\c1\0\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\single_9\st2\none\dt\0
+8-16-2021 16:30 (8348:28): Kill: 3 1 3: Karri killed KOKRRR by MOD_SABER
+8-16-2021 16:30 (8348:28): duel: Karri won a duel against KOKRRR
+8-16-2021 16:31 (8348:29): ClientUserinfoChanged handling info: 1 \ip\46.13.93.85:29070\name\KOKRRR\rate\4000\snaps\20\model\luke/default\forcepowers\7-1-010000000000000320\color1\3\color2\4\handicap\100\sex\male\cg_predictItems\1\saber1\single_1\saber2\none\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+8-16-2021 16:31 (8348:29): ClientUserinfoChanged: 1 n\KOKRRR\t\0\model\luke/default\c1\3\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\single_1\st2\none\dt\0
+8-16-2021 16:32 (8349:43): Kill: 1 3 3: KOKRRR killed Karri by MOD_SABER
+8-16-2021 16:32 (8349:43): duel: KOKRRR won a duel against Karri
+8-16-2021 16:32 (8349:52): ClientDisconnect: 1
+8-16-2021 16:32 (8349:52): ClientDisconnect: 3
+8-16-2021 19:22 (8519:36): ClientConnect: 1
+8-16-2021 19:22 (8519:36): ClientUserinfoChanged handling info: 1 \ip\46.13.93.85:29070\challenge\-1838080598\qport\57200\protocol\26\char_color_blue\100\char_color_green\235\char_color_red\255\saber2\none\saber1\single_1\cg_predictItems\1\sex\male\handicap\100\color2\4\color1\3\forcepowers\3-1-010000000000000320\model\jedi_tf/head_a4|torso_f1|lower_c1\snaps\20\rate\4000\name\KOKRRR\teamtask\0
+8-16-2021 19:22 (8519:36): ClientUserinfoChanged: 1 n\KOKRRR\t\0\model\jedi_tf/head_a4|torso_f1|lower_c1\c1\3\c2\4\hc\0\w\0\l\0\tt\0\tl\0\st\\st2\\dt\0
+8-16-2021 19:22 (8519:36): IP: 46.13.93.85 KOKRRR
+8-16-2021 19:22 (8519:46): ClientUserinfoChanged handling info: 1 \ip\46.13.93.85:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\none\saber1\single_1\cg_predictItems\1\sex\male\handicap\100\color2\4\color1\3\forcepowers\7-1-010000000000000320\model\luke/default\snaps\20\rate\4000\name\KOKRRR\teamtask\0\teamoverlay\1
+8-16-2021 19:22 (8519:46): ClientUserinfoChanged: 1 n\KOKRRR\t\0\model\luke/default\c1\3\c2\4\hc\0\w\0\l\0\tt\0\tl\0\st\single_1\st2\none\dt\0
+8-16-2021 19:22 (8519:46): ClientUserinfoChanged handling info: 1 \ip\46.13.93.85:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\none\saber1\single_1\cg_predictItems\1\sex\male\handicap\100\color2\4\color1\3\forcepowers\7-1-010000000000000320\model\luke/default\snaps\20\rate\4000\name\KOKRRR\teamtask\0\teamoverlay\1
+8-16-2021 19:22 (8519:46): ClientUserinfoChanged: 1 n\KOKRRR\t\0\model\luke/default\c1\3\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\single_1\st2\none\dt\0
+8-16-2021 19:22 (8519:46): ClientBegin: 1
+8-16-2021 19:22 (8519:53): ClientConnect: 3
+8-16-2021 19:22 (8519:53): ClientUserinfoChanged handling info: 3 \ip\79.98.157.156:29070\challenge\124929104\qport\45813\protocol\26\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\none\saber1\single_9\cg_predictItems\1\sex\male\handicap\100\color2\4\color1\0\forcepowers\6-1-030330000000000333\model\tavion_new/default\snaps\20\rate\4000\name\Padawan\teamtask\0
+8-16-2021 19:22 (8519:53): ClientUserinfoChanged: 3 n\Padawan\t\0\model\tavion_new/default\c1\0\c2\4\hc\0\w\0\l\0\tt\0\tl\0\st\\st2\\dt\0
+8-16-2021 19:22 (8519:53): IP: 79.98.157.156 Padawan
+8-16-2021 19:22 (8520:02): ClientUserinfoChanged handling info: 3 \ip\79.98.157.156:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\none\saber1\single_9\cg_predictItems\1\sex\male\handicap\100\color2\4\color1\0\forcepowers\7-1-030330000000000333\model\cultist/default\snaps\20\rate\4000\name\Karri\teamtask\0\teamoverlay\1
+8-16-2021 19:22 (8520:02): ClientNamechange: Padawan is now Karri
+8-16-2021 19:22 (8520:02): ClientUserinfoChanged: 3 n\Karri\t\0\model\cultist/default\c1\0\c2\4\hc\0\w\0\l\0\tt\0\tl\0\st\single_9\st2\none\dt\0
+8-16-2021 19:22 (8520:02): ClientUserinfoChanged handling info: 3 \ip\79.98.157.156:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\none\saber1\single_9\cg_predictItems\1\sex\male\handicap\100\color2\4\color1\0\forcepowers\7-1-030330000000000333\model\cultist/default\snaps\20\rate\4000\name\Karri\teamtask\0\teamoverlay\1
+8-16-2021 19:22 (8520:02): ClientUserinfoChanged: 3 n\Karri\t\0\model\cultist/default\c1\0\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\single_9\st2\none\dt\0
+8-16-2021 19:22 (8520:02): ClientBegin: 3
+8-16-2021 19:22 (8520:04): ClientUserinfoChanged handling info: 1 \ip\46.13.93.85:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\none\saber1\single_6\cg_predictItems\1\sex\male\handicap\100\color2\4\color1\0\forcepowers\7-1-010000000000000320\model\rax_joris/default\snaps\20\rate\4000\name\KOKRRR\teamtask\0\teamoverlay\1
+8-16-2021 19:22 (8520:04): ClientUserinfoChanged: 1 n\KOKRRR\t\0\model\rax_joris/default\c1\0\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\single_1\st2\none\dt\0
+8-16-2021 19:24 (8521:41): Kill: 3 1 3: Karri killed KOKRRR by MOD_SABER
+8-16-2021 19:24 (8521:41): Exit: Timelimit hit.
+8-16-2021 19:24 (8521:41): score: 1  ping: 115  client: 3 Karri
+8-16-2021 19:24 (8521:41): score: 0  ping: 44  client: 0 Kyle
+8-16-2021 19:24 (8521:41): score: 0  ping: 118  client: 1 KOKRRR
+8-16-2021 19:24 (8521:41): score: 0  ping: 57  client: 2 astupidbot
+8-16-2021 19:24 (8521:41): duel: Karri won a duel against KOKRRR
+8-16-2021 19:24 (8521:42): ClientUserinfoChanged handling info: 1 \ip\46.13.93.85:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\none\saber1\single_6\cg_predictItems\1\sex\male\handicap\100\color2\4\color1\0\forcepowers\7-1-010000000000000320\model\rax_joris/default\snaps\20\rate\4000\name\KOKRRR\teamtask\0\teamoverlay\1
+8-16-2021 19:24 (8521:42): ClientUserinfoChanged: 1 n\KOKRRR\t\0\model\rax_joris/default\c1\0\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\single_6\st2\none\dt\0
+8-16-2021 19:24 (8521:42): ClientUserinfoChanged handling info: 1 \ip\46.13.93.85:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\none\saber1\single_6\cg_predictItems\1\sex\male\handicap\100\color2\4\color1\0\forcepowers\7-1-010000000000000320\model\rax_joris/default\snaps\20\rate\4000\name\KOKRRR\teamtask\0\teamoverlay\1
+8-16-2021 19:24 (8521:42): ClientUserinfoChanged: 1 n\KOKRRR\t\0\model\rax_joris/default\c1\0\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\single_6\st2\none\dt\0
+8-16-2021 19:24 (8521:47): ShutdownGame:
+8-16-2021 19:24 (8521:47): ------------------------------------------------------------
+8-16-2021 19:24 (8521:47): ------------------------------------------------------------
+8-16-2021 19:24 (8521:47): InitGame: \version\JAmp: v1.0.1.0 linux-i386 Mar 14 2020\timelimit\45\sv_privateClients\0\sv_minRate\0\sv_minPing\0\sv_maxclients\32\sv_maxRate\0\sv_maxPing\999\sv_hostname\^7~^1~^7~ COMM SERVER ~^1~^7~\sv_fps\50\sv_floodProtectSlow\1\sv_floodProtect\1\sv_autoDemo\0\sv_allowDownload\0\serveruptime\212\protocol\26\mapname\academy6\gamename\Lugormod\g_weaponDisable\0\g_stepSlideFix\0\g_siegeTeamSwitch\1\g_siegeTeam2\none\g_siegeTeam1\none\g_siegeRespawn\20\g_showDuelHealths\1\g_saberWallDamageScale\0.4\g_saberLocking\0\g_privateDuel\1535\g_noSpecMove\0\g_needpass\0\g_maxHolocronCarry\3\g_maxGameClients\0\g_maxForceRank\7\g_jediVmerc\0\g_gametype\0\g_gamemode\0\g_forceRegenTime\160\g_forcePowerDisable\0\g_forceBasedTeams\1\g_duelWeaponDisable\9\g_debugmelee\1\g_allowNPC\1\fs_game\lugormod\fraglimit\0\duel_fraglimit\10\dmflags\0\capturelimit\10\bot_minplayers\2\bg_fighterAltControl\0\Lugormod_Version\U#-0.0.0.91 Alpha
+8-16-2021 19:24 (8521:47): ClientConnect: 0
+8-16-2021 19:24 (8521:47): ClientUserinfoChanged handling info: 0 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+8-16-2021 19:24 (8521:47): ClientUserinfoChanged: 0 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\0\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+8-16-2021 19:24 (8521:47): ClientUserinfoChanged handling info: 0 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+8-16-2021 19:24 (8521:47): ClientUserinfoChanged: 0 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+8-16-2021 19:24 (8521:47): ClientBegin: 0
+8-16-2021 19:24 (8521:47): ClientConnect: 1
+8-16-2021 19:24 (8521:47): ClientUserinfoChanged handling info: 1 \ip\46.13.93.85:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\none\saber1\single_6\cg_predictItems\1\sex\male\handicap\100\color2\4\color1\0\forcepowers\7-1-010000000000000320\model\rax_joris/default\snaps\20\rate\4000\name\KOKRRR\teamtask\0\teamoverlay\1
+8-16-2021 19:24 (8521:47): ClientUserinfoChanged: 1 n\KOKRRR\t\0\model\rax_joris/default\c1\0\c2\4\hc\0\w\0\l\0\tt\0\tl\0\st\single_6\st2\none\dt\0
+8-16-2021 19:24 (8521:47): ClientUserinfoChanged handling info: 1 \ip\46.13.93.85:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\none\saber1\single_6\cg_predictItems\1\sex\male\handicap\100\color2\4\color1\0\forcepowers\7-1-010000000000000320\model\rax_joris/default\snaps\20\rate\4000\name\KOKRRR\teamtask\0\teamoverlay\1
+8-16-2021 19:24 (8521:47): ClientUserinfoChanged: 1 n\KOKRRR\t\0\model\rax_joris/default\c1\0\c2\4\hc\0\w\0\l\0\tt\0\tl\0\st\single_6\st2\none\dt\0
+8-16-2021 19:24 (8521:47): ClientUserinfoChanged handling info: 1 \ip\46.13.93.85:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\none\saber1\single_6\cg_predictItems\1\sex\male\handicap\100\color2\4\color1\0\forcepowers\7-1-010000000000000320\model\rax_joris/default\snaps\20\rate\4000\name\KOKRRR\teamtask\0\teamoverlay\1
+8-16-2021 19:24 (8521:47): ClientUserinfoChanged: 1 n\KOKRRR\t\0\model\rax_joris/default\c1\0\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\single_6\st2\none\dt\0
+8-16-2021 19:24 (8521:47): ClientBegin: 1
+8-16-2021 19:24 (8521:47): ClientConnect: 2
+8-16-2021 19:24 (8521:47): ClientUserinfoChanged handling info: 2 \team\0\skill\ 5.00\personality\botfiles/astupidbot.jkb\saber2\none\saber1\kyle\color2\4\color1\4\sex\male\model\jawa\snaps\20\rate\25000\name\astupidbot
+8-16-2021 19:24 (8521:47): ClientUserinfoChanged: 2 n\astupidbot\t\0\model\jawa\c1\4\c2\4\hc\0\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+8-16-2021 19:24 (8521:47): ClientUserinfoChanged handling info: 2 \team\0\skill\ 5.00\personality\botfiles/astupidbot.jkb\saber2\none\saber1\kyle\color2\4\color1\4\sex\male\model\jawa\snaps\20\rate\25000\name\astupidbot
+8-16-2021 19:24 (8521:47): ClientUserinfoChanged: 2 n\astupidbot\t\0\model\jawa\c1\4\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+8-16-2021 19:24 (8521:47): ClientBegin: 2
+8-16-2021 19:24 (8521:47): ClientConnect: 3
+8-16-2021 19:24 (8521:47): ClientUserinfoChanged handling info: 3 \ip\79.98.157.156:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\none\saber1\single_9\cg_predictItems\1\sex\male\handicap\100\color2\4\color1\0\forcepowers\7-1-030330000000000333\model\cultist/default\snaps\20\rate\4000\name\Karri\teamtask\0\teamoverlay\1
+8-16-2021 19:24 (8521:47): ClientUserinfoChanged: 3 n\Karri\t\0\model\cultist/default\c1\0\c2\4\hc\0\w\0\l\0\tt\0\tl\0\st\single_9\st2\none\dt\0
+8-16-2021 19:24 (8521:47): ClientUserinfoChanged handling info: 3 \ip\79.98.157.156:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\none\saber1\single_9\cg_predictItems\1\sex\male\handicap\100\color2\4\color1\0\forcepowers\7-1-030330000000000333\model\cultist/default\snaps\20\rate\4000\name\Karri\teamtask\0\teamoverlay\1
+8-16-2021 19:24 (8521:47): ClientUserinfoChanged: 3 n\Karri\t\0\model\cultist/default\c1\0\c2\4\hc\0\w\0\l\0\tt\0\tl\0\st\single_9\st2\none\dt\0
+8-16-2021 19:24 (8521:47): ClientUserinfoChanged handling info: 3 \ip\79.98.157.156:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\none\saber1\single_9\cg_predictItems\1\sex\male\handicap\100\color2\4\color1\0\forcepowers\7-1-030330000000000333\model\cultist/default\snaps\20\rate\4000\name\Karri\teamtask\0\teamoverlay\1
+8-16-2021 19:24 (8521:47): ClientUserinfoChanged: 3 n\Karri\t\0\model\cultist/default\c1\0\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\single_9\st2\none\dt\0
+8-16-2021 19:24 (8521:47): ClientBegin: 3
+8-16-2021 19:24 (8521:56): Kill: 3 1 3: Karri killed KOKRRR by MOD_SABER
+8-16-2021 19:24 (8521:58): ClientUserinfoChanged handling info: 1 \ip\46.13.93.85:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\none\saber1\single_6\cg_predictItems\1\sex\male\handicap\100\color2\4\color1\0\forcepowers\7-1-010000000000000320\model\shadowtrooper/default\snaps\20\rate\4000\name\KOKRRR\teamtask\0\teamoverlay\1
+8-16-2021 19:24 (8521:58): ClientUserinfoChanged: 1 n\KOKRRR\t\0\model\shadowtrooper/default\c1\0\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\single_6\st2\none\dt\0
+8-16-2021 19:24 (8521:58): ClientUserinfoChanged handling info: 1 \ip\46.13.93.85:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\none\saber1\single_6\cg_predictItems\1\sex\male\handicap\100\color2\4\color1\0\forcepowers\7-1-010000000000000320\model\shadowtrooper/default\snaps\20\rate\4000\name\KOKRRR\teamtask\0\teamoverlay\1
+8-16-2021 19:24 (8521:58): ClientUserinfoChanged: 1 n\KOKRRR\t\0\model\shadowtrooper/default\c1\0\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\single_6\st2\none\dt\0
+8-16-2021 19:27 (8524:59): Kill: 1 3 3: KOKRRR killed Karri by MOD_SABER
+8-16-2021 19:27 (8524:59): duel: KOKRRR won a duel against Karri
+8-16-2021 19:27 (8525:04): ClientUserinfoChanged handling info: 3 \ip\79.98.157.156:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\none\saber1\single_9\cg_predictItems\1\sex\male\handicap\100\color2\4\color1\0\forcepowers\7-1-030330000000000333\model\cultist/default\snaps\20\rate\4000\name\Karri\teamtask\0\teamoverlay\1
+8-16-2021 19:27 (8525:04): ClientUserinfoChanged: 3 n\Karri\t\0\model\cultist/default\c1\0\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\single_9\st2\none\dt\0
+8-16-2021 19:27 (8525:10): ClientUserinfoChanged handling info: 1 \ip\46.13.93.85:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\none\saber1\single_6\cg_predictItems\1\sex\male\handicap\100\color2\4\color1\0\forcepowers\7-1-010000000000000320\model\tusken/default\snaps\20\rate\4000\name\KOKRRR\teamtask\0\teamoverlay\1
+8-16-2021 19:27 (8525:10): ClientUserinfoChanged: 1 n\KOKRRR\t\0\model\tusken/default\c1\0\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\single_6\st2\none\dt\0
+8-16-2021 19:28 (8525:58): Kill: 1 3 3: KOKRRR killed Karri by MOD_SABER
+8-16-2021 19:28 (8525:58): duel: KOKRRR won a duel against Karri
+8-16-2021 19:28 (8526:03): ClientUserinfoChanged handling info: 3 \ip\79.98.157.156:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\none\saber1\single_9\cg_predictItems\1\sex\male\handicap\100\color2\4\color1\0\forcepowers\7-1-030330000000000333\model\cultist/default\snaps\20\rate\4000\name\Karri\teamtask\0\teamoverlay\1
+8-16-2021 19:28 (8526:03): ClientUserinfoChanged: 3 n\Karri\t\0\model\cultist/default\c1\0\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\single_9\st2\none\dt\0
+8-16-2021 19:28 (8526:08): ClientUserinfoChanged handling info: 1 \ip\46.13.93.85:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\none\saber1\single_6\cg_predictItems\1\sex\male\handicap\100\color2\4\color1\0\forcepowers\7-1-010000000000000320\model\swamptrooper/default\snaps\20\rate\4000\name\KOKRRR\teamtask\0\teamoverlay\1
+8-16-2021 19:28 (8526:08): ClientUserinfoChanged: 1 n\KOKRRR\t\0\model\swamptrooper/default\c1\0\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\single_6\st2\none\dt\0
+8-16-2021 19:28 (8526:20): ClientUserinfoChanged handling info: 1 \ip\46.13.93.85:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\none\saber1\single_6\cg_predictItems\1\sex\male\handicap\100\color2\4\color1\0\forcepowers\7-1-010000000000000320\model\morgan/default\snaps\20\rate\4000\name\KOKRRR\teamtask\0\teamoverlay\1
+8-16-2021 19:28 (8526:20): ClientUserinfoChanged: 1 n\KOKRRR\t\0\model\morgan/default\c1\0\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\single_6\st2\none\dt\0
+8-16-2021 19:29 (8526:51): Kill: 3 1 3: Karri killed KOKRRR by MOD_SABER
+8-16-2021 19:29 (8526:51): duel: Karri won a duel against KOKRRR
+8-16-2021 19:29 (8526:52): ClientUserinfoChanged handling info: 1 \ip\46.13.93.85:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\none\saber1\single_6\cg_predictItems\1\sex\male\handicap\100\color2\4\color1\0\forcepowers\7-1-010000000000000320\model\morgan/default\snaps\20\rate\4000\name\KOKRRR\teamtask\0\teamoverlay\1
+8-16-2021 19:29 (8526:52): ClientUserinfoChanged: 1 n\KOKRRR\t\0\model\morgan/default\c1\0\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\single_6\st2\none\dt\0
+8-16-2021 19:29 (8527:07): ClientUserinfoChanged handling info: 1 \ip\46.13.93.85:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\none\saber1\single_6\cg_predictItems\1\sex\male\handicap\100\color2\4\color1\0\forcepowers\7-1-010000000000000320\model\human_merc/default\snaps\20\rate\4000\name\KOKRRR\teamtask\0\teamoverlay\1
+8-16-2021 19:29 (8527:07): ClientUserinfoChanged: 1 n\KOKRRR\t\0\model\human_merc/default\c1\0\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\single_6\st2\none\dt\0
+8-16-2021 19:30 (8527:42): Kill: 3 1 3: Karri killed KOKRRR by MOD_SABER
+8-16-2021 19:30 (8527:42): duel: Karri won a duel against KOKRRR
+8-16-2021 19:30 (8527:43): ClientUserinfoChanged handling info: 1 \ip\46.13.93.85:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\none\saber1\single_6\cg_predictItems\1\sex\male\handicap\100\color2\4\color1\0\forcepowers\7-1-010000000000000320\model\human_merc/default\snaps\20\rate\4000\name\KOKRRR\teamtask\0\teamoverlay\1
+8-16-2021 19:30 (8527:43): ClientUserinfoChanged: 1 n\KOKRRR\t\0\model\human_merc/default\c1\0\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\single_6\st2\none\dt\0
+8-16-2021 19:30 (8527:54): ClientUserinfoChanged handling info: 1 \ip\46.13.93.85:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\none\saber1\single_5\cg_predictItems\1\sex\male\handicap\100\color2\4\color1\4\forcepowers\7-1-010000000000000320\model\luke/default\snaps\20\rate\4000\name\KOKRRR\teamtask\0\teamoverlay\1
+8-16-2021 19:30 (8527:54): ClientUserinfoChanged: 1 n\KOKRRR\t\0\model\luke/default\c1\4\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\single_6\st2\none\dt\0
+8-16-2021 19:30 (8528:24): Kill: 3 1 3: Karri killed KOKRRR by MOD_SABER
+8-16-2021 19:30 (8528:25): duel: Karri won a duel against KOKRRR
+8-16-2021 19:30 (8528:26): ClientUserinfoChanged handling info: 1 \ip\46.13.93.85:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\none\saber1\single_5\cg_predictItems\1\sex\male\handicap\100\color2\4\color1\4\forcepowers\7-1-010000000000000320\model\luke/default\snaps\20\rate\4000\name\KOKRRR\teamtask\0\teamoverlay\1
+8-16-2021 19:30 (8528:26): ClientUserinfoChanged: 1 n\KOKRRR\t\0\model\luke/default\c1\4\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\single_5\st2\none\dt\0
+8-16-2021 19:30 (8528:26): ClientUserinfoChanged handling info: 1 \ip\46.13.93.85:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\none\saber1\single_5\cg_predictItems\1\sex\male\handicap\100\color2\4\color1\4\forcepowers\7-1-010000000000000320\model\luke/default\snaps\20\rate\4000\name\KOKRRR\teamtask\0\teamoverlay\1
+8-16-2021 19:30 (8528:26): ClientUserinfoChanged: 1 n\KOKRRR\t\0\model\luke/default\c1\4\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\single_5\st2\none\dt\0
+8-16-2021 19:32 (8529:53): Kill: 1 3 3: KOKRRR killed Karri by MOD_SABER
+8-16-2021 19:32 (8529:53): duel: KOKRRR won a duel against Karri
+8-16-2021 19:32 (8529:56): ClientUserinfoChanged handling info: 3 \ip\79.98.157.156:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\none\saber1\single_9\cg_predictItems\1\sex\male\handicap\100\color2\4\color1\0\forcepowers\7-1-030330000000000333\model\cultist/default\snaps\20\rate\4000\name\Karri\teamtask\0\teamoverlay\1
+8-16-2021 19:32 (8529:56): ClientUserinfoChanged: 3 n\Karri\t\0\model\cultist/default\c1\0\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\single_9\st2\none\dt\0
+8-16-2021 19:32 (8530:21): ClientUserinfoChanged handling info: 1 \ip\46.13.93.85:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\none\saber1\single_1\cg_predictItems\1\sex\male\handicap\100\color2\4\color1\4\forcepowers\7-1-010000000000000320\model\luke/default\snaps\20\rate\4000\name\KOKRRR\teamtask\0\teamoverlay\1
+8-16-2021 19:32 (8530:21): ClientUserinfoChanged: 1 n\KOKRRR\t\0\model\luke/default\c1\4\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\single_5\st2\none\dt\0
+8-16-2021 19:32 (8530:29): Kill: 1 3 3: KOKRRR killed Karri by MOD_SABER
+8-16-2021 19:32 (8530:29): duel: KOKRRR won a duel against Karri
+8-16-2021 19:33 (8530:41): ClientUserinfoChanged handling info: 3 \ip\79.98.157.156:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\none\saber1\single_9\cg_predictItems\1\sex\male\handicap\100\color2\4\color1\0\forcepowers\7-1-030330000000000333\model\cultist/default\snaps\20\rate\4000\name\Karri\teamtask\0\teamoverlay\1
+8-16-2021 19:33 (8530:41): ClientUserinfoChanged: 3 n\Karri\t\0\model\cultist/default\c1\0\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\single_9\st2\none\dt\0
+8-16-2021 19:33 (8531:28): Kill: 1 3 3: KOKRRR killed Karri by MOD_SABER
+8-16-2021 19:33 (8531:28): duel: KOKRRR won a duel against Karri
+8-16-2021 19:34 (8531:33): ClientUserinfoChanged handling info: 3 \ip\79.98.157.156:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\none\saber1\single_9\cg_predictItems\1\sex\male\handicap\100\color2\4\color1\0\forcepowers\7-1-030330000000000333\model\cultist/default\snaps\20\rate\4000\name\Karri\teamtask\0\teamoverlay\1
+8-16-2021 19:34 (8531:33): ClientUserinfoChanged: 3 n\Karri\t\0\model\cultist/default\c1\0\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\single_9\st2\none\dt\0
+8-16-2021 19:34 (8531:51): ClientUserinfoChanged handling info: 3 \ip\79.98.157.156:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\none\saber1\single_9\cg_predictItems\1\sex\male\handicap\100\color2\4\color1\0\forcepowers\7-1-030330000000000333\model\chewbacca/default\snaps\20\rate\4000\name\Karri\teamtask\0\teamoverlay\1
+8-16-2021 19:34 (8531:51): ClientUserinfoChanged: 3 n\Karri\t\0\model\chewbacca/default\c1\0\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\single_9\st2\none\dt\0
+8-16-2021 19:35 (8532:45): Kill: 3 1 3: Karri killed KOKRRR by MOD_SABER
+8-16-2021 19:35 (8532:45): duel: Karri won a duel against KOKRRR
+8-16-2021 19:35 (8532:46): ClientUserinfoChanged handling info: 1 \ip\46.13.93.85:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\none\saber1\single_1\cg_predictItems\1\sex\male\handicap\100\color2\4\color1\4\forcepowers\7-1-010000000000000320\model\luke/default\snaps\20\rate\4000\name\KOKRRR\teamtask\0\teamoverlay\1
+8-16-2021 19:35 (8532:46): ClientUserinfoChanged: 1 n\KOKRRR\t\0\model\luke/default\c1\4\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\single_1\st2\none\dt\0
+8-16-2021 19:35 (8532:46): ClientUserinfoChanged handling info: 1 \ip\46.13.93.85:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\none\saber1\single_1\cg_predictItems\1\sex\male\handicap\100\color2\4\color1\4\forcepowers\7-1-010000000000000320\model\luke/default\snaps\20\rate\4000\name\KOKRRR\teamtask\0\teamoverlay\1
+8-16-2021 19:35 (8532:46): ClientUserinfoChanged: 1 n\KOKRRR\t\0\model\luke/default\c1\4\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\single_1\st2\none\dt\0
+8-16-2021 19:36 (8534:26): Kill: 1 3 3: KOKRRR killed Karri by MOD_SABER
+8-16-2021 19:36 (8534:26): duel: KOKRRR won a duel against Karri
+8-16-2021 19:37 (8534:41): ClientUserinfoChanged handling info: 3 \ip\79.98.157.156:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\none\saber1\dual_4\cg_predictItems\1\sex\male\handicap\100\color2\4\color1\0\forcepowers\7-1-030330000000000333\model\chewbacca/default\snaps\20\rate\4000\name\Karri\teamtask\0\teamoverlay\1
+8-16-2021 19:37 (8534:41): ClientUserinfoChanged: 3 n\Karri\t\0\model\chewbacca/default\c1\0\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\dual_4\st2\none\dt\0
+8-16-2021 19:37 (8534:41): ClientUserinfoChanged handling info: 3 \ip\79.98.157.156:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\none\saber1\dual_4\cg_predictItems\1\sex\male\handicap\100\color2\4\color1\0\forcepowers\7-1-030330000000000333\model\chewbacca/default\snaps\20\rate\4000\name\Karri\teamtask\0\teamoverlay\1
+8-16-2021 19:37 (8534:41): ClientUserinfoChanged: 3 n\Karri\t\0\model\chewbacca/default\c1\0\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\dual_4\st2\none\dt\0
+8-16-2021 19:38 (8535:56): Kill: 1 3 3: KOKRRR killed Karri by MOD_SABER
+8-16-2021 19:38 (8535:56): duel: KOKRRR won a duel against Karri
+8-16-2021 19:38 (8536:09): ClientUserinfoChanged handling info: 1 \ip\46.13.93.85:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\none\saber1\dual_1\cg_predictItems\1\sex\male\handicap\100\color2\4\color1\4\forcepowers\7-1-010000000000000320\model\luke/default\snaps\20\rate\4000\name\KOKRRR\teamtask\0\teamoverlay\1
+8-16-2021 19:38 (8536:09): ClientUserinfoChanged: 1 n\KOKRRR\t\0\model\luke/default\c1\4\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\single_1\st2\none\dt\0
+8-16-2021 19:38 (8536:18): ClientUserinfoChanged handling info: 3 \ip\79.98.157.156:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\single_1\saber1\single_1\cg_predictItems\1\sex\male\handicap\100\color2\3\color1\3\forcepowers\7-1-030330000000000333\model\chewbacca/default\snaps\20\rate\4000\name\Karri\teamtask\0\teamoverlay\1
+8-16-2021 19:38 (8536:18): ClientUserinfoChanged: 3 n\Karri\t\0\model\chewbacca/default\c1\3\c2\3\hc\100\w\0\l\0\tt\0\tl\0\st\single_1\st2\single_1\dt\0
+8-16-2021 19:38 (8536:18): ClientUserinfoChanged handling info: 3 \ip\79.98.157.156:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\single_1\saber1\single_1\cg_predictItems\1\sex\male\handicap\100\color2\3\color1\3\forcepowers\7-1-030330000000000333\model\chewbacca/default\snaps\20\rate\4000\name\Karri\teamtask\0\teamoverlay\1
+8-16-2021 19:38 (8536:18): ClientUserinfoChanged: 3 n\Karri\t\0\model\chewbacca/default\c1\3\c2\3\hc\100\w\0\l\0\tt\0\tl\0\st\single_1\st2\single_1\dt\0
+8-16-2021 19:39 (8537:12): Kill: 1 3 3: KOKRRR killed Karri by MOD_SABER
+8-16-2021 19:39 (8537:12): duel: KOKRRR won a duel against Karri
+8-16-2021 19:40 (8537:34): ClientUserinfoChanged handling info: 3 \ip\79.98.157.156:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\single_1\saber1\single_1\cg_predictItems\1\sex\male\handicap\100\color2\3\color1\3\forcepowers\7-1-030330000000000333\model\chewbacca/default\snaps\20\rate\4000\name\Karri\teamtask\0\teamoverlay\1
+8-16-2021 19:40 (8537:34): ClientUserinfoChanged: 3 n\Karri\t\0\model\chewbacca/default\c1\3\c2\3\hc\100\w\0\l\0\tt\0\tl\0\st\single_1\st2\single_1\dt\0
+8-16-2021 19:40 (8537:45): ClientUserinfoChanged handling info: 3 \ip\79.98.157.156:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\none\saber1\Kyle\cg_predictItems\1\sex\male\handicap\100\color2\3\color1\3\forcepowers\7-1-030330000000000333\model\chewbacca/default\snaps\20\rate\4000\name\Karri\teamtask\0\teamoverlay\1
+8-16-2021 19:40 (8537:45): ClientUserinfoChanged: 3 n\Karri\t\0\model\chewbacca/default\c1\3\c2\3\hc\100\w\0\l\0\tt\0\tl\0\st\single_1\st2\single_1\dt\0
+8-16-2021 19:40 (8537:58): Kill: 1 3 3: KOKRRR killed Karri by MOD_SABER
+8-16-2021 19:40 (8538:02): ClientUserinfoChanged handling info: 3 \ip\79.98.157.156:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\none\saber1\Kyle\cg_predictItems\1\sex\male\handicap\100\color2\3\color1\3\forcepowers\7-1-030330000000000333\model\chewbacca/default\snaps\20\rate\4000\name\Karri\teamtask\0\teamoverlay\1
+8-16-2021 19:40 (8538:02): ClientUserinfoChanged: 3 n\Karri\t\0\model\chewbacca/default\c1\3\c2\3\hc\100\w\0\l\0\tt\0\tl\0\st\Kyle\st2\none\dt\0
+8-16-2021 19:40 (8538:02): ClientUserinfoChanged handling info: 3 \ip\79.98.157.156:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\none\saber1\Kyle\cg_predictItems\1\sex\male\handicap\100\color2\3\color1\3\forcepowers\7-1-030330000000000333\model\chewbacca/default\snaps\20\rate\4000\name\Karri\teamtask\0\teamoverlay\1
+8-16-2021 19:40 (8538:02): ClientUserinfoChanged: 3 n\Karri\t\0\model\chewbacca/default\c1\3\c2\3\hc\100\w\0\l\0\tt\0\tl\0\st\Kyle\st2\none\dt\0
+8-16-2021 19:40 (8538:15): ClientUserinfoChanged handling info: 3 \ip\79.98.157.156:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\none\saber1\Kyle\cg_predictItems\1\sex\male\handicap\100\color2\3\color1\3\forcepowers\7-1-030330000000000333\model\desann/default\snaps\20\rate\4000\name\Karri\teamtask\0\teamoverlay\1
+8-16-2021 19:40 (8538:15): ClientUserinfoChanged: 3 n\Karri\t\0\model\desann/default\c1\3\c2\3\hc\100\w\0\l\0\tt\0\tl\0\st\Kyle\st2\none\dt\0
+8-16-2021 19:40 (8538:24): Kill: 1 3 3: KOKRRR killed Karri by MOD_SABER
+8-16-2021 19:40 (8538:24): duel: KOKRRR won a duel against Karri
+8-16-2021 19:41 (8538:31): ClientUserinfoChanged handling info: 3 \ip\79.98.157.156:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\none\saber1\Kyle\cg_predictItems\1\sex\male\handicap\100\color2\3\color1\3\forcepowers\7-1-030330000000000333\model\desann/default\snaps\20\rate\4000\name\Karri\teamtask\0\teamoverlay\1
+8-16-2021 19:41 (8538:31): ClientUserinfoChanged: 3 n\Karri\t\0\model\desann/default\c1\3\c2\3\hc\100\w\0\l\0\tt\0\tl\0\st\Kyle\st2\none\dt\0
+8-16-2021 19:42 (8539:38): Kill: 1 3 3: KOKRRR killed Karri by MOD_SABER
+8-16-2021 19:42 (8539:38): duel: KOKRRR won a duel against Karri
+8-16-2021 19:42 (8539:44): ClientUserinfoChanged handling info: 3 \ip\79.98.157.156:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\none\saber1\Kyle\cg_predictItems\1\sex\male\handicap\100\color2\3\color1\3\forcepowers\7-1-030330000000000333\model\desann/default\snaps\20\rate\4000\name\Karri\teamtask\0\teamoverlay\1
+8-16-2021 19:42 (8539:44): ClientUserinfoChanged: 3 n\Karri\t\0\model\desann/default\c1\3\c2\3\hc\100\w\0\l\0\tt\0\tl\0\st\Kyle\st2\none\dt\0
+8-16-2021 19:42 (8539:58): Kill: 3 1 3: Karri killed KOKRRR by MOD_SABER
+8-16-2021 19:42 (8539:59): ClientUserinfoChanged handling info: 1 \ip\46.13.93.85:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\none\saber1\dual_1\cg_predictItems\1\sex\male\handicap\100\color2\4\color1\4\forcepowers\7-1-010000000000000320\model\luke/default\snaps\20\rate\4000\name\KOKRRR\teamtask\0\teamoverlay\1
+8-16-2021 19:42 (8539:59): ClientUserinfoChanged: 1 n\KOKRRR\t\0\model\luke/default\c1\4\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\dual_1\st2\none\dt\0
+8-16-2021 19:42 (8539:59): ClientUserinfoChanged handling info: 1 \ip\46.13.93.85:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\none\saber1\dual_1\cg_predictItems\1\sex\male\handicap\100\color2\4\color1\4\forcepowers\7-1-010000000000000320\model\luke/default\snaps\20\rate\4000\name\KOKRRR\teamtask\0\teamoverlay\1
+8-16-2021 19:42 (8539:59): ClientUserinfoChanged: 1 n\KOKRRR\t\0\model\luke/default\c1\4\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\dual_1\st2\none\dt\0
+8-16-2021 19:43 (8540:53): Kill: 3 1 3: Karri killed KOKRRR by MOD_SABER
+8-16-2021 19:43 (8540:53): duel: Karri won a duel against KOKRRR
+8-16-2021 19:43 (8540:54): ClientUserinfoChanged handling info: 1 \ip\46.13.93.85:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\none\saber1\dual_1\cg_predictItems\1\sex\male\handicap\100\color2\4\color1\4\forcepowers\7-1-010000000000000320\model\luke/default\snaps\20\rate\4000\name\KOKRRR\teamtask\0\teamoverlay\1
+8-16-2021 19:43 (8540:54): ClientUserinfoChanged: 1 n\KOKRRR\t\0\model\luke/default\c1\4\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\dual_1\st2\none\dt\0
+8-16-2021 19:44 (8542:13): Kill: 3 1 3: Karri killed KOKRRR by MOD_SABER
+8-16-2021 19:44 (8542:13): duel: Karri won a duel against KOKRRR
+8-16-2021 19:44 (8542:14): ClientUserinfoChanged handling info: 1 \ip\46.13.93.85:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\none\saber1\dual_1\cg_predictItems\1\sex\male\handicap\100\color2\4\color1\4\forcepowers\7-1-010000000000000320\model\luke/default\snaps\20\rate\4000\name\KOKRRR\teamtask\0\teamoverlay\1
+8-16-2021 19:44 (8542:14): ClientUserinfoChanged: 1 n\KOKRRR\t\0\model\luke/default\c1\4\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\dual_1\st2\none\dt\0
+8-16-2021 19:45 (8542:47): Kill: 3 1 3: Karri killed KOKRRR by MOD_SABER
+8-16-2021 19:45 (8542:49): ClientUserinfoChanged handling info: 1 \ip\46.13.93.85:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\none\saber1\dual_1\cg_predictItems\1\sex\male\handicap\100\color2\4\color1\4\forcepowers\7-1-010000000000000320\model\luke/default\snaps\20\rate\4000\name\KOKRRR\teamtask\0\teamoverlay\1
+8-16-2021 19:45 (8542:49): ClientUserinfoChanged: 1 n\KOKRRR\t\0\model\luke/default\c1\4\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\dual_1\st2\none\dt\0
+8-16-2021 19:46 (8543:45): Kill: 3 1 3: Karri killed KOKRRR by MOD_SABER
+8-16-2021 19:46 (8543:45): duel: Karri won a duel against KOKRRR
+8-16-2021 19:46 (8543:46): ClientUserinfoChanged handling info: 1 \ip\46.13.93.85:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\none\saber1\dual_1\cg_predictItems\1\sex\male\handicap\100\color2\4\color1\4\forcepowers\7-1-010000000000000320\model\luke/default\snaps\20\rate\4000\name\KOKRRR\teamtask\0\teamoverlay\1
+8-16-2021 19:46 (8543:46): ClientUserinfoChanged: 1 n\KOKRRR\t\0\model\luke/default\c1\4\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\dual_1\st2\none\dt\0
+8-16-2021 19:47 (8544:31): Kill: 3 1 3: Karri killed KOKRRR by MOD_SABER
+8-16-2021 19:47 (8544:31): duel: Karri won a duel against KOKRRR
+8-16-2021 19:47 (8544:32): ClientUserinfoChanged handling info: 1 \ip\46.13.93.85:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\none\saber1\dual_1\cg_predictItems\1\sex\male\handicap\100\color2\4\color1\4\forcepowers\7-1-010000000000000320\model\luke/default\snaps\20\rate\4000\name\KOKRRR\teamtask\0\teamoverlay\1
+8-16-2021 19:47 (8544:32): ClientUserinfoChanged: 1 n\KOKRRR\t\0\model\luke/default\c1\4\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\dual_1\st2\none\dt\0
+8-16-2021 19:47 (8544:45): ClientUserinfoChanged handling info: 1 \ip\46.13.93.85:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\none\saber1\single_1\cg_predictItems\1\sex\male\handicap\100\color2\4\color1\4\forcepowers\7-1-010000000000000320\model\luke/default\snaps\20\rate\4000\name\KOKRRR\teamtask\0\teamoverlay\1
+8-16-2021 19:47 (8544:45): ClientUserinfoChanged: 1 n\KOKRRR\t\0\model\luke/default\c1\4\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\dual_1\st2\none\dt\0
+8-16-2021 19:47 (8545:17): Kill: 3 1 3: Karri killed KOKRRR by MOD_SABER
+8-16-2021 19:47 (8545:17): duel: Karri won a duel against KOKRRR
+8-16-2021 19:47 (8545:18): ClientUserinfoChanged handling info: 1 \ip\46.13.93.85:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\none\saber1\single_1\cg_predictItems\1\sex\male\handicap\100\color2\4\color1\4\forcepowers\7-1-010000000000000320\model\luke/default\snaps\20\rate\4000\name\KOKRRR\teamtask\0\teamoverlay\1
+8-16-2021 19:47 (8545:18): ClientUserinfoChanged: 1 n\KOKRRR\t\0\model\luke/default\c1\4\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\single_1\st2\none\dt\0
+8-16-2021 19:47 (8545:18): ClientUserinfoChanged handling info: 1 \ip\46.13.93.85:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\none\saber1\single_1\cg_predictItems\1\sex\male\handicap\100\color2\4\color1\4\forcepowers\7-1-010000000000000320\model\luke/default\snaps\20\rate\4000\name\KOKRRR\teamtask\0\teamoverlay\1
+8-16-2021 19:47 (8545:18): ClientUserinfoChanged: 1 n\KOKRRR\t\0\model\luke/default\c1\4\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\single_1\st2\none\dt\0
+8-16-2021 19:49 (8546:53): Kill: 1 3 3: KOKRRR killed Karri by MOD_SABER
+8-16-2021 19:49 (8546:53): duel: KOKRRR won a duel against Karri
+8-16-2021 19:49 (8546:58): ClientUserinfoChanged handling info: 3 \ip\79.98.157.156:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\none\saber1\Kyle\cg_predictItems\1\sex\male\handicap\100\color2\3\color1\3\forcepowers\7-1-030330000000000333\model\desann/default\snaps\20\rate\4000\name\Karri\teamtask\0\teamoverlay\1
+8-16-2021 19:49 (8546:58): ClientUserinfoChanged: 3 n\Karri\t\0\model\desann/default\c1\3\c2\3\hc\100\w\0\l\0\tt\0\tl\0\st\Kyle\st2\none\dt\0
+8-16-2021 19:50 (8547:51): Kill: 3 1 3: Karri killed KOKRRR by MOD_SABER
+8-16-2021 19:50 (8547:51): duel: Karri won a duel against KOKRRR
+8-16-2021 19:50 (8547:53): ClientUserinfoChanged handling info: 1 \ip\46.13.93.85:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\none\saber1\single_1\cg_predictItems\1\sex\male\handicap\100\color2\4\color1\4\forcepowers\7-1-010000000000000320\model\luke/default\snaps\20\rate\4000\name\KOKRRR\teamtask\0\teamoverlay\1
+8-16-2021 19:50 (8547:53): ClientUserinfoChanged: 1 n\KOKRRR\t\0\model\luke/default\c1\4\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\single_1\st2\none\dt\0
+8-16-2021 19:50 (8548:26): Kill: 1 3 3: KOKRRR killed Karri by MOD_SABER
+8-16-2021 19:50 (8548:26): duel: KOKRRR won a duel against Karri
+8-16-2021 19:51 (8548:33): ClientUserinfoChanged handling info: 3 \ip\79.98.157.156:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\none\saber1\Kyle\cg_predictItems\1\sex\male\handicap\100\color2\3\color1\3\forcepowers\7-1-030330000000000333\model\desann/default\snaps\20\rate\4000\name\Karri\teamtask\0\teamoverlay\1
+8-16-2021 19:51 (8548:33): ClientUserinfoChanged: 3 n\Karri\t\0\model\desann/default\c1\3\c2\3\hc\100\w\0\l\0\tt\0\tl\0\st\Kyle\st2\none\dt\0
+8-16-2021 19:51 (8549:10): Kill: 3 1 3: Karri killed KOKRRR by MOD_SABER
+8-16-2021 19:51 (8549:10): duel: Karri won a duel against KOKRRR
+8-16-2021 19:51 (8549:11): ClientUserinfoChanged handling info: 1 \ip\46.13.93.85:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\none\saber1\single_1\cg_predictItems\1\sex\male\handicap\100\color2\4\color1\4\forcepowers\7-1-010000000000000320\model\luke/default\snaps\20\rate\4000\name\KOKRRR\teamtask\0\teamoverlay\1
+8-16-2021 19:51 (8549:11): ClientUserinfoChanged: 1 n\KOKRRR\t\0\model\luke/default\c1\4\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\single_1\st2\none\dt\0
+8-16-2021 19:52 (8550:17): Kill: 1 3 3: KOKRRR killed Karri by MOD_SABER
+8-16-2021 19:52 (8550:17): duel: KOKRRR won a duel against Karri
+8-16-2021 19:52 (8550:23): ClientUserinfoChanged handling info: 3 \ip\79.98.157.156:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\none\saber1\Kyle\cg_predictItems\1\sex\male\handicap\100\color2\3\color1\3\forcepowers\7-1-030330000000000333\model\desann/default\snaps\20\rate\4000\name\Karri\teamtask\0\teamoverlay\1
+8-16-2021 19:52 (8550:23): ClientUserinfoChanged: 3 n\Karri\t\0\model\desann/default\c1\3\c2\3\hc\100\w\0\l\0\tt\0\tl\0\st\Kyle\st2\none\dt\0
+8-16-2021 19:54 (8551:45): Kill: 1 3 3: KOKRRR killed Karri by MOD_SABER
+8-16-2021 19:54 (8551:45): duel: KOKRRR won a duel against Karri
+8-16-2021 19:54 (8551:47): ClientUserinfoChanged handling info: 3 \ip\79.98.157.156:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\none\saber1\Kyle\cg_predictItems\1\sex\male\handicap\100\color2\3\color1\3\forcepowers\7-1-030330000000000333\model\desann/default\snaps\20\rate\4000\name\Karri\teamtask\0\teamoverlay\1
+8-16-2021 19:54 (8551:47): ClientUserinfoChanged: 3 n\Karri\t\0\model\desann/default\c1\3\c2\3\hc\100\w\0\l\0\tt\0\tl\0\st\Kyle\st2\none\dt\0
+8-16-2021 19:55 (8552:36): Kill: 3 1 3: Karri killed KOKRRR by MOD_SABER
+8-16-2021 19:55 (8552:36): duel: Karri won a duel against KOKRRR
+8-16-2021 19:55 (8552:37): ClientUserinfoChanged handling info: 1 \ip\46.13.93.85:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\none\saber1\single_1\cg_predictItems\1\sex\male\handicap\100\color2\4\color1\4\forcepowers\7-1-010000000000000320\model\luke/default\snaps\20\rate\4000\name\KOKRRR\teamtask\0\teamoverlay\1
+8-16-2021 19:55 (8552:37): ClientUserinfoChanged: 1 n\KOKRRR\t\0\model\luke/default\c1\4\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\single_1\st2\none\dt\0
+8-16-2021 19:56 (8553:38): Kill: 1 3 3: KOKRRR killed Karri by MOD_SABER
+8-16-2021 19:56 (8553:38): duel: KOKRRR won a duel against Karri
+8-16-2021 19:56 (8553:43): ClientUserinfoChanged handling info: 3 \ip\79.98.157.156:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\none\saber1\Kyle\cg_predictItems\1\sex\male\handicap\100\color2\3\color1\3\forcepowers\7-1-030330000000000333\model\desann/default\snaps\20\rate\4000\name\Karri\teamtask\0\teamoverlay\1
+8-16-2021 19:56 (8553:43): ClientUserinfoChanged: 3 n\Karri\t\0\model\desann/default\c1\3\c2\3\hc\100\w\0\l\0\tt\0\tl\0\st\Kyle\st2\none\dt\0
+8-16-2021 19:56 (8554:27): Kill: 1 3 3: KOKRRR killed Karri by MOD_SABER
+8-16-2021 19:56 (8554:27): duel: KOKRRR won a duel against Karri
+8-16-2021 19:57 (8554:32): ClientUserinfoChanged handling info: 3 \ip\79.98.157.156:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\none\saber1\Kyle\cg_predictItems\1\sex\male\handicap\100\color2\3\color1\3\forcepowers\7-1-030330000000000333\model\desann/default\snaps\20\rate\4000\name\Karri\teamtask\0\teamoverlay\1
+8-16-2021 19:57 (8554:32): ClientUserinfoChanged: 3 n\Karri\t\0\model\desann/default\c1\3\c2\3\hc\100\w\0\l\0\tt\0\tl\0\st\Kyle\st2\none\dt\0
+8-16-2021 19:57 (8554:46): ClientUserinfoChanged handling info: 3 \ip\79.98.157.156:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\none\saber1\Kyle\cg_predictItems\1\sex\male\handicap\100\color2\3\color1\0\forcepowers\7-1-030330000000000333\model\desann/default\snaps\20\rate\4000\name\Karri\teamtask\0\teamoverlay\1
+8-16-2021 19:57 (8554:46): ClientUserinfoChanged: 3 n\Karri\t\0\model\desann/default\c1\0\c2\3\hc\100\w\0\l\0\tt\0\tl\0\st\Kyle\st2\none\dt\0
+8-16-2021 19:57 (8555:17): Kill: 1 3 3: KOKRRR killed Karri by MOD_SABER
+8-16-2021 19:57 (8555:17): duel: KOKRRR won a duel against Karri
+8-16-2021 19:57 (8555:22): ClientUserinfoChanged handling info: 3 \ip\79.98.157.156:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\none\saber1\Kyle\cg_predictItems\1\sex\male\handicap\100\color2\3\color1\0\forcepowers\7-1-030330000000000333\model\desann/default\snaps\20\rate\4000\name\Karri\teamtask\0\teamoverlay\1
+8-16-2021 19:57 (8555:22): ClientUserinfoChanged: 3 n\Karri\t\0\model\desann/default\c1\0\c2\3\hc\100\w\0\l\0\tt\0\tl\0\st\Kyle\st2\none\dt\0
+8-16-2021 19:58 (8556:07): Kill: 3 1 3: Karri killed KOKRRR by MOD_SABER
+8-16-2021 19:58 (8556:07): duel: Karri won a duel against KOKRRR
+8-16-2021 19:58 (8556:08): ClientUserinfoChanged handling info: 1 \ip\46.13.93.85:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\none\saber1\single_1\cg_predictItems\1\sex\male\handicap\100\color2\4\color1\4\forcepowers\7-1-010000000000000320\model\luke/default\snaps\20\rate\4000\name\KOKRRR\teamtask\0\teamoverlay\1
+8-16-2021 19:58 (8556:08): ClientUserinfoChanged: 1 n\KOKRRR\t\0\model\luke/default\c1\4\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\single_1\st2\none\dt\0
+8-16-2021 19:59 (8557:21): Kill: 3 1 3: Karri killed KOKRRR by MOD_SABER
+8-16-2021 19:59 (8557:21): duel: Karri won a duel against KOKRRR
+8-16-2021 19:59 (8557:22): ClientUserinfoChanged handling info: 1 \ip\46.13.93.85:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\none\saber1\single_1\cg_predictItems\1\sex\male\handicap\100\color2\4\color1\4\forcepowers\7-1-010000000000000320\model\luke/default\snaps\20\rate\4000\name\KOKRRR\teamtask\0\teamoverlay\1
+8-16-2021 19:59 (8557:22): ClientUserinfoChanged: 1 n\KOKRRR\t\0\model\luke/default\c1\4\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\single_1\st2\none\dt\0
+8-16-2021 20: 1 (8558:57): Kill: 1 3 3: KOKRRR killed Karri by MOD_SABER
+8-16-2021 20: 1 (8558:57): duel: KOKRRR won a duel against Karri
+8-16-2021 20: 1 (8559:00): ClientUserinfoChanged handling info: 3 \ip\79.98.157.156:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\none\saber1\Kyle\cg_predictItems\1\sex\male\handicap\100\color2\3\color1\0\forcepowers\7-1-030330000000000333\model\desann/default\snaps\20\rate\4000\name\Karri\teamtask\0\teamoverlay\1
+8-16-2021 20: 1 (8559:00): ClientUserinfoChanged: 3 n\Karri\t\0\model\desann/default\c1\0\c2\3\hc\100\w\0\l\0\tt\0\tl\0\st\Kyle\st2\none\dt\0
+8-16-2021 20: 2 (8560:05): Kill: 1 3 3: KOKRRR killed Karri by MOD_SABER
+8-16-2021 20: 2 (8560:05): duel: KOKRRR won a duel against Karri
+8-16-2021 20: 2 (8560:15): ClientUserinfoChanged handling info: 3 \ip\79.98.157.156:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\none\saber1\Kyle\cg_predictItems\1\sex\male\handicap\100\color2\3\color1\0\forcepowers\7-1-030330000000000333\model\desann/default\snaps\20\rate\4000\name\Karri\teamtask\0\teamoverlay\1
+8-16-2021 20: 2 (8560:15): ClientUserinfoChanged: 3 n\Karri\t\0\model\desann/default\c1\0\c2\3\hc\100\w\0\l\0\tt\0\tl\0\st\Kyle\st2\none\dt\0
+8-16-2021 20: 3 (8560:37): Kill: 3 1 3: Karri killed KOKRRR by MOD_SABER
+8-16-2021 20: 3 (8560:37): duel: Karri won a duel against KOKRRR
+8-16-2021 20: 3 (8560:39): ClientUserinfoChanged handling info: 1 \ip\46.13.93.85:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\none\saber1\single_1\cg_predictItems\1\sex\male\handicap\100\color2\4\color1\4\forcepowers\7-1-010000000000000320\model\luke/default\snaps\20\rate\4000\name\KOKRRR\teamtask\0\teamoverlay\1
+8-16-2021 20: 3 (8560:39): ClientUserinfoChanged: 1 n\KOKRRR\t\0\model\luke/default\c1\4\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\single_1\st2\none\dt\0
+8-16-2021 20: 4 (8561:37): Kill: 1 3 3: KOKRRR killed Karri by MOD_SABER
+8-16-2021 20: 4 (8561:37): duel: KOKRRR won a duel against Karri
+8-16-2021 20: 4 (8561:42): ClientUserinfoChanged handling info: 3 \ip\79.98.157.156:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\none\saber1\Kyle\cg_predictItems\1\sex\male\handicap\100\color2\3\color1\0\forcepowers\7-1-030330000000000333\model\desann/default\snaps\20\rate\4000\name\Karri\teamtask\0\teamoverlay\1
+8-16-2021 20: 4 (8561:42): ClientUserinfoChanged: 3 n\Karri\t\0\model\desann/default\c1\0\c2\3\hc\100\w\0\l\0\tt\0\tl\0\st\Kyle\st2\none\dt\0
+8-16-2021 20: 4 (8562:24): Kill: 1 3 3: KOKRRR killed Karri by MOD_SABER
+8-16-2021 20: 4 (8562:24): duel: KOKRRR won a duel against Karri
+8-16-2021 20: 4 (8562:29): ClientUserinfoChanged handling info: 3 \ip\79.98.157.156:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\none\saber1\Kyle\cg_predictItems\1\sex\male\handicap\100\color2\3\color1\0\forcepowers\7-1-030330000000000333\model\desann/default\snaps\20\rate\4000\name\Karri\teamtask\0\teamoverlay\1
+8-16-2021 20: 4 (8562:29): ClientUserinfoChanged: 3 n\Karri\t\0\model\desann/default\c1\0\c2\3\hc\100\w\0\l\0\tt\0\tl\0\st\Kyle\st2\none\dt\0
+8-16-2021 20: 5 (8563:04): Kill: 1 3 3: KOKRRR killed Karri by MOD_SABER
+8-16-2021 20: 5 (8563:04): duel: KOKRRR won a duel against Karri
+8-16-2021 20: 5 (8563:07): ClientUserinfoChanged handling info: 3 \ip\79.98.157.156:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\none\saber1\Kyle\cg_predictItems\1\sex\male\handicap\100\color2\3\color1\0\forcepowers\7-1-030330000000000333\model\desann/default\snaps\20\rate\4000\name\Karri\teamtask\0\teamoverlay\1
+8-16-2021 20: 5 (8563:07): ClientUserinfoChanged: 3 n\Karri\t\0\model\desann/default\c1\0\c2\3\hc\100\w\0\l\0\tt\0\tl\0\st\Kyle\st2\none\dt\0
+8-16-2021 20: 6 (8563:33): ClientConnect: 4
+8-16-2021 20: 6 (8563:33): ClientUserinfoChanged handling info: 4 \ip\50.121.92.45:29070\challenge\1728065732\qport\53144\protocol\26\name\^0Sa^6l^0izar\rate\4000\snaps\20\model\stormpilot/default\forcepowers\7-1-030000000000000330\color1\5\color2\4\handicap\100\sex\male\cg_predictItems\1\saber1\dual_2\saber2\none\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+8-16-2021 20: 6 (8563:33): ClientUserinfoChanged: 4 n\^0Sa^6l^0izar\t\0\model\stormpilot/default\c1\5\c2\4\hc\0\w\0\l\0\tt\0\tl\0\st\\st2\\dt\0
+8-16-2021 20: 6 (8563:33): IP: 50.121.92.45 ^0Sa^6l^0izar
+8-16-2021 20: 6 (8563:37): ClientUserinfoChanged handling info: 4 \ip\50.121.92.45:29070\name\^0Sa^6l^0izar\rate\4000\snaps\20\model\stormpilot/default\forcepowers\7-1-030000000000000330\color1\5\color2\4\handicap\100\sex\male\cg_predictItems\1\saber1\dual_2\saber2\none\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+8-16-2021 20: 6 (8563:37): ClientUserinfoChanged: 4 n\^0Sa^6l^0izar\t\0\model\stormpilot/default\c1\5\c2\4\hc\0\w\0\l\0\tt\0\tl\0\st\dual_2\st2\none\dt\0
+8-16-2021 20: 6 (8563:37): ClientUserinfoChanged handling info: 4 \ip\50.121.92.45:29070\name\^0Sa^6l^0izar\rate\4000\snaps\20\model\stormpilot/default\forcepowers\7-1-030000000000000330\color1\5\color2\4\handicap\100\sex\male\cg_predictItems\1\saber1\dual_2\saber2\none\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+8-16-2021 20: 6 (8563:37): ClientUserinfoChanged: 4 n\^0Sa^6l^0izar\t\0\model\stormpilot/default\c1\5\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\dual_2\st2\none\dt\0
+8-16-2021 20: 6 (8563:37): ClientBegin: 4
+8-16-2021 20: 6 (8563:40): say: ^0Sa^6l^0izar: hi
+8-16-2021 20: 6 (8563:44): say: KOKRRR: HELLO
+8-16-2021 20: 6 (8563:51): say: Karri: hello
+8-16-2021 20: 6 (8564:26): ClientUserinfoChanged handling info: 4 \ip\50.121.92.45:29070\name\^0Sa^6l^0izar\rate\4000\snaps\20\model\stormpilot/default\forcepowers\7-1-030000000000000330\color1\5\color2\4\handicap\100\sex\male\cg_predictItems\1\saber1\dual_2\saber2\none\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+8-16-2021 20: 6 (8564:26): ClientUserinfoChanged: 4 n\^0Sa^6l^0izar\t\0\model\stormpilot/default\c1\5\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\dual_2\st2\none\dt\0
+8-16-2021 20: 6 (8564:27): ClientUserinfoChanged handling info: 4 \name\^0Bi^1l^0ius\ip\50.121.92.45:29070\rate\4000\snaps\20\model\stormpilot/default\forcepowers\7-1-030000000000000330\color1\5\color2\4\handicap\100\sex\male\cg_predictItems\1\saber1\dual_2\saber2\none\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+8-16-2021 20: 6 (8564:27): ClientUserinfoChanged: 4 n\^0Bi^1l^0ius\t\0\model\stormpilot/default\c1\5\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\dual_2\st2\none\dt\0
+8-16-2021 20: 7 (8564:53): Kill: 3 1 3: Karri killed KOKRRR by MOD_SABER
+8-16-2021 20: 7 (8564:53): duel: Karri won a duel against KOKRRR
+8-16-2021 20: 7 (8564:54): ClientUserinfoChanged handling info: 1 \ip\46.13.93.85:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\none\saber1\single_1\cg_predictItems\1\sex\male\handicap\100\color2\4\color1\4\forcepowers\7-1-010000000000000320\model\luke/default\snaps\20\rate\4000\name\KOKRRR\teamtask\0\teamoverlay\1
+8-16-2021 20: 7 (8564:54): ClientUserinfoChanged: 1 n\KOKRRR\t\0\model\luke/default\c1\4\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\single_1\st2\none\dt\0
+8-16-2021 20: 7 (8565:18): Kill: 4 3 3: ^0Bi^1l^0ius killed Karri by MOD_SABER
+8-16-2021 20: 7 (8565:18): duel: ^0Bi^1l^0ius won a duel against Karri
+8-16-2021 20: 7 (8565:21): ClientUserinfoChanged handling info: 3 \ip\79.98.157.156:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\none\saber1\Kyle\cg_predictItems\1\sex\male\handicap\100\color2\3\color1\0\forcepowers\7-1-030330000000000333\model\desann/default\snaps\20\rate\4000\name\Karri\teamtask\0\teamoverlay\1
+8-16-2021 20: 7 (8565:21): ClientUserinfoChanged: 3 n\Karri\t\0\model\desann/default\c1\0\c2\3\hc\100\w\0\l\0\tt\0\tl\0\st\Kyle\st2\none\dt\0
+8-16-2021 20: 8 (8565:43): Kill: 1 4 3: KOKRRR killed ^0Bi^1l^0ius by MOD_SABER
+8-16-2021 20: 8 (8565:43): duel: KOKRRR won a duel against ^0Bi^1l^0ius
+8-16-2021 20: 8 (8565:44): ClientUserinfoChanged handling info: 4 \name\^0Bi^1l^0ius\ip\50.121.92.45:29070\rate\4000\snaps\20\model\stormpilot/default\forcepowers\7-1-030000000000000330\color1\5\color2\4\handicap\100\sex\male\cg_predictItems\1\saber1\dual_2\saber2\none\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+8-16-2021 20: 8 (8565:44): ClientUserinfoChanged: 4 n\^0Bi^1l^0ius\t\0\model\stormpilot/default\c1\5\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\dual_2\st2\none\dt\0
+8-16-2021 20: 8 (8566:03): say: ^0Bi^1l^0ius: you guys come here often?
+8-16-2021 20: 8 (8566:17): say: KOKRRR: noooo first time :D
+8-16-2021 20: 9 (8566:34): say: ^0Bi^1l^0ius: you know anyting about lugor?
+8-16-2021 20: 9 (8566:36): say: KOKRRR: we played it a looong time ago :D
+8-16-2021 20: 9 (8566:44): say: ^0Bi^1l^0ius: same
+8-16-2021 20: 9 (8566:47): Exit: Timelimit hit.
+8-16-2021 20: 9 (8566:47): score: 24  ping: 117  client: 1 KOKRRR
+8-16-2021 20: 9 (8566:47): score: 19  ping: 107  client: 3 Karri
+8-16-2021 20: 9 (8566:47): score: 1  ping: 27  client: 4 ^0Bi^1l^0ius
+8-16-2021 20: 9 (8566:47): score: 0  ping: 49  client: 0 Kyle
+8-16-2021 20: 9 (8566:47): score: 0  ping: 56  client: 2 astupidbot
+8-16-2021 20: 9 (8566:53): ShutdownGame:
+8-16-2021 20: 9 (8566:53): ------------------------------------------------------------
+8-16-2021 20: 9 (8566:53): ------------------------------------------------------------
+8-16-2021 20: 9 (8566:53): InitGame: \version\JAmp: v1.0.1.0 linux-i386 Mar 14 2020\timelimit\45\sv_privateClients\0\sv_minRate\0\sv_minPing\0\sv_maxclients\32\sv_maxRate\0\sv_maxPing\999\sv_hostname\^7~^1~^7~ COMM SERVER ~^1~^7~\sv_fps\50\sv_floodProtectSlow\1\sv_floodProtect\1\sv_autoDemo\0\sv_allowDownload\0\serveruptime\212\protocol\26\mapname\academy6\gamename\Lugormod\g_weaponDisable\0\g_stepSlideFix\0\g_siegeTeamSwitch\1\g_siegeTeam2\none\g_siegeTeam1\none\g_siegeRespawn\20\g_showDuelHealths\1\g_saberWallDamageScale\0.4\g_saberLocking\0\g_privateDuel\1535\g_noSpecMove\0\g_needpass\0\g_maxHolocronCarry\3\g_maxGameClients\0\g_maxForceRank\7\g_jediVmerc\0\g_gametype\0\g_gamemode\0\g_forceRegenTime\160\g_forcePowerDisable\0\g_forceBasedTeams\1\g_duelWeaponDisable\9\g_debugmelee\1\g_allowNPC\1\fs_game\lugormod\fraglimit\0\duel_fraglimit\10\dmflags\0\capturelimit\10\bot_minplayers\2\bg_fighterAltControl\0\Lugormod_Version\U#-0.0.0.91 Alpha
+8-16-2021 20: 9 (8566:53): ClientConnect: 0
+8-16-2021 20: 9 (8566:53): ClientUserinfoChanged handling info: 0 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+8-16-2021 20: 9 (8566:53): ClientUserinfoChanged: 0 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\0\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+8-16-2021 20: 9 (8566:53): ClientUserinfoChanged handling info: 0 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+8-16-2021 20: 9 (8566:53): ClientUserinfoChanged: 0 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+8-16-2021 20: 9 (8566:53): ClientBegin: 0
+8-16-2021 20: 9 (8566:53): ClientConnect: 1
+8-16-2021 20: 9 (8566:53): ClientUserinfoChanged handling info: 1 \ip\46.13.93.85:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\none\saber1\single_1\cg_predictItems\1\sex\male\handicap\100\color2\4\color1\4\forcepowers\7-1-010000000000000320\model\luke/default\snaps\20\rate\4000\name\KOKRRR\teamtask\0\teamoverlay\1
+8-16-2021 20: 9 (8566:53): ClientUserinfoChanged: 1 n\KOKRRR\t\0\model\luke/default\c1\4\c2\4\hc\0\w\0\l\0\tt\0\tl\0\st\single_1\st2\none\dt\0
+8-16-2021 20: 9 (8566:53): ClientUserinfoChanged handling info: 1 \ip\46.13.93.85:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\none\saber1\single_1\cg_predictItems\1\sex\male\handicap\100\color2\4\color1\4\forcepowers\7-1-010000000000000320\model\luke/default\snaps\20\rate\4000\name\KOKRRR\teamtask\0\teamoverlay\1
+8-16-2021 20: 9 (8566:53): ClientUserinfoChanged: 1 n\KOKRRR\t\0\model\luke/default\c1\4\c2\4\hc\0\w\0\l\0\tt\0\tl\0\st\single_1\st2\none\dt\0
+8-16-2021 20: 9 (8566:53): ClientUserinfoChanged handling info: 1 \ip\46.13.93.85:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\none\saber1\single_1\cg_predictItems\1\sex\male\handicap\100\color2\4\color1\4\forcepowers\7-1-010000000000000320\model\luke/default\snaps\20\rate\4000\name\KOKRRR\teamtask\0\teamoverlay\1
+8-16-2021 20: 9 (8566:53): ClientUserinfoChanged: 1 n\KOKRRR\t\0\model\luke/default\c1\4\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\single_1\st2\none\dt\0
+8-16-2021 20: 9 (8566:53): ClientBegin: 1
+8-16-2021 20: 9 (8566:53): ClientConnect: 2
+8-16-2021 20: 9 (8566:53): ClientUserinfoChanged handling info: 2 \team\0\skill\ 5.00\personality\botfiles/astupidbot.jkb\saber2\none\saber1\kyle\color2\4\color1\4\sex\male\model\jawa\snaps\20\rate\25000\name\astupidbot
+8-16-2021 20: 9 (8566:53): ClientUserinfoChanged: 2 n\astupidbot\t\0\model\jawa\c1\4\c2\4\hc\0\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+8-16-2021 20: 9 (8566:53): ClientUserinfoChanged handling info: 2 \team\0\skill\ 5.00\personality\botfiles/astupidbot.jkb\saber2\none\saber1\kyle\color2\4\color1\4\sex\male\model\jawa\snaps\20\rate\25000\name\astupidbot
+8-16-2021 20: 9 (8566:53): ClientUserinfoChanged: 2 n\astupidbot\t\0\model\jawa\c1\4\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+8-16-2021 20: 9 (8566:53): ClientBegin: 2
+8-16-2021 20: 9 (8566:53): ClientConnect: 3
+8-16-2021 20: 9 (8566:53): ClientUserinfoChanged handling info: 3 \ip\79.98.157.156:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\none\saber1\Kyle\cg_predictItems\1\sex\male\handicap\100\color2\3\color1\0\forcepowers\7-1-030330000000000333\model\desann/default\snaps\20\rate\4000\name\Karri\teamtask\0\teamoverlay\1
+8-16-2021 20: 9 (8566:53): ClientUserinfoChanged: 3 n\Karri\t\0\model\desann/default\c1\0\c2\3\hc\0\w\0\l\0\tt\0\tl\0\st\Kyle\st2\none\dt\0
+8-16-2021 20: 9 (8566:53): ClientUserinfoChanged handling info: 3 \ip\79.98.157.156:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\none\saber1\Kyle\cg_predictItems\1\sex\male\handicap\100\color2\3\color1\0\forcepowers\7-1-030330000000000333\model\desann/default\snaps\20\rate\4000\name\Karri\teamtask\0\teamoverlay\1
+8-16-2021 20: 9 (8566:53): ClientUserinfoChanged: 3 n\Karri\t\0\model\desann/default\c1\0\c2\3\hc\0\w\0\l\0\tt\0\tl\0\st\Kyle\st2\none\dt\0
+8-16-2021 20: 9 (8566:53): ClientUserinfoChanged handling info: 3 \ip\79.98.157.156:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\none\saber1\Kyle\cg_predictItems\1\sex\male\handicap\100\color2\3\color1\0\forcepowers\7-1-030330000000000333\model\desann/default\snaps\20\rate\4000\name\Karri\teamtask\0\teamoverlay\1
+8-16-2021 20: 9 (8566:53): ClientUserinfoChanged: 3 n\Karri\t\0\model\desann/default\c1\0\c2\3\hc\100\w\0\l\0\tt\0\tl\0\st\Kyle\st2\none\dt\0
+8-16-2021 20: 9 (8566:53): ClientBegin: 3
+8-16-2021 20: 9 (8566:53): ClientConnect: 4
+8-16-2021 20: 9 (8566:53): ClientUserinfoChanged handling info: 4 \name\^0Bi^1l^0ius\ip\50.121.92.45:29070\rate\4000\snaps\20\model\stormpilot/default\forcepowers\7-1-030000000000000330\color1\5\color2\4\handicap\100\sex\male\cg_predictItems\1\saber1\dual_2\saber2\none\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+8-16-2021 20: 9 (8566:53): ClientUserinfoChanged: 4 n\Padawan\t\0\model\stormpilot/default\c1\5\c2\4\hc\0\w\0\l\0\tt\0\tl\0\st\dual_2\st2\none\dt\0
+8-16-2021 20: 9 (8566:53): ClientUserinfoChanged handling info: 4 \name\^0Bi^1l^0ius\ip\50.121.92.45:29070\rate\4000\snaps\20\model\stormpilot/default\forcepowers\7-1-030000000000000330\color1\5\color2\4\handicap\100\sex\male\cg_predictItems\1\saber1\dual_2\saber2\none\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+8-16-2021 20: 9 (8566:53): ClientNamechange: Padawan is now ^0Bi^1l^0ius
+8-16-2021 20: 9 (8566:53): ClientUserinfoChanged: 4 n\^0Bi^1l^0ius\t\0\model\stormpilot/default\c1\5\c2\4\hc\0\w\0\l\0\tt\0\tl\0\st\dual_2\st2\none\dt\0
+8-16-2021 20: 9 (8566:53): ClientUserinfoChanged handling info: 4 \name\^0Bi^1l^0ius\ip\50.121.92.45:29070\rate\4000\snaps\20\model\stormpilot/default\forcepowers\7-1-030000000000000330\color1\5\color2\4\handicap\100\sex\male\cg_predictItems\1\saber1\dual_2\saber2\none\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+8-16-2021 20: 9 (8566:53): ClientUserinfoChanged: 4 n\^0Bi^1l^0ius\t\0\model\stormpilot/default\c1\5\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\dual_2\st2\none\dt\0
+8-16-2021 20: 9 (8566:53): ClientUserinfoChanged handling info: 4 \name\^0Bi^1l^0ius\ip\50.121.92.45:29070\rate\4000\snaps\20\model\stormpilot/default30000000000000330\color1\5\col00330\color1\5\color2\4\handicap\100\sex\male\cg_predictItems\1\saber1\dual_2\saber2\none\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+8-16-2021 20: 9 (8566:53): ClientUserinfoChanged: 4 n\^0Bi^1l^0ius\t\0\model\stormpilot/default30000000000000330\c1\5\c2\\hc\100\w\0\l\0\tt\0\tl\0\st\Kyle\st2\Kyle\dt\0
+8-16-2021 20: 9 (8566:53): ClientUserinfoChanged handling info: 4 \saber2\Kyle\saber1\Kyle\name\^0Bi^1l^0ius\ip\50.121.92.45:29070\rate\4000\snaps\20\model\stormpilot/default30000000000000330\color1\5\col00330\color1\5\color2\4\handicap\100\sex\male\cg_predictItems\1\saber1\dual_2\saber2\none\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+8-16-2021 20: 9 (8566:53): ClientUserinfoChanged: 4 n\^0Bi^1l^0ius\t\0\model\stormpilot/default30000000000000330\c1\5\c2\\hc\100\w\0\l\0\tt\0\tl\0\st\Kyle\st2\Kyle\dt\0
+8-16-2021 20: 9 (8566:53): ClientBegin: 4
+8-16-2021 20: 9 (8567:02): Kill: 4 1 3: ^0Bi^1l^0ius killed KOKRRR by MOD_SABER
+8-16-2021 20: 9 (8567:03): ClientUserinfoChanged handling info: 1 \ip\46.13.93.85:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\none\saber1\single_1\cg_predictItems\1\sex\male\handicap\100\color2\4\color1\4\forcepowers\7-1-010000000000000320\model\luke/default\snaps\20\rate\4000\name\KOKRRR\teamtask\0\teamoverlay\1
+8-16-2021 20: 9 (8567:03): ClientUserinfoChanged: 1 n\KOKRRR\t\0\model\luke/default\c1\4\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\single_1\st2\none\dt\0
+8-16-2021 20: 9 (8567:07): say: KOKRRR: lugor?
+8-16-2021 20: 9 (8567:11): Kill: 1 2 3: KOKRRR killed astupidbot by MOD_SABER
+8-16-2021 20: 9 (8567:12): ClientUserinfoChanged handling info: 2 \team\0\skill\ 5.00\personality\botfiles/astupidbot.jkb\saber2\none\saber1\kyle\color2\4\color1\4\sex\male\model\jawa\snaps\20\rate\25000\name\astupidbot
+8-16-2021 20: 9 (8567:12): ClientUserinfoChanged: 2 n\astupidbot\t\0\model\jawa\c1\4\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+8-16-2021 20: 9 (8567:16): say: ^0Bi^1l^0ius: yes thats what this server is
+8-16-2021 20: 9 (8567:21): Kill: 4 0 3: ^0Bi^1l^0ius killed Kyle by MOD_SABER
+8-16-2021 20: 9 (8567:22): ClientUserinfoChanged handling info: 0 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+8-16-2021 20: 9 (8567:22): ClientUserinfoChanged: 0 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+8-16-2021 20: 9 (8567:23): say: Kyle: bye all
+8-16-2021 20: 9 (8567:23): ClientDisconnect: 0
+8-16-2021 20: 9 (8567:27): Kill: 4 2 3: ^0Bi^1l^0ius killed astupidbot by MOD_SABER
+8-16-2021 20: 9 (8567:28): ClientUserinfoChanged handling info: 2 \team\0\skill\ 5.00\personality\botfiles/astupidbot.jkb\saber2\none\saber1\kyle\color2\4\color1\4\sex\male\model\jawa\snaps\20\rate\25000\name\astupidbot
+8-16-2021 20: 9 (8567:28): ClientUserinfoChanged: 2 n\astupidbot\t\0\model\jawa\c1\4\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+8-16-2021 20:10 (8567:48): say: astupidbot: cya
+8-16-2021 20:10 (8567:48): ClientDisconnect: 2
+8-16-2021 20:10 (8567:50): Kill: 1 4 3: KOKRRR killed ^0Bi^1l^0ius by MOD_SABER
+8-16-2021 20:10 (8567:50): duel: KOKRRR won a duel against ^0Bi^1l^0ius
+8-16-2021 20:10 (8567:51): ClientUserinfoChanged handling info: 4 \saber2\Kyle\saber1\Kyle\name\^0Bi^1l^0ius\ip\50.121.92.45:29070\rate\4000\snaps\20\model\stormpilot/default30000000000000330\color1\5\col00330\color1\5\color2\4\handicap\100\sex\male\cg_predictItems\1\saber1\dual_2\saber2\none\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+8-16-2021 20:10 (8567:51): ClientUserinfoChanged: 4 n\^0Bi^1l^0ius\t\0\model\stormpilot/default30000000000000330\c1\5\c2\\hc\100\w\0\l\0\tt\0\tl\0\st\Kyle\st2\Kyle\dt\0
+8-16-2021 20:10 (8567:53): say: Karri: bb
+8-16-2021 20:10 (8568:18): Kill: 4 1 3: ^0Bi^1l^0ius killed KOKRRR by MOD_SABER
+8-16-2021 20:10 (8568:18): duel: ^0Bi^1l^0ius won a duel against KOKRRR
+8-16-2021 20:10 (8568:19): ClientUserinfoChanged handling info: 1 \ip\46.13.93.85:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\none\saber1\single_1\cg_predictItems\1\sex\male\handicap\100\color2\4\color1\4\forcepowers\7-1-010000000000000320\model\luke/default\snaps\20\rate\4000\name\KOKRRR\teamtask\0\teamoverlay\1
+8-16-2021 20:10 (8568:19): ClientUserinfoChanged: 1 n\KOKRRR\t\0\model\luke/default\c1\4\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\single_1\st2\none\dt\0
+8-16-2021 20:11 (8568:36): Kill: 4 3 3: ^0Bi^1l^0ius killed Karri by MOD_SABER
+8-16-2021 20:11 (8568:36): duel: ^0Bi^1l^0ius won a duel against Karri
+8-16-2021 20:11 (8568:38): ClientUserinfoChanged handling info: 3 \ip\79.98.157.156:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\none\saber1\Kyle\cg_predictItems\1\sex\male\handicap\100\color2\3\color1\0\forcepowers\7-1-030330000000000333\model\desann/default\snaps\20\rate\4000\name\Karri\teamtask\0\teamoverlay\1
+8-16-2021 20:11 (8568:38): ClientUserinfoChanged: 3 n\Karri\t\0\model\desann/default\c1\0\c2\3\hc\100\w\0\l\0\tt\0\tl\0\st\Kyle\st2\none\dt\0
+8-16-2021 20:11 (8568:47): Kill: 1 4 3: KOKRRR killed ^0Bi^1l^0ius by MOD_SABER
+8-16-2021 20:11 (8568:47): duel: KOKRRR won a duel against ^0Bi^1l^0ius
+8-16-2021 20:11 (8568:48): ClientUserinfoChanged handling info: 4 \saber2\Kyle\saber1\Kyle\name\^0Bi^1l^0ius\ip\50.121.92.45:29070\rate\4000\snaps\20\model\stormpilot/default30000000000000330\color1\5\col00330\color1\5\color2\4\handicap\100\sex\male\cg_predictItems\1\saber1\dual_2\saber2\none\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+8-16-2021 20:11 (8568:48): ClientUserinfoChanged: 4 n\^0Bi^1l^0ius\t\0\model\stormpilot/default30000000000000330\c1\5\c2\\hc\100\w\0\l\0\tt\0\tl\0\st\Kyle\st2\Kyle\dt\0
+8-16-2021 20:11 (8569:16): Kill: 1 4 3: KOKRRR killed ^0Bi^1l^0ius by MOD_SABER
+8-16-2021 20:11 (8569:16): duel: KOKRRR won a duel against ^0Bi^1l^0ius
+8-16-2021 20:11 (8569:17): ClientUserinfoChanged handling info: 4 \saber2\Kyle\saber1\Kyle\name\^0Bi^1l^0ius\ip\50.121.92.45:29070\rate\4000\snaps\20\model\stormpilot/default30000000000000330\color1\5\col00330\color1\5\color2\4\handicap\100\sex\male\cg_predictItems\1\saber1\dual_2\saber2\none\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+8-16-2021 20:11 (8569:17): ClientUserinfoChanged: 4 n\^0Bi^1l^0ius\t\0\model\stormpilot/default30000000000000330\c1\5\c2\\hc\100\w\0\l\0\tt\0\tl\0\st\Kyle\st2\Kyle\dt\0
+8-16-2021 20:12 (8569:30): Kill: 1 3 5: KOKRRR killed Karri by MOD_BRYAR_PISTOL_ALT
+8-16-2021 20:12 (8569:34): ClientUserinfoChanged handling info: 3 \ip\79.98.157.156:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\none\saber1\Kyle\cg_predictItems\1\sex\male\handicap\100\color2\3\color1\0\forcepowers\7-1-030330000000000333\model\desann/default\snaps\20\rate\4000\name\Karri\teamtask\0\teamoverlay\1
+8-16-2021 20:12 (8569:34): ClientUserinfoChanged: 3 n\Karri\t\0\model\desann/default\c1\0\c2\3\hc\100\w\0\l\0\tt\0\tl\0\st\Kyle\st2\none\dt\0
+8-16-2021 20:12 (8569:36): ClientUserinfoChanged handling info: 4 \ip\50.121.92.45:29070\name\^0Sa^6l^0izar\rate\4000\snaps\20\model\stormtrooper/officer\forcepowers\7-1-030000000000000330\color1\5\color2\4\handicap\100\sex\male\cg_predictItems\1\saber1\dual_2\saber2\none\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+8-16-2021 20:12 (8569:36): ClientNamechange: ^0Bi^1l^0ius is now ^0Sa^6l^0izar
+8-16-2021 20:12 (8569:36): ClientUserinfoChanged: 4 n\^0Sa^6l^0izar\t\0\model\stormtrooper/officer\c1\5\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\Kyle\st2\Kyle\dt\0
+8-16-2021 20:12 (8569:37): ClientUserinfoChanged handling info: 4 \ip\50.121.92.45:29070\name\^0Sa^6l^0izar\rate\4000\snaps\20\model\reborn/boss\forcepowers\7-1-030000000000000330\color1\5\color2\4\handicap\100\sex\male\cg_predictItems\1\saber1\dual_2\saber2\none\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+8-16-2021 20:12 (8569:37): ClientUserinfoChanged: 4 n\^0Sa^6l^0izar\t\0\model\reborn/boss\c1\5\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\Kyle\st2\Kyle\dt\0
+8-16-2021 20:12 (8570:20): Kill: 1 3 3: KOKRRR killed Karri by MOD_SABER
+8-16-2021 20:12 (8570:20): duel: KOKRRR won a duel against Karri
+8-16-2021 20:12 (8570:25): ClientUserinfoChanged handling info: 3 \ip\79.98.157.156:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\none\saber1\Kyle\cg_predictItems\1\sex\male\handicap\100\color2\3\color1\0\forcepowers\7-1-030330000000000333\model\desann/default\snaps\20\rate\4000\name\Karri\teamtask\0\teamoverlay\1
+8-16-2021 20:12 (8570:25): ClientUserinfoChanged: 3 n\Karri\t\0\model\desann/default\c1\0\c2\3\hc\100\w\0\l\0\tt\0\tl\0\st\Kyle\st2\none\dt\0
+8-16-2021 20:13 (8570:32): say: KOKRRR: ok
+8-16-2021 20:13 (8570:33): say: Karri: kk bb boyz
+8-16-2021 20:13 (8570:35): say: KOKRRR: so see you soon
+8-16-2021 20:13 (8570:41): say: KOKRRR: maybe tommoorow :D
+8-16-2021 20:13 (8570:42): say: KOKRRR: bye
+8-16-2021 20:13 (8570:46): ClientDisconnect: 3
+8-16-2021 20:13 (8570:51): ClientDisconnect: 1
+8-16-2021 20:13 (8570:52): ClientConnect: 0
+8-16-2021 20:13 (8570:52): ClientUserinfoChanged handling info: 0 \team\0\skill\ 5.00\personality\botfiles/astupidbot.jkb\saber2\none\saber1\kyle\color2\4\color1\4\sex\male\model\jawa\snaps\20\rate\25000\name\astupidbot
+8-16-2021 20:13 (8570:52): ClientUserinfoChanged: 0 n\astupidbot\t\0\model\jawa\c1\4\c2\4\hc\0\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\\st2\\dt\0\sdt\0
+8-16-2021 20:13 (8570:52): IP: localhost astupidbot
+8-16-2021 20:13 (8570:52): ClientUserinfoChanged handling info: 0 \team\0\skill\ 5.00\personality\botfiles/astupidbot.jkb\saber2\none\saber1\kyle\color2\4\color1\4\sex\male\model\jawa\snaps\20\rate\25000\name\astupidbot
+8-16-2021 20:13 (8570:52): ClientUserinfoChanged: 0 n\astupidbot\t\0\model\jawa\c1\4\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+8-16-2021 20:13 (8570:52): ClientBegin: 0
+8-16-2021 20:13 (8571:05): ClientUserinfoChanged handling info: 4 \ip\50.121.92.45:29070\name\^0Sa^6l^0izar\rate\4000\snaps\20\model\reborn/boss\forcepowers\1-1-010000000000000100\color1\5\color2\4\handicap\100\sex\male\cg_predictItems\1\saber1\dual_2\saber2\none\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+8-16-2021 20:13 (8571:05): ClientUserinfoChanged: 4 n\^0Sa^6l^0izar\t\0\model\reborn/boss\c1\5\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\Kyle\st2\Kyle\dt\0
+8-16-2021 20:14 (8571:30): Kill: 4 0 3: ^0Sa^6l^0izar killed astupidbot by MOD_SABER
+8-16-2021 20:14 (8571:32): ClientUserinfoChanged handling info: 0 \team\0\skill\ 5.00\personality\botfiles/astupidbot.jkb\saber2\none\saber1\kyle\color2\4\color1\4\sex\male\model\jawa\snaps\20\rate\25000\name\astupidbot
+8-16-2021 20:14 (8571:32): ClientUserinfoChanged: 0 n\astupidbot\t\0\model\jawa\c1\4\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+8-16-2021 20:14 (8571:32): say: astupidbot: ouch
+8-16-2021 20:15 (8572:30): ^0Sa^6l^0izar deposited a money stash. CR 10.
+8-16-2021 20:15 (8572:39): ClientDisconnect: 4
+8-16-2021 20:15 (8573:02): ClientConnect: 1
+8-16-2021 20:15 (8573:02): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+8-16-2021 20:15 (8573:02): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\0\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\\st2\\dt\0\sdt\0
+8-16-2021 20:15 (8573:02): IP: localhost Kyle
+8-16-2021 20:15 (8573:02): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+8-16-2021 20:15 (8573:02): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+8-16-2021 20:15 (8573:02): ClientBegin: 1
+8-16-2021 21: 7 (8624:56): ClientConnect: 2
+8-16-2021 21: 7 (8624:56): ClientUserinfoChanged handling info: 2 \ip\108.90.0.150:29070\challenge\-336402684\qport\50847\protocol\26\rate\4000\snaps\20\model\jedi_hf/head_a1|torso_c1|lower_b1\forcepowers\6-1-333311000000003310\color1\4\color2\4\handicap\100\sex\male\cg_predictItems\1\saber1\single_1\saber2\single_1\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+8-16-2021 21: 7 (8624:56): ClientUserinfoChanged: 2 n\Padawan\t\0\model\jedi_hf/head_a1|torso_c1|lower_b1\c1\4\c2\4\hc\0\w\0\l\0\tt\0\tl\0\st\\st2\\dt\0
+8-16-2021 21: 7 (8624:56): IP: 108.90.0.150 Padawan
+8-16-2021 21: 7 (8625:01): ClientUserinfoChanged handling info: 2 \ip\108.90.0.150:29070\rate\4000\snaps\20\model\jedi_hf/head_a1|torso_c1|lower_b1\forcepowers\6-1-333311000000003310\color1\4\color2\4\handicap\100\sex\male\cg_predictItems\1\saber1\single_1\saber2\single_1\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+8-16-2021 21: 7 (8625:01): ClientUserinfoChanged: 2 n\Padawan\t\0\model\jedi_hf/head_a1|torso_c1|lower_b1\c1\4\c2\4\hc\0\w\0\l\0\tt\0\tl\0\st\single_1\st2\single_1\dt\0
+8-16-2021 21: 7 (8625:01): ClientUserinfoChanged handling info: 2 \ip\108.90.0.150:29070\rate\4000\snaps\20\model\jedi_hf/head_a1|torso_c1|lower_b1\forcepowers\6-1-333311000000003310\color1\4\color2\4\handicap\100\sex\male\cg_predictItems\1\saber1\single_1\saber2\single_1\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+8-16-2021 21: 7 (8625:01): ClientUserinfoChanged: 2 n\Padawan\t\0\model\jedi_hf/head_a1|torso_c1|lower_b1\c1\4\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\single_1\st2\single_1\dt\0
+8-16-2021 21: 7 (8625:01): ClientBegin: 2
+8-16-2021 21: 7 (8625:26): say: astupidbot: g2g
+8-16-2021 21: 7 (8625:26): ClientDisconnect: 0
+8-16-2021 21: 9 (8626:44): ClientUserinfoChanged handling info: 2 \ip\108.90.0.150:29070\rate\4000\snaps\20\model\luke/default\forcepowers\7-1-333311000000003310\color1\4\color2\4\handicap\100\sex\male\cg_predictItems\1\saber1\single_1\saber2\single_1\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+8-16-2021 21: 9 (8626:44): ClientUserinfoChanged: 2 n\Padawan\t\0\model\luke/default\c1\4\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\single_1\st2\single_1\dt\0
+8-16-2021 21:12 (8629:39): sayclose: Padawan: hi
+8-16-2021 21:12 (8630:25): ClientUserinfoChanged handling info: 2 \ip\108.90.0.150:29070\rate\4000\snaps\20\model\alora2/default\forcepowers\7-1-333311000000003310\color1\4\color2\4\handicap\100\sex\male\cg_predictItems\1\saber1\single_1\saber2\single_1\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+8-16-2021 21:12 (8630:25): ClientUserinfoChanged: 2 n\Padawan\t\0\model\alora2/default\c1\4\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\single_1\st2\single_1\dt\0
+8-16-2021 21:14 (8632:03): say: Kyle: Where is everyone?
+8-16-2021 21:15 (8632:49): ClientUserinfoChanged handling info: 2 \ip\108.90.0.150:29070\rate\4000\snaps\20\model\jedi_hf/head_c1|torso_c1|lower_b1\forcepowers\7-1-333311000230003310\color1\4\color2\4\handicap\100\sex\male\cg_predictItems\1\saber1\single_1\saber2\single_1\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+8-16-2021 21:15 (8632:49): ClientUserinfoChanged: 2 n\Padawan\t\0\model\jedi_hf/head_c1|torso_c1|lower_b1\c1\4\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\single_1\st2\single_1\dt\0
+8-16-2021 21:15 (8633:29): ClientUserinfoChanged handling info: 2 \ip\108.90.0.150:29070\rate\4000\snaps\20\model\jedi_hf/head_b1|torso_a1|lower_a1\forcepowers\7-1-333311000230003310\color1\4\color2\4\handicap\100\sex\male\cg_predictItems\1\saber1\single_1\saber2\single_1\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+8-16-2021 21:15 (8633:29): ClientUserinfoChanged: 2 n\Padawan\t\0\model\jedi_hf/head_b1|torso_a1|lower_a1\c1\4\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\single_1\st2\single_1\dt\0
+8-16-2021 21:17 (8634:51): ClientUserinfoChanged handling info: 2 \ip\108.90.0.150:29070\rate\4000\snaps\20\model\jedi_hf/head_b1|torso_a1|lower_a1\forcepowers\7-1-333311000230003311\color1\4\color2\4\handicap\100\sex\male\cg_predictItems\1\saber1\single_1\saber2\single_1\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+8-16-2021 21:17 (8634:51): ClientUserinfoChanged: 2 n\Padawan\t\0\model\jedi_hf/head_b1|torso_a1|lower_a1\c1\4\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\single_1\st2\single_1\dt\0
+8-16-2021 21:18 (8635:31): Kill: 1022 2 38: <world> killed Padawan by MOD_FALLING
+8-16-2021 21:18 (8635:31): Exit: Timelimit hit.
+8-16-2021 21:18 (8635:31): score: 0  ping: 44  client: 1 Kyle
+8-16-2021 21:18 (8635:31): score: -1  ping: 56  client: 2 Padawan
+8-16-2021 21:18 (8635:32): ClientUserinfoChanged handling info: 2 \ip\108.90.0.150:29070\rate\4000\snaps\20\model\jedi_hf/head_b1|torso_a1|lower_a1\forcepowers\7-1-333311000230003311\color1\4\color2\4\handicap\100\sex\male\cg_predictItems\1\saber1\single_1\saber2\single_1\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+8-16-2021 21:18 (8635:32): ClientUserinfoChanged: 2 n\Padawan\t\0\model\jedi_hf/head_b1|torso_a1|lower_a1\c1\4\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\single_1\st2\single_1\dt\0
+8-16-2021 21:18 (8635:37): ShutdownGame:
+8-16-2021 21:18 (8635:37): ------------------------------------------------------------
+8-16-2021 21:18 (8635:37): ------------------------------------------------------------
+8-16-2021 21:18 (8635:37): InitGame: \version\JAmp: v1.0.1.0 linux-i386 Mar 14 2020\timelimit\45\sv_privateClients\0\sv_minRate\0\sv_minPing\0\sv_maxclients\32\sv_maxRate\0\sv_maxPing\999\sv_hostname\^7~^1~^7~ COMM SERVER ~^1~^7~\sv_fps\50\sv_floodProtectSlow\1\sv_floodProtect\1\sv_autoDemo\0\sv_allowDownload\0\serveruptime\212\protocol\26\mapname\academy6\gamename\Lugormod\g_weaponDisable\0\g_stepSlideFix\0\g_siegeTeamSwitch\1\g_siegeTeam2\none\g_siegeTeam1\none\g_siegeRespawn\20\g_showDuelHealths\1\g_saberWallDamageScale\0.4\g_saberLocking\0\g_privateDuel\1535\g_noSpecMove\0\g_needpass\0\g_maxHolocronCarry\3\g_maxGameClients\0\g_maxForceRank\7\g_jediVmerc\0\g_gametype\0\g_gamemode\0\g_forceRegenTime\160\g_forcePowerDisable\0\g_forceBasedTeams\1\g_duelWeaponDisable\9\g_debugmelee\1\g_allowNPC\1\fs_game\lugormod\fraglimit\0\duel_fraglimit\10\dmflags\0\capturelimit\10\bot_minplayers\2\bg_fighterAltControl\0\Lugormod_Version\U#-0.0.0.91 Alpha
+8-16-2021 21:18 (8635:37): ClientConnect: 1
+8-16-2021 21:18 (8635:37): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+8-16-2021 21:18 (8635:37): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\0\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+8-16-2021 21:18 (8635:37): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+8-16-2021 21:18 (8635:37): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+8-16-2021 21:18 (8635:37): ClientBegin: 1
+8-16-2021 21:18 (8635:37): ClientConnect: 2
+8-16-2021 21:18 (8635:37): ClientUserinfoChanged handling info: 2 \ip\108.90.0.150:29070\rate\4000\snaps\20\model\jedi_hf/head_b1|torso_a1|lower_a1\forcepowers\7-1-333311000230003311\color1\4\color2\4\handicap\100\sex\male\cg_predictItems\1\saber1\single_1\saber2\single_1\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+8-16-2021 21:18 (8635:37): ClientUserinfoChanged: 2 n\Padawan\t\0\model\jedi_hf/head_b1|torso_a1|lower_a1\c1\4\c2\4\hc\0\w\0\l\0\tt\0\tl\0\st\single_1\st2\single_1\dt\0
+8-16-2021 21:18 (8635:37): ClientUserinfoChanged handling info: 2 \ip\108.90.0.150:29070\rate\4000\snaps\20\model\jedi_hf/head_b1|torso_a1|lower_a1\forcepowers\7-1-333311000230003311\color1\4\color2\4\handicap\100\sex\male\cg_predictItems\1\saber1\single_1\saber2\single_1\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+8-16-2021 21:18 (8635:37): ClientUserinfoChanged: 2 n\Padawan\t\0\model\jedi_hf/head_b1|torso_a1|lower_a1\c1\4\c2\4\hc\0\w\0\l\0\tt\0\tl\0\st\single_1\st2\single_1\dt\0
+8-16-2021 21:18 (8635:37): ClientUserinfoChanged handling info: 2 \ip\108.90.0.150:29070\rate\4000\snaps\20\model\jedi_hf/head_b1|torso_a1|lower_a1\forcepowers\7-1-333311000230003311\color1\4\color2\4\handicap\100\sex\male\cg_predictItems\1\saber1\single_1\saber2\single_1\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+8-16-2021 21:18 (8635:37): ClientUserinfoChanged: 2 n\Padawan\t\0\model\jedi_hf/head_b1|torso_a1|lower_a1\c1\4\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\single_1\st2\single_1\dt\0
+8-16-2021 21:18 (8635:37): ClientBegin: 2
+8-16-2021 21:18 (8636:11): ClientUserinfoChanged handling info: 2 \ip\108.90.0.150:29070\rate\4000\snaps\20\model\stormtrooper/default\forcepowers\7-1-333311000230003311\color1\4\color2\4\handicap\100\sex\male\cg_predictItems\1\saber1\single_1\saber2\single_1\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+8-16-2021 21:18 (8636:11): ClientUserinfoChanged: 2 n\Padawan\t\0\model\stormtrooper/default\c1\4\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\single_1\st2\single_1\dt\0
+8-16-2021 21:19 (8637:00): sayclose: Padawan: g2g
+8-16-2021 21:19 (8637:05): ClientDisconnect: 2
+8-16-2021 21:19 (8637:05): ClientConnect: 0
+8-16-2021 21:19 (8637:05): ClientUserinfoChanged handling info: 0 \team\0\skill\ 5.00\personality\botfiles/astupidbot.jkb\saber2\none\saber1\kyle\color2\4\color1\4\sex\male\model\jawa\snaps\20\rate\25000\name\astupidbot
+8-16-2021 21:19 (8637:05): ClientUserinfoChanged: 0 n\astupidbot\t\0\model\jawa\c1\4\c2\4\hc\0\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\\st2\\dt\0\sdt\0
+8-16-2021 21:19 (8637:05): IP: localhost astupidbot
+8-16-2021 21:19 (8637:05): ClientUserinfoChanged handling info: 0 \team\0\skill\ 5.00\personality\botfiles/astupidbot.jkb\saber2\none\saber1\kyle\color2\4\color1\4\sex\male\model\jawa\snaps\20\rate\25000\name\astupidbot
+8-16-2021 21:19 (8637:05): ClientUserinfoChanged: 0 n\astupidbot\t\0\model\jawa\c1\4\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+8-16-2021 21:19 (8637:05): ClientBegin: 0
+8-17-2021 13:22 (9599:46): ClientConnect: 2
+8-17-2021 13:22 (9599:46): ClientUserinfoChanged handling info: 2 \ip\2.135.64.164:26721\challenge\-1743107232\qport\1971\protocol\26\cp_pluginDisable\0\name\Padawan\rate\4000\snaps\20\model\boba_fett/default\forcepowers\7-2-032300030000000331\color1\4\color2\4\handicap\100\sex\male\cg_predictItems\1\saber1\single_5\saber2\none\char_color_red\255\char_color_green\255\char_color_blue\255\cp_login\NOT SET\cp_clanPwd\none\cp_sbRGB1\0\cp_sbRGB2\0\teamtask\0\cp_holster\3\teamoverlay\1\cjp_client\1.4 beta3
+8-17-2021 13:22 (9599:46): ClientUserinfoChanged: 2 n\Padawan\t\0\model\boba_fett/default\c1\4\c2\4\hc\0\w\0\l\0\tt\0\tl\0\st\\st2\\dt\0
+8-17-2021 13:22 (9599:46): IP: 2.135.64.164 Padawan
+8-17-2021 13:22 (9599:51): ClientUserinfoChanged handling info: 2 \ip\2.135.64.164:26721\cp_pluginDisable\0\name\Padawan\rate\4000\snaps\20\model\boba_fett/default\forcepowers\7-2-032300030000000331\color1\4\color2\4\handicap\100\sex\male\cg_predictItems\1\saber1\single_5\saber2\none\char_color_red\255\char_color_green\255\char_color_blue\255\cp_login\NOT SET\cp_clanPwd\none\cp_sbRGB1\0\cp_sbRGB2\0\teamtask\0\cp_holster\3\teamoverlay\1\cjp_client\1.4 beta3
+8-17-2021 13:22 (9599:51): ClientUserinfoChanged: 2 n\Padawan\t\0\model\boba_fett/default\c1\4\c2\4\hc\0\w\0\l\0\tt\0\tl\0\st\single_5\st2\none\dt\0
+8-17-2021 13:22 (9599:51): ClientUserinfoChanged handling info: 2 \ip\2.135.64.164:26721\cp_pluginDisable\0\name\Padawan\rate\4000\snaps\20\model\boba_fett/default\forcepowers\7-2-032300030000000331\color1\4\color2\4\handicap\100\sex\male\cg_predictItems\1\saber1\single_5\saber2\none\char_color_red\255\char_color_green\255\char_color_blue\255\cp_login\NOT SET\cp_clanPwd\none\cp_sbRGB1\0\cp_sbRGB2\0\teamtask\0\cp_holster\3\teamoverlay\1\cjp_client\1.4 beta3
+8-17-2021 13:22 (9599:51): ClientUserinfoChanged: 2 n\Padawan\t\0\model\boba_fett/default\c1\4\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\single_5\st2\none\dt\0
+8-17-2021 13:22 (9599:51): ClientBegin: 2
+8-17-2021 13:22 (9599:52): say: astupidbot: bye all
+8-17-2021 13:22 (9599:52): ClientDisconnect: 0
+8-17-2021 13:23 (9600:47): Kill: 2 1 3: Padawan killed Kyle by MOD_SABER
+8-17-2021 13:23 (9600:47): Exit: Timelimit hit.
+8-17-2021 13:23 (9600:47): score: 1  ping: 193  client: 2 Padawan
+8-17-2021 13:23 (9600:47): score: 0  ping: 60  client: 1 Kyle
+8-17-2021 13:23 (9600:48): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+8-17-2021 13:23 (9600:48): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+8-17-2021 13:23 (9600:49): say: Kyle: Good Fight
+8-17-2021 13:23 (9600:53): ShutdownGame:
+8-17-2021 13:23 (9600:53): ------------------------------------------------------------

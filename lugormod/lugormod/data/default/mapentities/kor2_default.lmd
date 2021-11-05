@@ -1,0 +1,242 @@
+{
+"classname" "item_binoculars"
+"angle" "0"
+"origin" "13148 3418 -2960"
+}
+{
+"classname" "weapon_blaster"
+"angle" "179"
+"origin" "4704 3660 -2728"
+}
+{
+"classname" "ammo_thermal"
+"angle" "176"
+"origin" "15082 -846 -3024"
+}
+{
+"classname" "item_seeker"
+"angle" "35"
+"origin" "9386 2232 -2666"
+}
+{
+"classname" "weapon_blaster_pistol"
+"angle" "359"
+"origin" "8606 7752 -3296"
+}
+{
+"classname" "weapon_rocket_launcher"
+"angle" "181"
+"origin" "7914 6112 -2544"
+}
+{
+"classname" "item_ammodisp"
+"angle" "134"
+"origin" "8714 4202 -3698"
+}
+{
+"classname" "weapon_disruptor"
+"angle" "4"
+"origin" "11598 6918 -2240"
+}
+{
+"classname" "weapon_bowcaster"
+"angle" "10"
+"origin" "6218 486 -3824"
+}
+{
+"classname" "weapon_flechette"
+"angle" "91"
+"origin" "7368 4352 -2752"
+}
+{
+"classname" "item_cloak"
+"angle" "130"
+"origin" "10718 6774 -3792"
+}
+{
+"classname" "weapon_stun_baton"
+"angle" "182"
+"origin" "5270 2216 -3424"
+}
+{
+"classname" "item_sentry_gun"
+"angle" "180"
+"origin" "12964 -1694 -3280"
+}
+{
+"classname" "ammo_tripmine"
+"angle" "9"
+"origin" "6542 2614 -4441"
+}
+{
+"classname" "ammo_all"
+"angle" "348"
+"origin" "8338 10866 -3672"
+}
+{
+"classname" "weapon_bryar_pistol"
+"angle" "4"
+"origin" "5536 7188 -2816"
+}
+{
+"classname" "ammo_detpack"
+"angle" "129"
+"origin" "10664 5696 -3792"
+}
+{
+"classname" "misc_model_breakable"
+"model" "map_objects/factory/f_con1"
+"maxs" "8 8 40"
+"mins" "-8 -8 0"
+"target" "teleporter"
+"wait" "2"
+"spawnflags" "193"
+"origin" "13512 3432 -3086"
+}
+{
+"classname" "target_teleporter"
+"target" "teleto"
+"targetname" "teleporter"
+"origin" "13502 3430 -2968"
+}
+{
+"angle" "180"
+"classname" "money_dispenser"
+"origin" "8634 5640 -3230"
+}
+{
+"angle" "89"
+"classname" "money_dispenser"
+"origin" "13338 3392 -2958"
+}
+{
+"classname" "trigger_teleport"
+"maxs" "100 100 400"
+"mins" "-100 -100 0"
+"target" "gotoship"
+"origin" "12706 -742 -3166"
+}
+{
+"classname" "misc_teleporter_dest"
+"targetname" "gotoship"
+"angle" "90"
+"origin" "13248 4020 -2924"
+}
+{
+"classname" "misc_teleporter_dest"
+"targetname" "teleto"
+"angle" "90"
+"origin" "7296 160 -3296"
+}
+{
+"classname" "info_player_deathmatch"
+"angle" "45"
+"origin" "2817 2717 -2522"
+}
+{
+"classname" "info_player_deathmatch"
+"angle" "315"
+"origin" "2817 3364 -2522"
+}
+{
+"classname" "info_player_deathmatch"
+"angle" "90"
+"origin" "3295 2719 -2522"
+}
+{
+"classname" "info_player_deathmatch"
+"angle" "270"
+"origin" "3294 3361 -2522"
+}
+{
+"classname" "info_player_deathmatch"
+"angle" "45"
+"origin" "3454 2564 -2522"
+}
+{
+"classname" "info_player_deathmatch"
+"angle" "315"
+"origin" "3456 3516 -2522"
+}
+{
+"classname" "misc_model_breakable"
+"model" "models/map_objects/factory/f_con1"
+"spawnflags" "193"
+"target" "info2"
+"origin" "3951 3207 -2598"
+}
+{
+"classname" "misc_model_breakable"
+"model" "models/map_objects/factory/f_con1"
+"spawnflags" "193"
+"target" "info1"
+"origin" "3951 3237 -2598"
+}
+{
+"classname" "misc_model_breakable"
+"model" "models/map_objects/factory/f_con1"
+"spawnflags" "193"
+"target" "info3"
+"origin" "3951 3177 -2598"
+}
+{
+"classname" "trigger_push"
+"target" "spawn_jump_target"
+"maxs" "30 30 30"
+"mins" "-30 -30 0"
+"origin" "4944 2435 -2719"
+}
+{
+"classname" "weapon_stun_baton"
+"wait" "1"
+"origin" "3951 3117 -2600"
+}
+{
+"classname" "fx_runner"
+"fxfile" "effects/env/btend"
+"origin" "4944 2435 -2719"
+}
+{
+"classname" "item_jetpack"
+"wait" "1"
+"origin" "3951 3147 -2600"
+}
+{
+"classname" "info_notnull"
+"targetname" "spawn_jump_target"
+"origin" "3879 2421 -1436"
+}
+{
+"classname" "target_credits"
+"targetname" "sec"
+"count" "100"
+"random" "50"
+}
+{
+"classname" "money_dispenser"
+"angle" "270"
+"origin" "7376 4535 -2752"
+}
+{
+"classname" "fx_runner"
+"fxfile" "effects/mp/itemcone"
+"origin" "7291 2937 -2880"
+}
+{
+"classname" "info_notnull"
+"origin" "8110 10788 -2500"
+"targetname" "stuck1_dest"
+}
+{
+"classname" "func_static"
+"model" "*36"
+"angles" "90 90 0"
+"origin" "6700 7352 -4009"
+}
+{
+"classname" "trigger_push"
+"origin" "8110 10788 -3700"
+"maxs" "30 30 30"
+"mins" "-30 -30 0"
+"target" "stuck1_dest"
+}

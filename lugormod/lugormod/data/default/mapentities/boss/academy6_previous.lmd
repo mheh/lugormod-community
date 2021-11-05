@@ -1,0 +1,73 @@
+{
+"_minlight" "75"
+"ambient" "35"
+"soundSet" "yavin_interior"
+"music" "music/yavin2_old/yavtemp_explore.mp3"
+"classname" "worldspawn"
+}
+{
+"classname" "lmd_remap"
+"old" "textures/impdetention/metal"
+"new" "textures/hoth/blast_panel_snow"
+}
+{
+"classname" "lmd_remap"
+"old" "textures/imperial/caution"
+"new" "textures/hoth/blast_panel_snow"
+}
+{
+"classname" "lmd_remap"
+"old" "textures/imperial/basic"
+"new" "textures/hoth/blast_panel_snow"
+}
+{
+"classname" "lmd_remap"
+"old" "textures/yavin/temple_basicwall3"
+"new" "textures/hoth/blast_panel"
+}
+{
+"classname" "lmd_remap"
+"old" "textures/yavin/hangdoor"
+"new" "textures/hoth/blast_panel"
+}
+{
+"classname" "lmd_remap"
+"old" "textures/yavin/met_wall02"
+"new" "textures/hoth/blast_panel"
+}
+{
+"classname" "lmd_remap"
+"old" "textures/yavin/met_wall01"
+"new" "textures/hoth/blast_panel4"
+}
+{
+"classname" "lmd_remap"
+"old" "textures/yavin/metalrandom1worn"
+"new" "textures/hoth/blast_panel4"
+}
+{
+"classname" "lmd_remap"
+"old" "textures/yavin/hangfloor"
+"new" "textures/hoth/blast_panel_snow"
+}
+{
+"classname" "lmd_remap"
+"old" "textures/rift/floor1b"
+"new" "textures/hoth/blast_panel_snow"
+}
+{
+"classname" "lmd_Remap"
+"old" "textures/yavin/door_met02"
+"new" "textures/hoth/h_basicwall"
+}
+{
+"classname" "lmd_remap"
+"old" "textures/yavin/metalstockworn"
+"new" "textures/hoth/blast_panel_snow"
+}
+{
+"target" "t404"
+"angle" "270"
+"origin" "-1408 272 728"
+"classname" "info_player_deathmatch"
+}

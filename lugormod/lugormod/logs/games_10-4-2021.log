@@ -1,0 +1,508 @@
+10-5-2021 20:45 (9525:15): ------------------------------------------------------------
+10-5-2021 20:45 (9525:15): InitGame: \version\JAmp: v1.0.1.0 linux-i386 Mar 14 2020\timelimit\45\sv_privateClients\0\sv_minRate\0\sv_minPing\0\sv_maxclients\32\sv_maxRate\0\sv_maxPing\999\sv_hostname\^7~^1~^7~ COMM SERVER ~^1~^7~\sv_fps\50\sv_floodProtectSlow\1\sv_floodProtect\1\sv_autoDemo\0\sv_allowDownload\0\serveruptime\212\protocol\26\mapname\academy6\gamename\Lugormod\g_weaponDisable\0\g_stepSlideFix\0\g_siegeTeamSwitch\1\g_siegeTeam2\none\g_siegeTeam1\none\g_siegeRespawn\20\g_showDuelHealths\1\g_saberWallDamageScale\0.4\g_saberLocking\0\g_privateDuel\1535\g_noSpecMove\0\g_needpass\0\g_maxHolocronCarry\3\g_maxGameClients\0\g_maxForceRank\7\g_jediVmerc\0\g_gametype\0\g_gamemode\0\g_forceRegenTime\160\g_forcePowerDisable\0\g_forceBasedTeams\1\g_duelWeaponDisable\9\g_debugmelee\1\g_allowNPC\1\fs_game\lugormod\fraglimit\0\duel_fraglimit\10\dmflags\0\capturelimit\10\bot_minplayers\2\bg_fighterAltControl\0\Lugormod_Version\U#-0.0.0.91 Alpha
+10-5-2021 20:45 (9525:15): ClientConnect: 1
+10-5-2021 20:45 (9525:15): ClientUserinfoChanged handling info: 1 \saber2\none\name\Kyle\saber1\default\team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2r1\1\sex\male\monaps\2le\snaps\2le\snaps\2le\snaps\20\rate\25000
+10-5-2021 20:45 (9525:15): ClientUserinfoChanged: 1 n\Kyle\t\0\model\\c1\\c2\\hc\0\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\default\st2\none\dt\0\sdt\0
+10-5-2021 20:45 (9525:15): ClientUserinfoChanged handling info: 1 \name\Kyle\saber2\none\saber1\default\team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2r1\1\sex\male\monaps\2le\snaps\2le\snaps\2le\snaps\20\rate\25000
+10-5-2021 20:45 (9525:15): ClientUserinfoChanged: 1 n\Kyle\t\0\model\\c1\\c2\\hc\0\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\default\st2\none\dt\0\sdt\0
+10-5-2021 20:45 (9525:15): ClientUserinfoChanged handling info: 1 \name\Kyle\saber2\none\saber1\default\team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2r1\1\sex\male\monaps\2le\snaps\2le\snaps\2le\snaps\20\rate\25000
+10-5-2021 20:45 (9525:15): ClientUserinfoChanged: 1 n\Kyle\t\0\model\\c1\\c2\\hc\0\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\default\st2\none\dt\0\sdt\0
+10-5-2021 20:45 (9525:15): ClientUserinfoChanged handling info: 1 \name\Kyle\saber2\none\saber1\default\team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2r1\1\sex\male\monaps\2le\snaps\2le\snaps\2le\snaps\20\rate\25000
+10-5-2021 20:45 (9525:15): ClientUserinfoChanged: 1 n\Kyle\t\0\model\\c1\\c2\\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\default\st2\none\dt\0\sdt\0
+10-5-2021 20:45 (9525:15): ClientBegin: 1
+10-5-2021 20:45 (9525:15): ClientConnect: 2
+10-5-2021 20:45 (9525:15): ClientUserinfoChanged handling info: 2 \ip\47.26.236.113:29070\name\Zen\rate\4000\snaps\20\model\desann/default\forcepowers\7-2-032220330000000330\color1\0\color2\0\handicap\100\sex\male\cg_predictItems\1\saber1\single_1\saber2\single_1\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+10-5-2021 20:45 (9525:15): ClientUserinfoChanged: 2 n\Zen\t\3\model\desann/default\c1\0\c2\0\hc\0\w\0\l\0\tt\0\tl\0\st\single_1\st2\single_1\dt\0
+10-5-2021 20:45 (9525:15): ClientUserinfoChanged handling info: 2 \ip\47.26.236.113:29070\name\Zen\rate\4000\snaps\20\model\desann/default\forcepowers\7-2-032220330000000330\color1\0\color2\0\handicap\100\sex\male\cg_predictItems\1\saber1\single_1\saber2\single_1\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+10-5-2021 20:45 (9525:15): ClientUserinfoChanged: 2 n\Zen\t\3\model\desann/default\c1\0\c2\0\hc\0\w\0\l\0\tt\0\tl\0\st\single_1\st2\single_1\dt\0
+10-5-2021 20:45 (9525:15): ClientUserinfoChanged handling info: 2 \ip\47.26.236.113:29070\name\Zen\rate\4000\snaps\20\model\desann/default\forcepowers\7-2-032220330000000330\color1\0\color2\0\handicap\100\sex\male\cg_predictItems\1\saber1\single_1\saber2\single_1\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+10-5-2021 20:45 (9525:15): ClientUserinfoChanged: 2 n\Zen\t\3\model\desann/default\c1\0\c2\0\hc\100\w\0\l\0\tt\0\tl\0\st\single_1\st2\single_1\dt\0
+10-5-2021 20:45 (9525:15): ClientBegin: 2
+10-5-2021 20:45 (9525:25): setteam:  2 SPECTATOR FREE
+10-5-2021 20:45 (9525:25): ClientUserinfoChanged handling info: 2 \ip\47.26.236.113:29070\name\Zen\rate\4000\snaps\20\model\desann/default\forcepowers\7-2-032220330000000330\color1\0\color2\0\handicap\100\sex\male\cg_predictItems\1\saber1\single_1\saber2\single_1\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+10-5-2021 20:45 (9525:25): ClientUserinfoChanged: 2 n\Zen\t\0\model\desann/default\c1\0\c2\0\hc\100\w\0\l\0\tt\0\tl\0\st\single_1\st2\single_1\dt\0
+10-5-2021 20:45 (9525:25): ClientBegin: 2
+10-5-2021 20:46 (9525:38): ClientConnect: 0
+10-5-2021 20:46 (9525:38): ClientUserinfoChanged handling info: 0 \ip\108.245.56.163:29070\challenge\-1737333919\qport\53442\protocol\26\char_color_blue\255\char_color_green\150\char_color_red\180\saber2\none\saber1\single_9\cg_predictItems\1\sex\male\handicap\100\color2\1\color1\5\forcepowers\6-1-330300000000003322\model\jedi_tf/head_b2|torso_a1|lower_a1\snaps\20\rate\90000\name\MUKE\teamtask\0\teamoverlay\1
+10-5-2021 20:46 (9525:38): ClientUserinfoChanged: 0 n\MUKE\t\0\model\jedi_tf/head_b2|torso_a1|lower_a1\c1\5\c2\1\hc\0\w\0\l\0\tt\0\tl\0\st\\st2\\dt\0
+10-5-2021 20:46 (9525:38): IP: 108.245.56.163 MUKE
+10-5-2021 20:46 (9525:43): Kill: 1 2 3: Kyle killed Zen by MOD_SABER
+10-5-2021 20:46 (9525:47): ClientUserinfoChanged handling info: 0 \ip\108.245.56.163:29070\char_color_blue\255\char_color_green\155\char_color_red\62\saber2\none\saber1\single_1\cg_predictItems\1\sex\male\handicap\100\color2\1\color1\1\forcepowers\6-1-330300000000003322\model\jedi_tf/head_a4|torso_d1|lower_b1\snaps\20\rate\90000\name\MUKE\teamtask\0\teamoverlay\1
+10-5-2021 20:46 (9525:47): ClientUserinfoChanged: 0 n\MUKE\t\0\model\jedi_tf/head_a4|torso_d1|lower_b1\c1\1\c2\1\hc\0\w\0\l\0\tt\0\tl\0\st\single_1\st2\none\dt\0
+10-5-2021 20:46 (9525:47): ClientUserinfoChanged handling info: 0 \ip\108.245.56.163:29070\char_color_blue\255\char_color_green\155\char_color_red\62\saber2\none\saber1\single_1\cg_predictItems\1\sex\male\handicap\100\color2\1\color1\1\forcepowers\6-1-330300000000003322\model\jedi_tf/head_a4|torso_d1|lower_b1\snaps\20\rate\90000\name\MUKE\teamtask\0\teamoverlay\1
+10-5-2021 20:46 (9525:47): ClientUserinfoChanged: 0 n\MUKE\t\0\model\jedi_tf/head_a4|torso_d1|lower_b1\c1\1\c2\1\hc\100\w\0\l\0\tt\0\tl\0\st\single_1\st2\none\dt\0
+10-5-2021 20:46 (9525:47): ClientBegin: 0
+10-5-2021 20:46 (9525:54): ClientUserinfoChanged handling info: 2 \ip\47.26.236.113:29070\name\Zen\rate\4000\snaps\20\model\desann/default\forcepowers\7-2-032220330000000330\color1\0\color2\0\handicap\100\sex\male\cg_predictItems\1\saber1\single_1\saber2\single_1\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+10-5-2021 20:46 (9525:54): ClientUserinfoChanged: 2 n\Zen\t\0\model\desann/default\c1\0\c2\0\hc\100\w\0\l\0\tt\0\tl\0\st\single_1\st2\single_1\dt\0
+10-5-2021 20:46 (9526:07): say: Kyle: cya
+10-5-2021 20:46 (9526:07): ClientDisconnect: 1
+10-5-2021 20:48 (9528:00): Kill: 2 0 3: Zen killed MUKE by MOD_SABER
+10-5-2021 20:48 (9528:06): ClientUserinfoChanged handling info: 0 \ip\108.245.56.163:29070\char_color_blue\255\char_color_green\155\char_color_red\62\saber2\none\saber1\single_1\cg_predictItems\1\sex\male\handicap\100\color2\1\color1\1\forcepowers\6-1-330300000000003322\model\jedi_tf/head_a4|torso_d1|lower_b1\snaps\20\rate\90000\name\MUKE\teamtask\0\teamoverlay\1
+10-5-2021 20:48 (9528:06): ClientUserinfoChanged: 0 n\MUKE\t\0\model\jedi_tf/head_a4|torso_d1|lower_b1\c1\1\c2\1\hc\100\w\0\l\0\tt\0\tl\0\st\single_1\st2\none\dt\0
+10-5-2021 20:48 (9528:27): Kill: 0 2 3: MUKE killed Zen by MOD_SABER
+10-5-2021 20:49 (9528:43): ClientUserinfoChanged handling info: 2 \ip\47.26.236.113:29070\name\Zen\rate\4000\snaps\20\model\desann/default\forcepowers\7-2-032220330000000330\color1\0\color2\0\handicap\100\sex\male\cg_predictItems\1\saber1\single_1\saber2\single_1\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+10-5-2021 20:49 (9528:43): ClientUserinfoChanged: 2 n\Zen\t\0\model\desann/default\c1\0\c2\0\hc\100\w\0\l\0\tt\0\tl\0\st\single_1\st2\single_1\dt\0
+10-5-2021 20:49 (9529:25): ClientUserinfoChanged handling info: 2 \ip\47.26.236.113:29070\name\Zen\rate\4000\snaps\20\model\desann/default\forcepowers\7-2-032220330000000330\color1\0\color2\0\handicap\100\sex\male\cg_predictItems\1\saber1\single_1\saber2\single_1\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+10-5-2021 20:49 (9529:25): ClientUserinfoChanged: 2 n\Zen\t\0\model\desann/default\c1\0\c2\0\hc\100\w\0\l\0\tt\0\tl\0\st\single_1\st2\single_1\dt\0
+10-5-2021 20:50 (9529:54): ClientUserinfoChanged handling info: 2 \ip\47.26.236.113:29070\name\Zen\rate\4000\snaps\20\model\desann/default\forcepowers\7-2-032220330000000330\color1\0\color2\0\handicap\100\sex\male\cg_predictItems\1\saber1\single_1\saber2\single_1\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1
+10-5-2021 20:50 (9529:54): ClientUserinfoChanged: 2 n\Zen\t\0\model\desann/default\c1\0\c2\0\hc\100\w\0\l\0\tt\0\tl\0\st\single_1\st2\single_1\dt\0
+10-5-2021 20:50 (9530:13): ClientDisconnect: 2
+10-5-2021 20:50 (9530:27): ClientConnect: 1
+10-5-2021 20:50 (9530:27): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/astupidbot.jkb\saber2\none\saber1\kyle\color2\4\color1\4\sex\male\model\jawa\snaps\20\rate\25000\name\astupidbot
+10-5-2021 20:50 (9530:27): ClientUserinfoChanged: 1 n\astupidbot\t\0\model\jawa\c1\4\c2\4\hc\0\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\\st2\\dt\0\sdt\0
+10-5-2021 20:50 (9530:27): IP: localhost astupidbot
+10-5-2021 20:50 (9530:27): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/astupidbot.jkb\saber2\none\saber1\kyle\color2\4\color1\4\sex\male\model\jawa\snaps\20\rate\25000\name\astupidbot
+10-5-2021 20:50 (9530:27): ClientUserinfoChanged: 1 n\astupidbot\t\0\model\jawa\c1\4\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+10-5-2021 20:50 (9530:27): ClientBegin: 1
+10-5-2021 20:50 (9530:28): say: astupidbot: Hi
+10-5-2021 20:52 (9531:45): ClientConnect: 2
+10-5-2021 20:52 (9531:45): ClientUserinfoChanged handling info: 2 \ip\47.26.236.113:29070\challenge\324590315\qport\14102\protocol\26\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\single_1\saber1\single_1\cg_predictItems\1\sex\male\handicap\100\color2\0\color1\0\forcepowers\7-2-032220330000000330\model\desann/default\snaps\20\rate\4000\name\Zen\teamtask\0
+10-5-2021 20:52 (9531:45): ClientUserinfoChanged: 2 n\Zen\t\0\model\desann/default\c1\0\c2\0\hc\0\w\0\l\0\tt\0\tl\0\st\\st2\\dt\0
+10-5-2021 20:52 (9531:45): IP: 47.26.236.113 Zen
+10-5-2021 20:52 (9531:50): ClientUserinfoChanged handling info: 2 \ip\47.26.236.113:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\single_1\saber1\single_1\cg_predictItems\1\sex\male\handicap\100\color2\0\color1\0\forcepowers\7-2-032220330000000330\model\desann/default\snaps\20\rate\4000\name\Zen\teamtask\0\teamoverlay\1
+10-5-2021 20:52 (9531:50): ClientUserinfoChanged: 2 n\Zen\t\0\model\desann/default\c1\0\c2\0\hc\0\w\0\l\0\tt\0\tl\0\st\single_1\st2\single_1\dt\0
+10-5-2021 20:52 (9531:50): ClientUserinfoChanged handling info: 2 \ip\47.26.236.113:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\single_1\saber1\single_1\cg_predictItems\1\sex\male\handicap\100\color2\0\color1\0\forcepowers\7-2-032220330000000330\model\desann/default\snaps\20\rate\4000\name\Zen\teamtask\0\teamoverlay\1
+10-5-2021 20:52 (9531:50): ClientUserinfoChanged: 2 n\Zen\t\0\model\desann/default\c1\0\c2\0\hc\100\w\0\l\0\tt\0\tl\0\st\single_1\st2\single_1\dt\0
+10-5-2021 20:52 (9531:50): ClientBegin: 2
+10-5-2021 20:52 (9531:52): say: astupidbot: bye all
+10-5-2021 20:52 (9531:52): ClientDisconnect: 1
+10-5-2021 20:53 (9533:01): Kill: 2 0 31: Zen killed MUKE by MOD_FORCE_DARK
+10-5-2021 20:53 (9533:05): ClientUserinfoChanged handling info: 0 \ip\108.245.56.163:29070\char_color_blue\255\char_color_green\155\char_color_red\62\saber2\none\saber1\single_1\cg_predictItems\1\sex\male\handicap\100\color2\1\color1\1\forcepowers\6-1-330300000000003322\model\jedi_tf/head_a4|torso_d1|lower_b1\snaps\20\rate\90000\name\MUKE\teamtask\0\teamoverlay\1
+10-5-2021 20:53 (9533:05): ClientUserinfoChanged: 0 n\MUKE\t\0\model\jedi_tf/head_a4|torso_d1|lower_b1\c1\1\c2\1\hc\100\w\0\l\0\tt\0\tl\0\st\single_1\st2\none\dt\0
+10-5-2021 20:54 (9533:44): Kill: 1022 2 38: <world> killed Zen by MOD_FALLING
+10-5-2021 20:54 (9533:59): ClientUserinfoChanged handling info: 2 \ip\47.26.236.113:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\single_1\saber1\single_1\cg_predictItems\1\sex\male\handicap\100\color2\0\color1\0\forcepowers\7-2-032220330000000330\model\desann/default\snaps\20\rate\4000\name\Zen\teamtask\0\teamoverlay\1
+10-5-2021 20:54 (9533:59): ClientUserinfoChanged: 2 n\Zen\t\0\model\desann/default\c1\0\c2\0\hc\100\w\0\l\0\tt\0\tl\0\st\single_1\st2\single_1\dt\0
+10-5-2021 20:55 (9534:56): Kill: 2 0 3: Zen killed MUKE by MOD_SABER
+10-5-2021 20:55 (9535:06): ClientUserinfoChanged handling info: 0 \ip\108.245.56.163:29070\char_color_blue\255\char_color_green\155\char_color_red\62\saber2\none\saber1\single_1\cg_predictItems\1\sex\male\handicap\100\color2\1\color1\1\forcepowers\6-1-330300000000003322\model\jedi_tf/head_a4|torso_d1|lower_b1\snaps\20\rate\90000\name\MUKE\teamtask\0\teamoverlay\1
+10-5-2021 20:55 (9535:06): ClientUserinfoChanged: 0 n\MUKE\t\0\model\jedi_tf/head_a4|torso_d1|lower_b1\c1\1\c2\1\hc\100\w\0\l\0\tt\0\tl\0\st\single_1\st2\none\dt\0
+10-5-2021 20:55 (9535:21): Kill: 2 0 3: Zen killed MUKE by MOD_SABER
+10-5-2021 20:55 (9535:25): ClientUserinfoChanged handling info: 0 \ip\108.245.56.163:29070\char_color_blue\255\char_color_green\155\char_color_red\62\saber2\none\saber1\single_1\cg_predictItems\1\sex\male\handicap\100\color2\1\color1\1\forcepowers\6-1-330300000000003322\model\jedi_tf/head_a4|torso_d1|lower_b1\snaps\20\rate\90000\name\MUKE\teamtask\0\teamoverlay\1
+10-5-2021 20:55 (9535:25): ClientUserinfoChanged: 0 n\MUKE\t\0\model\jedi_tf/head_a4|torso_d1|lower_b1\c1\1\c2\1\hc\100\w\0\l\0\tt\0\tl\0\st\single_1\st2\none\dt\0
+10-5-2021 20:56 (9535:35): Kill: 0 2 3: MUKE killed Zen by MOD_SABER
+10-5-2021 20:56 (9535:47): ClientUserinfoChanged handling info: 2 \ip\47.26.236.113:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\single_1\saber1\single_1\cg_predictItems\1\sex\male\handicap\100\color2\0\color1\0\forcepowers\7-2-032220330000000330\model\desann/default\snaps\20\rate\4000\name\Zen\teamtask\0\teamoverlay\1
+10-5-2021 20:56 (9535:47): ClientUserinfoChanged: 2 n\Zen\t\0\model\desann/default\c1\0\c2\0\hc\100\w\0\l\0\tt\0\tl\0\st\single_1\st2\single_1\dt\0
+10-5-2021 20:57 (9537:02): Kill: 2 0 3: Zen killed MUKE by MOD_SABER
+10-5-2021 20:57 (9537:06): ClientUserinfoChanged handling info: 0 \ip\108.245.56.163:29070\char_color_blue\255\char_color_green\155\char_color_red\62\saber2\none\saber1\single_1\cg_predictItems\1\sex\male\handicap\100\color2\1\color1\1\forcepowers\6-1-330300000000003322\model\jedi_tf/head_a4|torso_d1|lower_b1\snaps\20\rate\90000\name\MUKE\teamtask\0\teamoverlay\1
+10-5-2021 20:57 (9537:06): ClientUserinfoChanged: 0 n\MUKE\t\0\model\jedi_tf/head_a4|torso_d1|lower_b1\c1\1\c2\1\hc\100\w\0\l\0\tt\0\tl\0\st\single_1\st2\none\dt\0
+10-5-2021 20:57 (9537:10): Kill: 0 2 3: MUKE killed Zen by MOD_SABER
+10-5-2021 20:57 (9537:18): ClientUserinfoChanged handling info: 2 \ip\47.26.236.113:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\single_1\saber1\single_1\cg_predictItems\1\sex\male\handicap\100\color2\0\color1\0\forcepowers\7-2-032220330000000330\model\desann/default\snaps\20\rate\4000\name\Zen\teamtask\0\teamoverlay\1
+10-5-2021 20:57 (9537:18): ClientUserinfoChanged: 2 n\Zen\t\0\model\desann/default\c1\0\c2\0\hc\100\w\0\l\0\tt\0\tl\0\st\single_1\st2\single_1\dt\0
+10-5-2021 21: 0 (9539:50): Kill: 0 2 3: MUKE killed Zen by MOD_SABER
+10-5-2021 21: 0 (9539:57): ClientUserinfoChanged handling info: 2 \ip\47.26.236.113:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\single_1\saber1\single_1\cg_predictItems\1\sex\male\handicap\100\color2\0\color1\0\forcepowers\7-2-032220330000000330\model\desann/default\snaps\20\rate\4000\name\Zen\teamtask\0\teamoverlay\1
+10-5-2021 21: 0 (9539:57): ClientUserinfoChanged: 2 n\Zen\t\0\model\desann/default\c1\0\c2\0\hc\100\w\0\l\0\tt\0\tl\0\st\single_1\st2\single_1\dt\0
+10-5-2021 21: 3 (9543:02): Kill: 0 2 3: MUKE killed Zen by MOD_SABER
+10-5-2021 21: 3 (9543:17): ClientUserinfoChanged handling info: 2 \ip\47.26.236.113:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\single_1\saber1\single_1\cg_predictItems\1\sex\male\handicap\100\color2\0\color1\0\forcepowers\7-2-032220330000000330\model\desann/default\snaps\20\rate\4000\name\Zen\teamtask\0\teamoverlay\1
+10-5-2021 21: 3 (9543:17): ClientUserinfoChanged: 2 n\Zen\t\0\model\desann/default\c1\0\c2\0\hc\100\w\0\l\0\tt\0\tl\0\st\single_1\st2\single_1\dt\0
+10-5-2021 21: 4 (9544:04): Kill: 2 0 3: Zen killed MUKE by MOD_SABER
+10-5-2021 21: 4 (9544:08): ClientUserinfoChanged handling info: 0 \ip\108.245.56.163:29070\char_color_blue\255\char_color_green\155\char_color_red\62\saber2\none\saber1\single_1\cg_predictItems\1\sex\male\handicap\100\color2\1\color1\1\forcepowers\6-1-330300000000003322\model\jedi_tf/head_a4|torso_d1|lower_b1\snaps\20\rate\90000\name\MUKE\teamtask\0\teamoverlay\1
+10-5-2021 21: 4 (9544:08): ClientUserinfoChanged: 0 n\MUKE\t\0\model\jedi_tf/head_a4|torso_d1|lower_b1\c1\1\c2\1\hc\100\w\0\l\0\tt\0\tl\0\st\single_1\st2\none\dt\0
+10-5-2021 21: 6 (9545:46): Kill: 0 2 3: MUKE killed Zen by MOD_SABER
+10-5-2021 21: 6 (9545:54): ClientUserinfoChanged handling info: 2 \ip\47.26.236.113:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\single_1\saber1\single_1\cg_predictItems\1\sex\male\handicap\100\color2\0\color1\0\forcepowers\7-2-032220330000000330\model\desann/default\snaps\20\rate\4000\name\Zen\teamtask\0\teamoverlay\1
+10-5-2021 21: 6 (9545:54): ClientUserinfoChanged: 2 n\Zen\t\0\model\desann/default\c1\0\c2\0\hc\100\w\0\l\0\tt\0\tl\0\st\single_1\st2\single_1\dt\0
+10-5-2021 21: 7 (9546:49): Kill: 0 131 3: MUKE killed  by MOD_SABER
+10-5-2021 21: 7 (9547:23): Kill: 1022 131 38: <world> killed  by MOD_FALLING
+10-5-2021 21: 9 (9548:40): Kill: 0 2 3: MUKE killed Zen by MOD_SABER
+10-5-2021 21: 9 (9548:54): ClientUserinfoChanged handling info: 2 \ip\47.26.236.113:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\single_1\saber1\single_1\cg_predictItems\1\sex\male\handicap\100\color2\0\color1\0\forcepowers\7-2-032220330000000330\model\desann/default\snaps\20\rate\4000\name\Zen\teamtask\0\teamoverlay\1
+10-5-2021 21: 9 (9548:54): ClientUserinfoChanged: 2 n\Zen\t\0\model\desann/default\c1\0\c2\0\hc\100\w\0\l\0\tt\0\tl\0\st\single_1\st2\single_1\dt\0
+10-5-2021 21:11 (9550:32): Kill: 0 2 3: MUKE killed Zen by MOD_SABER
+10-5-2021 21:11 (9550:41): ClientUserinfoChanged handling info: 2 \ip\47.26.236.113:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\single_1\saber1\single_1\cg_predictItems\1\sex\male\handicap\100\color2\0\color1\0\forcepowers\7-2-032220330000000330\model\desann/default\snaps\20\rate\4000\name\Zen\teamtask\0\teamoverlay\1
+10-5-2021 21:11 (9550:41): ClientUserinfoChanged: 2 n\Zen\t\0\model\desann/default\c1\0\c2\0\hc\100\w\0\l\0\tt\0\tl\0\st\single_1\st2\single_1\dt\0
+10-5-2021 21:13 (9552:39): ClientUserinfoChanged handling info: 2 \ip\47.26.236.113:29070\char_color_blue\255\char_color_green\155\char_color_red\62\saber2\none\saber1\dual_1\cg_predictItems\1\sex\male\handicap\100\color2\0\color1\5\forcepowers\7-1-333120000300000333\model\jedi_tf/head_b4|torso_f1|lower_c1\snaps\20\rate\4000\name\Zen\teamtask\0\teamoverlay\1
+10-5-2021 21:13 (9552:39): ClientUserinfoChanged: 2 n\Zen\t\0\model\jedi_tf/head_b4|torso_f1|lower_c1\c1\5\c2\0\hc\100\w\0\l\0\tt\0\tl\0\st\single_1\st2\single_1\dt\0
+10-5-2021 21:14 (9553:32): ClientUserinfoChanged handling info: 2 \ip\47.26.236.113:29070\char_color_blue\255\char_color_green\150\char_color_red\180\saber2\none\saber1\dual_5\cg_predictItems\1\sex\male\handicap\100\color2\0\color1\5\forcepowers\7-1-333120000300000333\model\jedi_tf/head_b4|torso_f1|lower_c1\snaps\20\rate\4000\name\Zen\teamtask\0\teamoverlay\1
+10-5-2021 21:14 (9553:32): ClientUserinfoChanged: 2 n\Zen\t\0\model\jedi_tf/head_b4|torso_f1|lower_c1\c1\5\c2\0\hc\100\w\0\l\0\tt\0\tl\0\st\single_1\st2\single_1\dt\0
+10-5-2021 21:14 (9554:05): ClientUserinfoChanged handling info: 0 \ip\108.245.56.163:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\none\saber1\single_1\cg_predictItems\1\sex\male\handicap\100\color2\1\color1\1\forcepowers\7-1-330202000330001323\model\jedi_zf/head_c1|torso_b1|lower_b1\snaps\20\rate\90000\name\MUKE\teamtask\0\teamoverlay\1
+10-5-2021 21:14 (9554:05): ClientUserinfoChanged: 0 n\MUKE\t\0\model\jedi_zf/head_c1|torso_b1|lower_b1\c1\1\c2\1\hc\100\w\0\l\0\tt\0\tl\0\st\single_1\st2\none\dt\0
+10-5-2021 21:14 (9554:18): Kill: 2 0 3: Zen killed MUKE by MOD_SABER
+10-5-2021 21:14 (9554:22): ClientUserinfoChanged handling info: 0 \ip\108.245.56.163:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\none\saber1\single_1\cg_predictItems\1\sex\male\handicap\100\color2\1\color1\1\forcepowers\7-1-330202000330001323\model\jedi_zf/head_c1|torso_b1|lower_b1\snaps\20\rate\90000\name\MUKE\teamtask\0\teamoverlay\1
+10-5-2021 21:14 (9554:22): ClientUserinfoChanged: 0 n\MUKE\t\0\model\jedi_zf/head_c1|torso_b1|lower_b1\c1\1\c2\1\hc\100\w\0\l\0\tt\0\tl\0\st\single_1\st2\none\dt\0
+10-5-2021 21:15 (9555:08): Kill: 0 2 3: MUKE killed Zen by MOD_SABER
+10-5-2021 21:15 (9555:15): ClientUserinfoChanged handling info: 2 \ip\47.26.236.113:29070\char_color_blue\255\char_color_green\150\char_color_red\180\saber2\none\saber1\dual_5\cg_predictItems\1\sex\male\handicap\100\color2\0\color1\5\forcepowers\7-1-333120000300000333\model\jedi_tf/head_b4|torso_f1|lower_c1\snaps\20\rate\4000\name\Zen\teamtask\0\teamoverlay\1
+10-5-2021 21:15 (9555:15): ClientUserinfoChanged: 2 n\Zen\t\0\model\jedi_tf/head_b4|torso_f1|lower_c1\c1\5\c2\0\hc\100\w\0\l\0\tt\0\tl\0\st\dual_5\st2\none\dt\0
+10-5-2021 21:15 (9555:15): ClientUserinfoChanged handling info: 2 \ip\47.26.236.113:29070\char_color_blue\255\char_color_green\150\char_color_red\180\saber2\none\saber1\dual_5\cg_predictItems\1\sex\male\handicap\100\color2\0\color1\5\forcepowers\7-1-333120000300000333\model\jedi_tf/head_b4|torso_f1|lower_c1\snaps\20\rate\4000\name\Zen\teamtask\0\teamoverlay\1
+10-5-2021 21:15 (9555:15): ClientUserinfoChanged: 2 n\Zen\t\0\model\jedi_tf/head_b4|torso_f1|lower_c1\c1\5\c2\0\hc\100\w\0\l\0\tt\0\tl\0\st\dual_5\st2\none\dt\0
+10-5-2021 21:17 (9556:53): Kill: 2 0 3: Zen killed MUKE by MOD_SABER
+10-5-2021 21:17 (9556:56): ClientUserinfoChanged handling info: 0 \ip\108.245.56.163:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\none\saber1\single_1\cg_predictItems\1\sex\male\handicap\100\color2\1\color1\1\forcepowers\7-1-330202000330001323\model\jedi_zf/head_c1|torso_b1|lower_b1\snaps\20\rate\90000\name\MUKE\teamtask\0\teamoverlay\1
+10-5-2021 21:17 (9556:56): ClientUserinfoChanged: 0 n\MUKE\t\0\model\jedi_zf/head_c1|torso_b1|lower_b1\c1\1\c2\1\hc\100\w\0\l\0\tt\0\tl\0\st\single_1\st2\none\dt\0
+10-5-2021 21:18 (9557:40): Kill: 0 2 3: MUKE killed Zen by MOD_SABER
+10-5-2021 21:18 (9557:43): ClientUserinfoChanged handling info: 2 \ip\47.26.236.113:29070\char_color_blue\255\char_color_green\150\char_color_red\180\saber2\none\saber1\dual_5\cg_predictItems\1\sex\male\handicap\100\color2\0\color1\5\forcepowers\7-1-333120000300000333\model\jedi_tf/head_b4|torso_f1|lower_c1\snaps\20\rate\4000\name\Zen\teamtask\0\teamoverlay\1
+10-5-2021 21:18 (9557:43): ClientUserinfoChanged: 2 n\Zen\t\0\model\jedi_tf/head_b4|torso_f1|lower_c1\c1\5\c2\0\hc\100\w\0\l\0\tt\0\tl\0\st\dual_5\st2\none\dt\0
+10-5-2021 21:19 (9558:36): Kill: 2 0 3: Zen killed MUKE by MOD_SABER
+10-5-2021 21:19 (9558:37): ClientUserinfoChanged handling info: 0 \ip\108.245.56.163:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\none\saber1\single_1\cg_predictItems\1\sex\male\handicap\100\color2\1\color1\1\forcepowers\7-1-330202000330001323\model\jedi_zf/head_c1|torso_b1|lower_b1\snaps\20\rate\90000\name\MUKE\teamtask\0\teamoverlay\1
+10-5-2021 21:19 (9558:37): ClientUserinfoChanged: 0 n\MUKE\t\0\model\jedi_zf/head_c1|torso_b1|lower_b1\c1\1\c2\1\hc\100\w\0\l\0\tt\0\tl\0\st\single_1\st2\none\dt\0
+10-5-2021 21:20 (9560:14): Kill: 2 0 3: Zen killed MUKE by MOD_SABER
+10-5-2021 21:20 (9560:19): ClientUserinfoChanged handling info: 0 \ip\108.245.56.163:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\none\saber1\single_1\cg_predictItems\1\sex\male\handicap\100\color2\1\color1\1\forcepowers\7-1-330202000330001323\model\jedi_zf/head_c1|torso_b1|lower_b1\snaps\20\rate\90000\name\MUKE\teamtask\0\teamoverlay\1
+10-5-2021 21:20 (9560:19): ClientUserinfoChanged: 0 n\MUKE\t\0\model\jedi_zf/head_c1|torso_b1|lower_b1\c1\1\c2\1\hc\100\w\0\l\0\tt\0\tl\0\st\single_1\st2\none\dt\0
+10-5-2021 21:21 (9561:02): Kill: 0 2 3: MUKE killed Zen by MOD_SABER
+10-5-2021 21:21 (9561:11): ClientUserinfoChanged handling info: 2 \ip\47.26.236.113:29070\char_color_blue\255\char_color_green\150\char_color_red\180\saber2\none\saber1\dual_5\cg_predictItems\1\sex\male\handicap\100\color2\0\color1\5\forcepowers\7-1-333120000300000333\model\jedi_tf/head_b4|torso_f1|lower_c1\snaps\20\rate\4000\name\Zen\teamtask\0\teamoverlay\1
+10-5-2021 21:21 (9561:11): ClientUserinfoChanged: 2 n\Zen\t\0\model\jedi_tf/head_b4|torso_f1|lower_c1\c1\5\c2\0\hc\100\w\0\l\0\tt\0\tl\0\st\dual_5\st2\none\dt\0
+10-5-2021 21:22 (9561:44): Kill: 2 0 3: Zen killed MUKE by MOD_SABER
+10-5-2021 21:22 (9561:47): ClientUserinfoChanged handling info: 0 \ip\108.245.56.163:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\none\saber1\single_1\cg_predictItems\1\sex\male\handicap\100\color2\1\color1\1\forcepowers\7-1-330202000330001323\model\jedi_zf/head_c1|torso_b1|lower_b1\snaps\20\rate\90000\name\MUKE\teamtask\0\teamoverlay\1
+10-5-2021 21:22 (9561:47): ClientUserinfoChanged: 0 n\MUKE\t\0\model\jedi_zf/head_c1|torso_b1|lower_b1\c1\1\c2\1\hc\100\w\0\l\0\tt\0\tl\0\st\single_1\st2\none\dt\0
+10-5-2021 21:24 (9564:03): Kill: 0 2 3: MUKE killed Zen by MOD_SABER
+10-5-2021 21:24 (9564:15): ClientUserinfoChanged handling info: 2 \ip\47.26.236.113:29070\char_color_blue\255\char_color_green\150\char_color_red\180\saber2\none\saber1\dual_5\cg_predictItems\1\sex\male\handicap\100\color2\0\color1\5\forcepowers\7-1-333120000300000333\model\jedi_tf/head_b4|torso_f1|lower_c1\snaps\20\rate\4000\name\Zen\teamtask\0\teamoverlay\1
+10-5-2021 21:24 (9564:15): ClientUserinfoChanged: 2 n\Zen\t\0\model\jedi_tf/head_b4|torso_f1|lower_c1\c1\5\c2\0\hc\100\w\0\l\0\tt\0\tl\0\st\dual_5\st2\none\dt\0
+10-5-2021 21:24 (9564:31): Kill: 2 0 3: Zen killed MUKE by MOD_SABER
+10-5-2021 21:25 (9564:35): ClientUserinfoChanged handling info: 0 \ip\108.245.56.163:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\none\saber1\single_1\cg_predictItems\1\sex\male\handicap\100\color2\1\color1\1\forcepowers\7-1-330202000330001323\model\jedi_zf/head_c1|torso_b1|lower_b1\snaps\20\rate\90000\name\MUKE\teamtask\0\teamoverlay\1
+10-5-2021 21:25 (9564:35): ClientUserinfoChanged: 0 n\MUKE\t\0\model\jedi_zf/head_c1|torso_b1|lower_b1\c1\1\c2\1\hc\100\w\0\l\0\tt\0\tl\0\st\single_1\st2\none\dt\0
+10-5-2021 21:26 (9566:21): Kill: 0 2 3: MUKE killed Zen by MOD_SABER
+10-5-2021 21:26 (9566:25): ClientUserinfoChanged handling info: 2 \ip\47.26.236.113:29070\char_color_blue\255\char_color_green\150\char_color_red\180\saber2\none\saber1\dual_5\cg_predictItems\1\sex\male\handicap\100\color2\0\color1\5\forcepowers\7-1-333120000300000333\model\jedi_tf/head_b4|torso_f1|lower_c1\snaps\20\rate\4000\name\Zen\teamtask\0\teamoverlay\1
+10-5-2021 21:26 (9566:25): ClientUserinfoChanged: 2 n\Zen\t\0\model\jedi_tf/head_b4|torso_f1|lower_c1\c1\5\c2\0\hc\100\w\0\l\0\tt\0\tl\0\st\dual_5\st2\none\dt\0
+10-5-2021 21:27 (9566:32): Kill: 0 2 3: MUKE killed Zen by MOD_SABER
+10-5-2021 21:27 (9566:36): ClientUserinfoChanged handling info: 2 \ip\47.26.236.113:29070\char_color_blue\255\char_color_green\150\char_color_red\180\saber2\none\saber1\dual_5\cg_predictItems\1\sex\male\handicap\100\color2\0\color1\5\forcepowers\7-1-333120000300000333\model\jedi_tf/head_b4|torso_f1|lower_c1\snaps\20\rate\4000\name\Zen\teamtask\0\teamoverlay\1
+10-5-2021 21:27 (9566:36): ClientUserinfoChanged: 2 n\Zen\t\0\model\jedi_tf/head_b4|torso_f1|lower_c1\c1\5\c2\0\hc\100\w\0\l\0\tt\0\tl\0\st\dual_5\st2\none\dt\0
+10-5-2021 21:27 (9566:49): Kill: 2 0 3: Zen killed MUKE by MOD_SABER
+10-5-2021 21:27 (9566:55): ClientUserinfoChanged handling info: 0 \ip\108.245.56.163:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\none\saber1\single_1\cg_predictItems\1\sex\male\handicap\100\color2\1\color1\1\forcepowers\7-1-330202000330001323\model\jedi_zf/head_c1|torso_b1|lower_b1\snaps\20\rate\90000\name\MUKE\teamtask\0\teamoverlay\1
+10-5-2021 21:27 (9566:55): ClientUserinfoChanged: 0 n\MUKE\t\0\model\jedi_zf/head_c1|torso_b1|lower_b1\c1\1\c2\1\hc\100\w\0\l\0\tt\0\tl\0\st\single_1\st2\none\dt\0
+10-5-2021 21:27 (9567:30): Kill: 0 2 3: MUKE killed Zen by MOD_SABER
+10-5-2021 21:28 (9567:35): ClientUserinfoChanged handling info: 2 \ip\47.26.236.113:29070\char_color_blue\255\char_color_green\150\char_color_red\180\saber2\none\saber1\dual_5\cg_predictItems\1\sex\male\handicap\100\color2\0\color1\5\forcepowers\7-1-333120000300000333\model\jedi_tf/head_b4|torso_f1|lower_c1\snaps\20\rate\4000\name\Zen\teamtask\0\teamoverlay\1
+10-5-2021 21:28 (9567:35): ClientUserinfoChanged: 2 n\Zen\t\0\model\jedi_tf/head_b4|torso_f1|lower_c1\c1\5\c2\0\hc\100\w\0\l\0\tt\0\tl\0\st\dual_5\st2\none\dt\0
+10-5-2021 21:29 (9569:27): Kill: 2 0 3: Zen killed MUKE by MOD_SABER
+10-5-2021 21:29 (9569:31): ClientUserinfoChanged handling info: 0 \ip\108.245.56.163:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\none\saber1\single_1\cg_predictItems\1\sex\male\handicap\100\color2\1\color1\1\forcepowers\7-1-330202000330001323\model\jedi_zf/head_c1|torso_b1|lower_b1\snaps\20\rate\90000\name\MUKE\teamtask\0\teamoverlay\1
+10-5-2021 21:29 (9569:31): ClientUserinfoChanged: 0 n\MUKE\t\0\model\jedi_zf/head_c1|torso_b1|lower_b1\c1\1\c2\1\hc\100\w\0\l\0\tt\0\tl\0\st\single_1\st2\none\dt\0
+10-5-2021 21:30 (9570:15): Exit: Timelimit hit.
+10-5-2021 21:30 (9570:15): score: 15  ping: 44  client: 0 MUKE
+10-5-2021 21:30 (9570:15): score: 12  ping: 46  client: 2 Zen
+10-5-2021 21:31 (9570:41): ShutdownGame:
+10-5-2021 21:31 (9570:41): ------------------------------------------------------------
+10-5-2021 21:31 (9570:41): ------------------------------------------------------------
+10-5-2021 21:31 (9570:41): InitGame: \version\JAmp: v1.0.1.0 linux-i386 Mar 14 2020\timelimit\45\sv_privateClients\0\sv_minRate\0\sv_minPing\0\sv_maxclients\32\sv_maxRate\0\sv_maxPing\999\sv_hostname\^7~^1~^7~ COMM SERVER ~^1~^7~\sv_fps\50\sv_floodProtectSlow\1\sv_floodProtect\1\sv_autoDemo\0\sv_allowDownload\0\serveruptime\212\protocol\26\mapname\academy6\gamename\Lugormod\g_weaponDisable\0\g_stepSlideFix\0\g_siegeTeamSwitch\1\g_siegeTeam2\none\g_siegeTeam1\none\g_siegeRespawn\20\g_showDuelHealths\1\g_saberWallDamageScale\0.4\g_saberLocking\0\g_privateDuel\1535\g_noSpecMove\0\g_needpass\0\g_maxHolocronCarry\3\g_maxGameClients\0\g_maxForceRank\7\g_jediVmerc\0\g_gametype\0\g_gamemode\0\g_forceRegenTime\160\g_forcePowerDisable\0\g_forceBasedTeams\1\g_duelWeaponDisable\9\g_debugmelee\1\g_allowNPC\1\fs_game\lugormod\fraglimit\0\duel_fraglimit\10\dmflags\0\capturelimit\10\bot_minplayers\2\bg_fighterAltControl\0\Lugormod_Version\U#-0.0.0.91 Alpha
+10-5-2021 21:31 (9570:41): ClientConnect: 0
+10-5-2021 21:31 (9570:41): ClientUserinfoChanged handling info: 0 \ip\108.245.56.163:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\none\saber1\single_1\cg_predictItems\1\sex\male\handicap\100\color2\1\color1\1\forcepowers\7-1-330202000330001323\model\jedi_zf/head_c1|torso_b1|lower_b1\snaps\20\rate\90000\name\MUKE\teamtask\0\teamoverlay\1
+10-5-2021 21:31 (9570:41): ClientUserinfoChanged: 0 n\MUKE\t\0\model\jedi_zf/head_c1|torso_b1|lower_b1\c1\1\c2\1\hc\0\w\0\l\0\tt\0\tl\0\st\single_1\st2\none\dt\0
+10-5-2021 21:31 (9570:41): ClientUserinfoChanged handling info: 0 \ip\108.245.56.163:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\none\saber1\single_1\cg_predictItems\1\sex\male\handicap\100\color2\1\color1\1\forcepowers\7-1-330202000330001323\model\jedi_zf/head_c1|torso_b1|lower_b1\snaps\20\rate\90000\name\MUKE\teamtask\0\teamoverlay\1
+10-5-2021 21:31 (9570:41): ClientUserinfoChanged: 0 n\MUKE\t\0\model\jedi_zf/head_c1|torso_b1|lower_b1\c1\1\c2\1\hc\0\w\0\l\0\tt\0\tl\0\st\single_1\st2\none\dt\0
+10-5-2021 21:31 (9570:41): ClientUserinfoChanged handling info: 0 \ip\108.245.56.163:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\none\saber1\single_1\cg_predictItems\1\sex\male\handicap\100\color2\1\color1\1\forcepowers\7-1-330202000330001323\model\jedi_zf/head_c1|torso_b1|lower_b1\snaps\20\rate\90000\name\MUKE\teamtask\0\teamoverlay\1
+10-5-2021 21:31 (9570:41): ClientUserinfoChanged: 0 n\MUKE\t\0\model\jedi_zf/head_c1|torso_b1|lower_b1\c1\1\c2\1\hc\100\w\0\l\0\tt\0\tl\0\st\single_1\st2\none\dt\0
+10-5-2021 21:31 (9570:41): ClientBegin: 0
+10-5-2021 21:31 (9570:41): ClientConnect: 2
+10-5-2021 21:31 (9570:41): ClientUserinfoChanged handling info: 2 \ip\47.26.236.113:29070\char_color_blue\255\char_color_green\150\char_color_red\180\saber2\none\saber1\dual_5\cg_predictItems\1\sex\male\handicap\100\color2\0\color1\5\forcepowers\7-1-333120000300000333\model\jedi_tf/head_b4|torso_f1|lower_c1\snaps\20\rate\4000\name\Zen\teamtask\0\teamoverlay\1
+10-5-2021 21:31 (9570:41): ClientUserinfoChanged: 2 n\Zen\t\0\model\jedi_tf/head_b4|torso_f1|lower_c1\c1\5\c2\0\hc\0\w\0\l\0\tt\0\tl\0\st\dual_5\st2\none\dt\0
+10-5-2021 21:31 (9570:41): ClientUserinfoChanged handling info: 2 \ip\47.26.236.113:29070\char_color_blue\255\char_color_green\150\char_color_red\180\saber2\none\saber1\dual_5\cg_predictItems\1\sex\male\handicap\100\color2\0\color1\5\forcepowers\7-1-333120000300000333\model\jedi_tf/head_b4|torso_f1|lower_c1\snaps\20\rate\4000\name\Zen\teamtask\0\teamoverlay\1
+10-5-2021 21:31 (9570:41): ClientUserinfoChanged: 2 n\Zen\t\0\model\jedi_tf/head_b4|torso_f1|lower_c1\c1\5\c2\0\hc\0\w\0\l\0\tt\0\tl\0\st\dual_5\st2\none\dt\0
+10-5-2021 21:31 (9570:41): ClientUserinfoChanged handling info: 2 \ip\47.26.236.113:29070\char_color_blue\255\char_color_green\150\char_color_red\180\saber2\none\saber1\dual_5\cg_predictItems\1\sex\male\handicap\100\color2\0\color1\5\forcepowers\7-1-333120000300000333\model\jedi_tf/head_b4|torso_f1|lower_c1\snaps\20\rate\4000\name\Zen\teamtask\0\teamoverlay\1
+10-5-2021 21:31 (9570:41): ClientUserinfoChanged: 2 n\Zen\t\0\model\jedi_tf/head_b4|torso_f1|lower_c1\c1\5\c2\0\hc\100\w\0\l\0\tt\0\tl\0\st\dual_5\st2\none\dt\0
+10-5-2021 21:31 (9570:41): ClientBegin: 2
+10-5-2021 21:34 (9573:50): sayclose: MUKE: rttet
+10-5-2021 21:34 (9574:13): sayclose: MUKE: ttttt
+10-5-2021 21:34 (9574:17): say: MUKE: yyuiiii
+10-5-2021 21:35 (9574:49): sayclose: MUKE: ttttt
+10-5-2021 21:37 (9577:05): Kill: 2 0 3: Zen killed MUKE by MOD_SABER
+10-5-2021 21:37 (9577:08): ClientUserinfoChanged handling info: 0 \ip\108.245.56.163:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\none\saber1\single_1\cg_predictItems\1\sex\male\handicap\100\color2\1\color1\1\forcepowers\7-1-330202000330001323\model\jedi_zf/head_c1|torso_b1|lower_b1\snaps\20\rate\90000\name\MUKE\teamtask\0\teamoverlay\1
+10-5-2021 21:37 (9577:08): ClientUserinfoChanged: 0 n\MUKE\t\0\model\jedi_zf/head_c1|torso_b1|lower_b1\c1\1\c2\1\hc\100\w\0\l\0\tt\0\tl\0\st\single_1\st2\none\dt\0
+10-5-2021 21:38 (9578:03): Kill: 0 2 3: MUKE killed Zen by MOD_SABER
+10-5-2021 21:38 (9578:09): ClientUserinfoChanged handling info: 2 \ip\47.26.236.113:29070\char_color_blue\255\char_color_green\150\char_color_red\180\saber2\none\saber1\dual_5\cg_predictItems\1\sex\male\handicap\100\color2\0\color1\5\forcepowers\7-1-333120000300000333\model\jedi_tf/head_b4|torso_f1|lower_c1\snaps\20\rate\4000\name\Zen\teamtask\0\teamoverlay\1
+10-5-2021 21:38 (9578:09): ClientUserinfoChanged: 2 n\Zen\t\0\model\jedi_tf/head_b4|torso_f1|lower_c1\c1\5\c2\0\hc\100\w\0\l\0\tt\0\tl\0\st\dual_5\st2\none\dt\0
+10-5-2021 21:38 (9578:26): Kill: 0 2 3: MUKE killed Zen by MOD_SABER
+10-5-2021 21:39 (9578:33): sayclose: MUKE: ttt
+10-5-2021 21:39 (9578:35): ClientUserinfoChanged handling info: 2 \ip\47.26.236.113:29070\char_color_blue\255\char_color_green\150\char_color_red\180\saber2\none\saber1\dual_5\cg_predictItems\1\sex\male\handicap\100\color2\0\color1\5\forcepowers\7-1-333120000300000333\model\jedi_tf/head_b4|torso_f1|lower_c1\snaps\20\rate\4000\name\Zen\teamtask\0\teamoverlay\1
+10-5-2021 21:39 (9578:35): ClientUserinfoChanged: 2 n\Zen\t\0\model\jedi_tf/head_b4|torso_f1|lower_c1\c1\5\c2\0\hc\100\w\0\l\0\tt\0\tl\0\st\dual_5\st2\none\dt\0
+10-5-2021 21:39 (9578:35): sayclose: MUKE: ttt
+10-5-2021 21:39 (9579:10): tell: MUKE to Zen: uuy
+10-5-2021 21:40 (9579:34): Kill: 2 0 3: Zen killed MUKE by MOD_SABER
+10-5-2021 21:40 (9579:37): ClientUserinfoChanged handling info: 0 \ip\108.245.56.163:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\none\saber1\single_1\cg_predictItems\1\sex\male\handicap\100\color2\1\color1\1\forcepowers\7-1-330202000330001323\model\jedi_zf/head_c1|torso_b1|lower_b1\snaps\20\rate\90000\name\MUKE\teamtask\0\teamoverlay\1
+10-5-2021 21:40 (9579:37): ClientUserinfoChanged: 0 n\MUKE\t\0\model\jedi_zf/head_c1|torso_b1|lower_b1\c1\1\c2\1\hc\100\w\0\l\0\tt\0\tl\0\st\single_1\st2\none\dt\0
+10-5-2021 21:42 (9581:37): Kill: 0 2 3: MUKE killed Zen by MOD_SABER
+10-5-2021 21:42 (9581:42): ClientUserinfoChanged handling info: 2 \ip\47.26.236.113:29070\char_color_blue\255\char_color_green\150\char_color_red\180\saber2\none\saber1\dual_5\cg_predictItems\1\sex\male\handicap\100\color2\0\color1\5\forcepowers\7-1-333120000300000333\model\jedi_tf/head_b4|torso_f1|lower_c1\snaps\20\rate\4000\name\Zen\teamtask\0\teamoverlay\1
+10-5-2021 21:42 (9581:42): ClientUserinfoChanged: 2 n\Zen\t\0\model\jedi_tf/head_b4|torso_f1|lower_c1\c1\5\c2\0\hc\100\w\0\l\0\tt\0\tl\0\st\dual_5\st2\none\dt\0
+10-5-2021 21:42 (9582:07): Kill: 2 0 3: Zen killed MUKE by MOD_SABER
+10-5-2021 21:42 (9582:09): ClientUserinfoChanged handling info: 0 \ip\108.245.56.163:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\none\saber1\single_1\cg_predictItems\1\sex\male\handicap\100\color2\1\color1\1\forcepowers\7-1-330202000330001323\model\jedi_zf/head_c1|torso_b1|lower_b1\snaps\20\rate\90000\name\MUKE\teamtask\0\teamoverlay\1
+10-5-2021 21:42 (9582:09): ClientUserinfoChanged: 0 n\MUKE\t\0\model\jedi_zf/head_c1|torso_b1|lower_b1\c1\1\c2\1\hc\100\w\0\l\0\tt\0\tl\0\st\single_1\st2\none\dt\0
+10-5-2021 21:43 (9583:28): sayclose: MUKE: tttt
+10-5-2021 21:44 (9583:52): Kill: 2 0 3: Zen killed MUKE by MOD_SABER
+10-5-2021 21:44 (9583:55): ClientUserinfoChanged handling info: 0 \ip\108.245.56.163:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\none\saber1\single_1\cg_predictItems\1\sex\male\handicap\100\color2\1\color1\1\forcepowers\7-1-330202000330001323\model\jedi_zf/head_c1|torso_b1|lower_b1\snaps\20\rate\90000\name\MUKE\teamtask\0\teamoverlay\1
+10-5-2021 21:44 (9583:55): ClientUserinfoChanged: 0 n\MUKE\t\0\model\jedi_zf/head_c1|torso_b1|lower_b1\c1\1\c2\1\hc\100\w\0\l\0\tt\0\tl\0\st\single_1\st2\none\dt\0
+10-5-2021 21:44 (9584:01): Kill: 2 0 3: Zen killed MUKE by MOD_SABER
+10-5-2021 21:44 (9584:06): ClientUserinfoChanged handling info: 0 \ip\108.245.56.163:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\none\saber1\single_1\cg_predictItems\1\sex\male\handicap\100\color2\1\color1\1\forcepowers\7-1-330202000330001323\model\jedi_zf/head_c1|torso_b1|lower_b1\snaps\20\rate\90000\name\MUKE\teamtask\0\teamoverlay\1
+10-5-2021 21:44 (9584:06): ClientUserinfoChanged: 0 n\MUKE\t\0\model\jedi_zf/head_c1|torso_b1|lower_b1\c1\1\c2\1\hc\100\w\0\l\0\tt\0\tl\0\st\single_1\st2\none\dt\0
+10-5-2021 21:45 (9584:34): Kill: 0 2 3: MUKE killed Zen by MOD_SABER
+10-5-2021 21:45 (9584:42): ClientUserinfoChanged handling info: 2 \ip\47.26.236.113:29070\char_color_blue\255\char_color_green\150\char_color_red\180\saber2\none\saber1\dual_5\cg_predictItems\1\sex\male\handicap\100\color2\0\color1\5\forcepowers\7-1-333120000300000333\model\jedi_tf/head_b4|torso_f1|lower_c1\snaps\20\rate\4000\name\Zen\teamtask\0\teamoverlay\1
+10-5-2021 21:45 (9584:42): ClientUserinfoChanged: 2 n\Zen\t\0\model\jedi_tf/head_b4|torso_f1|lower_c1\c1\5\c2\0\hc\100\w\0\l\0\tt\0\tl\0\st\dual_5\st2\none\dt\0
+10-5-2021 21:46 (9585:42): Kill: 2 0 3: Zen killed MUKE by MOD_SABER
+10-5-2021 21:46 (9585:46): ClientUserinfoChanged handling info: 0 \ip\108.245.56.163:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\none\saber1\single_1\cg_predictItems\1\sex\male\handicap\100\color2\1\color1\1\forcepowers\7-1-330202000330001323\model\jedi_zf/head_c1|torso_b1|lower_b1\snaps\20\rate\90000\name\MUKE\teamtask\0\teamoverlay\1
+10-5-2021 21:46 (9585:46): ClientUserinfoChanged: 0 n\MUKE\t\0\model\jedi_zf/head_c1|torso_b1|lower_b1\c1\1\c2\1\hc\100\w\0\l\0\tt\0\tl\0\st\single_1\st2\none\dt\0
+10-5-2021 21:47 (9587:04): Kill: 2 0 3: Zen killed MUKE by MOD_SABER
+10-5-2021 21:47 (9587:07): ClientUserinfoChanged handling info: 0 \ip\108.245.56.163:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\none\saber1\single_1\cg_predictItems\1\sex\male\handicap\100\color2\1\color1\1\forcepowers\7-1-330202000330001323\model\jedi_zf/head_c1|torso_b1|lower_b1\snaps\20\rate\90000\name\MUKE\teamtask\0\teamoverlay\1
+10-5-2021 21:47 (9587:07): ClientUserinfoChanged: 0 n\MUKE\t\0\model\jedi_zf/head_c1|torso_b1|lower_b1\c1\1\c2\1\hc\100\w\0\l\0\tt\0\tl\0\st\single_1\st2\none\dt\0
+10-5-2021 21:47 (9587:19): Kill: 0 2 3: MUKE killed Zen by MOD_SABER
+10-5-2021 21:47 (9587:24): ClientUserinfoChanged handling info: 2 \ip\47.26.236.113:29070\char_color_blue\255\char_color_green\150\char_color_red\180\saber2\none\saber1\dual_5\cg_predictItems\1\sex\male\handicap\100\color2\0\color1\5\forcepowers\7-1-333120000300000333\model\jedi_tf/head_b4|torso_f1|lower_c1\snaps\20\rate\4000\name\Zen\teamtask\0\teamoverlay\1
+10-5-2021 21:47 (9587:24): ClientUserinfoChanged: 2 n\Zen\t\0\model\jedi_tf/head_b4|torso_f1|lower_c1\c1\5\c2\0\hc\100\w\0\l\0\tt\0\tl\0\st\dual_5\st2\none\dt\0
+10-5-2021 21:48 (9587:34): Kill: 2 0 3: Zen killed MUKE by MOD_SABER
+10-5-2021 21:48 (9587:37): ClientUserinfoChanged handling info: 0 \ip\108.245.56.163:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\none\saber1\single_1\cg_predictItems\1\sex\male\handicap\100\color2\1\color1\1\forcepowers\7-1-330202000330001323\model\jedi_zf/head_c1|torso_b1|lower_b1\snaps\20\rate\90000\name\MUKE\teamtask\0\teamoverlay\1
+10-5-2021 21:48 (9587:37): ClientUserinfoChanged: 0 n\MUKE\t\0\model\jedi_zf/head_c1|torso_b1|lower_b1\c1\1\c2\1\hc\100\w\0\l\0\tt\0\tl\0\st\single_1\st2\none\dt\0
+10-5-2021 21:49 (9589:20): Kill: 2 0 3: Zen killed MUKE by MOD_SABER
+10-5-2021 21:49 (9589:21): ClientUserinfoChanged handling info: 0 \ip\108.245.56.163:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\none\saber1\single_1\cg_predictItems\1\sex\male\handicap\100\color2\1\color1\1\forcepowers\7-1-330202000330001323\model\jedi_zf/head_c1|torso_b1|lower_b1\snaps\20\rate\90000\name\MUKE\teamtask\0\teamoverlay\1
+10-5-2021 21:49 (9589:21): ClientUserinfoChanged: 0 n\MUKE\t\0\model\jedi_zf/head_c1|torso_b1|lower_b1\c1\1\c2\1\hc\100\w\0\l\0\tt\0\tl\0\st\single_1\st2\none\dt\0
+10-5-2021 21:50 (9589:45): Kill: 2 0 3: Zen killed MUKE by MOD_SABER
+10-5-2021 21:50 (9589:49): ClientUserinfoChanged handling info: 0 \ip\108.245.56.163:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\none\saber1\single_1\cg_predictItems\1\sex\male\handicap\100\color2\1\color1\1\forcepowers\7-1-330202000330001323\model\jedi_zf/head_c1|torso_b1|lower_b1\snaps\20\rate\90000\name\MUKE\teamtask\0\teamoverlay\1
+10-5-2021 21:50 (9589:49): ClientUserinfoChanged: 0 n\MUKE\t\0\model\jedi_zf/head_c1|torso_b1|lower_b1\c1\1\c2\1\hc\100\w\0\l\0\tt\0\tl\0\st\single_1\st2\none\dt\0
+10-5-2021 21:51 (9590:45): Kill: 0 2 3: MUKE killed Zen by MOD_SABER
+10-5-2021 21:51 (9590:54): ClientUserinfoChanged handling info: 2 \ip\47.26.236.113:29070\char_color_blue\255\char_color_green\150\char_color_red\180\saber2\none\saber1\dual_5\cg_predictItems\1\sex\male\handicap\100\color2\0\color1\5\forcepowers\7-1-333120000300000333\model\jedi_tf/head_b4|torso_f1|lower_c1\snaps\20\rate\4000\name\Zen\teamtask\0\teamoverlay\1
+10-5-2021 21:51 (9590:54): ClientUserinfoChanged: 2 n\Zen\t\0\model\jedi_tf/head_b4|torso_f1|lower_c1\c1\5\c2\0\hc\100\w\0\l\0\tt\0\tl\0\st\dual_5\st2\none\dt\0
+10-5-2021 21:51 (9591:12): Kill: 2 0 3: Zen killed MUKE by MOD_SABER
+10-5-2021 21:51 (9591:13): ClientUserinfoChanged handling info: 0 \ip\108.245.56.163:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\none\saber1\single_1\cg_predictItems\1\sex\male\handicap\100\color2\1\color1\1\forcepowers\7-1-330202000330001323\model\jedi_zf/head_c1|torso_b1|lower_b1\snaps\20\rate\90000\name\MUKE\teamtask\0\teamoverlay\1
+10-5-2021 21:51 (9591:13): ClientUserinfoChanged: 0 n\MUKE\t\0\model\jedi_zf/head_c1|torso_b1|lower_b1\c1\1\c2\1\hc\100\w\0\l\0\tt\0\tl\0\st\single_1\st2\none\dt\0
+10-5-2021 21:53 (9592:46): Kill: 2 0 3: Zen killed MUKE by MOD_SABER
+10-5-2021 21:53 (9592:51): ClientUserinfoChanged handling info: 0 \ip\108.245.56.163:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\none\saber1\single_1\cg_predictItems\1\sex\male\handicap\100\color2\1\color1\1\forcepowers\7-1-330202000330001323\model\jedi_zf/head_c1|torso_b1|lower_b1\snaps\20\rate\90000\name\MUKE\teamtask\0\teamoverlay\1
+10-5-2021 21:53 (9592:51): ClientUserinfoChanged: 0 n\MUKE\t\0\model\jedi_zf/head_c1|torso_b1|lower_b1\c1\1\c2\1\hc\100\w\0\l\0\tt\0\tl\0\st\single_1\st2\none\dt\0
+10-5-2021 21:53 (9593:31): Kill: 2 0 3: Zen killed MUKE by MOD_SABER
+10-5-2021 21:54 (9593:34): ClientUserinfoChanged handling info: 0 \ip\108.245.56.163:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\none\saber1\single_1\cg_predictItems\1\sex\male\handicap\100\color2\1\color1\1\forcepowers\7-1-330202000330001323\model\jedi_zf/head_c1|torso_b1|lower_b1\snaps\20\rate\90000\name\MUKE\teamtask\0\teamoverlay\1
+10-5-2021 21:54 (9593:34): ClientUserinfoChanged: 0 n\MUKE\t\0\model\jedi_zf/head_c1|torso_b1|lower_b1\c1\1\c2\1\hc\100\w\0\l\0\tt\0\tl\0\st\single_1\st2\none\dt\0
+10-5-2021 21:54 (9593:43): Kill: 2 0 3: Zen killed MUKE by MOD_SABER
+10-5-2021 21:55 (9594:44): ClientUserinfoChanged handling info: 0 \ip\108.245.56.163:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\none\saber1\single_1\cg_predictItems\1\sex\male\handicap\100\color2\1\color1\1\forcepowers\7-1-330202000330001323\model\jedi_zf/head_c1|torso_b1|lower_b1\snaps\20\rate\90000\name\MUKE\teamtask\0\teamoverlay\1
+10-5-2021 21:55 (9594:44): ClientUserinfoChanged: 0 n\MUKE\t\0\model\jedi_zf/head_c1|torso_b1|lower_b1\c1\1\c2\1\hc\100\w\0\l\0\tt\0\tl\0\st\single_1\st2\none\dt\0
+10-5-2021 21:55 (9594:53): ClientUserinfoChanged handling info: 2 \ip\47.26.236.113:29070\char_color_blue\255\char_color_green\150\char_color_red\180\saber2\none\saber1\dual_5\cg_predictItems\1\sex\male\handicap\100\color2\0\color1\5\forcepowers\7-2-033010033000000333\model\jedi_tf/head_b4|torso_f1|lower_c1\snaps\20\rate\4000\name\Zen\teamtask\0\teamoverlay\1
+10-5-2021 21:55 (9594:53): ClientUserinfoChanged: 2 n\Zen\t\0\model\jedi_tf/head_b4|torso_f1|lower_c1\c1\5\c2\0\hc\100\w\0\l\0\tt\0\tl\0\st\dual_5\st2\none\dt\0
+10-5-2021 21:56 (9595:41): ClientUserinfoChanged handling info: 0 \ip\108.245.56.163:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\single_1\saber1\single_1\cg_predictItems\1\sex\male\handicap\100\color2\5\color1\5\forcepowers\7-1-021222000330002333\model\jedi_kdm/head_a1|torso_d1|lower_d1\snaps\20\rate\90000\name\MUKE\teamtask\0\teamoverlay\1
+10-5-2021 21:56 (9595:41): ClientUserinfoChanged: 0 n\MUKE\t\0\model\jedi_kdm/head_a1|torso_d1|lower_d1\c1\5\c2\5\hc\100\w\0\l\0\tt\0\tl\0\st\single_1\st2\none\dt\0
+10-5-2021 21:56 (9595:44): Kill: 2 0 3: Zen killed MUKE by MOD_SABER
+10-5-2021 21:56 (9595:46): ClientUserinfoChanged handling info: 0 \ip\108.245.56.163:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\single_1\saber1\single_1\cg_predictItems\1\sex\male\handicap\100\color2\5\color1\5\forcepowers\7-1-021222000330002333\model\jedi_kdm/head_a1|torso_d1|lower_d1\snaps\20\rate\90000\name\MUKE\teamtask\0\teamoverlay\1
+10-5-2021 21:56 (9595:46): ClientUserinfoChanged: 0 n\MUKE\t\0\model\jedi_kdm/head_a1|torso_d1|lower_d1\c1\5\c2\5\hc\100\w\0\l\0\tt\0\tl\0\st\single_1\st2\single_1\dt\0
+10-5-2021 21:56 (9595:46): ClientUserinfoChanged handling info: 0 \ip\108.245.56.163:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\single_1\saber1\single_1\cg_predictItems\1\sex\male\handicap\100\color2\5\color1\5\forcepowers\7-1-021222000330002333\model\jedi_kdm/head_a1|torso_d1|lower_d1\snaps\20\rate\90000\name\MUKE\teamtask\0\teamoverlay\1
+10-5-2021 21:56 (9595:46): ClientUserinfoChanged: 0 n\MUKE\t\0\model\jedi_kdm/head_a1|torso_d1|lower_d1\c1\5\c2\5\hc\100\w\0\l\0\tt\0\tl\0\st\single_1\st2\single_1\dt\0
+10-5-2021 21:56 (9595:51): Kill: 0 2 3: MUKE killed Zen by MOD_SABER
+10-5-2021 21:56 (9595:58): ClientUserinfoChanged handling info: 2 \ip\47.26.236.113:29070\char_color_blue\255\char_color_green\150\char_color_red\180\saber2\none\saber1\dual_5\cg_predictItems\1\sex\male\handicap\100\color2\0\color1\5\forcepowers\7-2-033010033000000333\model\jedi_tf/head_b4|torso_f1|lower_c1\snaps\20\rate\4000\name\Zen\teamtask\0\teamoverlay\1
+10-5-2021 21:56 (9595:58): ClientUserinfoChanged: 2 n\Zen\t\0\model\jedi_tf/head_b4|torso_f1|lower_c1\c1\5\c2\0\hc\100\w\0\l\0\tt\0\tl\0\st\dual_5\st2\none\dt\0
+10-5-2021 21:56 (9596:13): Kill: 2 0 3: Zen killed MUKE by MOD_SABER
+10-5-2021 21:56 (9596:17): ClientUserinfoChanged handling info: 0 \ip\108.245.56.163:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\single_1\saber1\single_1\cg_predictItems\1\sex\male\handicap\100\color2\5\color1\5\forcepowers\7-1-021222000330002333\model\jedi_kdm/head_a1|torso_d1|lower_d1\snaps\20\rate\90000\name\MUKE\teamtask\0\teamoverlay\1
+10-5-2021 21:56 (9596:17): ClientUserinfoChanged: 0 n\MUKE\t\0\model\jedi_kdm/head_a1|torso_d1|lower_d1\c1\5\c2\5\hc\100\w\0\l\0\tt\0\tl\0\st\single_1\st2\single_1\dt\0
+10-5-2021 21:56 (9596:31): Kill: 0 2 3: MUKE killed Zen by MOD_SABER
+10-5-2021 21:57 (9596:40): ClientUserinfoChanged handling info: 2 \ip\47.26.236.113:29070\char_color_blue\255\char_color_green\150\char_color_red\180\saber2\none\saber1\dual_5\cg_predictItems\1\sex\male\handicap\100\color2\0\color1\5\forcepowers\7-2-033010033000000333\model\jedi_tf/head_b4|torso_f1|lower_c1\snaps\20\rate\4000\name\Zen\teamtask\0\teamoverlay\1
+10-5-2021 21:57 (9596:40): ClientUserinfoChanged: 2 n\Zen\t\0\model\jedi_tf/head_b4|torso_f1|lower_c1\c1\5\c2\0\hc\100\w\0\l\0\tt\0\tl\0\st\dual_5\st2\none\dt\0
+10-5-2021 21:57 (9597:00): Kill: 2 0 3: Zen killed MUKE by MOD_SABER
+10-5-2021 21:57 (9597:01): ClientUserinfoChanged handling info: 0 \ip\108.245.56.163:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\single_1\saber1\single_1\cg_predictItems\1\sex\male\handicap\100\color2\5\color1\5\forcepowers\7-1-021222000330002333\model\jedi_kdm/head_a1|torso_d1|lower_d1\snaps\20\rate\90000\name\MUKE\teamtask\0\teamoverlay\1
+10-5-2021 21:57 (9597:01): ClientUserinfoChanged: 0 n\MUKE\t\0\model\jedi_kdm/head_a1|torso_d1|lower_d1\c1\5\c2\5\hc\100\w\0\l\0\tt\0\tl\0\st\single_1\st2\single_1\dt\0
+10-5-2021 21:57 (9597:30): Kill: 0 2 3: MUKE killed Zen by MOD_SABER
+10-5-2021 21:58 (9597:35): ClientUserinfoChanged handling info: 2 \ip\47.26.236.113:29070\char_color_blue\255\char_color_green\150\char_color_red\180\saber2\none\saber1\dual_5\cg_predictItems\1\sex\male\handicap\100\color2\0\color1\5\forcepowers\7-2-033010033000000333\model\jedi_tf/head_b4|torso_f1|lower_c1\snaps\20\rate\4000\name\Zen\teamtask\0\teamoverlay\1
+10-5-2021 21:58 (9597:35): ClientUserinfoChanged: 2 n\Zen\t\0\model\jedi_tf/head_b4|torso_f1|lower_c1\c1\5\c2\0\hc\100\w\0\l\0\tt\0\tl\0\st\dual_5\st2\none\dt\0
+10-5-2021 21:58 (9597:41): Kill: 2 0 31: Zen killed MUKE by MOD_FORCE_DARK
+10-5-2021 21:58 (9597:47): ClientUserinfoChanged handling info: 0 \ip\108.245.56.163:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\single_1\saber1\single_1\cg_predictItems\1\sex\male\handicap\100\color2\5\color1\5\forcepowers\7-1-021222000330002333\model\jedi_kdm/head_a1|torso_d1|lower_d1\snaps\20\rate\90000\name\MUKE\teamtask\0\teamoverlay\1
+10-5-2021 21:58 (9597:47): ClientUserinfoChanged: 0 n\MUKE\t\0\model\jedi_kdm/head_a1|torso_d1|lower_d1\c1\5\c2\5\hc\100\w\0\l\0\tt\0\tl\0\st\single_1\st2\single_1\dt\0
+10-5-2021 21:58 (9598:31): Kill: 2 0 3: Zen killed MUKE by MOD_SABER
+10-5-2021 21:59 (9598:32): ClientUserinfoChanged handling info: 0 \ip\108.245.56.163:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\single_1\saber1\single_1\cg_predictItems\1\sex\male\handicap\100\color2\5\color1\5\forcepowers\7-1-021222000330002333\model\jedi_kdm/head_a1|torso_d1|lower_d1\snaps\20\rate\90000\name\MUKE\teamtask\0\teamoverlay\1
+10-5-2021 21:59 (9598:32): ClientUserinfoChanged: 0 n\MUKE\t\0\model\jedi_kdm/head_a1|torso_d1|lower_d1\c1\5\c2\5\hc\100\w\0\l\0\tt\0\tl\0\st\single_1\st2\single_1\dt\0
+10-5-2021 21:59 (9598:38): Kill: 0 2 3: MUKE killed Zen by MOD_SABER
+10-5-2021 21:59 (9598:41): ClientUserinfoChanged handling info: 2 \ip\47.26.236.113:29070\char_color_blue\255\char_color_green\150\char_color_red\180\saber2\none\saber1\dual_5\cg_predictItems\1\sex\male\handicap\100\color2\0\color1\5\forcepowers\7-2-033010033000000333\model\jedi_tf/head_b4|torso_f1|lower_c1\snaps\20\rate\4000\name\Zen\teamtask\0\teamoverlay\1
+10-5-2021 21:59 (9598:41): ClientUserinfoChanged: 2 n\Zen\t\0\model\jedi_tf/head_b4|torso_f1|lower_c1\c1\5\c2\0\hc\100\w\0\l\0\tt\0\tl\0\st\dual_5\st2\none\dt\0
+10-5-2021 21:59 (9599:04): Kill: 0 2 3: MUKE killed Zen by MOD_SABER
+10-5-2021 21:59 (9599:06): ClientUserinfoChanged handling info: 2 \ip\47.26.236.113:29070\char_color_blue\255\char_color_green\150\char_color_red\180\saber2\none\saber1\dual_5\cg_predictItems\1\sex\male\handicap\100\color2\0\color1\5\forcepowers\7-2-033010033000000333\model\jedi_tf/head_b4|torso_f1|lower_c1\snaps\20\rate\4000\name\Zen\teamtask\0\teamoverlay\1
+10-5-2021 21:59 (9599:06): ClientUserinfoChanged: 2 n\Zen\t\0\model\jedi_tf/head_b4|torso_f1|lower_c1\c1\5\c2\0\hc\100\w\0\l\0\tt\0\tl\0\st\dual_5\st2\none\dt\0
+10-5-2021 21:59 (9599:17): Kill: 2 0 3: Zen killed MUKE by MOD_SABER
+10-5-2021 21:59 (9599:19): ClientUserinfoChanged handling info: 0 \ip\108.245.56.163:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\single_1\saber1\single_1\cg_predictItems\1\sex\male\handicap\100\color2\5\color1\5\forcepowers\7-1-021222000330002333\model\jedi_kdm/head_a1|torso_d1|lower_d1\snaps\20\rate\90000\name\MUKE\teamtask\0\teamoverlay\1
+10-5-2021 21:59 (9599:19): ClientUserinfoChanged: 0 n\MUKE\t\0\model\jedi_kdm/head_a1|torso_d1|lower_d1\c1\5\c2\5\hc\100\w\0\l\0\tt\0\tl\0\st\single_1\st2\single_1\dt\0
+10-5-2021 21:59 (9599:24): Kill: 2 0 3: Zen killed MUKE by MOD_SABER
+10-5-2021 21:59 (9599:27): ClientUserinfoChanged handling info: 0 \ip\108.245.56.163:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\single_1\saber1\single_1\cg_predictItems\1\sex\male\handicap\100\color2\5\color1\5\forcepowers\7-1-021222000330002333\model\jedi_kdm/head_a1|torso_d1|lower_d1\snaps\20\rate\90000\name\MUKE\teamtask\0\teamoverlay\1
+10-5-2021 21:59 (9599:27): ClientUserinfoChanged: 0 n\MUKE\t\0\model\jedi_kdm/head_a1|torso_d1|lower_d1\c1\5\c2\5\hc\100\w\0\l\0\tt\0\tl\0\st\single_1\st2\single_1\dt\0
+10-5-2021 22: 0 (9600:18): Kill: 2 0 3: Zen killed MUKE by MOD_SABER
+10-5-2021 22: 0 (9600:22): ClientUserinfoChanged handling info: 0 \ip\108.245.56.163:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\single_1\saber1\single_1\cg_predictItems\1\sex\male\handicap\100\color2\5\color1\5\forcepowers\7-1-021222000330002333\model\jedi_kdm/head_a1|torso_d1|lower_d1\snaps\20\rate\90000\name\MUKE\teamtask\0\teamoverlay\1
+10-5-2021 22: 0 (9600:22): ClientUserinfoChanged: 0 n\MUKE\t\0\model\jedi_kdm/head_a1|torso_d1|lower_d1\c1\5\c2\5\hc\100\w\0\l\0\tt\0\tl\0\st\single_1\st2\single_1\dt\0
+10-5-2021 22: 1 (9600:35): Kill: 0 2 3: MUKE killed Zen by MOD_SABER
+10-5-2021 22: 1 (9600:38): ClientUserinfoChanged handling info: 2 \ip\47.26.236.113:29070\char_color_blue\255\char_color_green\150\char_color_red\180\saber2\none\saber1\dual_5\cg_predictItems\1\sex\male\handicap\100\color2\0\color1\5\forcepowers\7-2-033010033000000333\model\jedi_tf/head_b4|torso_f1|lower_c1\snaps\20\rate\4000\name\Zen\teamtask\0\teamoverlay\1
+10-5-2021 22: 1 (9600:38): ClientUserinfoChanged: 2 n\Zen\t\0\model\jedi_tf/head_b4|torso_f1|lower_c1\c1\5\c2\0\hc\100\w\0\l\0\tt\0\tl\0\st\dual_5\st2\none\dt\0
+10-5-2021 22: 1 (9600:56): Kill: 2 0 3: Zen killed MUKE by MOD_SABER
+10-5-2021 22: 1 (9601:18): ClientUserinfoChanged handling info: 0 \ip\108.245.56.163:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\none\saber1\single_1\cg_predictItems\1\sex\male\handicap\100\color2\5\color1\5\forcepowers\7-1-021222000330002333\model\jedi_kdm/head_a1|torso_d1|lower_d1\snaps\20\rate\90000\name\MUKE\teamtask\0\teamoverlay\1
+10-5-2021 22: 1 (9601:18): ClientUserinfoChanged: 0 n\MUKE\t\0\model\jedi_kdm/head_a1|torso_d1|lower_d1\c1\5\c2\5\hc\100\w\0\l\0\tt\0\tl\0\st\single_1\st2\single_1\dt\0
+10-5-2021 22: 1 (9601:19): ClientUserinfoChanged handling info: 0 \ip\108.245.56.163:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\none\saber1\single_1\cg_predictItems\1\sex\male\handicap\100\color2\5\color1\5\forcepowers\7-1-021222000330002333\model\jedi_kdm/head_a1|torso_d1|lower_d1\snaps\20\rate\90000\name\MUKE\teamtask\0\teamoverlay\1
+10-5-2021 22: 1 (9601:19): ClientUserinfoChanged: 0 n\MUKE\t\0\model\jedi_kdm/head_a1|torso_d1|lower_d1\c1\5\c2\5\hc\100\w\0\l\0\tt\0\tl\0\st\single_1\st2\none\dt\0
+10-5-2021 22: 1 (9601:19): ClientUserinfoChanged handling info: 0 \ip\108.245.56.163:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\none\saber1\single_1\cg_predictItems\1\sex\male\handicap\100\color2\5\color1\5\forcepowers\7-1-021222000330002333\model\jedi_kdm/head_a1|torso_d1|lower_d1\snaps\20\rate\90000\name\MUKE\teamtask\0\teamoverlay\1
+10-5-2021 22: 1 (9601:19): ClientUserinfoChanged: 0 n\MUKE\t\0\model\jedi_kdm/head_a1|torso_d1|lower_d1\c1\5\c2\5\hc\100\w\0\l\0\tt\0\tl\0\st\single_1\st2\none\dt\0
+10-5-2021 22: 2 (9602:23): Kill: 2 0 3: Zen killed MUKE by MOD_SABER
+10-5-2021 22: 2 (9602:24): ClientUserinfoChanged handling info: 0 \ip\108.245.56.163:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\none\saber1\single_1\cg_predictItems\1\sex\male\handicap\100\color2\5\color1\5\forcepowers\7-1-021222000330002333\model\jedi_kdm/head_a1|torso_d1|lower_d1\snaps\20\rate\90000\name\MUKE\teamtask\0\teamoverlay\1
+10-5-2021 22: 2 (9602:24): ClientUserinfoChanged: 0 n\MUKE\t\0\model\jedi_kdm/head_a1|torso_d1|lower_d1\c1\5\c2\5\hc\100\w\0\l\0\tt\0\tl\0\st\single_1\st2\none\dt\0
+10-5-2021 22: 2 (9602:29): Kill: 2 0 3: Zen killed MUKE by MOD_SABER
+10-5-2021 22: 2 (9602:31): ClientUserinfoChanged handling info: 0 \ip\108.245.56.163:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\none\saber1\single_1\cg_predictItems\1\sex\male\handicap\100\color2\5\color1\5\forcepowers\7-1-021222000330002333\model\jedi_kdm/head_a1|torso_d1|lower_d1\snaps\20\rate\90000\name\MUKE\teamtask\0\teamoverlay\1
+10-5-2021 22: 2 (9602:31): ClientUserinfoChanged: 0 n\MUKE\t\0\model\jedi_kdm/head_a1|torso_d1|lower_d1\c1\5\c2\5\hc\100\w\0\l\0\tt\0\tl\0\st\single_1\st2\none\dt\0
+10-5-2021 22: 3 (9603:21): Kill: 2 0 31: Zen killed MUKE by MOD_FORCE_DARK
+10-5-2021 22: 3 (9603:27): ClientUserinfoChanged handling info: 0 \ip\108.245.56.163:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\none\saber1\single_1\cg_predictItems\1\sex\male\handicap\100\color2\5\color1\5\forcepowers\7-1-021222000330002333\model\jedi_kdm/head_a1|torso_d1|lower_d1\snaps\20\rate\90000\name\MUKE\teamtask\0\teamoverlay\1
+10-5-2021 22: 3 (9603:27): ClientUserinfoChanged: 0 n\MUKE\t\0\model\jedi_kdm/head_a1|torso_d1|lower_d1\c1\5\c2\5\hc\100\w\0\l\0\tt\0\tl\0\st\single_1\st2\none\dt\0
+10-5-2021 22: 3 (9603:32): Kill: 0 2 3: MUKE killed Zen by MOD_SABER
+10-5-2021 22: 4 (9603:35): ClientUserinfoChanged handling info: 2 \ip\47.26.236.113:29070\char_color_blue\255\char_color_green\150\char_color_red\180\saber2\none\saber1\dual_5\cg_predictItems\1\sex\male\handicap\100\color2\0\color1\5\forcepowers\7-2-033010033000000333\model\jedi_tf/head_b4|torso_f1|lower_c1\snaps\20\rate\4000\name\Zen\teamtask\0\teamoverlay\1
+10-5-2021 22: 4 (9603:35): ClientUserinfoChanged: 2 n\Zen\t\0\model\jedi_tf/head_b4|torso_f1|lower_c1\c1\5\c2\0\hc\100\w\0\l\0\tt\0\tl\0\st\dual_5\st2\none\dt\0
+10-5-2021 22: 4 (9603:46): Kill: 2 0 3: Zen killed MUKE by MOD_SABER
+10-5-2021 22: 4 (9603:48): ClientUserinfoChanged handling info: 0 \ip\108.245.56.163:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\none\saber1\single_1\cg_predictItems\1\sex\male\handicap\100\color2\5\color1\5\forcepowers\7-1-021222000330002333\model\jedi_kdm/head_a1|torso_d1|lower_d1\snaps\20\rate\90000\name\MUKE\teamtask\0\teamoverlay\1
+10-5-2021 22: 4 (9603:48): ClientUserinfoChanged: 0 n\MUKE\t\0\model\jedi_kdm/head_a1|torso_d1|lower_d1\c1\5\c2\5\hc\100\w\0\l\0\tt\0\tl\0\st\single_1\st2\none\dt\0
+10-5-2021 22: 5 (9604:40): Kill: 2 0 3: Zen killed MUKE by MOD_SABER
+10-5-2021 22: 5 (9604:44): ClientUserinfoChanged handling info: 0 \ip\108.245.56.163:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\none\saber1\single_1\cg_predictItems\1\sex\male\handicap\100\color2\5\color1\5\forcepowers\7-1-021222000330002333\model\jedi_kdm/head_a1|torso_d1|lower_d1\snaps\20\rate\90000\name\MUKE\teamtask\0\teamoverlay\1
+10-5-2021 22: 5 (9604:44): ClientUserinfoChanged: 0 n\MUKE\t\0\model\jedi_kdm/head_a1|torso_d1|lower_d1\c1\5\c2\5\hc\100\w\0\l\0\tt\0\tl\0\st\single_1\st2\none\dt\0
+10-5-2021 22: 5 (9605:02): Kill: 2 0 3: Zen killed MUKE by MOD_SABER
+10-5-2021 22: 5 (9605:05): ClientUserinfoChanged handling info: 0 \ip\108.245.56.163:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\none\saber1\single_1\cg_predictItems\1\sex\male\handicap\100\color2\5\color1\5\forcepowers\7-1-021222000330002333\model\jedi_kdm/head_a1|torso_d1|lower_d1\snaps\20\rate\90000\name\MUKE\teamtask\0\teamoverlay\1
+10-5-2021 22: 5 (9605:05): ClientUserinfoChanged: 0 n\MUKE\t\0\model\jedi_kdm/head_a1|torso_d1|lower_d1\c1\5\c2\5\hc\100\w\0\l\0\tt\0\tl\0\st\single_1\st2\none\dt\0
+10-5-2021 22: 6 (9605:52): Kill: 0 2 3: MUKE killed Zen by MOD_SABER
+10-5-2021 22: 6 (9605:56): ClientUserinfoChanged handling info: 2 \ip\47.26.236.113:29070\char_color_blue\255\char_color_green\150\char_color_red\180\saber2\none\saber1\dual_5\cg_predictItems\1\sex\male\handicap\100\color2\0\color1\5\forcepowers\7-2-033010033000000333\model\jedi_tf/head_b4|torso_f1|lower_c1\snaps\20\rate\4000\name\Zen\teamtask\0\teamoverlay\1
+10-5-2021 22: 6 (9605:56): ClientUserinfoChanged: 2 n\Zen\t\0\model\jedi_tf/head_b4|torso_f1|lower_c1\c1\5\c2\0\hc\100\w\0\l\0\tt\0\tl\0\st\dual_5\st2\none\dt\0
+10-5-2021 22: 6 (9606:11): Kill: 2 0 3: Zen killed MUKE by MOD_SABER
+10-5-2021 22: 6 (9606:15): ClientUserinfoChanged handling info: 0 \ip\108.245.56.163:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\none\saber1\single_1\cg_predictItems\1\sex\male\handicap\100\color2\5\color1\5\forcepowers\7-1-021222000330002333\model\jedi_kdm/head_a1|torso_d1|lower_d1\snaps\20\rate\90000\name\MUKE\teamtask\0\teamoverlay\1
+10-5-2021 22: 6 (9606:15): ClientUserinfoChanged: 0 n\MUKE\t\0\model\jedi_kdm/head_a1|torso_d1|lower_d1\c1\5\c2\5\hc\100\w\0\l\0\tt\0\tl\0\st\single_1\st2\none\dt\0
+10-5-2021 22: 8 (9608:04): Kill: 2 0 3: Zen killed MUKE by MOD_SABER
+10-5-2021 22: 8 (9608:07): ClientUserinfoChanged handling info: 0 \ip\108.245.56.163:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\none\saber1\single_1\cg_predictItems\1\sex\male\handicap\100\color2\5\color1\5\forcepowers\7-1-021222000330002333\model\jedi_kdm/head_a1|torso_d1|lower_d1\snaps\20\rate\90000\name\MUKE\teamtask\0\teamoverlay\1
+10-5-2021 22: 8 (9608:07): ClientUserinfoChanged: 0 n\MUKE\t\0\model\jedi_kdm/head_a1|torso_d1|lower_d1\c1\5\c2\5\hc\100\w\0\l\0\tt\0\tl\0\st\single_1\st2\none\dt\0
+10-5-2021 22: 9 (9609:01): Kill: 0 2 3: MUKE killed Zen by MOD_SABER
+10-5-2021 22: 9 (9609:04): ClientUserinfoChanged handling info: 2 \ip\47.26.236.113:29070\char_color_blue\255\char_color_green\150\char_color_red\180\saber2\none\saber1\dual_5\cg_predictItems\1\sex\male\handicap\100\color2\0\color1\5\forcepowers\7-2-033010033000000333\model\jedi_tf/head_b4|torso_f1|lower_c1\snaps\20\rate\4000\name\Zen\teamtask\0\teamoverlay\1
+10-5-2021 22: 9 (9609:04): ClientUserinfoChanged: 2 n\Zen\t\0\model\jedi_tf/head_b4|torso_f1|lower_c1\c1\5\c2\0\hc\100\w\0\l\0\tt\0\tl\0\st\dual_5\st2\none\dt\0
+10-5-2021 22:10 (9609:42): Kill: 2 0 3: Zen killed MUKE by MOD_SABER
+10-5-2021 22:10 (9609:45): ClientUserinfoChanged handling info: 0 \ip\108.245.56.163:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\none\saber1\single_1\cg_predictItems\1\sex\male\handicap\100\color2\5\color1\5\forcepowers\7-1-021222000330002333\model\jedi_kdm/head_a1|torso_d1|lower_d1\snaps\20\rate\90000\name\MUKE\teamtask\0\teamoverlay\1
+10-5-2021 22:10 (9609:45): ClientUserinfoChanged: 0 n\MUKE\t\0\model\jedi_kdm/head_a1|torso_d1|lower_d1\c1\5\c2\5\hc\100\w\0\l\0\tt\0\tl\0\st\single_1\st2\none\dt\0
+10-5-2021 22:10 (9610:18): Kill: 2 0 3: Zen killed MUKE by MOD_SABER
+10-5-2021 22:10 (9610:23): ClientUserinfoChanged handling info: 0 \ip\108.245.56.163:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\none\saber1\single_1\cg_predictItems\1\sex\male\handicap\100\color2\5\color1\5\forcepowers\7-1-021222000330002333\model\jedi_kdm/head_a1|torso_d1|lower_d1\snaps\20\rate\90000\name\MUKE\teamtask\0\teamoverlay\1
+10-5-2021 22:10 (9610:23): ClientUserinfoChanged: 0 n\MUKE\t\0\model\jedi_kdm/head_a1|torso_d1|lower_d1\c1\5\c2\5\hc\100\w\0\l\0\tt\0\tl\0\st\single_1\st2\none\dt\0
+10-5-2021 22:10 (9610:28): Kill: 0 2 3: MUKE killed Zen by MOD_SABER
+10-5-2021 22:10 (9610:31): ClientUserinfoChanged handling info: 2 \ip\47.26.236.113:29070\char_color_blue\255\char_color_green\150\char_color_red\180\saber2\none\saber1\dual_5\cg_predictItems\1\sex\male\handicap\100\color2\0\color1\5\forcepowers\7-2-033010033000000333\model\jedi_tf/head_b4|torso_f1|lower_c1\snaps\20\rate\4000\name\Zen\teamtask\0\teamoverlay\1
+10-5-2021 22:10 (9610:31): ClientUserinfoChanged: 2 n\Zen\t\0\model\jedi_tf/head_b4|torso_f1|lower_c1\c1\5\c2\0\hc\100\w\0\l\0\tt\0\tl\0\st\dual_5\st2\none\dt\0
+10-5-2021 22:11 (9610:49): Kill: 0 2 3: MUKE killed Zen by MOD_SABER
+10-5-2021 22:11 (9610:51): ClientUserinfoChanged handling info: 2 \ip\47.26.236.113:29070\char_color_blue\255\char_color_green\150\char_color_red\180\saber2\none\saber1\dual_5\cg_predictItems\1\sex\male\handicap\100\color2\0\color1\5\forcepowers\7-2-033010033000000333\model\jedi_tf/head_b4|torso_f1|lower_c1\snaps\20\rate\4000\name\Zen\teamtask\0\teamoverlay\1
+10-5-2021 22:11 (9610:51): ClientUserinfoChanged: 2 n\Zen\t\0\model\jedi_tf/head_b4|torso_f1|lower_c1\c1\5\c2\0\hc\100\w\0\l\0\tt\0\tl\0\st\dual_5\st2\none\dt\0
+10-5-2021 22:11 (9611:07): Kill: 0 2 3: MUKE killed Zen by MOD_SABER
+10-5-2021 22:11 (9611:10): ClientUserinfoChanged handling info: 2 \ip\47.26.236.113:29070\char_color_blue\255\char_color_green\150\char_color_red\180\saber2\none\saber1\dual_5\cg_predictItems\1\sex\male\handicap\100\color2\0\color1\5\forcepowers\7-2-033010033000000333\model\jedi_tf/head_b4|torso_f1|lower_c1\snaps\20\rate\4000\name\Zen\teamtask\0\teamoverlay\1
+10-5-2021 22:11 (9611:10): ClientUserinfoChanged: 2 n\Zen\t\0\model\jedi_tf/head_b4|torso_f1|lower_c1\c1\5\c2\0\hc\100\w\0\l\0\tt\0\tl\0\st\dual_5\st2\none\dt\0
+10-5-2021 22:12 (9612:09): Kill: 2 0 3: Zen killed MUKE by MOD_SABER
+10-5-2021 22:12 (9612:13): ClientUserinfoChanged handling info: 0 \ip\108.245.56.163:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\none\saber1\single_1\cg_predictItems\1\sex\male\handicap\100\color2\5\color1\5\forcepowers\7-1-021222000330002333\model\jedi_kdm/head_a1|torso_d1|lower_d1\snaps\20\rate\90000\name\MUKE\teamtask\0\teamoverlay\1
+10-5-2021 22:12 (9612:13): ClientUserinfoChanged: 0 n\MUKE\t\0\model\jedi_kdm/head_a1|torso_d1|lower_d1\c1\5\c2\5\hc\100\w\0\l\0\tt\0\tl\0\st\single_1\st2\none\dt\0
+10-5-2021 22:13 (9613:05): Kill: 0 2 3: MUKE killed Zen by MOD_SABER
+10-5-2021 22:13 (9613:07): ClientUserinfoChanged handling info: 2 \ip\47.26.236.113:29070\char_color_blue\255\char_color_green\150\char_color_red\180\saber2\none\saber1\dual_5\cg_predictItems\1\sex\male\handicap\100\color2\0\color1\5\forcepowers\7-2-033010033000000333\model\jedi_tf/head_b4|torso_f1|lower_c1\snaps\20\rate\4000\name\Zen\teamtask\0\teamoverlay\1
+10-5-2021 22:13 (9613:07): ClientUserinfoChanged: 2 n\Zen\t\0\model\jedi_tf/head_b4|torso_f1|lower_c1\c1\5\c2\0\hc\100\w\0\l\0\tt\0\tl\0\st\dual_5\st2\none\dt\0
+10-5-2021 22:13 (9613:21): Kill: 2 0 3: Zen killed MUKE by MOD_SABER
+10-5-2021 22:13 (9613:25): ClientUserinfoChanged handling info: 0 \ip\108.245.56.163:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\none\saber1\single_1\cg_predictItems\1\sex\male\handicap\100\color2\5\color1\5\forcepowers\7-1-021222000330002333\model\jedi_kdm/head_a1|torso_d1|lower_d1\snaps\20\rate\90000\name\MUKE\teamtask\0\teamoverlay\1
+10-5-2021 22:13 (9613:25): ClientUserinfoChanged: 0 n\MUKE\t\0\model\jedi_kdm/head_a1|torso_d1|lower_d1\c1\5\c2\5\hc\100\w\0\l\0\tt\0\tl\0\st\single_1\st2\none\dt\0
+10-5-2021 22:14 (9614:17): Kill: 0 2 3: MUKE killed Zen by MOD_SABER
+10-5-2021 22:14 (9614:19): ClientUserinfoChanged handling info: 2 \ip\47.26.236.113:29070\char_color_blue\255\char_color_green\150\char_color_red\180\saber2\none\saber1\dual_5\cg_predictItems\1\sex\male\handicap\100\color2\0\color1\5\forcepowers\7-2-033010033000000333\model\jedi_tf/head_b4|torso_f1|lower_c1\snaps\20\rate\4000\name\Zen\teamtask\0\teamoverlay\1
+10-5-2021 22:14 (9614:19): ClientUserinfoChanged: 2 n\Zen\t\0\model\jedi_tf/head_b4|torso_f1|lower_c1\c1\5\c2\0\hc\100\w\0\l\0\tt\0\tl\0\st\dual_5\st2\none\dt\0
+10-5-2021 22:15 (9614:37): Kill: 0 2 3: MUKE killed Zen by MOD_SABER
+10-5-2021 22:15 (9614:40): ClientUserinfoChanged handling info: 2 \ip\47.26.236.113:29070\char_color_blue\255\char_color_green\150\char_color_red\180\saber2\none\saber1\dual_5\cg_predictItems\1\sex\male\handicap\100\color2\0\color1\5\forcepowers\7-2-033010033000000333\model\jedi_tf/head_b4|torso_f1|lower_c1\snaps\20\rate\4000\name\Zen\teamtask\0\teamoverlay\1
+10-5-2021 22:15 (9614:40): ClientUserinfoChanged: 2 n\Zen\t\0\model\jedi_tf/head_b4|torso_f1|lower_c1\c1\5\c2\0\hc\100\w\0\l\0\tt\0\tl\0\st\dual_5\st2\none\dt\0
+10-5-2021 22:15 (9615:21): Kill: 2 0 3: Zen killed MUKE by MOD_SABER
+10-5-2021 22:15 (9615:25): ClientUserinfoChanged handling info: 0 \ip\108.245.56.163:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\none\saber1\single_1\cg_predictItems\1\sex\male\handicap\100\color2\5\color1\5\forcepowers\7-1-021222000330002333\model\jedi_kdm/head_a1|torso_d1|lower_d1\snaps\20\rate\90000\name\MUKE\teamtask\0\teamoverlay\1
+10-5-2021 22:15 (9615:25): ClientUserinfoChanged: 0 n\MUKE\t\0\model\jedi_kdm/head_a1|torso_d1|lower_d1\c1\5\c2\5\hc\100\w\0\l\0\tt\0\tl\0\st\single_1\st2\none\dt\0
+10-5-2021 22:16 (9615:41): Exit: Timelimit hit.
+10-5-2021 22:16 (9615:41): score: 36  ping: 44  client: 2 Zen
+10-5-2021 22:16 (9615:41): score: 21  ping: 45  client: 0 MUKE
+10-5-2021 22:16 (9615:54): ShutdownGame:
+10-5-2021 22:16 (9615:54): ------------------------------------------------------------
+10-5-2021 22:16 (9615:54): ------------------------------------------------------------
+10-5-2021 22:16 (9615:54): InitGame: \version\JAmp: v1.0.1.0 linux-i386 Mar 14 2020\timelimit\45\sv_privateClients\0\sv_minRate\0\sv_minPing\0\sv_maxclients\32\sv_maxRate\0\sv_maxPing\999\sv_hostname\^7~^1~^7~ COMM SERVER ~^1~^7~\sv_fps\50\sv_floodProtectSlow\1\sv_floodProtect\1\sv_autoDemo\0\sv_allowDownload\0\serveruptime\212\protocol\26\mapname\academy6\gamename\Lugormod\g_weaponDisable\0\g_stepSlideFix\0\g_siegeTeamSwitch\1\g_siegeTeam2\none\g_siegeTeam1\none\g_siegeRespawn\20\g_showDuelHealths\1\g_saberWallDamageScale\0.4\g_saberLocking\0\g_privateDuel\1535\g_noSpecMove\0\g_needpass\0\g_maxHolocronCarry\3\g_maxGameClients\0\g_maxForceRank\7\g_jediVmerc\0\g_gametype\0\g_gamemode\0\g_forceRegenTime\160\g_forcePowerDisable\0\g_forceBasedTeams\1\g_duelWeaponDisable\9\g_debugmelee\1\g_allowNPC\1\fs_game\lugormod\fraglimit\0\duel_fraglimit\10\dmflags\0\capturelimit\10\bot_minplayers\2\bg_fighterAltControl\0\Lugormod_Version\U#-0.0.0.91 Alpha
+10-5-2021 22:16 (9615:55): ClientConnect: 0
+10-5-2021 22:16 (9615:55): ClientUserinfoChanged handling info: 0 \ip\108.245.56.163:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\none\saber1\single_1\cg_predictItems\1\sex\male\handicap\100\color2\5\color1\5\forcepowers\7-1-021222000330002333\model\jedi_kdm/head_a1|torso_d1|lower_d1\snaps\20\rate\90000\name\MUKE\teamtask\0\teamoverlay\1
+10-5-2021 22:16 (9615:55): ClientUserinfoChanged: 0 n\MUKE\t\0\model\jedi_kdm/head_a1|torso_d1|lower_d1\c1\5\c2\5\hc\0\w\0\l\0\tt\0\tl\0\st\single_1\st2\none\dt\0
+10-5-2021 22:16 (9615:55): ClientUserinfoChanged handling info: 0 \ip\108.245.56.163:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\none\saber1\single_1\cg_predictItems\1\sex\male\handicap\100\color2\5\color1\5\forcepowers\7-1-021222000330002333\model\jedi_kdm/head_a1|torso_d1|lower_d1\snaps\20\rate\90000\name\MUKE\teamtask\0\teamoverlay\1
+10-5-2021 22:16 (9615:55): ClientUserinfoChanged: 0 n\MUKE\t\0\model\jedi_kdm/head_a1|torso_d1|lower_d1\c1\5\c2\5\hc\0\w\0\l\0\tt\0\tl\0\st\single_1\st2\none\dt\0
+10-5-2021 22:16 (9615:55): ClientUserinfoChanged handling info: 0 \ip\108.245.56.163:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\none\saber1\single_1\cg_predictItems\1\sex\male\handicap\100\color2\5\color1\5\forcepowers\7-1-021222000330002333\model\jedi_kdm/head_a1|torso_d1|lower_d1\snaps\20\rate\90000\name\MUKE\teamtask\0\teamoverlay\1
+10-5-2021 22:16 (9615:55): ClientUserinfoChanged: 0 n\MUKE\t\0\model\jedi_kdm/head_a1|torso_d1|lower_d1\c1\5\c2\5\hc\100\w\0\l\0\tt\0\tl\0\st\single_1\st2\none\dt\0
+10-5-2021 22:16 (9615:55): ClientBegin: 0
+10-5-2021 22:16 (9615:55): ClientConnect: 2
+10-5-2021 22:16 (9615:55): ClientUserinfoChanged handling info: 2 \ip\47.26.236.113:29070\char_color_blue\255\char_color_green\150\char_color_red\180\saber2\none\saber1\dual_5\cg_predictItems\1\sex\male\handicap\100\color2\0\color1\5\forcepowers\7-2-033010033000000333\model\jedi_tf/head_b4|torso_f1|lower_c1\snaps\20\rate\4000\name\Zen\teamtask\0\teamoverlay\1
+10-5-2021 22:16 (9615:55): ClientUserinfoChanged: 2 n\Zen\t\0\model\jedi_tf/head_b4|torso_f1|lower_c1\c1\5\c2\0\hc\0\w\0\l\0\tt\0\tl\0\st\dual_5\st2\none\dt\0
+10-5-2021 22:16 (9615:55): ClientUserinfoChanged handling info: 2 \ip\47.26.236.113:29070\char_color_blue\255\char_color_green\150\char_color_red\180\saber2\none\saber1\dual_5\cg_predictItems\1\sex\male\handicap\100\color2\0\color1\5\forcepowers\7-2-033010033000000333\model\jedi_tf/head_b4|torso_f1|lower_c1\snaps\20\rate\4000\name\Zen\teamtask\0\teamoverlay\1
+10-5-2021 22:16 (9615:55): ClientUserinfoChanged: 2 n\Zen\t\0\model\jedi_tf/head_b4|torso_f1|lower_c1\c1\5\c2\0\hc\0\w\0\l\0\tt\0\tl\0\st\dual_5\st2\none\dt\0
+10-5-2021 22:16 (9615:55): ClientUserinfoChanged handling info: 2 \ip\47.26.236.113:29070\char_color_blue\255\char_color_green\150\char_color_red\180\saber2\none\saber1\dual_5\cg_predictItems\1\sex\male\handicap\100\color2\0\color1\5\forcepowers\7-2-033010033000000333\model\jedi_tf/head_b4|torso_f1|lower_c1\snaps\20\rate\4000\name\Zen\teamtask\0\teamoverlay\1
+10-5-2021 22:16 (9615:55): ClientUserinfoChanged: 2 n\Zen\t\0\model\jedi_tf/head_b4|torso_f1|lower_c1\c1\5\c2\0\hc\100\w\0\l\0\tt\0\tl\0\st\dual_5\st2\none\dt\0
+10-5-2021 22:16 (9615:55): ClientBegin: 2
+10-5-2021 22:17 (9616:35): Kill: 0 2 3: MUKE killed Zen by MOD_SABER
+10-5-2021 22:17 (9616:38): ClientUserinfoChanged handling info: 2 \ip\47.26.236.113:29070\char_color_blue\255\char_color_green\150\char_color_red\180\saber2\none\saber1\dual_5\cg_predictItems\1\sex\male\handicap\100\color2\0\color1\5\forcepowers\7-2-033010033000000333\model\jedi_tf/head_b4|torso_f1|lower_c1\snaps\20\rate\4000\name\Zen\teamtask\0\teamoverlay\1
+10-5-2021 22:17 (9616:38): ClientUserinfoChanged: 2 n\Zen\t\0\model\jedi_tf/head_b4|torso_f1|lower_c1\c1\5\c2\0\hc\100\w\0\l\0\tt\0\tl\0\st\dual_5\st2\none\dt\0
+10-5-2021 22:17 (9616:45): Kill: 2 0 3: Zen killed MUKE by MOD_SABER
+10-5-2021 22:17 (9616:49): ClientUserinfoChanged handling info: 0 \ip\108.245.56.163:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\none\saber1\single_1\cg_predictItems\1\sex\male\handicap\100\color2\5\color1\5\forcepowers\7-1-021222000330002333\model\jedi_kdm/head_a1|torso_d1|lower_d1\snaps\20\rate\90000\name\MUKE\teamtask\0\teamoverlay\1
+10-5-2021 22:17 (9616:49): ClientUserinfoChanged: 0 n\MUKE\t\0\model\jedi_kdm/head_a1|torso_d1|lower_d1\c1\5\c2\5\hc\100\w\0\l\0\tt\0\tl\0\st\single_1\st2\none\dt\0
+10-5-2021 22:18 (9617:58): Kill: 2 0 3: Zen killed MUKE by MOD_SABER
+10-5-2021 22:18 (9617:59): ClientUserinfoChanged handling info: 0 \ip\108.245.56.163:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\none\saber1\single_1\cg_predictItems\1\sex\male\handicap\100\color2\5\color1\5\forcepowers\7-1-021222000330002333\model\jedi_kdm/head_a1|torso_d1|lower_d1\snaps\20\rate\90000\name\MUKE\teamtask\0\teamoverlay\1
+10-5-2021 22:18 (9617:59): ClientUserinfoChanged: 0 n\MUKE\t\0\model\jedi_kdm/head_a1|torso_d1|lower_d1\c1\5\c2\5\hc\100\w\0\l\0\tt\0\tl\0\st\single_1\st2\none\dt\0
+10-5-2021 22:18 (9618:03): Kill: 1022 2 38: <world> killed Zen by MOD_FALLING
+10-5-2021 22:18 (9618:09): ClientUserinfoChanged handling info: 2 \ip\47.26.236.113:29070\char_color_blue\255\char_color_green\150\char_color_red\180\saber2\none\saber1\dual_5\cg_predictItems\1\sex\male\handicap\100\color2\0\color1\5\forcepowers\7-2-033010033000000333\model\jedi_tf/head_b4|torso_f1|lower_c1\snaps\20\rate\4000\name\Zen\teamtask\0\teamoverlay\1
+10-5-2021 22:18 (9618:09): ClientUserinfoChanged: 2 n\Zen\t\0\model\jedi_tf/head_b4|torso_f1|lower_c1\c1\5\c2\0\hc\100\w\0\l\0\tt\0\tl\0\st\dual_5\st2\none\dt\0
+10-5-2021 22:18 (9618:27): Kill: 0 2 3: MUKE killed Zen by MOD_SABER
+10-5-2021 22:18 (9618:30): ClientUserinfoChanged handling info: 2 \ip\47.26.236.113:29070\char_color_blue\255\char_color_green\150\char_color_red\180\saber2\none\saber1\dual_5\cg_predictItems\1\sex\male\handicap\100\color2\0\color1\5\forcepowers\7-2-033010033000000333\model\jedi_tf/head_b4|torso_f1|lower_c1\snaps\20\rate\4000\name\Zen\teamtask\0\teamoverlay\1
+10-5-2021 22:18 (9618:30): ClientUserinfoChanged: 2 n\Zen\t\0\model\jedi_tf/head_b4|torso_f1|lower_c1\c1\5\c2\0\hc\100\w\0\l\0\tt\0\tl\0\st\dual_5\st2\none\dt\0
+10-5-2021 22:20 (9619:34): Kill: 2 0 3: Zen killed MUKE by MOD_SABER
+10-5-2021 22:20 (9619:39): ClientUserinfoChanged handling info: 0 \ip\108.245.56.163:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\none\saber1\single_1\cg_predictItems\1\sex\male\handicap\100\color2\5\color1\5\forcepowers\7-1-021222000330002333\model\jedi_kdm/head_a1|torso_d1|lower_d1\snaps\20\rate\90000\name\MUKE\teamtask\0\teamoverlay\1
+10-5-2021 22:20 (9619:39): ClientUserinfoChanged: 0 n\MUKE\t\0\model\jedi_kdm/head_a1|torso_d1|lower_d1\c1\5\c2\5\hc\100\w\0\l\0\tt\0\tl\0\st\single_1\st2\none\dt\0
+10-5-2021 22:21 (9621:10): Kill: 2 0 31: Zen killed MUKE by MOD_FORCE_DARK
+10-5-2021 22:21 (9621:13): ClientUserinfoChanged handling info: 0 \ip\108.245.56.163:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\none\saber1\single_1\cg_predictItems\1\sex\male\handicap\100\color2\5\color1\5\forcepowers\7-1-021222000330002333\model\jedi_kdm/head_a1|torso_d1|lower_d1\snaps\20\rate\90000\name\MUKE\teamtask\0\teamoverlay\1
+10-5-2021 22:21 (9621:13): ClientUserinfoChanged: 0 n\MUKE\t\0\model\jedi_kdm/head_a1|torso_d1|lower_d1\c1\5\c2\5\hc\100\w\0\l\0\tt\0\tl\0\st\single_1\st2\none\dt\0
+10-5-2021 22:22 (9621:42): Kill: 2 0 3: Zen killed MUKE by MOD_SABER
+10-5-2021 22:22 (9621:45): ClientUserinfoChanged handling info: 0 \ip\108.245.56.163:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\none\saber1\single_1\cg_predictItems\1\sex\male\handicap\100\color2\5\color1\5\forcepowers\7-1-021222000330002333\model\jedi_kdm/head_a1|torso_d1|lower_d1\snaps\20\rate\90000\name\MUKE\teamtask\0\teamoverlay\1
+10-5-2021 22:22 (9621:45): ClientUserinfoChanged: 0 n\MUKE\t\0\model\jedi_kdm/head_a1|torso_d1|lower_d1\c1\5\c2\5\hc\100\w\0\l\0\tt\0\tl\0\st\single_1\st2\none\dt\0
+10-5-2021 22:22 (9622:03): Kill: 0 2 3: MUKE killed Zen by MOD_SABER
+10-5-2021 22:22 (9622:06): ClientUserinfoChanged handling info: 2 \ip\47.26.236.113:29070\char_color_blue\255\char_color_green\150\char_color_red\180\saber2\none\saber1\dual_5\cg_predictItems\1\sex\male\handicap\100\color2\0\color1\5\forcepowers\7-2-033010033000000333\model\jedi_tf/head_b4|torso_f1|lower_c1\snaps\20\rate\4000\name\Zen\teamtask\0\teamoverlay\1
+10-5-2021 22:22 (9622:06): ClientUserinfoChanged: 2 n\Zen\t\0\model\jedi_tf/head_b4|torso_f1|lower_c1\c1\5\c2\0\hc\100\w\0\l\0\tt\0\tl\0\st\dual_5\st2\none\dt\0
+10-5-2021 22:22 (9622:29): Kill: 0 2 3: MUKE killed Zen by MOD_SABER
+10-5-2021 22:22 (9622:32): ClientUserinfoChanged handling info: 2 \ip\47.26.236.113:29070\char_color_blue\255\char_color_green\150\char_color_red\180\saber2\none\saber1\dual_5\cg_predictItems\1\sex\male\handicap\100\color2\0\color1\5\forcepowers\7-2-033010033000000333\model\jedi_tf/head_b4|torso_f1|lower_c1\snaps\20\rate\4000\name\Zen\teamtask\0\teamoverlay\1
+10-5-2021 22:22 (9622:32): ClientUserinfoChanged: 2 n\Zen\t\0\model\jedi_tf/head_b4|torso_f1|lower_c1\c1\5\c2\0\hc\100\w\0\l\0\tt\0\tl\0\st\dual_5\st2\none\dt\0
+10-5-2021 22:23 (9622:43): Kill: 2 0 3: Zen killed MUKE by MOD_SABER
+10-5-2021 22:23 (9622:45): ClientUserinfoChanged handling info: 0 \ip\108.245.56.163:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\none\saber1\single_1\cg_predictItems\1\sex\male\handicap\100\color2\5\color1\5\forcepowers\7-1-021222000330002333\model\jedi_kdm/head_a1|torso_d1|lower_d1\snaps\20\rate\90000\name\MUKE\teamtask\0\teamoverlay\1
+10-5-2021 22:23 (9622:45): ClientUserinfoChanged: 0 n\MUKE\t\0\model\jedi_kdm/head_a1|torso_d1|lower_d1\c1\5\c2\5\hc\100\w\0\l\0\tt\0\tl\0\st\single_1\st2\none\dt\0
+10-5-2021 22:23 (9623:27): Kill: 0 2 3: MUKE killed Zen by MOD_SABER
+10-5-2021 22:23 (9623:30): ClientUserinfoChanged handling info: 2 \ip\47.26.236.113:29070\char_color_blue\255\char_color_green\150\char_color_red\180\saber2\none\saber1\dual_5\cg_predictItems\1\sex\male\handicap\100\color2\0\color1\5\forcepowers\7-2-033010033000000333\model\jedi_tf/head_b4|torso_f1|lower_c1\snaps\20\rate\4000\name\Zen\teamtask\0\teamoverlay\1
+10-5-2021 22:23 (9623:30): ClientUserinfoChanged: 2 n\Zen\t\0\model\jedi_tf/head_b4|torso_f1|lower_c1\c1\5\c2\0\hc\100\w\0\l\0\tt\0\tl\0\st\dual_5\st2\none\dt\0
+10-5-2021 22:24 (9624:23): Kill: 2 0 31: Zen killed MUKE by MOD_FORCE_DARK
+10-5-2021 22:24 (9624:27): ClientUserinfoChanged handling info: 0 \ip\108.245.56.163:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\none\saber1\single_1\cg_predictItems\1\sex\male\handicap\100\color2\5\color1\5\forcepowers\7-1-021222000330002333\model\jedi_kdm/head_a1|torso_d1|lower_d1\snaps\20\rate\90000\name\MUKE\teamtask\0\teamoverlay\1
+10-5-2021 22:24 (9624:27): ClientUserinfoChanged: 0 n\MUKE\t\0\model\jedi_kdm/head_a1|torso_d1|lower_d1\c1\5\c2\5\hc\100\w\0\l\0\tt\0\tl\0\st\single_1\st2\none\dt\0
+10-5-2021 22:25 (9625:10): Kill: 2 0 3: Zen killed MUKE by MOD_SABER
+10-5-2021 22:25 (9625:12): ClientUserinfoChanged handling info: 0 \ip\108.245.56.163:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\none\saber1\single_1\cg_predictItems\1\sex\male\handicap\100\color2\5\color1\5\forcepowers\7-1-021222000330002333\model\jedi_kdm/head_a1|torso_d1|lower_d1\snaps\20\rate\90000\name\MUKE\teamtask\0\teamoverlay\1
+10-5-2021 22:25 (9625:12): ClientUserinfoChanged: 0 n\MUKE\t\0\model\jedi_kdm/head_a1|torso_d1|lower_d1\c1\5\c2\5\hc\100\w\0\l\0\tt\0\tl\0\st\single_1\st2\none\dt\0
+10-5-2021 22:26 (9625:52): Kill: 2 0 3: Zen killed MUKE by MOD_SABER
+10-5-2021 22:26 (9625:55): ClientUserinfoChanged handling info: 0 \ip\108.245.56.163:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\none\saber1\single_1\cg_predictItems\1\sex\male\handicap\100\color2\5\color1\5\forcepowers\7-1-021222000330002333\model\jedi_kdm/head_a1|torso_d1|lower_d1\snaps\20\rate\90000\name\MUKE\teamtask\0\teamoverlay\1
+10-5-2021 22:26 (9625:55): ClientUserinfoChanged: 0 n\MUKE\t\0\model\jedi_kdm/head_a1|torso_d1|lower_d1\c1\5\c2\5\hc\100\w\0\l\0\tt\0\tl\0\st\single_1\st2\none\dt\0
+10-5-2021 22:26 (9626:03): Kill: 0 2 3: MUKE killed Zen by MOD_SABER
+10-5-2021 22:26 (9626:07): ClientUserinfoChanged handling info: 2 \ip\47.26.236.113:29070\char_color_blue\255\char_color_green\150\char_color_red\180\saber2\none\saber1\dual_5\cg_predictItems\1\sex\male\handicap\100\color2\0\color1\5\forcepowers\7-2-033010033000000333\model\jedi_tf/head_b4|torso_f1|lower_c1\snaps\20\rate\4000\name\Zen\teamtask\0\teamoverlay\1
+10-5-2021 22:26 (9626:07): ClientUserinfoChanged: 2 n\Zen\t\0\model\jedi_tf/head_b4|torso_f1|lower_c1\c1\5\c2\0\hc\100\w\0\l\0\tt\0\tl\0\st\dual_5\st2\none\dt\0
+10-5-2021 22:26 (9626:24): Kill: 2 0 3: Zen killed MUKE by MOD_SABER
+10-5-2021 22:26 (9626:28): ClientUserinfoChanged handling info: 0 \ip\108.245.56.163:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\none\saber1\single_1\cg_predictItems\1\sex\male\handicap\100\color2\5\color1\5\forcepowers\7-1-021222000330002333\model\jedi_kdm/head_a1|torso_d1|lower_d1\snaps\20\rate\90000\name\MUKE\teamtask\0\teamoverlay\1
+10-5-2021 22:26 (9626:28): ClientUserinfoChanged: 0 n\MUKE\t\0\model\jedi_kdm/head_a1|torso_d1|lower_d1\c1\5\c2\5\hc\100\w\0\l\0\tt\0\tl\0\st\single_1\st2\none\dt\0
+10-5-2021 22:28 (9627:54): Kill: 2 0 31: Zen killed MUKE by MOD_FORCE_DARK
+10-5-2021 22:28 (9627:56): ClientUserinfoChanged handling info: 0 \ip\108.245.56.163:29070\char_color_blue\255\char_color_green\255\char_color_red\255\saber2\none\saber1\single_1\cg_predictItems\1\sex\male\handicap\100\color2\5\color1\5\forcepowers\7-1-021222000330002333\model\jedi_kdm/head_a1|torso_d1|lower_d1\snaps\20\rate\90000\name\MUKE\teamtask\0\teamoverlay\1
+10-5-2021 22:28 (9627:56): ClientUserinfoChanged: 0 n\MUKE\t\0\model\jedi_kdm/head_a1|torso_d1|lower_d1\c1\5\c2\5\hc\100\w\0\l\0\tt\0\tl\0\st\single_1\st2\none\dt\0
+10-5-2021 22:28 (9628:30): Kill: 2 0 3: Zen killed MUKE by MOD_SABER
+10-5-2021 22:29 (9628:40): ClientDisconnect: 0
+10-5-2021 22:29 (9628:45): ClientDisconnect: 2
+10-5-2021 22:29 (9628:53): ClientConnect: 0
+10-5-2021 22:29 (9628:53): ClientUserinfoChanged handling info: 0 \team\0\skill\ 5.00\personality\botfiles/astupidbot.jkb\saber2\none\saber1\kyle\color2\4\color1\4\sex\male\model\jawa\snaps\20\rate\25000\name\astupidbot
+10-5-2021 22:29 (9628:53): ClientUserinfoChanged: 0 n\astupidbot\t\0\model\jawa\c1\4\c2\4\hc\0\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\\st2\\dt\0\sdt\0
+10-5-2021 22:29 (9628:53): IP: localhost astupidbot
+10-5-2021 22:29 (9628:53): ClientUserinfoChanged handling info: 0 \team\0\skill\ 5.00\personality\botfiles/astupidbot.jkb\saber2\none\saber1\kyle\color2\4\color1\4\sex\male\model\jawa\snaps\20\rate\25000\name\astupidbot
+10-5-2021 22:29 (9628:53): ClientUserinfoChanged: 0 n\astupidbot\t\0\model\jawa\c1\4\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+10-5-2021 22:29 (9628:53): ClientBegin: 0
+10-5-2021 22:29 (9629:08): ClientConnect: 1
+10-5-2021 22:29 (9629:08): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+10-5-2021 22:29 (9629:08): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\0\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\\st2\\dt\0\sdt\0
+10-5-2021 22:29 (9629:08): IP: localhost Kyle
+10-5-2021 22:29 (9629:08): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+10-5-2021 22:29 (9629:08): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+10-5-2021 22:29 (9629:08): ClientBegin: 1
+10-5-2021 23:39 (9698:51): ShutdownGame:
+10-5-2021 23:39 (9698:51): ------------------------------------------------------------
+10-5-2021 23:39 (0:00): ------------------------------------------------------------
+10-5-2021 23:39 (0:00): InitGame: \version\JAmp: v1.0.1.0 linux-i386 Mar 14 2020\timelimit\45\sv_privateClients\0\sv_minRate\0\sv_minPing\0\sv_maxclients\32\sv_maxRate\0\sv_maxPing\999\sv_hostname\^7~^1~^7~ COMM SERVER ~^1~^7~\sv_fps\50\sv_floodProtectSlow\1\sv_floodProtect\1\sv_autoDemo\0\sv_allowDownload\0\serveruptime\212\protocol\26\mapname\academy6\gamename\Lugormod\g_weaponDisable\0\g_stepSlideFix\0\g_siegeTeamSwitch\1\g_siegeTeam2\none\g_siegeTeam1\none\g_siegeRespawn\20\g_showDuelHealths\1\g_saberWallDamageScale\0.4\g_saberLocking\0\g_privateDuel\1535\g_noSpecMove\0\g_needpass\0\g_maxHolocronCarry\3\g_maxGameClients\0\g_maxForceRank\7\g_jediVmerc\0\g_gametype\0\g_gamemode\0\g_forceRegenTime\160\g_forcePowerDisable\0\g_forceBasedTeams\1\g_duelWeaponDisable\9\g_debugmelee\1\g_allowNPC\1\fs_game\lugormod\fraglimit\0\duel_fraglimit\10\dmflags\0\capturelimit\10\bot_minplayers\2\bg_fighterAltControl\0\Lugormod_Version\U#-0.0.0.91 Alpha
+10-5-2021 23:39 (0:30): ClientConnect: 0
+10-5-2021 23:39 (0:30): ClientUserinfoChanged handling info: 0 \team\0\skill\ 5.00\personality\botfiles/astupidbot.jkb\saber2\none\saber1\kyle\color2\4\color1\4\sex\male\model\jawa\snaps\20\rate\25000\name\astupidbot
+10-5-2021 23:39 (0:30): ClientUserinfoChanged: 0 n\astupidbot\t\0\model\jawa\c1\4\c2\4\hc\0\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\\st2\\dt\0\sdt\0
+10-5-2021 23:39 (0:30): IP: localhost astupidbot
+10-5-2021 23:39 (0:30): ClientUserinfoChanged handling info: 0 \team\0\skill\ 5.00\personality\botfiles/astupidbot.jkb\saber2\none\saber1\kyle\color2\4\color1\4\sex\male\model\jawa\snaps\20\rate\25000\name\astupidbot
+10-5-2021 23:39 (0:30): ClientUserinfoChanged: 0 n\astupidbot\t\0\model\jawa\c1\4\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+10-5-2021 23:39 (0:30): ClientBegin: 0
+10-5-2021 23:40 (0:49): ClientConnect: 1
+10-5-2021 23:40 (0:49): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+10-5-2021 23:40 (0:49): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\0\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\\st2\\dt\0\sdt\0
+10-5-2021 23:40 (0:49): IP: localhost Kyle
+10-5-2021 23:40 (0:49): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+10-5-2021 23:40 (0:49): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+10-5-2021 23:40 (0:49): ClientBegin: 1
+10-6-2021 1:16 (97:28): ClientConnect: 2
+10-6-2021 1:16 (97:28): ClientUserinfoChanged handling info: 2 \ip\184.189.56.250:29070\challenge\1727439965\qport\61176\protocol\26\teamoverlay\1\snaps\40\sex\male\saber2\none\saber1\dual_3\rate\25000\name\Padawan\model\human_merc/default\ja_guid\62642FE6B7139EBCF811862B67DBE80A\handicap\100\forcepowers\7-1-030000000000000330\color2\4\color1\3\char_color_red\255\char_color_green\255\char_color_blue\255\cg_predictItems\1
+10-6-2021 1:16 (97:28): ClientUserinfoChanged: 2 n\Padawan\t\0\model\human_merc/default\c1\3\c2\4\hc\0\w\0\l\0\tt\0\tl\0\st\\st2\\dt\0
+10-6-2021 1:16 (97:28): IP: 184.189.56.250 Padawan
+10-6-2021 1:16 (97:28): say: astupidbot: Hi
+10-6-2021 1:16 (97:36): ClientUserinfoChanged handling info: 2 \ip\184.189.56.250:29070\teamoverlay\1\snaps\40\sex\male\saber2\none\saber1\single_1\rate\25000\name\Padawan\model\jedi_tf/head_a1|torso_a1|lower_a1\ja_guid\62642FE6B7139EBCF811862B67DBE80A\handicap\100\forcepowers\7-1-030000000000000330\color2\4\color1\3\char_color_red\255\char_color_green\255\char_color_blue\255\cg_predictItems\1
+10-6-2021 1:16 (97:36): ClientUserinfoChanged: 2 n\Padawan\t\0\model\jedi_tf/head_a1|torso_a1|lower_a1\c1\3\c2\4\hc\0\w\0\l\0\tt\0\tl\0\st\single_1\st2\none\dt\0
+10-6-2021 1:16 (97:36): ClientUserinfoChanged handling info: 2 \ip\184.189.56.250:29070\teamoverlay\1\snaps\40\sex\male\saber2\none\saber1\single_1\rate\25000\name\Padawan\model\jedi_tf/head_a1|torso_a1|lower_a1\ja_guid\62642FE6B7139EBCF811862B67DBE80A\handicap\100\forcepowers\7-1-030000000000000330\color2\4\color1\3\char_color_red\255\char_color_green\255\char_color_blue\255\cg_predictItems\1
+10-6-2021 1:16 (97:36): ClientUserinfoChanged: 2 n\Padawan\t\0\model\jedi_tf/head_a1|torso_a1|lower_a1\c1\3\c2\4\hc\100\w\0\l\0\tt\0\tl\0\st\single_1\st2\none\dt\0
+10-6-2021 1:16 (97:36): ClientBegin: 2
+10-6-2021 1:16 (97:40): Kill: 0 1 3: astupidbot killed Kyle by MOD_SABER
+10-6-2021 1:16 (97:40): Exit: Timelimit hit.
+10-6-2021 1:16 (97:40): score: 1  ping: 43  client: 0 astupidbot
+10-6-2021 1:16 (97:40): score: 0  ping: 51  client: 1 Kyle
+10-6-2021 1:16 (97:40): score: 0  ping: 48  client: 2 Padawan
+10-6-2021 1:17 (97:41): say: astupidbot: cya
+10-6-2021 1:17 (97:41): ClientDisconnect: 0
+10-6-2021 1:17 (97:41): ClientUserinfoChanged handling info: 1 \team\0\skill\ 5.00\personality\botfiles/newkyle.jkb\saber2\none\saber1\kyle\color2\4\color1\1\sex\male\model\kyle\snaps\20\rate\25000\name\Kyle
+10-6-2021 1:17 (97:41): ClientUserinfoChanged: 1 n\Kyle\t\0\model\kyle\c1\1\c2\4\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0\siegeclass\none\st\Kyle\st2\none\dt\0\sdt\0
+10-6-2021 1:17 (97:43): say: Kyle: bye
+10-6-2021 1:17 (97:46): ShutdownGame:
+10-6-2021 1:17 (97:46): ------------------------------------------------------------
